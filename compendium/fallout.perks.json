@@ -1,0 +1,572 @@
+{
+	"label": "Profity",
+	"entries": {
+		"¡La Fantoma!": {
+			"name": "¡La Fantoma!"
+		},
+		"10 Number 1 Hits!!! Rock-o-bot Takes the Nation by Storm!!": {
+			"name": "10 Number 1 Hits!!! Rock-o-bot Takes the Nation by Storm!!"
+		},
+		"Action Boy / Girl": {
+			"name": "Człowiek Czynu"
+		},
+		"Adamantium Skeleton": {
+			"name": "Szkielet z Admantytu"
+		},
+		"Adrenalin Rush": {
+			"name": "Kop Adrenaliny"
+		},
+		"Advice from Married Men": {
+			"name": "Advice from Married Men"
+		},
+		"An Experience to Remember": {
+			"name": "An Experience to Remember"
+		},		
+		"Animal Friend": {
+			"name": "Przyjaciel Zwierząt"
+		},
+		"Aquaboy / Aquagirl": {
+			"name": "Wodnik/Rusałka"
+		},
+		"Armorer": {
+			"name": "Zbrojmistrz"
+		},
+		"Art of the Tomahawk": {
+			"name": "Art of the Tomahawk"
+		},
+		"Attack of the Fishmen!": {
+			"name": "Attack of the Fishmen!"
+		},
+		"Attack of the Metal Men!": {
+			"name": "Attack of the Metal Men!"
+		},
+		"Avoid Those Pesky Gun Laws!": {
+			"name": "Avoid Those Pesky Gun Laws!"
+		},
+		"Awareness": {
+			"name": "Spostrzegawczość"
+		},
+		"Barbarian": {
+			"name": "Barbarzyńca"
+		},
+		"Basher": {
+			"name": "Tłuczek"
+		},
+		"Bear-Proofing your Campsite": {
+			"name": "Bear-Proofing your Campsite"
+		},
+		"Better Criticals": {
+			"name": "Człowiek Demolka"
+		},
+		"Beware the Man Handler": {
+			"name": "Beware the Man Handler"
+		},		
+		"Big Leagues": {
+			"name": "Pierwsza Liga"
+		},
+		"Black Widow / Lady Killer": {
+			"name": "Czarna Wdowa/Kobieciarz"
+		},
+		"Blacksmith": {
+			"name": "Kowal"
+		},
+		"Blitz": {
+			"name": "Natarcie"
+		},
+		"Blood on the Harp": {
+			"name": "Blood on the Harp"
+		},
+		"Bloody Mess": {
+			"name": "Krwawa Jatka"
+		},
+		"Bobby Pins: More Effective Than Lockpicks?": {
+			"name": "Bobby Pins: More Effective Than Lockpicks?"
+		},
+		"Boxing Times": {
+			"name": "Boxing Times"
+		},
+		"Can Do!": {
+			"name": "Pycha Pucha!"
+		},
+		"Cap Collector": {
+			"name": "Zbierzacz Kapsli"
+		},
+		"Carnivorous Rabbits of Appalachia": {
+			"name": "Carnivorous Rabbits of Appalachia"
+		},
+		"Cautious Nature": {
+			"name": "Wrodzona Ostrożnośc"
+		},
+		"Center Mass": {
+			"name": "Prosto w Klatę"
+		},
+		"Chem Resistant": {
+			"name": "Chemioodporność"
+		},
+		"Chemist": {
+			"name": "Chemik"
+		},
+		"Cometh the Trickster": {
+			"name": "Cometh the Trickster"
+		},
+		"Commando": {
+			"name": "iKomandos"
+		},
+		"Commie-Kazi vs. Manta Man": {
+			"name": "Commie-Kazi vs. Manta Man"
+		},
+		"Comprehension": {
+			"name": "Eureka!"
+		},
+		"Concentrated Fire": {
+			"name": "Skoncentrowany Ostrzał"
+		},
+		"Confessions of a Housebreaker": {
+			"name": "Confessions of a Housebreaker"
+		},
+		"Coupon Spectacular": {
+			"name": "Coupon Spectacular"
+		},
+		"Curse of the Burned!": {
+			"name": "Curse of the Burned!"
+		},
+		"Daring Nature": {
+			"name": "Wrodzona Brawura"
+		},
+		"Deadly Lasers!": {
+			"name": "Deadly Lasers!"
+		},
+		"Demolition Expert": {
+			"name": "Bombowo"
+		},
+		"Demon Slaves, Demon Sands": {
+			"name": "Demon Slaves, Demon Sands"
+		},
+		"Dodger": {
+			"name": "Mistrz Uników"
+		},
+		"Dogmeat": {
+			"name": "Ochłap"
+		},
+		"Down Home Cookin'": {
+			"name": "Down Home Cookin'"
+		},
+		"Dr. Brainwash and His Army of De-Capitalists!": {
+			"name": "Dr. Brainwash and His Army of De-Capitalists!"
+		},
+		"Duck and Cover!": {
+			"name": "Duck and Cover!"
+		},
+		"Enter Maula: War Maiden of Mars": {
+			"name": "Enter Maula: War Maiden of Mars"
+		},
+		"Entomologist": {
+			"name": "Entomolog"
+		},
+		"Farming the Wastes": {
+			"name": "Farming the Wastes"
+		},
+		"Fast Metabolism": {
+			"name": "Szybki Metabolizm"
+		},
+		"Faster Healing": {
+			"name": "Szybkie Zdrowienie"
+		},
+		"Fatherless Cur!": {
+			"name": "Fatherless Cur!"
+		},
+		"FH 5-01 Whistling in the Dark": {
+			"name": "FH 5-01 Whistling in the Dark"
+		},
+		"FH 5-02 Urban Camouflage": {
+			"name": "FH 5-02 Urban Camouflage"
+		},
+		"FH 5-03 Facepaint Fundamentals": {
+			"name": "FH 5-03 Facepaint Fundamentals"
+		},
+		"FH 5-04 Not the Soldiers You’re Looking For": {
+			"name": "FH 5-04 Not the Soldiers You’re Looking For"
+		},
+		"FH 5-05 Who Goes There?": {
+			"name": "FH 5-05 Who Goes There?"
+		},
+		"FH 5-06 Squeaky Floorboard, Sudden Death": {
+			"name": "FH 5-06 Squeaky Floorboard, Sudden Death"
+		},
+		"FH 5-07 Getting the Drop on the Communists": {
+			"name": "FH 5-07 Getting the Drop on the Communists"
+		},
+		"FH 5-08 Bushes, Boxes, and Beehives: Camouflage Special": {
+			"name": "FH 5-08 Bushes, Boxes, and Beehives: Camouflage Special"
+		},
+		"FH 5-09 Look Better in Black": {
+			"name": "FH 5-09 Look Better in Black"
+		},
+		"FH 5-10 Tiptoe Through the Tulips": {
+			"name": "FH 5-10 Tiptoe Through the Tulips"
+		},		
+		"Finesse": {
+			"name": "Finezja"
+		},
+		"Fixin' Things": {
+			"name": "Fixin' Things"
+		},		
+		"Fortune Finder": {
+			"name": "Poszukiwacz Skarbów"
+		},
+		"Future of Warfare?": {
+			"name": "Future of Warfare?"
+		},
+		"Future Weapons Today": {
+			"name": "Future Weapons Today"
+		},
+		"Geckos and Gamma Radiation": {
+			"name": "Geckos and Gamma Radiation"
+		},
+		"Get Off My Lawn": {
+			"name": "Get Off My Lawn"
+		},
+		"Ghost": {
+			"name": "Duch"
+		},
+		"Giant Insects Invade!": {
+			"name": "Giant Insects Invade!"
+		},
+		"Giant Super Weapons!": {
+			"name": "Giant Super Weapons!"
+		},		
+		"Grim Reaper's Sprint": {
+			"name": "Pośpiech Kostuchy"
+		},		
+		"Guide to Hunting Commies!": {
+			"name": "Guide to Hunting Commies!"
+		},
+		"Gun Fu": {
+			"name": "Gnat-Fu"
+		},
+		"Gun Nut": {
+			"name": "Znawca Spluw"
+		},
+		"Gunslinger": {
+			"name": "Rewolwerowiec"
+		},
+		"Hacker": {
+			"name": "Haker"
+		},
+		"Hardy as a Sasquatch": {
+			"name": "Hardy as a Sasquatch"
+		},
+		"Healer": {
+			"name": "Uzdrowiciel"
+		},
+		"Heave Ho!": {
+			"name": "Lotem Bliżej!"
+		},
+		"Homesteading Horror": {
+			"name": "Homesteading Horror"
+		},
+		"Hunter": {
+			"name": "Łowca"
+		},
+		"Hunting in the Wastes": {
+			"name": "Hunting in the Wastes"
+		},
+		"I Married a Robot": {
+			"name": "I Married a Robot"
+		},
+		"In the Bosom of the Corsair Queen": {
+			"name": "In the Bosom of the Corsair Queen"
+		},
+		"Infiltrator": {
+			"name": "Infiltrator"
+		},
+		"Insect Repellent Special": {
+			"name": "Insect Repellent Special"
+		},
+		"Inspirational": {
+			"name": "Ku Pokrzepieniu Serc"
+		},
+		"Intense Training": {
+			"name": "Intensywny Trening"
+		},
+		"Iron Fist": {
+			"name": "Żelazna Pięść"
+		},
+		"Jungle of the Bat-Babies": {
+			"name": "Jungle of the Bat-Babies"
+		},
+		"Junktown Jerky Vendor": {
+			"name": "Handlarz Mięsem z Junktown"
+		},
+		"Jury Rigging": {
+			"name": "Prowizorka"
+		},
+		"Laser Commander": {
+			"name": "Porucznik Laser"
+		},
+		"Lasers & Hunting: Acceptable Overkill": {
+			"name": "Lasers & Hunting: Acceptable Overkill"
+		},
+		"Lead Belly": {
+			"name": "Brzuch z Ołowiu"
+		},
+		"Life Giver": {
+			"name": "Życiodajna Moc"
+		},
+		"Life Long Best Friends!": {
+			"name": "Life Long Best Friends!"
+		},
+		"Light Step": {
+			"name": "Na Paluszkach"
+		},
+		"Little Guns for Little Ladies": {
+			"name": "Little Guns for Little Ladies"
+		},
+		"Locksmith Certification Special — Pass with Flying Colors": {
+			"name": "Locksmith Certification Special — Pass with Flying Colors"
+		},
+		"Lost in the Snows of Lust": {
+			"name": "Lost in the Snows of Lust"
+		},
+		"Massachusetts Surgical Journal": {
+			"name": "Massachusetts Surgical Journal"
+		},
+		"Master Thief": {
+			"name": "Ksiąze Złodziei"
+		},
+		"Medic": {
+			"name": "Sanitariusz"
+		},
+		"Meeting People": {
+			"name": "Meeting People"
+		},
+		"Meltdown": {
+			"name": "Stopienie"
+		},
+		"Mister Sandman": {
+			"name": "Piaskowy Dziadek"
+		},
+		"Moving Target": {
+			"name": "Ruchomy Cel"
+		},
+		"Mysteries of the Master Key Exposed!": {
+			"name": "Mysteries of the Master Key Exposed!"
+		},
+		"Mysterious Stranger": {
+			"name": "Tajemniczy Nieznajomy"
+		},
+		"Nerd Rage!": {
+			"name": "Szał Kujona!"
+		},
+		"Night Person": {
+			"name": "Dziecko Nocy"
+		},
+		"Nightmare in the Garden": {
+			"name": "Nightmare in the Garden"
+		},
+		"Ninja": {
+			"name": "Ninja"
+		},
+		"Nuclear Physicist": {
+			"name": "Fizyk Jądrowy"
+		},
+		"Nuke-the-Man!": {
+			"name": "Nuke-the-Man!"
+		},
+		"Open Any Lock in 5 Seconds Flat": {
+			"name": "Open Any Lock in 5 Seconds Flat"
+		},
+		"Pain Train": {
+			"name": "Pociąg Bólu"
+		},
+		"Paralyzing Palm": {
+			"name": "Paraliżująca Dłoń"
+		},
+		"Party Boy / Party Girl": {
+			"name": "Imprezowicz/Imprezowiczka"
+		},
+		"Pathfinder": {
+			"name": "Pionier"
+		},
+		"Pharma Farma": {
+			"name": "Farma Farmy"
+		},
+		"Pickpocket": {
+			"name": "Kieszonkowiec"
+		},
+		"Piercing Strike": {
+			"name": "Przeszywający Cios"
+		},
+		"Plasma: The Weapon of Tomorrow": {
+			"name": "Plasma: The Weapon of Tomorrow"
+		},
+		"Programmer's Digest": {
+			"name": "Programmer's Digest"
+		},
+		"Pyromaniac": {
+			"name": "Piroman"
+		},
+		"Quick Draw": {
+			"name": "Szybkie Dobycie"
+		},
+		"Quick Hands": {
+			"name": "Zwinne Rączki"
+		},
+		"Rad Resistance": {
+			"name": "Ołowiany Fartuch"
+		},
+		"Refractor": {
+			"name": "Rozpraszacz"
+		},
+		"Ricochet": {
+			"name": "Rykoszet"
+		},
+		"Rifleman": {
+			"name": "Karabinier"
+		},
+		"Rise of the Mutants!": {
+			"name": "Rise of the Mutants!"
+		},
+		"Robotics Expert": {
+			"name": "Ekspert Robotyki"
+		},
+		"Rocket Science for Toddlers": {
+			"name": "Rocket Science for Toddlers"
+		},
+		"Science Gone Mad!": {
+			"name": "Science Gone Mad!"
+		},
+		"Science!": {
+			"name": "Nauka!"
+		},
+		"Scoundrel": {
+			"name": "Łajdak"
+		},
+		"Scrapper": {
+			"name": "Złomiarz"
+		},
+		"Scrounger": {
+			"name": "Towar z Odzysku"
+		},
+		"Self Defense Secrets": {
+			"name": "Self Defense Secrets"
+		},
+		"Shotgun Surgeon": {
+			"name": "chirurgiczna Precyzja"
+		},
+		"Size Matters": {
+			"name": "Rozmiar się Liczy"
+		},
+		"Skilled": {
+			"name": "Szkolenie"
+		},
+		"Slayer": {
+			"name": "Urodzony Morderca"
+		},
+		"Smooth Talker": {
+			"name": "Gładka Gadka"
+		},
+		"Snakeater": {
+			"name": "Wężożerca"
+		},
+		"Sniper": {
+			"name": "Snajper"
+		},
+		"Solar Powered": {
+			"name": "Zasilanie Słoneczne"
+		},
+		"Steady Aim": {
+			"name": "Pewna Ręka"
+		},
+		"Street Guns of Detroit": {
+			"name": "Street Guns of Detroit"
+		},
+		"Strong Back": {
+			"name": "Mocny Grzbiet"
+		},
+		"Surrounded by the Dead!": {
+			"name": "Surrounded by the Dead!"
+		},
+		"Tag!": {
+			"name": "Specjalizacja"
+		},
+		"Take Aim, Army Style": {
+			"name": "Take Aim, Army Style"
+		},
+		"Tales of a Junktown Jerky Vendor": {
+			"name": "Tales of a Junktown Jerky Vendor"
+		},
+		"Talk Yourself Sober": {
+			"name": "Talk Yourself Sober"
+		},
+		"Terrifying Presence": {
+			"name": "Porażająca Poza"
+		},
+		"The Appalachia Squirrel Massacre": {
+			"name": "The Appalachia Squirrel Massacre"
+		},
+		"The Bright Side of Radiation Poisoning": {
+			"name": "The Bright Side of Radiation Poisoning"
+		},
+		"The Future of Hunting?": {
+			"name": "The Future of Hunting?"
+		},
+		"The Gunsmith of Harper’s Ferry": {
+			"name": "The Gunsmith of Harper’s Ferry"
+		},
+		"The Lair of the Virgin Eaters": {
+			"name": "The Lair of the Virgin Eaters"
+		},
+		"The Mad Russian's Revenge!": {
+			"name": "The Mad Russian's Revenge!"
+		},
+		"The Moon: A Communist Doomsday Device?!": {
+			"name": "The Moon: A Communist Doomsday Device?!"
+		},
+		"The Ohio River Hermit": {
+			"name": "The Ohio River Hermit"
+		},
+		"The Secretary Charmer": {
+			"name": "The Secretary Charmer"
+		},
+		"The Starlet Sniper!": {
+			"name": "The Starlet Sniper!"
+		},
+		"Tomorrow's Technology for Today's Super Soldiers": {
+			"name": "Tomorrow's Technology for Today's Super Soldiers"
+		},
+		"Toughness": {
+			"name": "Twardziel"
+		},
+		"Trapped in the Dimension of the Pterror-dactyls": {
+			"name": "Trapped in the Dimension of the Pterror-dactyls"
+		},
+		"Trim the Fat!": {
+			"name": "Trim the Fat!"
+		},
+		"True Police Stories": {
+			"name": "True Police Stories"
+		},
+		"U.S. Army Goes to Space": {
+			"name": "U.S. Army Goes to Space"
+		},
+		"Visit the Ux-Ron Galaxy!": {
+			"name": "Visit the Ux-Ron Galaxy!"
+		},
+		"Water Aerobics for Ghouls": {
+			"name": "Water Aerobics for Ghouls"
+		},
+		"What Is Plasma, Anyway?": {
+			"name": "What Is Plasma, Anyway?"
+		},
+		"What Sorcery is This?": {
+			"name": "What Sorcery is This?"
+		},
+		"Who Can Stop the Unstoppable Grog-Na-Rok?!": {
+			"name": "Who Can Stop the Unstoppable Grog-Na-Rok?!"
+		},
+		"Will Robots Rule the World?": {
+			"name": "Will Robots Rule the World?"
+		}
+	}
+}
