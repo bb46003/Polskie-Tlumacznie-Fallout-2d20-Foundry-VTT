@@ -37,8 +37,7 @@
   "languages": [
     {
       "lang": "pl",
-      "name": "Polski",
-      "path": "pl.json"
+      "name": "Polski"     
     }
   ],
   "url": "https://github.com/bb46003/Polskie-Tlumacznie-Fallout-2d20-Foundry-VTT",
