@@ -1,0 +1,47 @@
+{
+  "id": "fallout-fplr",
+  "title": "Polskie tłumacznie systemu Fallout 2d20",
+  "description": "Dzięki uprzejmości AllisGames wszystkie tłumaczneia podzą z Polskiego wydania gry Fallout 2d20",
+  "version": "0.1",
+  "license": "LICENSE",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11.302",
+    "maximum": "12"
+  },
+  "authors": [
+    {
+      "name": "Bartek",
+       "discord": "bartek6199"
+    }
+  ],
+ "relationships": {
+    "systems": [
+      {"id": "fallout"}
+    ],
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module"
+      },
+      {
+        "id": "lib-wrapper",
+        "type": "module"
+      }
+    ]
+  },
+  "esmodules": [
+    "javascript/babele-register.js"
+  ],
+  "styles": ["css/fallout.css"],
+  "languages": [
+    {
+      "lang": "pl",
+      "name": "Polski",
+      "path": "pl.json"
+    }
+  ],
+  "url": "",
+  "manifest": "",
+  "download": ""
+}
