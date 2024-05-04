@@ -1,0 +1,85 @@
+{
+	"label": "Diseases",
+	"entries": {
+		"Blood Worms": {
+			"name": "Blood Worms",
+			"description": "<p>Attacks against you inflict +2CD damage</p>"
+		},
+		"Bone Worms": {
+			"name": "Bone Worms",
+			"description": "<p>Attacks against you which hit your arms or legs inflict +4CD damage</p>"
+		},
+		"Buzz Brain": {
+			"name": "Buzz Brain",
+			"description": "<p>INT tests suffer +1 difficulty</p>"
+		},
+		"Dysentery": {
+			"name": "Dysentery",
+			"description": "<p>Halves time at each step of thirst track</p>"
+		},
+		"Fever Claw": {
+			"name": "Fever Claw",
+			"description": "<p>Your ranged attacks inflict 2CD less damage (minimum 1CD)</p>"
+		},
+		"Flap Limb": {
+			"name": "Flap Limb",
+			"description": "<p>STR tests suffer +1 difficulty</p>"
+		},
+		"Glowing Pustules": {
+			"name": "Glowing Pustules",
+			"description": "<p>Whenever you suffer an Injury, anyone within Reach suffers 1CD Radiation damage</p>"
+		},
+		"Heat Flashes": {
+			"name": "Heat Flashes",
+			"description": "<p>END tests suffer +1 difficulty</p>"
+		},
+		"Jelly Fingers": {
+			"name": "Jelly Fingers",
+			"description": "<p>Attempting a ranged attack requires spending 1 AP</p>"
+		},
+		"Lock Joint": {
+			"name": "Lock Joint",
+			"description": "<p>Attempting a melee attack requires spending 1 AP</p>"
+		},
+		"Needle Spine": {
+			"name": "Needle Spine",
+			"description": "<p>-10 Carry Weight</p>"
+		},
+		"Parasites": {
+			"name": "Parasites",
+			"description": "<p>Halves time at each step of hunger track</p>"
+		},
+		"Rad Worms": {
+			"name": "Rad Worms",
+			"description": "<p>Whenever you suffer Radiation damage, add +2 to the amount suffered</p>"
+		},
+		"Shell Shock": {
+			"name": "Shell Shock",
+			"description": "<p>Whenever you suffer an Injury, lose 1 AP from the group pool (if possible)</p>"
+		},
+		"Sludge Lung": {
+			"name": "Sludge Lung",
+			"description": "<p>Gain 1 Fatigue; you can only save AP into group pool if there are 3 orfewer AP saved</p>"
+		},
+		"Snot Ear": {
+			"name": "Snot Ear",
+			"description": "<p>PER tests suffer +1 difficulty</p>"
+		},
+		"Swamp Gas": {
+			"name": "Swamp Gas",
+			"description": "<p>CHA tests suffer +1 difficulty</p>"
+		},
+		"Swamp Itch": {
+			"name": "Swamp Itch",
+			"description": "<p>AGI tests suffer +1 difficulty</p>"
+		},
+		"The Whoopsies": {
+			"name": "The Whoopsies",
+			"description": "<p>Must spend twice as many Luck points to gain an Effect</p>"
+		},
+		"Weeping Sores": {
+			"name": "Weeping Sores",
+			"description": "<p>Whenever you suffer Physical damage, you suffer +1 Physical damage at the start of your next turn, ignoring damage resistance</p>"
+		}
+	}
+}

@@ -1,0 +1,409 @@
+{
+	"label": "Weapon Mods",
+	"entries": {
+		".308 Receiver": {
+			"name": ".308 Receiver",
+			"description": ""
+		},
+		".38 Receiver": {
+			"name": ".38 Receiver",
+			"description": ""
+		},
+		".45 Receiver": {
+			"name": ".45 Receiver",
+			"description": ""
+		},
+		".50 Receiver": {
+			"name": ".50 Receiver",
+			"description": ""
+		},
+		"Accelerated Barrel": {
+			"name": "Accelerated Barrel",
+			"description": ""
+		},
+		"Advanced": {
+			"name": "Advanced",
+			"description": ""
+		},
+		"Automatic": {
+			"name": "Automatic",
+			"description": ""
+		},
+		"Automatic Barrel": {
+			"name": "Automatic Barrel",
+			"description": ""
+		},
+		"Automatic Piston": {
+			"name": "Automatic Piston",
+			"description": ""
+		},
+		"Barbed": {
+			"name": "Barbed",
+			"description": ""
+		},
+		"Bayonet": {
+			"name": "Bayonet",
+			"description": ""
+		},
+		"Beam Focuser": {
+			"name": "Beam Focuser",
+			"description": ""
+		},
+		"Beam Splitter": {
+			"name": "Beam Splitter",
+			"description": ""
+		},
+		"Beta Wave Tuner": {
+			"name": "Beta Wave Tuner",
+			"description": ""
+		},
+		"Bladed": {
+			"name": "Bladed",
+			"description": ""
+		},
+		"Boosted Capacitor": {
+			"name": "Boosted Capacitor",
+			"description": ""
+		},
+		"Bracketed Long Barrel": {
+			"name": "Bracketed Long Barrel",
+			"description": ""
+		},
+		"Bracketed Short Barrel": {
+			"name": "Bracketed Short Barrel",
+			"description": ""
+		},
+		"Bull Barrel": {
+			"name": "Bull Barrel",
+			"description": ""
+		},
+		"Calibrated": {
+			"name": "Calibrated",
+			"description": ""
+		},
+		"Capactor Boosting Coil": {
+			"name": "Capactor Boosting Coil",
+			"description": ""
+		},
+		"Chain-Wrapped": {
+			"name": "Chain-Wrapped",
+			"description": ""
+		},
+		"Charging Barrels": {
+			"name": "Charging Barrels",
+			"description": ""
+		},
+		"Comfort Grip": {
+			"name": "Comfort Grip",
+			"description": ""
+		},
+		"Compensator": {
+			"name": "Compensator",
+			"description": ""
+		},
+		"Compression Nozzle": {
+			"name": "Compression Nozzle",
+			"description": ""
+		},
+		"Curved Blade": {
+			"name": "Curved Blade",
+			"description": ""
+		},
+		"Deep Dish": {
+			"name": "Deep Dish",
+			"description": ""
+		},
+		"Electric Signal Carrier Antennae": {
+			"name": "Electric Signal Carrier Antennae",
+			"description": ""
+		},
+		"Electrification Module": {
+			"name": "Electrification Module",
+			"description": ""
+		},
+		"Electrified": {
+			"name": "Electrified",
+			"description": ""
+		},
+		"Electrified Blade": {
+			"name": "Electrified Blade",
+			"description": ""
+		},
+		"Electrified Serrated Blade": {
+			"name": "Electrified Serrated Blade",
+			"description": ""
+		},
+		"Extended Blade": {
+			"name": "Extended Blade",
+			"description": ""
+		},
+		"Extra Claw": {
+			"name": "Extra Claw",
+			"description": ""
+		},
+		"Extra Flame Jets": {
+			"name": "Extra Flame Jets",
+			"description": ""
+		},
+		"Extra Heavy": {
+			"name": "Extra Heavy",
+			"description": ""
+		},
+		"Finned": {
+			"name": "Finned",
+			"description": ""
+		},
+		"Five-Crank Capacitor": {
+			"name": "Five-Crank Capacitor",
+			"description": ""
+		},
+		"Flamer Barrel": {
+			"name": "Flamer Barrel",
+			"description": ""
+		},
+		"Four-Crank Capacitor": {
+			"name": "Four-Crank Capacitor",
+			"description": ""
+		},
+		"Full Capacitors": {
+			"name": "Full Capacitors",
+			"description": ""
+		},
+		"Full Stock": {
+			"name": "Full Stock",
+			"description": ""
+		},
+		"Gunner Sight": {
+			"name": "Gunner Sight",
+			"description": ""
+		},
+		"Gyro Compensating Lens": {
+			"name": "Gyro Compensating Lens",
+			"description": ""
+		},
+		"Hair Trigger": {
+			"name": "Hair Trigger",
+			"description": ""
+		},
+		"Hardened": {
+			"name": "Hardened",
+			"description": ""
+		},
+		"Heating Coil": {
+			"name": "Heating Coil",
+			"description": ""
+		},
+		"Heavy": {
+			"name": "Heavy",
+			"description": ""
+		},
+		"Hooked": {
+			"name": "Hooked",
+			"description": ""
+		},
+		"Huge Tank": {
+			"name": "Huge Tank",
+			"description": ""
+		},
+		"Ignition Module": {
+			"name": "Ignition Module",
+			"description": ""
+		},
+		"Improved Barrel": {
+			"name": "Improved Barrel",
+			"description": ""
+		},
+		"Large Magazine": {
+			"name": "Large Magazine",
+			"description": ""
+		},
+		"Large Quick-Eject Mag": {
+			"name": "Large Quick-Eject Mag",
+			"description": ""
+		},
+		"Large Tank": {
+			"name": "Large Tank",
+			"description": ""
+		},
+		"Lead Lining": {
+			"name": "Lead Lining",
+			"description": ""
+		},
+		"Long": {
+			"name": "Long",
+			"description": ""
+		},
+		"Long Barrel": {
+			"name": "Long Barrel",
+			"description": ""
+		},
+		"Long Night Vision Scope": {
+			"name": "Long Night Vision Scope",
+			"description": ""
+		},
+		"Long Scope": {
+			"name": "Long Scope",
+			"description": ""
+		},
+		"Marksman's Stock": {
+			"name": "Marksman's Stock",
+			"description": ""
+		},
+		"Muzzle Break": {
+			"name": "Muzzle Break",
+			"description": ""
+		},
+		"Napalm": {
+			"name": "Napalm",
+			"description": ""
+		},
+		"Night Vision Scope": {
+			"name": "Night Vision Scope",
+			"description": ""
+		},
+		"Photon Agitator": {
+			"name": "Photon Agitator",
+			"description": ""
+		},
+		"Photon Exciter": {
+			"name": "Photon Exciter",
+			"description": ""
+		},
+		"Ported": {
+			"name": "Ported",
+			"description": ""
+		},
+		"Powerful": {
+			"name": "Powerful",
+			"description": ""
+		},
+		"Puncturing": {
+			"name": "Puncturing",
+			"description": ""
+		},
+		"Quad Barrel": {
+			"name": "Quad Barrel",
+			"description": ""
+		},
+		"Quick-Eject Mag": {
+			"name": "Quick-Eject Mag",
+			"description": ""
+		},
+		"Recoil Compensating Stock": {
+			"name": "Recoil Compensating Stock",
+			"description": ""
+		},
+		"Recon Scope": {
+			"name": "Recon Scope",
+			"description": ""
+		},
+		"Reflex Sight": {
+			"name": "Reflex Sight",
+			"description": ""
+		},
+		"Sawed-Off": {
+			"name": "Sawed-Off",
+			"description": ""
+		},
+		"Scope": {
+			"name": "Scope",
+			"description": ""
+		},
+		"Serrated Blade": {
+			"name": "Serrated Blade",
+			"description": ""
+		},
+		"Sharp": {
+			"name": "Sharp",
+			"description": ""
+		},
+		"Sharpshooter's Grip": {
+			"name": "Sharpshooter's Grip",
+			"description": ""
+		},
+		"Shielded Barrel": {
+			"name": "Shielded Barrel",
+			"description": ""
+		},
+		"Short Night Vision Scope": {
+			"name": "Short Night Vision Scope",
+			"description": ""
+		},
+		"Short Scope": {
+			"name": "Short Scope",
+			"description": ""
+		},
+		"Shredder": {
+			"name": "Shredder",
+			"description": ""
+		},
+		"Signal Repeater": {
+			"name": "Signal Repeater",
+			"description": ""
+		},
+		"Six-Crank Capacitor": {
+			"name": "Six-Crank Capacitor",
+			"description": ""
+		},
+		"Sniper Barrel": {
+			"name": "Sniper Barrel",
+			"description": ""
+		},
+		"Snubnose": {
+			"name": "Snubnose",
+			"description": ""
+		},
+		"Spiked": {
+			"name": "Spiked",
+			"description": ""
+		},
+		"Splitter": {
+			"name": "Splitter",
+			"description": ""
+		},
+		"Stabilizer": {
+			"name": "Stabilizer",
+			"description": ""
+		},
+		"Standard Stock": {
+			"name": "Standard Stock",
+			"description": ""
+		},
+		"Stealth Blade": {
+			"name": "Stealth Blade",
+			"description": ""
+		},
+		"Stun Pack": {
+			"name": "Stun Pack",
+			"description": ""
+		},
+		"Suppressor": {
+			"name": "Suppressor",
+			"description": ""
+		},
+		"Targeting Computer": {
+			"name": "Targeting Computer",
+			"description": ""
+		},
+		"Three-Crank Capacitor": {
+			"name": "Three-Crank Capacitor",
+			"description": ""
+		},
+		"Tri-Barrel": {
+			"name": "Tri-Barrel",
+			"description": ""
+		},
+		"Triple Barrel": {
+			"name": "Triple Barrel",
+			"description": ""
+		},
+		"Vaporization Nozzle": {
+			"name": "Vaporization Nozzle",
+			"description": ""
+		},
+		"Vented": {
+			"name": "Vented",
+			"description": ""
+		}
+	}
+}

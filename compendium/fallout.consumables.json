@@ -1,0 +1,589 @@
+{
+	"label": "Consumables",
+	"entries": {
+		"Addictol": {
+			"name": "Addictol",
+			"description": "<p>A powerful and effective pre-War medicine which cleanses the body of the effects of addiction and the withdrawal symptoms that accompany it. It doesn&rsquo;t, however, prevent subsequent addictions, especially in the cases of long-term or habitual drug abuse. It can take some time to work, especially in severe cases, and tends to have a few side-effects, such as nausea and dizziness, while it is taking effect.</p>"
+		},
+		"Antibiotics": {
+			"name": "Antibiotics",
+			"description": "<p>A dose of potent, broad-spectrum antibiotics that&rsquo;ll help clear out pretty much any infection or disease. Taking too many can be damaging to health overall, but these are rare enough that taking too many is rarely a problem.</p>"
+		},
+		"Asbestos": {
+			"name": "Asbestos",
+			"description": ""
+		},
+		"Baked Bloatfly": {
+			"name": "Baked Bloatfly",
+			"description": "<p><span class=\"fontstyle0\">A piece of Bloatfly meat, cooked with dry heat. The resultant food is unappetizing but filling and helps absorb radioactive contamination in the body for a while after eating.</span> </p>"
+		},
+		"Beer": {
+			"name": "Beer",
+			"description": "<p><span class=\"fontstyle0\">One of the oldest beverages created by humans, beer is a carbonated alcoholic drink made from fermented cereal grains, popular pre-War to relax after a hard day&rsquo;s work or during a sunny afternoon. Ale, beer, lager, stout, and a variety of similar beverages all have distinct combinations of ingredients, and each have their own proponents, but the effects are largely the same.</span></p>\n<p><span class=\"fontstyle0\">You receive 1 cap upon opening and drinking a bottle of beer.</span></p>"
+		},
+		"Berry Mentats": {
+			"name": "Berry Mentats",
+			"description": "<p>A portion of Mentats reformulated to promote brain activity and memory.</p>\n<ul>\n<li><strong>Mentat Addiction:</strong> A failed addiction roll renders you addicted to Mentats. You increase the difficulty of all CHA tests by +1 whenever you are not under the effects of a type of Mentat (ordinary Mentats, or the Berry, Grape, or Orange versions).</li>\n</ul>"
+		},
+		"BlamCo Brand Mac and Cheese": {
+			"name": "BlamCo Brand Mac and Cheese",
+			"description": "<p><span class=\"fontstyle0\">A pre-War fast-food product found in the wasteland many years later. the normally found in brightly colored boxes with an image of the food&mdash;ready-made macaroni and cheese&mdash;on the front.</span></p>\n<p><span class=\"fontstyle0\">Sometimes,&nbsp;</span><span class=\"fontstyle2\"><strong>preserved</strong> </span><span class=\"fontstyle0\">boxes of BlamCo Brand Mac and Cheese can be found. These are identical to the listed version, but are not irradiated, and increase their rarity by +1.</span> </p>"
+		},
+		"BlamCo Brand Mac and Cheese (Preserved)": {
+			"name": "BlamCo Brand Mac and Cheese (Preserved)",
+			"description": "<p><span class=\"fontstyle0\">A pre-War fast-food product found in the wasteland many years later. the normally found in brightly colored boxes with an image of the food&mdash;ready-made macaroni and cheese&mdash;on the front.</span></p>\n<p><span class=\"fontstyle0\">Sometimes,&nbsp;</span><span class=\"fontstyle2\"><strong>preserved</strong> </span><span class=\"fontstyle0\">boxes of BlamCo Brand Mac and Cheese can be found. These are identical to the listed version, but are not irradiated, and increase their rarity by +1.</span> </p>"
+		},
+		"Bloatfly Gland": {
+			"name": "Bloatfly Gland",
+			"description": ""
+		},
+		"Bloatfly Meat": {
+			"name": "Bloatfly Meat",
+			"description": "<p><span class=\"fontstyle0\">A rough chunk of meat cut from the body of a dead Bloatfly. Filling and nutritious, but unappetizing even when cooked.</span></p>\n<p><span class=\"fontstyle0\">Bloatfly meat can be cooked to produce Baked Bloatfly.</span> </p>"
+		},
+		"Blood Pack": {
+			"name": "Blood Pack",
+			"description": "<p><span class=\"fontstyle0\">A sealed, sterile plastic bag of preserved blood used pre-War for blood transfusions. Not the most conventional of beverages, but useful if you&rsquo;re desperate. Some people come to like the taste.</span> </p>"
+		},
+		"Blood Sac": {
+			"name": "Blood Sac",
+			"description": ""
+		},
+		"Bloodbug Meat": {
+			"name": "Bloodbug Meat",
+			"description": "<p><span class=\"fontstyle0\">A chunk of bloody meat from a Bloodbug, a large and aggressive mutant mosquito that normally preys on livestock and other large animals.</span></p>\n<p><span class=\"fontstyle0\">Bloodbug meat can be cooked to produce Bloodbug steak.</span> </p>"
+		},
+		"Bloodbug Steak": {
+			"name": "Bloodbug Steak",
+			"description": "<p><span class=\"fontstyle0\">A piece of Bloodbug meat cooked over an open flame. If you can stand to eat it, and can ignore the aftertaste, it&rsquo;s reasonably nutritious and even leaves a feeling of renewed vigor and health for a while after eating.</span> </p>"
+		},
+		"Bloodleaf": {
+			"name": "Bloodleaf",
+			"description": ""
+		},
+		"Bourbon": {
+			"name": "Bourbon",
+			"description": "<p><span class=\"fontstyle0\">A distinctly American type of whiskey, bourbon is a barrel-aged, distilled spirit made mainly of corn. PreWar, those who favored it tended to get a reputation as being tough or rugged.</span> </p>"
+		},
+		"Brahmin Meat": {
+			"name": "Brahmin Meat",
+			"description": "<p><span class=\"fontstyle0\">A slab of meat from the two-headed mutant cattle that roam the wastelands. Not massively dissimilar to beef from before the War, though somewhat radioactive due to coming from a mutant animal.</span></p>\n<p><span class=\"fontstyle0\">Can be cooked to produce ribeye steak.</span> </p>"
+		},
+		"Brahmin Milk": {
+			"name": "Brahmin Milk",
+			"description": "<p><span class=\"fontstyle0\">Milk from a brahmin. This drink is a true lifesaver, as it has properties that cleanse radiation poisoning from the body&hellip; at least, if it hasn&rsquo;t spoiled yet.</span> </p>"
+		},
+		"Brain Fungus": {
+			"name": "Brain Fungus",
+			"description": "<p><span class=\"fontstyle0\">An off-white mushroom which resembles a brain, and which tends to be found in clusters growing in dark, dank corners. Slightly irradiated due simply to growing in the wastelands, but otherwise harmless, despite its slightly alarming name and appearance.</span></p>\n<p><span class=\"fontstyle0\">Brain fungus is an ingredient in Mentats.</span> </p>"
+		},
+		"Buffjet": {
+			"name": "Buffjet",
+			"description": "<p>A potent, if highly addictive mixture of Buffout and Jet, providing a boost to physical prowess, heightened reflexes, and a burst of adrenaline.</p>\n<ul>\n<li><strong>Buffout Addiction:</strong> A failed addiction roll renders you addicted to Buffout. You increase the difficulty of all STR and END tests by +1 whenever you are not under the effects of a type of Buffout (Buffout, Buffjet, or Bufftats).</li>\n</ul>"
+		},
+		"Buffout": {
+			"name": "Buffout",
+			"description": "<p>A powerful and quick-acting steroid which gained popularity with athletes prior to the Great War. For a few minutes, it makes one stronger and tougher.</p>\n<ul>\n<li><strong>Buffout Addiction:</strong> A failed addiction roll renders you addicted to Buffout. You increase the difficulty of all STR and END tests by +1 whenever you are not under the effects of a type of Buffout (Buffout, Buffjet, or Bufftats).</li>\n</ul>"
+		},
+		"Bufftats": {
+			"name": "Bufftats",
+			"description": "<p>An addictive cocktail of Buffout steroids and Mentats, heightening both physical prowess and awareness.</p>\n<ul>\n<li><strong>Buffout Addiction:</strong> A failed addiction roll renders you addicted to Buffout. You increase the difficulty of all STR and END tests by +1 whenever you are not under the effects of a type of Buffout (Buffout, Buffjet, or Bufftats).</li>\n</ul>"
+		},
+		"Calmex": {
+			"name": "Calmex",
+			"description": "<p>A light tranquilizer used to calm the nerves. It isn&rsquo;t potent enough to function as a painkiller, but a dose can quiet anxieties and fears, keeping panic from disturbing delicate activities.</p>\n<ul>\n<li><strong>Calmex Addiction:</strong> A failed addiction roll renders you addicted to Calmex. You suffer complications on AGI tests on all rolls of 18 or higher whenever you are not under the effects of Calmex.</li>\n</ul>"
+		},
+		"Canned Dog Food": {
+			"name": "Canned Dog Food",
+			"description": "<p><span class=\"fontstyle0\">A metal can of processed meat intended to be fed to dogs. Despite being made for dogs, it&rsquo;s entirely edible by humans, and the sealed can keeps the food within preserved and relatively safe to eat for long periods.</span> </p>"
+		},
+		"Carrot": {
+			"name": "Carrot",
+			"description": "<p><span class=\"fontstyle0\">A slightly mutated form of the common, orange root vegetable. Easy enough to grow in decent quantities, and useful for a variety of recipes, small wasteland farms often include a few carrot patches.</span></p>\n<p><span class=\"fontstyle0\">Carrot is a component of several different recipes for food items. Carrots grown in non-irradiated conditions (such as within vaults or similar locations) are not irradiated but increase their rarity by +1.</span> </p>"
+		},
+		"Cooked Softshell Meat": {
+			"name": "Cooked Softshell Meat",
+			"description": "<p><span class=\"fontstyle0\">The softer meat from mirelurks, cooked into a rough steak. A high-energy meal, those who eat cooked softshell meat are often invigorated and eager for action for a while afterwards.</span></p>"
+		},
+		"Corn": {
+			"name": "Corn",
+			"description": "<p><span class=\"fontstyle0\">A highly versatile crop cultivated across the Americas for centuries. Corn remains largely unchanged by the War, and it remains a staple of wasteland agriculture.</span></p>\n<p><span class=\"fontstyle0\">Corn grown in non-irradiated conditions (such as within vaults or similar locations) is not irradiated but increases its rarity by +1. In addition to its use as food, corn is a main ingredient in vegetable starch, which can be used to make adhesives for crafting.</span> </p>"
+		},
+		"Cram": {
+			"name": "Cram",
+			"description": "<p><span class=\"fontstyle0\">A tin of processed meat produced in vast quantities pre-War to address food shortages and serve as a meat ration for soldiers. The tin, with an easy-open pull tab, helps keep the contents preserved for long periods, making Cram more useful for survivalists and those scavenging for food.</span> </p>"
+		},
+		"Crispy Squirrel Bits": {
+			"name": "Crispy Squirrel Bits",
+			"description": "<p><span class=\"fontstyle0\">Chunks of squirrel meat, which have been fried until crispy, often found held together on a skewer. An easy way to get a little nutrition, and not so heavy a meal that it weighs you down while you digest it.</span> </p>"
+		},
+		"Daddy-O": {
+			"name": "Daddy-O",
+			"description": "<p>Popular with beatniks and intellectuals before the Great War, Daddy-O heightens the user&rsquo;s cognitive faculties, making them more alert and more able to process information, but users tend to hyper-focus on the tasks in front of them, making it awkward to interact with them.</p>\n<ul>\n<li><strong>Daddy-O Addiction:</strong> A failed addiction roll renders you addicted to Daddy-O. You increase the difficulty of all PER and INT tests by +1 whenever you are not under the effects of Daddy-O.</li>\n</ul>"
+		},
+		"Dandy Boy Apples": {
+			"name": "Dandy Boy Apples",
+			"description": "<p><span class=\"fontstyle0\">Candied apples produced by the Dandy Boy company. An extremely sweet fruit-based snack packaged in a cardboard box. Normally well-preserved due to the high sugar content, boxes of these can still be found in the ruins of convenience stores and groceries across the wasteland, and in the possession of people who&rsquo;ve recently raided said ruined convenience stores and groceries.</span></p>"
+		},
+		"Day Tripper": {
+			"name": "Day Tripper",
+			"description": "<p>A mild pre-War relaxant and hallucinogen, Day Tripper was favored by Americans seeking a brief escape from reality. The resulting high made users more laid-back and relaxed, while also making them less inclined to exert themselves physically. It was popular amongst many social groups during the stresses of the Great War, food riots, and general societal problems in the years before the bombs fell.</p>\n<ul>\n<li><strong>Day Tripper Addiction:</strong> A failed addiction roll renders you addicted to Day Tripper. You increase the difficulty of all CHA and LCK tests by +1 whenever you are not under the effects of Day Tripper.</li>\n</ul>"
+		},
+		"Deathclaw Egg": {
+			"name": "Deathclaw Egg",
+			"description": "<p><span class=\"fontstyle0\">A large egg laid by a deathclaw. Dangerous to obtain, as deathclaws lay them and hatch from them, but potentially valuable as they can be used in a few recipes which produce highly nutritious food.</span></p>\n<p><span class=\"fontstyle0\">A deathclaw egg is a key ingredient in deathclaw omelettes.</span> </p>"
+		},
+		"Deathclaw Meat": {
+			"name": "Deathclaw Meat",
+			"description": "<p><span class=\"fontstyle0\">A cut of meat from a deathclaw. Dangerous to obtain, as it can only be taken from a dead deathclaw or someone who killed a deathclaw, but valuable as they can be extremely nutritious, especially when properly prepared.</span></p>\n<p><span class=\"fontstyle0\">Deathclaw meat can be cooked to produce deathclaw steak.</span> </p>"
+		},
+		"Deathclaw Omelette": {
+			"name": "Deathclaw Omelette",
+			"description": "<p><span class=\"fontstyle0\">An omelette made from a deathclaw egg. In addition to being highly nutritious, it stimulates the natural healing processes of the body, allowing a person to recover more quickly from harm for a while after eating.</span> </p>"
+		},
+		"Deathclaw Steak": {
+			"name": "Deathclaw Steak",
+			"description": "<p><span class=\"fontstyle0\">A slab of cooked deathclaw meat. Sufficiently filling and nutritious that it could easily be your only meal for the day, while also leaving you feeling fitter and stronger for a while after eating.</span> </p>"
+		},
+		"Dirty Wastelander": {
+			"name": "Dirty Wastelander",
+			"description": "<p><span class=\"fontstyle0\">An extremely potent alcoholic beverage, made from a blend of whiskey, Nuka-Cola, and Mutfruit, which has much the same effect as most alcoholic drinks&hellip; just moreso.</span> </p>"
+		},
+		"Dirty Water": {
+			"name": "Dirty Water",
+			"description": "<p><span class=\"fontstyle0\">Water, collected from rivers, lakes, swimming pools, and any other unfiltered water source. It&rsquo;s not recommended to drink dirty water without filtering or boiling it, as it contains a fair amount of radiation&hellip; but water is scarce in some places and the choice of clean water isn&rsquo;t always available.</span> </p>"
+		},
+		"Fancy Lads Snack Cakes": {
+			"name": "Fancy Lads Snack Cakes",
+			"description": "<p><span class=\"fontstyle0\">Small, frosted cakes, so laden with sugar and other sweeteners than they&rsquo;re essentially preserved forever. Proclaimed in advertising to be &ldquo;America&rsquo;s Favorite Snackfood&rdquo;, these cakes can be found across the wastelands, in many teeth-achingly sweet varieties.</span></p>\n<p><span class=\"fontstyle0\">Sometimes, <strong>preserved</strong> boxes of Fancy Lads Snack Cakes can be found. These are identical to the listed version, but are not irradiated, and increase their rarity by +1. <br></span></p>"
+		},
+		"Fancy Lads Snack Cakes (Preserved)": {
+			"name": "Fancy Lads Snack Cakes (Preserved)",
+			"description": "<p><span class=\"fontstyle0\">Small, frosted cakes, so laden with sugar and other sweeteners than they&rsquo;re essentially preserved forever. Proclaimed in advertising to be &ldquo;America&rsquo;s Favorite Snackfood&rdquo;, these cakes can be found across the wastelands, in many teeth-achingly sweet varieties.</span></p>\n<p><span class=\"fontstyle0\">Sometimes, <strong>preserved</strong> boxes of Fancy Lads Snack Cakes can be found. These are identical to the listed version, but are not irradiated, and increase their rarity by +1. <br></span></p>"
+		},
+		"Food Paste": {
+			"name": "Food Paste",
+			"description": "<p><span class=\"fontstyle0\">In the years before the Great War, several charter schools across America entered an experimental program: The Nutritional Alternative Paste Program (NAPP). Developed by Vault-Tec in conjunction with the Federal Government, this supplied participating schools with a supply of food paste, fortified with vitamins, minerals and all the nutrients a growing body needs, and which would remain unspoiled for over a century.</span></p>\n<p><span class=\"fontstyle0\">The paste is a flavorless mush, garish pink in color, and may have unknown long-term effects on psychology or physiology. It does, however, make the body healthier after consumption.</span> </p>"
+		},
+		"Fury": {
+			"name": "Fury",
+			"description": "<p>An extremely powerful combat stimulant, Fury grants users a sense of invincibility, rendering them nearly immune to pain and recklessly dangerous in melee combat, while also rendering them largely oblivious to everything else as well.</p>\n<ul>\n<li><strong>Fury Addiction:</strong> A failed addiction roll renders you addicted to Fury. You increase the difficulty of all STR and PER tests by +1 whenever you are not under the effects of Fury</li>\n</ul>"
+		},
+		"Glowing Blood Pack": {
+			"name": "Glowing Blood Pack",
+			"description": "<p><span class=\"fontstyle0\">A blood bag filled with a luminescent green fluid. If you can stomach the acrid, metallic taste, they have potent restorative properties and help protect the body against radiation poisoning for a short while.</span></p>"
+		},
+		"Glowing Fungus": {
+			"name": "Glowing Fungus",
+			"description": ""
+		},
+		"Gourd": {
+			"name": "Gourd",
+			"description": "<p><span class=\"fontstyle0\">A large edible fruit, which is fleshy with a hard skin, like a pumpkin. The pulp inside can be scooped out and eaten or used in cooking, while the outer skin is often carved and used as decoration.</span></p>"
+		},
+		"Grape Mentats": {
+			"name": "Grape Mentats",
+			"description": "<p>A tin of Mentats, their formula altered to reduce social anxiety, boost confidence, and make users more aware of body language and other social cues.</p>\n<ul>\n<li><strong>Mentat Addiction:</strong> A failed addiction roll renders you addicted to Mentats. You increase the difficulty of all CHA tests by +1 whenever you are not under the effects of a type of Mentat (ordinary Mentats, or the Berry, Grape, or Orange versions).</li>\n</ul>"
+		},
+		"Grilled Radroach": {
+			"name": "Grilled Radroach",
+			"description": "<p><span class=\"fontstyle0\">A grilled chunk of meat taken from a radroach. Not especially appetizing, especially if you know where it came from, but sufficiently nutritious and filling for those with few other choices.</span></p>"
+		},
+		"Grilled Radstag": {
+			"name": "Grilled Radstag",
+			"description": "<p><span class=\"fontstyle0\">A grilled rack of ribs from a radstag. Easy enough to make when you&rsquo;ve got the main ingredient&mdash;radstag meat&mdash;but tasty and satisfying enough that your burdens feel a little lighter once you&rsquo;ve finished eating.</span> </p>"
+		},
+		"Gum Drops": {
+			"name": "Gum Drops",
+			"description": "<p><span class=\"fontstyle0\">A pre-War confection, gum drops are small drops of congealed gelatin sweetened and flavored with a variety of overpowering flavors. The most common variety to survive the War, ironically, were labelled as radioactive for their powerful sour flavor. Long years sat in cupboards and on shelves has made this more literal, however.</span> </p>"
+		},
+		"Healing Salve": {
+			"name": "Healing Salve",
+			"description": "<p>A salve or ointment which can be applied to reduce pain and speed recovery from injury, typically made from several natural herbal ingredients.</p>\n<ul>\n<li><strong>Use:</strong> Healing salve can be used in one of two ways: it can be applied using the Take Chem minor action, healing 2 HP immediately, or it can be applied as part of a First Aid action, adding +2 to the number of HP healed overall.</li>\n</ul>"
+		},
+		"Hubflower": {
+			"name": "Hubflower",
+			"description": ""
+		},
+		"Iguana Bits": {
+			"name": "Iguana Bits",
+			"description": "<p><span class=\"fontstyle0\">Chunks of raw iguana meat, in a small can or another sealed container. At least, you </span><span class=\"fontstyle2\">hope </span><span class=\"fontstyle0\">that&rsquo;s iguana meat. You don&rsquo;t see many iguanas around.</span></p>\n<p><span class=\"fontstyle0\">Iguana bits are an ingredient in Iguana on a Stick and Iguana Soup.</span> </p>"
+		},
+		"Iguana on a Stick": {
+			"name": "Iguana on a Stick",
+			"description": "<p><span class=\"fontstyle0\">Chunks of iguana meat on a wooden skewer, which have then been cooked. Not the best meal, but it&rsquo;ll do the trick if you&rsquo;re desperate or need to secure the loyalty of a canine companion.</span> </p>"
+		},
+		"Iguana Soup": {
+			"name": "Iguana Soup",
+			"description": "<p><span class=\"fontstyle0\">A soup made with carrot and iguana bits. A more satisfying meal than any of the ingredients would have been alone.</span> </p>"
+		},
+		"InstaMash": {
+			"name": "InstaMash",
+			"description": "<p><span class=\"fontstyle0\">A packet of freeze-dried powdered mashed potato still sealed inside its cardboard box. Just add water!</span></p>\n<p><span class=\"fontstyle0\">Sometimes, preserved boxes of InstaMash can be found. These are identical to the listed version, but are not irradiated, and increase their rarity by +1.</span> </p>"
+		},
+		"InstaMash (Preserved)": {
+			"name": "InstaMash (Preserved)",
+			"description": "<p><span class=\"fontstyle0\">A packet of freeze-dried powdered mashed potato still sealed inside its cardboard box. Just add water!</span></p>\n<p><span class=\"fontstyle0\">Sometimes, preserved boxes of InstaMash can be found. These are identical to the listed version, but are not irradiated, and increase their rarity by +1.</span> </p>"
+		},
+		"Institute Food Packet": {
+			"name": "Institute Food Packet",
+			"description": "<p><span class=\"fontstyle0\">A small white box of food marked with the symbol of the Institute. Each box contains enriched ration bars filled with essential nutrients. Each ration bar contains your daily requirements of forty different vitamins, minerals, and nutrients, which are listed on the back of the box.</span> </p>"
+		},
+		"Irradiated Blood": {
+			"name": "Irradiated Blood",
+			"description": "<p><span class=\"fontstyle0\">A blood bag filled with discolored&mdash;often green&mdash; blood-like fluid. About as useful a beverage as a normal blood pack, but highly irradiated.</span></p>\n<ul>\n<li><span class=\"fontstyle3\"><strong>Special:</strong>&nbsp;</span><span class=\"fontstyle0\">Roll 2 @fos[DC]</span><span class=\"fontstyle4\">&nbsp;</span><span class=\"fontstyle0\">when determining if the drink </span><span class=\"fontstyle0\">inflicts Radiation damage, rather than 1 @fos[DC]</span><span class=\"fontstyle0\">. You </span><span class=\"fontstyle0\">suffer 1 Radiation damage, ignoring damage resistance, for each Effect rolled.</span> </li>\n</ul>"
+		},
+		"Jet": {
+			"name": "Jet",
+			"description": "<p>Jet is an inhaled stimulant which creates an altered state of consciousness where time appears to slow, heightening reflexes and allowing the user to act more quickly during a moment of crisis.</p>\n<ul>\n<li><strong>Jet Addiction:</strong> A failed addiction roll renders you addicted to Jet. You increase the difficulty of all AGI tests by +1 whenever you are not under the effects of a type of Jet (Jet, or Jet Fuel; Ultra Jet has a different addiction effect)</li>\n</ul>"
+		},
+		"Jet Fuel": {
+			"name": "Jet Fuel",
+			"description": "<p>A volatile variant of Jet, Jet Fuel provides a massive burst of energy in the user, allowing them to act more swiftly and decisively.</p>\n<ul>\n<li><strong>Jet Addiction:</strong> A failed addiction roll renders you addicted to Jet. You increase the difficulty of all AGI tests by +1 whenever you are not under the effects of a type of Jet (Jet, or Jet Fuel; Ultra jet has a different addiction effect).</li>\n</ul>"
+		},
+		"Med-X": {
+			"name": "Med-X",
+			"description": "<p>Med-X is a potent opiate analgesic which significantly reduces both the perception of pain and the natural emotional response to pain. In short, it&rsquo;s a powerful painkiller.</p>\n<ul>\n<li><strong>Med-X Addiction:</strong> A failed addiction roll renders you addicted to Med-X. You increase the difficulty of all AGI tests by +1, and suffer +1 @fos[DC] additional damage from all physical attacks whenever you are not under the effects of Med-X.</li>\n</ul>"
+		},
+		"Melon": {
+			"name": "Melon",
+			"description": "<p><span class=\"fontstyle0\">A large, green, juicy fruit with a hard outer rind. Melons are grown in wasteland farms, or found growing wild in the wasteland. Either way, once cut open they&rsquo;re often very satisfying, sating hunger and quenching thirst all in one go.</span></p>\n<p><span class=\"fontstyle0\">Melons grown in non-irradiated conditions (such as within vaults or similar locations) are not irradiated but increase their rarity by +1.</span> </p>"
+		},
+		"Melon Juice": {
+			"name": "Melon Juice",
+			"description": "<p><span class=\"fontstyle0\">Juice made from pressing the pulp of a melon. A refreshing and healthy drink, which promotes the body&rsquo;s natural healing.</span> </p>"
+		},
+		"Mentats": {
+			"name": "Mentats",
+			"description": "<p>Mentats were a popular recreational and performance-enhancing drug before the Great War, which enhance memory and speed mental processes. It was popular amongst students studying for exams, and amongst armchair philosophers and those in jobs requiring intensive thought. The effect lasts only a short time, leaving the user feeling tired and unfocused afterwards, and they are addictive by design, with withdrawal causing migraines and irritability.</p>\n<ul>\n<li><strong>Mentat Addiction:</strong> A failed addiction roll renders you addicted to Mentats. You increase the difficulty of all CHA tests by +1 whenever you are not under the effects of a type of Mentat (ordinary Mentats, or the Berry, Grape, or Orange versions).</li>\n</ul>"
+		},
+		"Mirelurk Cake": {
+			"name": "Mirelurk Cake",
+			"description": "<p><span class=\"fontstyle0\">Flakes and fragments of mirelurk meat, mixed with mirelurk egg to bind it together into a patty and then cooked. In addition to some modest nutritional value, eating mirelurk cake allows you to survive underwater for longer.</span></p>"
+		},
+		"Mirelurk Egg": {
+			"name": "Mirelurk Egg",
+			"description": "<p><span class=\"fontstyle0\">Eggs found in mirelurk nests. Normally found in clutches of 2-3, these eggs hatch into mirelurk hatchlings if left undisturbed.</span></p>\n<p><span class=\"fontstyle0\">Mirelurk eggs are a key ingredient of both Mirelurk Egg Omelette and Mirelurk Cake.</span> </p>"
+		},
+		"Mirelurk Egg Omelette": {
+			"name": "Mirelurk Egg Omelette",
+			"description": "<p><span class=\"fontstyle0\">An omelette made from a mirelurk egg. In addition to their nutritional value, when properly prepared, these omelettes can leave you feeling energized and ready for action.</span> </p>"
+		},
+		"Mirelurk Meat": {
+			"name": "Mirelurk Meat",
+			"description": "<p><span class=\"fontstyle0\">The meat from dead mirelurks. This tends to be tougher and of poorer quality than the meat which comes from the weaker softshell mirelurk, but it is still entirely edible.</span></p>\n<p><span class=\"fontstyle0\">Mirelurk meat is a key ingredient in Mirelurk Cake and can be cooked to produce roasted mirelurk meat.</span> </p>"
+		},
+		"Mirelurk Queen Steak": {
+			"name": "Mirelurk Queen Steak",
+			"description": "<p><span class=\"fontstyle0\">The rare, nutrient-rich meat of a mirelurk Queen, when properly prepared, can fortify the body and provide a surge of health and vitality, making you feel healthier and more resilient for a while after eating.</span> </p>"
+		},
+		"Mole Rat Chunks": {
+			"name": "Mole Rat Chunks",
+			"description": "<p><span class=\"fontstyle0\">Pieces of mole rat meat which&rsquo;ve been cooked over a fire. The meat is somewhat tough and chewy, but leaves a feeling of vigor, as if your reserves of stamina have increased.</span> </p>"
+		},
+		"Mole Rat Meat": {
+			"name": "Mole Rat Meat",
+			"description": "<p><span class=\"fontstyle0\">A chunk of meat taken from a dead mole rat.</span></p>\n<p><span class=\"fontstyle0\">Mole rat meat can be cooked to make Mole Rat Chunks.</span></p>"
+		},
+		"Mongrel Dog Meat": {
+			"name": "Mongrel Dog Meat",
+			"description": "<p><span class=\"fontstyle0\">A chunk of meat taken from a mongrel dog.</span></p>\n<p><span class=\"fontstyle0\">Mongrel Dog Meat can be cooked to make Mutt Chops.</span> </p>"
+		},
+		"Moonshine": {
+			"name": "Moonshine",
+			"description": "<p><span class=\"fontstyle0\">Largely a slang term for high-proof distilled spirits produced in illicit or makeshift manner. Due to their unorthodox and improvised origins, moonshine can be dangerous to consume, often contaminated with dangerous chemicals. The stuff that doesn&rsquo;t kill you&hellip; will probably render you insensible and impervious to pain if it doesn&rsquo;t knock you out entirely.</span> </p>"
+		},
+		"Mutant Hound Chops": {
+			"name": "Mutant Hound Chops",
+			"description": "<p><span class=\"fontstyle0\">A piece of mutant hound meat cooked to make it safer to eat. For reasons unknown, once cooked, the meat helps absorb radiation already in the body, lessening the effects of radiation poisoning. This effect doesn&rsquo;t compare to proper anti-radiation meds like RadAway, but it can be useful to have a few on hand to soak up the radiation you picked up during an excursion.</span> </p>"
+		},
+		"Mutant Hound Meat": {
+			"name": "Mutant Hound Meat",
+			"description": "<p><span class=\"fontstyle0\">A cut of meat taken from a dead mutant hound. This meat&rsquo;s off-green color and lumpy texture suggests that it would be quite unpleasant to eat. Eaten raw, it contains a fair amount of radiation and is unpalatable. Cooked, they&rsquo;re still not the tastiest food, but they&rsquo;re not hazardous.</span></p>\n<p><span class=\"fontstyle0\">Mutant Hound Meat can be cooked to make Mutant Hound Chops.</span> </p>"
+		},
+		"Mutfruit": {
+			"name": "Mutfruit",
+			"description": "<p><span class=\"fontstyle0\">Pronounced &ldquo;mute-fruit&rdquo;, and short for mutated fruit, mutfruit is a mutated form of apple, which comes in several different varieties depending on where you are. These different varieties are cultivated for their sweet flavor, their use in cooking, and even medicinal properties in some rare cases.</span></p>\n<p><span class=\"fontstyle0\">Mutfruit is part of a few different recipes, including being turned into Mutfruit Juice.</span></p>\n<p><span class=\"fontstyle0\">Mutfruits grown in non-irradiated conditions (such as within vaults or similar locations) are not irradiated but increase their rarity by +1.</span> </p>"
+		},
+		"Mutfruit Juice": {
+			"name": "Mutfruit Juice",
+			"description": "<p><span class=\"fontstyle0\">Juice made from pressing the pulp of a mutfruit. A sharp and invigorating drink, which wakes up the mind and helps get the body moving.</span> </p>"
+		},
+		"Mutt Chops": {
+			"name": "Mutt Chops",
+			"description": "<p><span class=\"fontstyle0\">Cuts of mongrel dog meat cooked to make them more nutritious and edible.</span> </p>"
+		},
+		"Noodle Cup": {
+			"name": "Noodle Cup",
+			"description": "<p><span class=\"fontstyle0\">A simple cup of noodle soup.Moderately filling and thirst-quenching, and simple enough to make if you can find the ingredients.</span></p>"
+		},
+		"Nuka-Cherry": {
+			"name": "Nuka-Cherry",
+			"description": "<p><span class=\"fontstyle0\">Produced by the Nuka-Cola Corporation after it bought the patent for a rival beverage, Merle&rsquo;s Very Cherry Soda, Nuka-Cherry is a blend of the typical beloved Nuka-Cola recipe with a distinctive cherry flavoring and a bright red color. The refreshing taste and high sugar and caffeine contents of the drink make it an ideal pick-me-up for those needing a burst of energy.</span></p>\n<p><span class=\"fontstyle0\">You receive 1 cap upon opening and drinking a bottle of Nuka-Cherry.</span> </p>"
+		},
+		"Nuka-Cola": {
+			"name": "Nuka-Cola",
+			"description": "<p><span class=\"fontstyle0\">First entering the market in 2044, Nuka-Cola rapidly became the number one soft drink in the United States and was the most popular beverage in the world soon after. A combination of seventeen fruit essences, precisely balanced to enhance the classic cola flavor. Each bottle contains 120% of the recommended daily amount of sugar, and excessive amounts of caffeine, but is also fortified with vitamins, minerals and &ldquo;health tonics&rdquo;. Due to its popularity, it can still be found in vast quantities in the wasteland, and it is still popular even if the bottles are now warm and the carbonated fizz went flat long ago.</span></p>\n<p><span class=\"fontstyle0\">You receive 1 cap upon opening and drinking a bottle of Nuka-Cola.</span> </p>"
+		},
+		"Nuka-Cola Quantum": {
+			"name": "Nuka-Cola Quantum",
+			"description": "<p><span class=\"fontstyle0\">Introduced the same day the bombs fell, and thus difficult to find, Nuka-Cola Quantum was the newest flavor of Nuka-Cola to be released to the public, with twice the calories, twice the carbohydrates, twice, the caffeine, and twice the taste. The drink&rsquo;s distinctive blue glow comes from the (safe for human consumption) isotope additive developed by beverageers working with the United States military. Most bottles found were from special pre-release batches sent to chosen retailers or found in trucks in the process of shipping the product. The drink&rsquo;s effects are extremely potent.</span></p>\n<p><span class=\"fontstyle0\">You receive 1 cap upon opening and drinking a bottle of Nuka-Cola Quantum.</span> </p>"
+		},
+		"Orange Mentats": {
+			"name": "Orange Mentats",
+			"description": "<p>A variant of Mentats which heighten awareness and sensory acuity.</p>\n<ul>\n<li><strong>Mentat Addiction:</strong> A failed addiction roll renders you addicted to Mentats. You increase the difficulty of all CHA tests by +1 whenever you are not under the effects of a type of Mentat (ordinary Mentats, or the Berry, Grape, or Orange versions).</li>\n</ul>"
+		},
+		"Overdrive": {
+			"name": "Overdrive",
+			"description": "<p>An enhanced form of Psycho which massively stimulates aggression, making the user more dangerous in combat.</p>\n<ul>\n<li><strong>Overdrive Addiction:</strong> A failed addiction roll renders you addicted to Overdrive. You increase the difficulty of all STR and AGI tests by +1 whenever you are not under the effects of Overdrive.</li>\n</ul>"
+		},
+		"Perfectly Preserved Pie": {
+			"name": "Perfectly Preserved Pie",
+			"description": "<p><span class=\"fontstyle0\">Contained within the storage of a Port-A-Diner, this slice of fruit pie has been shielded from the radioactive environment since before the Great War, meaning that isn&rsquo;t irradiated at all. Copious quantities of preservatives were used in making the pie, so it&rsquo;s still as edible as it was the day it was made.</span> </p>"
+		},
+		"Pork 'n' Beans": {
+			"name": "Pork 'n' Beans",
+			"description": "<p><span class=\"fontstyle0\">A can containing a complete meal: beans stewed in a tomato sauce with chunks of cured pork belly. The tin may be slightly rusted, and the label has partly fallen off due to age and water damage, but the contents are still as edible as ever, though moreso if warmed up first.</span> </p>"
+		},
+		"Potato Crisps": {
+			"name": "Potato Crisps",
+			"description": "<p><span class=\"fontstyle0\">A can of salted or flavored potato chips, sealed in an inert environment for freshness. A common snack pre-War, you can still find the odd pack of these in most places where people lived or worked.</span> </p>"
+		},
+		"Potted Meat": {
+			"name": "Potted Meat",
+			"description": "<p><span class=\"fontstyle0\">A small metal tin of mixed processed meat, typically containing mixtures of meat from brahmin, radstags, mole rats, mongrel dogs, and anything else the maker can get their hands on (some of which may not be fit for human consumption).</span></p>\n<p><span class=\"fontstyle2\"><strong>Special:</strong>&nbsp;</span><span class=\"fontstyle0\">Roll 2 @fos[DC]</span><span class=\"fontstyle3\">&nbsp;</span><span class=\"fontstyle0\">when determining if the food inflicts Radiation damage, rather than 1 @fos[DC]</span><span class=\"fontstyle0\">. You suffer 1 Radiation damage, ignoring damage resistance, for each Effect rolled.</span></p>"
+		},
+		"Psycho": {
+			"name": "Psycho",
+			"description": "<p>A potent combat stimulant created by the U.S. Army to enhance the effectiveness of their soldiers. It&rsquo;s still common in the wasteland, as the post-War plant Hubflower has proven to replicate several of the ingredients of the pre-War version. Psycho stimulates aggression and dulls pain receptors, allowing the user to fight harder with less care for their own safety.</p>\n<ul>\n<li><strong>Psycho Addiction:</strong> A failed addiction roll renders you addicted to Psycho. You increase the difficulty of all STR tests by +1 and suffer +1 @fos[DC] damage from all physical attacks whenever you are not under the effects of a type of Psycho (ordinary Psycho, Psycho Jet, Psychobuff, or Psychotats).</li>\n</ul>"
+		},
+		"Psycho Jet": {
+			"name": "Psycho Jet",
+			"description": "<p>A powerful, addictive cocktail of Psycho and Jet, which enhances aggression, dulls pain, and augment&rsquo;s a target&rsquo;s reflexes and energy levels. The effect lasts only for a short while&mdash;under a minute&mdash;but the effects are always an explosive burst of extreme violence.</p>\n<ul>\n<li><strong>Psycho Addiction:</strong> A failed addiction roll renders you addicted to Psycho. You increase the difficulty of all STR tests by +1 and suffer +1 @fos[DC] damage from all physical attacks whenever you are not under the effects of a type of Psycho (ordinary Psycho, Psycho Jet, Psychobuff, or Psychotats).</li>\n</ul>"
+		},
+		"Psychobuff": {
+			"name": "Psychobuff",
+			"description": "<p>A highly addictive cocktail of Psycho and Buffout steroids, combining the effects of the two drugs to produce a period of extreme strength, durability, and aggression.</p>\n<ul>\n<li><strong>Psycho Addiction:</strong> A failed addiction roll renders you addicted to Psycho. You increase the difficulty of all STR tests by +1 and suffer +1 @fos[DC] damage from all physical attacks whenever you are not under the effects of a type of Psycho (ordinary Psycho, Psycho Jet, Psychobuff, or Psychotats).</li>\n</ul>"
+		},
+		"Psychotats": {
+			"name": "Psychotats",
+			"description": "<p>A cocktail of Psycho and Mentats. The heightened awareness granted by the Mentats and the aggression and pain insensitivity somewhat cancel one another out, but the resultant effects are a short period of high aggression, enhanced sensory acuity, and boosted pain tolerance.</p>\n<ul>\n<li><strong>Psycho Addiction:</strong> A failed addiction roll renders you addicted to Psycho. You increase the difficulty of all STR tests by +1 and suffer +1 @fos[DC] damage from all physical attacks whenever you are not under the effects of a type of Psycho (ordinary Psycho, Psycho Jet, Psychobuff, or Psychotats).</li>\n</ul>"
+		},
+		"Purified Water": {
+			"name": "Purified Water",
+			"description": "<p><span class=\"fontstyle0\">Water which has been cleansed of any contaminants or radiation. Sometimes found in sealed cans or bottles in the wasteland, but often produced by taking water from other sources and boiling or filtering it. Locations with water pumps tend to tap into uncontaminated aquifers deep underground, giving them a consistent supply of clean water highly sought-after by survivors in the wasteland. In places where water is scarce, access to purified water is a precious commodity.</span> </p>"
+		},
+		"Queen Mirelurk Meat": {
+			"name": "Queen Mirelurk Meat",
+			"description": "<p><span class=\"fontstyle0\">The meat from a dead mirelurk Queen. This meat can make for a great feast, as it is nutrient rich and incredibly filling, leaving a sense of health and wellbeing in any who eat it, even raw. When cooked, these effects are even more pronounced.</span></p>\n<p><span class=\"fontstyle0\">Queen mirelurk meat can be cooked to produce Mirelurk Queen Steak.</span></p>"
+		},
+		"Rad-X": {
+			"name": "Rad-X",
+			"description": "<p>A preventative medicine for those intending to enter areas with heightened risk of radiation exposure. A dose can help you resist the effects of radiation, especially when combined with other protective measures. Due to scarcity, it is often found diluted, reducing the effectiveness of a dose but allowing limited supplies to last longer. Diluted Rad-X is about half as effective, but easier to find.</p>"
+		},
+		"Rad-X (Diluted)": {
+			"name": "Rad-X (Diluted)",
+			"description": "<p>A preventative medicine for those intending to enter areas with heightened risk of radiation exposure. A dose can help you resist the effects of radiation, especially when combined with other protective measures. Due to scarcity, it is often found diluted, reducing the effectiveness of a dose but allowing limited supplies to last longer. Diluted Rad-X is about half as effective, but easier to find.</p>"
+		},
+		"RadAway": {
+			"name": "RadAway",
+			"description": "<p>An intravenous drug which purges radiation from the user&rsquo;s body, absorbing radiation as it circulates through the user&rsquo;s bloodstream. It&rsquo;s also a potent diuretic, expelling the radiation with the user&rsquo;s urine, so it&rsquo;s advisable to drink a lot of (clean) water shortly after taking a dose. Sometimes encountered in a diluted form, reducing its effectiveness as the user is only taking a partial dose. Diluted RadAway is only about half as effective, but it&rsquo;s easier to find.</p>\n<ul>\n<li><strong>Use:</strong> RadAway can be used in one of two ways: it can be applied using the Take Chem minor action, healing 4 Radiation damage immediately, or it can be applied as part of a First Aid action, healing 4 Radiation damage in addition to any other healing done (remove Radiation damage before applying other healing effects). Diluted RadAway works in the same way, but only heals 2 Radiation damage.</li>\n</ul>"
+		},
+		"RadAway (Diluted)": {
+			"name": "RadAway (Diluted)",
+			"description": "<p>An intravenous drug which purges radiation from the user&rsquo;s body, absorbing radiation as it circulates through the user&rsquo;s bloodstream. It&rsquo;s also a potent diuretic, expelling the radiation with the user&rsquo;s urine, so it&rsquo;s advisable to drink a lot of (clean) water shortly after taking a dose. Sometimes encountered in a diluted form, reducing its effectiveness as the user is only taking a partial dose. Diluted RadAway is only about half as effective, but it&rsquo;s easier to find.</p>\n<ul>\n<li><strong>Use:</strong> RadAway can be used in one of two ways: it can be applied using the Take Chem minor action, healing 4 Radiation damage immediately, or it can be applied as part of a First Aid action, healing 4 Radiation damage in addition to any other healing done (remove Radiation damage before applying other healing effects). Diluted RadAway works in the same way, but only heals 2 Radiation damage.</li>\n</ul>"
+		},
+		"Radroach Meat": {
+			"name": "Radroach Meat",
+			"description": "<p><span class=\"fontstyle0\">Meat from the mutated, irradiated cockroaches known commonly as radroaches. The meat is mildly radioactive and offers little in the way of nourishment or satisfaction, and it isn&rsquo;t especially appetizing either. Cooking it provides only a marginal improvement.</span></p>\n<p><span class=\"fontstyle0\">Radroach meat can be cooked to make Grilled Radroach.</span> </p>"
+		},
+		"Radscorpion Egg": {
+			"name": "Radscorpion Egg",
+			"description": "<p><span class=\"fontstyle0\">The egg of a radscorpion. Not easy to get hold of, as they tend to be found in places where there are radscorpions.</span></p>\n<p><span class=\"fontstyle0\">Radscorpion Eggs can be used to make Radscorpion Egg Omelette.</span> </p>"
+		},
+		"Radscorpion Egg Omelette": {
+			"name": "Radscorpion Egg Omelette",
+			"description": "<p><span class=\"fontstyle0\">Made from a radscorpion egg, these omelettes are highly prized by those who make considerable use of combat drugs, as something about the food cleanses the body to remove chemical dependencies and addictions.</span> </p>"
+		},
+		"Radscorpion Meat": {
+			"name": "Radscorpion Meat",
+			"description": "<p><span class=\"fontstyle0\">Meat taken from inside the carapace of a radscorpion, normally form the tail or one of the legs where it&rsquo;s easier to get to. Difficult to obtain, as it requires killing a radscorpion or taking it from something that killed a radscorpion.</span></p>\n<p><span class=\"fontstyle0\">Radscorpion meat can be cooked to make Radscorpion Steak.</span> </p>"
+		},
+		"Radscorpion Steak": {
+			"name": "Radscorpion Steak",
+			"description": "<p><span class=\"fontstyle0\">A cooked slab of radscorpion meat. The process of cooking the meat has reduced the radiation within below dangerous levels and enhanced the nutritional value. Further, eating Radscorpion Steak heightens your resistance to extreme heat for a while.</span> </p>"
+		},
+		"Radscorpion Stinger": {
+			"name": "Radscorpion Stinger",
+			"description": ""
+		},
+		"Radstag Hide": {
+			"name": "Radstag Hide",
+			"description": ""
+		},
+		"Radstag Meat": {
+			"name": "Radstag Meat",
+			"description": "<p><span class=\"fontstyle0\">A piece of meat cut from the body of a dead radstag. It&rsquo;s bulky but can produce nutritious and satisfying meals.</span></p>\n<p><span class=\"fontstyle0\">Radstag meat can be cooked to make Grilled Radstag or used as an ingredient to make Radstag Stew.</span> </p>"
+		},
+		"Radstag Stew": {
+			"name": "Radstag Stew",
+			"description": "<p><span class=\"fontstyle0\">Strips of radstag meat, with vegetables and some alcohol, cooked to make a thick, hearty stew. Filling and satisfying, the stew also help fortify the body, making you more resistant to extreme heat for a while.</span> </p>"
+		},
+		"Razorgrain": {
+			"name": "Razorgrain",
+			"description": "<p><span class=\"fontstyle0\">A tall, fast-growing grass similar to wheat, which can be ground down to make flour for making bread and other staple foods.</span></p>\n<p><span class=\"fontstyle0\">Razorgrain is an ingredient in a few recipes.</span> </p>"
+		},
+		"Refreshing Beverage": {
+			"name": "Refreshing Beverage",
+			"description": "<p><span class=\"fontstyle0\">A mysterious panacea made from medical supplies, this chemical concoction restores health and cleanses the body of radiation and chemical dependencies. The recipe has spread across the wasteland by word of mouth, but it requires numerous ingredients to produce, so it remains rare.</span> </p>"
+		},
+		"Ribeye Steak": {
+			"name": "Ribeye Steak",
+			"description": "<p><span class=\"fontstyle0\">A grilled piece of meat from a brahmin. The closest thing to a pre-War steak you&rsquo;re likely to find, a good piece of grilled brahmin makes for a satisfying meal.</span> </p>"
+		},
+		"Roasted Mirelurk Meat": {
+			"name": "Roasted Mirelurk Meat",
+			"description": "<p><span class=\"fontstyle0\">A cooked portion of meat from a mirelurk. Though not to the same extent as the softshell meat, roasted mirelurk meat invigorates the body and mind and leaves you ready for action.</span> </p>"
+		},
+		"Robot Repair Kit": {
+			"name": "Robot Repair Kit",
+			"description": "<p>A device which can help to repair and reactivate damaged robots or Power Armor. Most robots have internal self-diagnostic and repair protocols, which are activated when the robot performs repairs or is repaired by someone else. A robot repair kit helps jump-start and accelerate these protocols.</p>\n<ul>\n<li><strong>Use:</strong> A robot repair kit can be used in one of two ways: it can be applied using the Take Chem minor action, healing 4 HP or treating an Injury immediately, or it can be applied as part of a First Aid action, healing 4 HP or treating an Injury in addition to any other healing done. As with any repairs to a robot or Power Armor, this is done using the Repair skill rather than the Medicine skill, but the actions used are otherwise the same.</li>\n</ul>"
+		},
+		"Rum": {
+			"name": "Rum",
+			"description": "<p><span class=\"fontstyle0\">A liquor made from fermenting then distilling sugarcane molasses. Rum has strong historic ties to naval and maritime traditions, though there are few boats left that ply the irradiated seas, so it turns up often in coastal regions, particularly near to old harbors and ports.</span> </p>"
+		},
+		"Salisbury Steak": {
+			"name": "Salisbury Steak",
+			"description": "<p><span class=\"fontstyle0\">A ready-to-eat meal of ground beef mixed with breadcrumbs, onion, and egg, served with gravy. The meal is pre-packaged, preserved, and sealed for freshness, and requires only heat to be made properly edible again.</span></p>\n<p><span class=\"fontstyle0\">Sometimes,&nbsp;</span><strong><span class=\"fontstyle2\">preserved </span></strong><span class=\"fontstyle0\">boxes of Salisbury Steak can be found. These are identical to the listed version, but are not irradiated, and increase their rarity by +1.</span> </p>"
+		},
+		"Salisbury Steak (Preserved)": {
+			"name": "Salisbury Steak (Preserved)",
+			"description": "<p><span class=\"fontstyle0\">A ready-to-eat meal of ground beef mixed with breadcrumbs, onion, and egg, served with gravy. The meal is pre-packaged, preserved, and sealed for freshness, and requires only heat to be made properly edible again.</span></p>\n<p><span class=\"fontstyle0\">Sometimes,&nbsp;</span><strong><span class=\"fontstyle2\">preserved </span></strong><span class=\"fontstyle0\">boxes of Salisbury Steak can be found. These are identical to the listed version, but are not irradiated, and increase their rarity by +1.</span> </p>"
+		},
+		"Silt Bean": {
+			"name": "Silt Bean",
+			"description": "<p><span class=\"fontstyle0\">Growing from the vine of a silt bean plant, silt beans are red-brown pods of legumes growing in the wilderness. They&rsquo;re not easily cultivated for farming, though many have tried. The beans are an ingredient in a few recipes, such as radstag stew.</span> </p>"
+		},
+		"Skeeto Spit": {
+			"name": "Skeeto Spit",
+			"description": "<p>Derived from the secretions of a Bloodbug, and the curative properties of some wasteland plants, Skeeto Spit is a wasteland remedy which dulls the user&rsquo;s ability to feel pain. It&rsquo;s effective, lasts a reasonable amount of time, and is non-addictive, but it normally has to be homemade as it isn&rsquo;t generally produced in large quantities.</p>"
+		},
+		"Softshell Mirelurk Meat": {
+			"name": "Softshell Mirelurk Meat",
+			"description": "<p><span class=\"fontstyle0\">Meat from a softshell mirelurk. Compared to normal mirelurk meat, this is especially tender and flaky, and makes for a much more satisfying food.</span></p>\n<p><span class=\"fontstyle0\">Softshell Mirelurk meat can be cooked to produce Cooked Softshell Meat.</span> </p>"
+		},
+		"Squirrel Bits": {
+			"name": "Squirrel Bits",
+			"description": "<p><span class=\"fontstyle0\">A few scraps and chunks of squirrel meat. Squirrels, not being especially large creatures, do not have much meat on them.</span></p>\n<p><span class=\"fontstyle0\">Squirrel bits can be cooked to make Crispy Squirrel Bits, Squirrel on a Stick, or Squirrel Stew.</span> </p>"
+		},
+		"Squirrel on a Stick": {
+			"name": "Squirrel on a Stick",
+			"description": "<p><span class=\"fontstyle0\">Chunks of squirrel meat skewered on a thin piece of wood for cooking, and then roasted over an open flame. Not enough meat for a decent meal, but certainly enough for a snack.</span> </p>"
+		},
+		"Squirrel Stew": {
+			"name": "Squirrel Stew",
+			"description": "<p><span class=\"fontstyle0\">Chunks of squirrel meat, along with carrot, tato, and some bloodleaf, cooked together to create a thick stew. More filling and appetizing than the ingredients individually.</span> </p>"
+		},
+		"Stealth Boy": {
+			"name": "Stealth Boy",
+			"description": "<p>One of the most interesting technologies developed before the War, the Stealth Boy 3001 is a compact device which generates a modulating refraction field which transmits light from one side of the field to the other. The result is near-perfect active camouflage, ranging from a sort of distorted transparency when moving to almost total invisibility when stationary.</p>\n<p>The Stealth Boy was reverse engineered from captured Chinese Stealth Armor during the War, and while the technology was never perfected&mdash;even the most advanced Stealth Boy consumes its battery in around 30 seconds&mdash;it was still seen to be reliable enough for service.</p>\n<p>Long-term use of Stealth Boy technology has been observed to cause permanent neurological changes, resulting in paranoid delusions, hallucinations, and other mental changes.</p>\n<ul>\n<li><strong>Use:</strong> A Stealth Boy is activated using the Interact minor action. Once active, the device functions for three full turns: your current turn, your next turn, and your turn after that, after which, it ceases to function and is junk. When activated, a Stealth Boy renders you and the equipment you are carrying nearly invisible. Enemies add +2 to the difficulty of all tests to spot you; they may still hear you or notice your presence in other ways if they&rsquo;re looking hard enough. In addition, even if you have been detected, the invisibility increases your Defense by +2.</li>\n</ul>"
+		},
+		"Stimpak": {
+			"name": "Stimpak",
+			"description": "<p>A stimulation delivery package, or Stimpak, is a form of fast-acting medication used to bolster the body&rsquo;s own healing and recuperative ability, and countless millions were produced for household and workplace first aid kits, hospitals, clinics, and other places. A wonder of pre-War science, a Stimpak is a single-use syringe filled with a variety of potent healing agents, stimulants, and painkillers, and can be applied in an intravenous or intramuscular fashion: literally stick it anywhere and it&rsquo;ll work. Even so, it a Stimpak is most effective when applied by an Auto-Doc or someone with medical training alongside other treatment.</p>\n<p>Sometimes encountered in a diluted form, reducing its effectiveness as the user is only taking a partial dose. Diluted Stimpaks are only about half as effective, but they&rsquo;re easier to find.</p>\n<ul>\n<li><strong>Use:</strong> A Stimpak can be used in one of two ways: it can be applied using the Take Chem minor action, healing 4 HP or treating an Injury immediately, or it can be applied as part of a First Aid action, healing 4 HP or treating an Injury in addition to any other healing done. Diluted Stimpaks work in the same way, but only heal 2 HP, though they can still treat Injuries as normal.</li>\n</ul>"
+		},
+		"Stimpak (Diluted)": {
+			"name": "Stimpak (Diluted)",
+			"description": ""
+		},
+		"Stimpak Diffuser": {
+			"name": "Stimpak Diffuser",
+			"description": "<p>This delivery mechanism allows the contents of a super Stimpak to be dispersed into an aerosol cloud, providing a burst of medicinal vapor over a small area.</p>\n<ul>\n<li><strong>Use:</strong> When deployed, using the Interact minor action, it produces a cloud which immediately heals 4 HP on everyone (other than robots) within Close range. One super Stimpak is consumed every time the Stimpak diffuser is used.</li>\n</ul>"
+		},
+		"Stingwing Barb": {
+			"name": "Stingwing Barb",
+			"description": ""
+		},
+		"Stingwing Filet": {
+			"name": "Stingwing Filet",
+			"description": "<p><span class=\"fontstyle0\">A cooked piece of stingwing meat. Not the most appetizing of foods, but surprisingly useful for those surviving in the wastelands, as it can sharpen the senses and make you feel more aware of your surroundings.</span> </p>"
+		},
+		"Stingwing Meat": {
+			"name": "Stingwing Meat",
+			"description": "<p><span class=\"fontstyle0\">Meat taken from the body of a stingwing, a mutated scorpionfly with a nasty sting. Doesn&rsquo;t look especially tasty, but it cooks reasonably well once you&rsquo;ve pried the exoskeleton off.</span></p>\n<p><span class=\"fontstyle0\">Stingwing meat can be cooked to create Stingwing Filet.</span> </p>"
+		},
+		"Sugar Bombs": {
+			"name": "Sugar Bombs",
+			"description": "<p><span class=\"fontstyle0\">A pre-War breakfast cereal with &ldquo;explosive great taste&rdquo;, the box contains little cereal shapes resembling stylized atomic bombs coated in copious amounts of sugar. Some boxes claim to contain a prize inside.</span></p>\n<p><span class=\"fontstyle0\">Sometimes,&nbsp;</span><span class=\"fontstyle2\"><em>preserved</em> </span><span class=\"fontstyle0\">boxes of Sugar Bombs can be found. These are identical to the listed version, but are not irradiated, and increase their rarity by +1.</span> </p>"
+		},
+		"Sugar Bombs (Preserved)": {
+			"name": "Sugar Bombs (Preserved)",
+			"description": "<p><span class=\"fontstyle0\">A pre-War breakfast cereal with &ldquo;explosive great taste&rdquo;, the box contains little cereal shapes resembling stylized atomic bombs coated in copious amounts of sugar. Some boxes claim to contain a prize inside.</span></p>\n<p><span class=\"fontstyle0\">Sometimes,&nbsp;</span><span class=\"fontstyle2\"><em>preserved</em> </span><span class=\"fontstyle0\">boxes of Sugar Bombs can be found. These are identical to the listed version, but are not irradiated, and increase their rarity by +1.</span></p>"
+		},
+		"Super Stimpak": {
+			"name": "Super Stimpak",
+			"description": "<p>A super Stimpak is an enhanced version of the standard Stimpak, with an additional vial of medicine and a leather strap to secure the needle to the patient&rsquo;s arm during treatment. A more potent cocktail of medication is used in a super Stimpak, allowing it to heal much more effectively.</p>\n<ul>\n<li><strong>Use:</strong> A super Stimpak can be used in one of two ways: it can be applied using the Take Chem minor action, healing 8 HP or treating up to two Injuries immediately, or it can be applied as part of a First Aid action, healing 8 HP or treating up to two Injuries in addition to any other healing done.</li>\n</ul>"
+		},
+		"Sweet Roll": {
+			"name": "Sweet Roll",
+			"description": "<p><span class=\"fontstyle0\">A small, sweetened pastry or baked confection normally made as a treat for children or people who need a bit of cheering up.</span> </p>"
+		},
+		"Tarberry": {
+			"name": "Tarberry",
+			"description": "<p><span class=\"fontstyle0\">Small purple berries of the Tarberry plant, a watergrown crop similar to pre-War cranberries. A useful ingredient in several recipes, but difficult to cultivate in any location without a decent supply of reasonably clean water. Communities able to grow tarberries often need to protect their crop from raiders.</span></p>"
+		},
+		"Tarberry Juice": {
+			"name": "Tarberry Juice",
+			"description": "<p><span class=\"fontstyle0\">Juice made from pressing tarberries. Drinking Tarberry juice has a potent stimulant effect, making the drinker energetic and ready for action.</span> </p>"
+		},
+		"Tato": {
+			"name": "Tato",
+			"description": "<p><span class=\"fontstyle0\">A mutated hybrid of the pre-War tomato and potato plants, with the stem and reddish skin of the former and the brownish flesh of the latter. Tatos provide decent nutrition, but taste disgusting. However, they&rsquo;re relatively easy to grow and thus are a staple of wasteland agriculture and is an ingredient in a variety of recipes.</span> </p>"
+		},
+		"Tato Juice": {
+			"name": "Tato Juice",
+			"description": "<p><span class=\"fontstyle0\">Juice made from pressing Tatos. Despite the unpleasant taste, Tato juice is a fine way to prepare for vigorous action, as it allows the drinker to dig more deeply into reserves of stamina and push themselves further.</span> </p>"
+		},
+		"Ultra Jet": {
+			"name": "Ultra Jet",
+			"description": "<p>An extremely concentrated form of Jet, it is significantly more potent, and affects Ghouls as easily as it does humans due to its potency.</p>\n<p><strong>Ultra Jet Addiction:</strong> A failed addiction roll renders you addicted to Ultra Jet. You increase the difficulty of all AGI tests by +1, and you generate one fewer AP whenever you succeed at a skill test (minimum 0) whenever you are not under the effects of Ultra Jet. This addiction is permanent and cannot be cured by any known means.</p>"
+		},
+		"Vegetable Soup": {
+			"name": "Vegetable Soup",
+			"description": "<p><span class=\"fontstyle0\">A simple soup made with carrot and tato. A reasonably filling meal, sating both hunger and thirst, while also helping to fortify the body against radiation poisoning for a while.</span> </p>"
+		},
+		"Vodka": {
+			"name": "Vodka",
+			"description": "<p><span class=\"fontstyle0\">A clear distilled alcoholic beverage, made from fermented rye, wheat, potatoes, or sugar beet molasses, typically imported from the Soviet Union Pre-War.</span> </p>"
+		},
+		"Whiskey": {
+			"name": "Whiskey",
+			"description": "<p><span class=\"fontstyle0\">A triple-distilled alcoholic beverage made using grain mash. Pre-War versions were created across the United States and beyond. Some wasteland distilleries exist producing post-War versions using corn and razorgrain.</span> </p>"
+		},
+		"Wine": {
+			"name": "Wine",
+			"description": "<p><span class=\"fontstyle0\">An alcoholic beverage made from the fermentation of grape juice. There are numerous pre-War vintages to be found across the wasteland, often collected by the wealthy before the bombs fell, and a survivor who stumbles across an intact wine cellar can enjoy a drunken stupor for weeks or months.</span> </p>"
+		},
+		"X-Cell": {
+			"name": "X-Cell",
+			"description": "<p>X-cell was a general-purpose performance enhancer still being developed before the Great War. Development was never finished, but prototype versions were distributed through the black market and by scavengers after the War. It enhances all aspects of a user&rsquo;s abilities for a few minutes, but it is extremely addictive, and the withdrawal symptoms are as far-reaching as the effects.</p>\n<p><strong>X-Cell Addiction:</strong> A failed addiction roll renders you addicted to X-Cell. You increase the difficulty of all tests by +1 whenever you are not under the effects of X-Cell.</p>"
+		},
+		"Yao Guai Meat": {
+			"name": "Yao Guai Meat",
+			"description": "<p><span class=\"fontstyle0\">Another dangerous meat to obtain, Yao Guai meat comes from the bodies of slain Yao Guai, a ferocious mutated form of bear that roams the wastelands. The meat is highly prized and nutritious, though still irradiated if consumed raw.</span></p>\n<p><span class=\"fontstyle0\">Yao Guai meat can be cooked to make Yao Guai Ribs or Yao Guai Roast.</span> </p>"
+		},
+		"Yao Guai Ribs": {
+			"name": "Yao Guai Ribs",
+			"description": "<p><span class=\"fontstyle0\">A rack of ribs made with Yao Guai meat. Yao Guai ribs are both a satisfying meal and inspire a sense of invincibility, while also boosting your tolerance for pain for a short while.</span> </p>"
+		},
+		"Yao Guai Roast": {
+			"name": "Yao Guai Roast",
+			"description": "<p><span class=\"fontstyle0\">A roasted piece of Yao Guai meat cooked with carrot and tato. An extremely filling and satisfying meal, and many have claimed that it heightens their killer instinct and ability to inflict harm for a while after eating.</span></p>"
+		},
+		"Yum-Yum Deviled Eggs": {
+			"name": "Yum-Yum Deviled Eggs",
+			"description": "<p><span class=\"fontstyle0\">Hard-boiled eggs stuffed with a spicy filling, which were preserved and sealed for freshness before the Great War.</span> </p>"
+		}
+	}
+}

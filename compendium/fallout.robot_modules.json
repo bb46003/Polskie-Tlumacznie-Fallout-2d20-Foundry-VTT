@@ -1,0 +1,57 @@
+{
+	"label": "Robot Modules",
+	"entries": {
+		"Behavioral Analysis Mod": {
+			"name": "Behavioral Analysis Mod",
+			"description": "<p>Employed to aid Miss Nanny model robots in their childcare duties, these behavioral analysis modules were a successful offshoot from a U.S. Military designed to engineer robots that could assist in interrogations by interpreting behavior and determining truthfulness. The fate of the original project is unknown, but the offshoot used in Miss Nanny robots was well-received.</p>"
+		},
+		"Diagnosis Mod": {
+			"name": "Diagnosis Mod",
+			"description": "<p>Designed to allow Mister Handy robots to be repurposed as nurses and field medics during a crisis, the diagnosis module allows the robot to discern the nature of injuries and illnesses on a patient and devise the correct treatment quickly. Proper bedside manner, however, was not included in the module.</p>"
+		},
+		"Hacking Mod": {
+			"name": "Hacking Mod",
+			"description": "<p>In addition to a library of decryption software and known software flaws, the hacking module fits the robot with an external interface jack, allowing them to connect directly to a computer and interface with it directly. Ideal for robots whose manipulator claws are poorly suited to operating a keyboard.</p>"
+		},
+		"Hazard Detection Mod": {
+			"name": "Hazard Detection Mod",
+			"description": "<p>Developed for cheap, disposable trap-clearance robots to accompany soldiers in enemy territory, this hazard detection and analysis system modifies the robot&rsquo;s sensory awareness to identify and categorize potential environmental threats and hazards. Repurposed for the Miss Nanny to spot dangers to children in the household, the system&rsquo;s developers never fully removed the urge to go towards hazards to investigate them more closely.</p>"
+		},
+		"Integral Boiler Mod": {
+			"name": "Integral Boiler Mod",
+			"description": "<p>A standard part of the domestic model Mister Handy, the internal boiler was to be used to provide hot tea and coffee in the morning for the robot&rsquo;s owners, as well as a ready source of hot water for food preparation and household cleaning purposes. Post-War, Mister Handy units with a functional boiler are sought-after companions, as thoroughly boiling water is one way to clean it and make it safe to drink. A self-cleaning mechanism keeps it from becoming contaminated between uses, though this does take some time to work</p>"
+		},
+		"Lockpick Module": {
+			"name": "Lockpick Module",
+			"description": "<p>In addition to a catalogue of locking mechanisms and their known weaknesses and configurations, this module refits a manipulator claw with a hidden set of locksmith&rsquo;s tools in an articulated mount, allowing the robot to pick locks without needing to handle tools directly.</p>"
+		},
+		"Radiation Coils": {
+			"name": "Radiation Coils",
+			"description": "<p>A series of antennae placed on the surface of the robot projects deadly radiation over a short distance to harm and repel intruders. An internal switch allows the robot to disable the coils if allies stray too near, as the radiation is just as harmful to friends (at least, if those friends are normal humans).</p>"
+		},
+		"Recon Sensors": {
+			"name": "Recon Sensors",
+			"description": "<p>Designed to aid with target acquisition and patrol efficiency in Mister Gutsy military robots, these recon sensors allow the robot to not only detect foes more easily (and more quickly determine friend from foe, after a number of early friendly-fire incidents) but also to track and predict the movements of enemies who were no longer visible, making it harder for enemies to escape.</p>"
+		},
+		"Regeneration Field": {
+			"name": "Regeneration Field",
+			"description": "<p>An experimental technology designed to provide aid to injured people where extensive medical care is in short supply, the robot is fitted with a device which projects a restorative signal over a short distance which stimulates the human body&rsquo;s natural healing processes.</p>"
+		},
+		"Resistance Field": {
+			"name": "Resistance Field",
+			"description": "<p>An unusual technology intended to provide soldiers with additional protection from enemy fire. The robot emits a magnetic field directed towards the enemy which disrupts the flight path of bullets and other projectiles, causing them to lose momentum and efficacy.</p>"
+		},
+		"Sensor Array": {
+			"name": "Sensor Array",
+			"description": "<p>Additional sensor modules and sensory processing systems accompany the robot&rsquo;s normal optical and auditory sensors, allowing it to perceive the world in more detail and in more ways than normal eyes and ears can.</p>"
+		},
+		"Stealth Field": {
+			"name": "Stealth Field",
+			"description": "<p>Based on the same technology as the Stealth Boy, the robot produces a low-level refraction field which bends and displaces light, camouflaging itself and those nearby. The lower intensity camouflage allows the field to last far longer without burning out the components of the device or draining the robot&rsquo;s power supply, but it cannot provide true invisibility.</p>"
+		},
+		"Tesla Coils": {
+			"name": "Tesla Coils",
+			"description": "<p>A collection of antennae on the robot&rsquo;s outer surface allow it to direct electrical discharges over a short distance to nearby aggressors. The partially directed nature of these discharges mean that allies are not at risk of more than a mild shock, while enemies may suffer severe electrical burns.</p>"
+		}
+	}
+}

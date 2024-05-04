@@ -1,0 +1,649 @@
+{
+	"label": "Armor & Clothing Mods",
+	"entries": {
+		"Aerodynamic": {
+			"name": "Aerodynamic",
+			"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+		},
+		"Alloyed Metal": {
+			"name": "Alloyed Metal",
+			"description": ""
+		},
+		"Asbestos Lining": {
+			"name": "Asbestos Lining",
+			"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+		},
+		"Ballistic Weave": {
+			"name": "Ballistic Weave",
+			"description": "<p><span class=\"fontstyle0\">Ballistic polymer weave is an armor mod which improves the defensive abilities of some clothing items. A layer of this tough artificial fabric can be used as a lining in a variety of garments, giving them a limited ability to resist impacts, bullets, and energy blasts.</span></p>\n<p><span class=\"fontstyle0\">Knowledge of this recipe is possessed only by a few, and they share these secrets only occasionally. All ballistic weave mods are&nbsp;</span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span> </p>"
+		},
+		"Ballistic Weave Mk II": {
+			"name": "Ballistic Weave Mk II",
+			"description": "<p><span class=\"fontstyle0\">Ballistic polymer weave is an armor mod which improves the defensive abilities of some clothing items. A layer of this tough artificial fabric can be used as a lining in a variety of garments, giving them a limited ability to resist impacts, bullets, and energy blasts.</span></p>\n<p><span class=\"fontstyle0\">Knowledge of this recipe is possessed only by a few, and they share these secrets only occasionally. All ballistic weave mods are&nbsp;</span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+		},
+		"Ballistic Weave Mk III": {
+			"name": "Ballistic Weave Mk III",
+			"description": "<p><span class=\"fontstyle0\">Ballistic polymer weave is an armor mod which improves the defensive abilities of some clothing items. A layer of this tough artificial fabric can be used as a lining in a variety of garments, giving them a limited ability to resist impacts, bullets, and energy blasts.</span></p>\n<p><span class=\"fontstyle0\">Knowledge of this recipe is possessed only by a few, and they share these secrets only occasionally. All ballistic weave mods are&nbsp;</span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+		},
+		"Ballistic Weave Mk IV": {
+			"name": "Ballistic Weave Mk IV",
+			"description": "<p><span class=\"fontstyle0\">Ballistic polymer weave is an armor mod which improves the defensive abilities of some clothing items. A layer of this tough artificial fabric can be used as a lining in a variety of garments, giving them a limited ability to resist impacts, bullets, and energy blasts.</span></p>\n<p><span class=\"fontstyle0\">Knowledge of this recipe is possessed only by a few, and they share these secrets only occasionally. All ballistic weave mods are&nbsp;</span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+		},
+		"Ballistic Weave Mk V": {
+			"name": "Ballistic Weave Mk V",
+			"description": "<p><span class=\"fontstyle0\">Ballistic polymer weave is an armor mod which improves the defensive abilities of some clothing items. A layer of this tough artificial fabric can be used as a lining in a variety of garments, giving them a limited ability to resist impacts, bullets, and energy blasts.</span></p>\n<p><span class=\"fontstyle0\">Knowledge of this recipe is possessed only by a few, and they share these secrets only occasionally. All ballistic weave mods are&nbsp;</span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+		},
+		"BioCommMesh": {
+			"name": "BioCommMesh",
+			"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+		},
+		"Blood Cleanser": {
+			"name": "Blood Cleanser",
+			"description": "<p>Installed with the <b>Science</b> skill</p>"
+		},
+		"Boiled Leather": {
+			"name": "Boiled Leather",
+			"description": ""
+		},
+		"Braced": {
+			"name": "Braced",
+			"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+		},
+		"Brawling": {
+			"name": "Brawling",
+			"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+		},
+		"Buttressed": {
+			"name": "Buttressed",
+			"description": ""
+		},
+		"Calibrated Shocks": {
+			"name": "Calibrated Shocks",
+			"description": "<p>Installed with the <b>Science</b> skill</p>"
+		},
+		"Core Assembly": {
+			"name": "Core Assembly",
+			"description": "<p>Installed with the <b>Science</b> skill</p>"
+		},
+		"Cushioned": {
+			"name": "Cushioned",
+			"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+		},
+		"Deep Pocketed": {
+			"name": "Deep Pocketed",
+			"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+		},
+		"Dense": {
+			"name": "Dense",
+			"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+		},
+		"Emergency Protocols": {
+			"name": "Emergency Protocols",
+			"description": "<p>Installed with the <b>Science</b> skill</p>"
+		},
+		"EMP Shielding": {
+			"name": "EMP Shielding",
+			"description": ""
+		},
+		"Enameled Metal": {
+			"name": "Enameled Metal",
+			"description": ""
+		},
+		"Explosive Vent": {
+			"name": "Explosive Vent",
+			"description": "<p>Installed with the <b>Science</b> skill</p>"
+		},
+		"Fiberglass": {
+			"name": "Fiberglass",
+			"description": ""
+		},
+		"Girded Leather": {
+			"name": "Girded Leather",
+			"description": ""
+		},
+		"Hardened": {
+			"name": "Hardened",
+			"description": ""
+		},
+		"Hydraulic Bracers": {
+			"name": "Hydraulic Bracers",
+			"description": "<p>Installed with the <b>Repair</b> skill</p>"
+		},
+		"Insulated Lining": {
+			"name": "Insulated Lining",
+			"description": ""
+		},
+		"Internal Database": {
+			"name": "Internal Database",
+			"description": "<p>Installed with the <b>Science</b> skill</p>"
+		},
+		"Jetpack": {
+			"name": "Jetpack",
+			"description": "<p>Installed with the <b>Repair</b> skill</p>"
+		},
+		"Kinetic Dynamo": {
+			"name": "Kinetic Dynamo",
+			"description": "<p>Installed with the <b>Science</b> skill</p>"
+		},
+		"Laminated": {
+			"name": "Laminated",
+			"description": ""
+		},
+		"Lead Lined": {
+			"name": "Lead Lined",
+			"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+		},
+		"Lead Plating": {
+			"name": "Lead Plating",
+			"description": "<p>Installed with the <strong>Repair</strong> skill.</p>"
+		},
+		"Lighter Build": {
+			"name": "Lighter Build",
+			"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+		},
+		"Medic Pump": {
+			"name": "Medic Pump",
+			"description": "<p>Installed with the <b>Science</b> skill</p>"
+		},
+		"Microcarbon": {
+			"name": "Microcarbon",
+			"description": ""
+		},
+		"Mk II Arm": {
+			"name": "Mk II Arm",
+			"description": ""
+		},
+		"Mk II Chest Piece": {
+			"name": "Mk II Chest Piece",
+			"description": ""
+		},
+		"Mk II Helm": {
+			"name": "Mk II Helm",
+			"description": ""
+		},
+		"Mk II Leg": {
+			"name": "Mk II Leg",
+			"description": ""
+		},
+		"Mk III Arm": {
+			"name": "Mk III Arm",
+			"description": ""
+		},
+		"Mk III Chest Piece": {
+			"name": "Mk III Chest Piece",
+			"description": ""
+		},
+		"Mk III Helm": {
+			"name": "Mk III Helm",
+			"description": ""
+		},
+		"Mk III Leg": {
+			"name": "Mk III Leg",
+			"description": ""
+		},
+		"Mk IV Arm": {
+			"name": "Mk IV Arm",
+			"description": ""
+		},
+		"Mk IV ChestPiece": {
+			"name": "Mk IV ChestPiece",
+			"description": ""
+		},
+		"Mk IV Helm": {
+			"name": "Mk IV Helm",
+			"description": ""
+		},
+		"Mk IV Leg": {
+			"name": "Mk IV Leg",
+			"description": ""
+		},
+		"Mk V Arm": {
+			"name": "Mk V Arm",
+			"description": ""
+		},
+		"Mk V Chest Piece": {
+			"name": "Mk V Chest Piece",
+			"description": ""
+		},
+		"Mk V Helm": {
+			"name": "Mk V Helm",
+			"description": ""
+		},
+		"Mk V Leg": {
+			"name": "Mk V Leg",
+			"description": ""
+		},
+		"Mk VI Arm": {
+			"name": "Mk VI Arm",
+			"description": ""
+		},
+		"Mk VI ChestPiece": {
+			"name": "Mk VI ChestPiece",
+			"description": ""
+		},
+		"Mk VI Helm": {
+			"name": "Mk VI Helm",
+			"description": ""
+		},
+		"Mk VI Leg": {
+			"name": "Mk VI Leg",
+			"description": ""
+		},
+		"Motion-Assist Servos": {
+			"name": "Motion-Assist Servos",
+			"description": "<p>Installed with the <b>Science</b> skill</p>"
+		},
+		"Muffled": {
+			"name": "Muffled",
+			"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+		},
+		"Nanofilament": {
+			"name": "Nanofilament",
+			"description": ""
+		},
+		"Optimized Bracers": {
+			"name": "Optimized Bracers",
+			"description": "<p>Installed with the <b>Repair</b> skill</p>"
+		},
+		"Overdrive Servos": {
+			"name": "Overdrive Servos",
+			"description": "<p>Installed with the <b>Science</b> skill</p>"
+		},
+		"Padded": {
+			"name": "Padded",
+			"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+		},
+		"Painted Metal": {
+			"name": "Painted Metal",
+			"description": ""
+		},
+		"Photovoltaic Plating": {
+			"name": "Photovoltaic Plating",
+			"description": "<p>Installed with the <strong>Science </strong>skill.</p>"
+		},
+		"Pneumatic": {
+			"name": "Pneumatic",
+			"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+		},
+		"Pocketed": {
+			"name": "Pocketed",
+			"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+		},
+		"Polished Metal": {
+			"name": "Polished Metal",
+			"description": ""
+		},
+		"Polymer": {
+			"name": "Polymer",
+			"description": ""
+		},
+		"Prism Shielding": {
+			"name": "Prism Shielding",
+			"description": "<p>Installed with the <strong>Science </strong>skill.</p>"
+		},
+		"Protective Lining": {
+			"name": "Protective Lining",
+			"description": ""
+		},
+		"Rad Scrubber": {
+			"name": "Rad Scrubber",
+			"description": "<p>Installed with the <b>Science</b> skill</p>"
+		},
+		"Raider II Arm": {
+			"name": "Raider II Arm",
+			"description": ""
+		},
+		"Raider II Chest Piece": {
+			"name": "Raider II Chest Piece",
+			"description": ""
+		},
+		"Raider II Helm": {
+			"name": "Raider II Helm",
+			"description": ""
+		},
+		"Raider II Leg": {
+			"name": "Raider II Leg",
+			"description": ""
+		},
+		"Reactive Plates": {
+			"name": "Reactive Plates",
+			"description": "<p>Installed with the <b>Repair</b> skill</p>"
+		},
+		"Reinforced": {
+			"name": "Reinforced",
+			"description": ""
+		},
+		"Resin": {
+			"name": "Resin",
+			"description": ""
+		},
+		"Resistant Lining": {
+			"name": "Resistant Lining",
+			"description": ""
+		},
+		"Rusty Knuckles": {
+			"name": "Rusty Knuckles",
+			"description": "<p>Installed with the <b>Repair</b> skill</p>"
+		},
+		"Sensor Array": {
+			"name": "Sensor Array",
+			"description": "<p>Installed with the <b>Science</b> skill</p>"
+		},
+		"Shadowed": {
+			"name": "Shadowed",
+			"description": ""
+		},
+		"Shadowed Leather": {
+			"name": "Shadowed Leather",
+			"description": ""
+		},
+		"Shadowed Metal": {
+			"name": "Shadowed Metal",
+			"description": ""
+		},
+		"Shielded Lining": {
+			"name": "Shielded Lining",
+			"description": ""
+		},
+		"Stabilized": {
+			"name": "Stabilized",
+			"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+		},
+		"Stealth Boy": {
+			"name": "Stealth Boy",
+			"description": "<p>Installed with the <b>Science</b> skill</p>"
+		},
+		"Studded Leather": {
+			"name": "Studded Leather",
+			"description": ""
+		},
+		"T-45b Arm": {
+			"name": "T-45b Arm",
+			"description": ""
+		},
+		"T-45b Chest Piece": {
+			"name": "T-45b Chest Piece",
+			"description": ""
+		},
+		"T-45b Helm": {
+			"name": "T-45b Helm",
+			"description": ""
+		},
+		"T-45b Leg": {
+			"name": "T-45b Leg",
+			"description": ""
+		},
+		"T-45c Arm": {
+			"name": "T-45c Arm",
+			"description": ""
+		},
+		"T-45c Chest Piece": {
+			"name": "T-45c Chest Piece",
+			"description": ""
+		},
+		"T-45c Helm": {
+			"name": "T-45c Helm",
+			"description": ""
+		},
+		"T-45c Leg": {
+			"name": "T-45c Leg",
+			"description": ""
+		},
+		"T-45d Arm": {
+			"name": "T-45d Arm",
+			"description": ""
+		},
+		"T-45d Chest Piece": {
+			"name": "T-45d Chest Piece",
+			"description": ""
+		},
+		"T-45d Helm": {
+			"name": "T-45d Helm",
+			"description": ""
+		},
+		"T-45d Leg": {
+			"name": "T-45d Leg",
+			"description": ""
+		},
+		"T-45e Arm": {
+			"name": "T-45e Arm",
+			"description": ""
+		},
+		"T-45e Chest Piece": {
+			"name": "T-45e Chest Piece",
+			"description": ""
+		},
+		"T-45e Helm": {
+			"name": "T-45e Helm",
+			"description": ""
+		},
+		"T-45e Leg": {
+			"name": "T-45e Leg",
+			"description": ""
+		},
+		"T-45f Arm": {
+			"name": "T-45f Arm",
+			"description": ""
+		},
+		"T-45f Chest Piece": {
+			"name": "T-45f Chest Piece",
+			"description": ""
+		},
+		"T-45f Helm": {
+			"name": "T-45f Helm",
+			"description": ""
+		},
+		"T-45f Leg": {
+			"name": "T-45f Leg",
+			"description": ""
+		},
+		"T-51b Arm": {
+			"name": "T-51b Arm",
+			"description": ""
+		},
+		"T-51b Chest Piece": {
+			"name": "T-51b Chest Piece",
+			"description": ""
+		},
+		"T-51b Helm": {
+			"name": "T-51b Helm",
+			"description": ""
+		},
+		"T-51b Leg": {
+			"name": "T-51b Leg",
+			"description": ""
+		},
+		"T-51c Arm": {
+			"name": "T-51c Arm",
+			"description": ""
+		},
+		"T-51c Chest Piece": {
+			"name": "T-51c Chest Piece",
+			"description": ""
+		},
+		"T-51c Helm": {
+			"name": "T-51c Helm",
+			"description": ""
+		},
+		"T-51c Leg": {
+			"name": "T-51c Leg",
+			"description": ""
+		},
+		"T-51d Arm": {
+			"name": "T-51d Arm",
+			"description": ""
+		},
+		"T-51d Chest Piece": {
+			"name": "T-51d Chest Piece",
+			"description": ""
+		},
+		"T-51d Helm": {
+			"name": "T-51d Helm",
+			"description": ""
+		},
+		"T-51d Leg": {
+			"name": "T-51d Leg",
+			"description": ""
+		},
+		"T-51e Arm": {
+			"name": "T-51e Arm",
+			"description": ""
+		},
+		"T-51e Chest Piece": {
+			"name": "T-51e Chest Piece",
+			"description": ""
+		},
+		"T-51e Helm": {
+			"name": "T-51e Helm",
+			"description": ""
+		},
+		"T-51e Leg": {
+			"name": "T-51e Leg",
+			"description": ""
+		},
+		"T-51f Arm": {
+			"name": "T-51f Arm",
+			"description": ""
+		},
+		"T-51f Chest Piece": {
+			"name": "T-51f Chest Piece",
+			"description": ""
+		},
+		"T-51f Helm": {
+			"name": "T-51f Helm",
+			"description": ""
+		},
+		"T-51f Leg": {
+			"name": "T-51f Leg",
+			"description": ""
+		},
+		"T-60b Arm": {
+			"name": "T-60b Arm",
+			"description": ""
+		},
+		"T-60b Chest Piece": {
+			"name": "T-60b Chest Piece",
+			"description": ""
+		},
+		"T-60b Helm": {
+			"name": "T-60b Helm",
+			"description": ""
+		},
+		"T-60b Leg": {
+			"name": "T-60b Leg",
+			"description": ""
+		},
+		"T-60c Arm": {
+			"name": "T-60c Arm",
+			"description": ""
+		},
+		"T-60c Chest Piece": {
+			"name": "T-60c Chest Piece",
+			"description": ""
+		},
+		"T-60c Helm": {
+			"name": "T-60c Helm",
+			"description": ""
+		},
+		"T-60c Leg": {
+			"name": "T-60c Leg",
+			"description": ""
+		},
+		"T-60d Arm": {
+			"name": "T-60d Arm",
+			"description": ""
+		},
+		"T-60d Chest Piece": {
+			"name": "T-60d Chest Piece",
+			"description": ""
+		},
+		"T-60d Helm": {
+			"name": "T-60d Helm",
+			"description": ""
+		},
+		"T-60d Leg": {
+			"name": "T-60d Leg",
+			"description": ""
+		},
+		"T-60e Arm": {
+			"name": "T-60e Arm",
+			"description": ""
+		},
+		"T-60e Chest Piece": {
+			"name": "T-60e Chest Piece",
+			"description": ""
+		},
+		"T-60e Helm": {
+			"name": "T-60e Helm",
+			"description": ""
+		},
+		"T-60e Leg": {
+			"name": "T-60e Leg",
+			"description": ""
+		},
+		"T-60f Arm": {
+			"name": "T-60f Arm",
+			"description": ""
+		},
+		"T-60f Chest Piece": {
+			"name": "T-60f Chest Piece",
+			"description": ""
+		},
+		"T-60f Helm": {
+			"name": "T-60f Helm",
+			"description": ""
+		},
+		"T-60f Leg": {
+			"name": "T-60f Leg",
+			"description": ""
+		},
+		"Targeting HUD": {
+			"name": "Targeting HUD",
+			"description": "<p>Installed with the <b>Science</b> skill</p>"
+		},
+		"Tempered": {
+			"name": "Tempered",
+			"description": ""
+		},
+		"Tesla Bracers": {
+			"name": "Tesla Bracers",
+			"description": "<p>Installed with the <b>Repair</b> skill</p>"
+		},
+		"Tesla Coils": {
+			"name": "Tesla Coils",
+			"description": "<p>Installed with the <b>Science</b> skill</p>"
+		},
+		"Titanium Plating": {
+			"name": "Titanium Plating",
+			"description": "<p>Installed with the <strong>Repair</strong> skill.</p>"
+		},
+		"Treated Leather": {
+			"name": "Treated Leather",
+			"description": ""
+		},
+		"Treated Lining": {
+			"name": "Treated Lining",
+			"description": ""
+		},
+		"Ultra Light Build": {
+			"name": "Ultra Light Build",
+			"description": ""
+		},
+		"Weighted": {
+			"name": "Weighted",
+			"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+		},
+		"Welded": {
+			"name": "Welded",
+			"description": ""
+		},
+		"Welded Rebar": {
+			"name": "Welded Rebar",
+			"description": ""
+		},
+		"Winterized Coating": {
+			"name": "Winterized Coating",
+			"description": "<p>Installed with the <strong>Repair</strong> skill.</p>\n<p>Cannot be installed on <strong>X-01 Power Armor</strong>.</p>"
+		}
+	}
+}
