@@ -12,8 +12,8 @@
 		"Tumbleres Today":"Magazyn Ślusarski",
 		"U.S. Covert Operations Manual":"Vademecum Amerykańskich Sił Specjalnych",
 		"Unstoppables":"Niezwyciężeni",
-		"Wasteland Survival Guide":"Podręcznik Przetrwania na Pustkowiach"
-
+		"Wasteland Survival Guide":"Podręcznik Przetrwania na Pustkowiach",
+		"Tumblers Today":"Magazyn Ślusarski"
     },
 	"entries": {
 		"¡La Fantoma!": {
@@ -30,71 +30,99 @@
 		},
 		"Adamantium Skeleton": {
 			"name": "Szkielet z Admantytu",
-			"description":"Każda ranga tego profitu zwiększa liczbę obrażeń wymaganych, żeby wymierzony w ciebie atak liczył się jako trafienie krytyczne. Na przykład jeśli masz pierwszą rangę, w pojedynczym ataku musisz otrzymać 6 lub więcej obrażeń, żeby ucierpieć od trafienia krytycznego (normalnie 5 lub więcej). Za każdym razem, gdy wykupujesz ten profit, wymagany poziom doświadczenia wzrasta o +3."
+			"description":"Każda ranga tego profitu zwiększa liczbę obrażeń wymaganych, żeby wymierzony w ciebie atak liczył się jako trafienie krytyczne. Na przykład jeśli masz pierwszą rangę, w pojedynczym ataku musisz otrzymać 6 lub więcej obrażeń, żeby ucierpieć od trafienia krytycznego (normalnie 5 lub więcej). Za każdym razem, gdy wykupujesz ten profit, wymagany poziom doświadczenia wzrasta o +3.",
+			"requirements":"WYT 7, poziom 1+"
 		},
 		"Adrenalin Rush": {
-			"name": "Kop Adrenaliny"
+			"name": "Kop Adrenaliny",
+			"description":"Jeśli twoja aktualna liczba Punktów Zdrowia jest niższa od maksymalnej, wartość twojej Siły liczy się jako 10 na potrzeby opartych na niej testów umiejętności oraz ataków wręcz.",
+			"requirements":"SI 7"
 		},
 		"Advice from Married Men": {
-			"name": "Porady żonatych facetów",
-			"description":"+1 do Odporności fizycznej dla wszystkich członków drużyny"
+			"name": "Porady żonatych facetów",		
+			"description":"<h2>Żyj i kochaj</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz korzystać <strong>przez całą scenę</strong>. Jeśli wykupisz dany profit na stałe, działa on przez cały czas.</p><ul> <li>+1 do Odporności fizycznej dla wszystkich członków drużyny</li></ul>"
 		},
 		"An Experience to Remember": {
 			"name": "Pamiętne przeżycie",
-			"description":"Wybierz jeden profit z czasopisma, którego kiedyś użyłeś, ale się go nie nauczyłeś. Możesz go teraz użyć."
+			"description":"<h2>Żyj i kochaj</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz korzystać <strong>przez całą scenę</strong>. Jeśli wykupisz dany profit na stałe, działa on przez cały czas.</p><ul> <li>Wybierz jeden profit z czasopisma, którego kiedyś użyłeś, ale się go nie nauczyłeś. Możesz go teraz użyć.</li></ul>"
 		},		
 		"Animal Friend": {
-			"name": "Przyjaciel Zwierząt"
+			"name": "Przyjaciel Zwierząt",
+			"description":"Na pierwszej randze, kiedy atakuje cię stworzenie o słowie kluczowym Ssak, Gad lub Owad, rzuć 1 @fos[DC]. Każdy wynik poza symbolem Efektu oznacza, że stworzenie przestaje cię atakować, choć – jeśli ma taką możliwość – może zaatakować inną postać. Na drugiej randze możesz w ramach akcji głównej wykonać test CHA + Przetrwania o trudności 2. Jeśli go zdasz, stworzenie traktuje cię przyjaźnie i zaatakuje każdego, kto spróbuje zaatakować ciebie. Ten profit nie działa na stworzenia potężne i legendarne. Za każdym razem, gdy wykupujesz ten profit, wymagany poziom doświadczenia wzrasta o +5.",
+			"requirements":"CHA 6, poziom 1+"
 		},
 		"Aquaboy / Aquagirl": {
-			"name": "Wodnik/Rusałka"
-		},
+			"name": "Wodnik/Rusałka",
+			"description":"Woda jest twoim sprzymierzeńcem. Na pierwszej randze nie otrzymujesz obrażeń radiacyjnych od pływania w skażonej wodzie i możesz wstrzymać oddech na dwa razy dłuższy czas niż normalnie. Na drugiej randze, kiedy znajdujesz się pod powierzchnią wody, przeciwnicy otrzymują +2 do trudności testów wypatrzenia ciebie. Za każdym razem, gdy wykupujesz ten profit, wymagany poziom doświadczenia wzrasta o +3.",
+			"requirements":"WT 5, poziom 1+"},
 		"Armorer": {
-			"name": "Zbrojmistrz"
+			"name": "Zbrojmistrz",
+			"description":"Możesz modyfikować pancerze. Każda ranga tego profitu odblokowuje wyższą rangę modyfikacji pancerza – pierwsza ranga odblokowuje modyfikacje 1 rangi, druga ranga modyfikacje 2 rangi itd. Za każdym razem, gdy wykupujesz ten profit, wymagany poziom doświadczenia wzrasta o +4.",
+			"requirements":"SI 5, INT 6"
 		},
 		"Art of the Tomahawk": {
 			"name": "Sztuka tomahawka",
-			"description":"–1 do trudności testu przeciwko zarażeniu się chorobą (minimum 0)"
+			"description":"<h2>Mieszkaniec dziczy</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>–1 do trudności testu przeciwko zarażeniu się chorobą (minimum 0)</li></ul>"
 		},
 		"Attack of the Fishmen!": {
-			"name": "Atak ryboludzi!"
-			
+			"name": "Atak ryboludzi!",
+			"description":"<h2>Niesamowicie Niesłychane</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Zapewniają one modyfikator do obrażeń lub Odporności przeciwko przeciwnikowi lub atakowi. Efekt ten stosuje się do jednego ataku (wykonywanego lub otrzymywanego). Jeśli wykupisz dany profit na stałe, możesz go używać w każdym ataku.</p><ul> <li>Kiedy atakujesz błotniaka, otrzymujesz +1@fos[DC] do ataku</li> </ul>"			
 		},
 		"Attack of the Metal Men!": {
-			"name": "Attack of the Metal Men!"
+			"name": "Atak metalowych ludzi!",
+			"description":"<h2>Niesamowicie Niesłychane</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Zapewniają one modyfikator do obrażeń lub Odporności przeciwko przeciwnikowi lub atakowi. Efekt ten stosuje się do jednego ataku (wykonywanego lub otrzymywanego). Jeśli wykupisz dany profit na stałe, możesz go używać w każdym ataku.</p><ul> <li>+2 do Odporności na obrażenia fizyczne i energetyczne przeciwko robotom</li> </ul>"
 		},
 		"Avoid Those Pesky Gun Laws!": {
-			"name": "Avoid Those Pesky Gun Laws!"
+			"name": "Jak uniknąć tych upierdliwych przepisów o broni!",
+			"description":"<h2>Spluwy i kulki</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>Jeśli podczas szabrowania znajdziesz broń, otrzymujesz 2 PA, które możesz wydać wyłącznie na szabrowanie dodatkowych jednostek materiałów</li> </ul>"
 		},
 		"Awareness": {
-			"name": "Spostrzegawczość"
+			"name": "Spostrzegawczość",
+			"description":"Kiedy wykonujesz pomniejszą akcję celowania na bliskim dystansie, zauważasz u przeciwnika słaby punkt i atakujesz go z większą skutecznością. Twój następny atak przeciwko temu celowi zyskuje Efekt obrażeń Przeszywające 1 lub wzrasta on o +1, jeśli broń już go posiada.",
+			"requirements":"PER 7"
 		},
 		"Barbarian": {
-			"name": "Barbarzyńca"
+			"name": "Barbarzyńca",
+			"description":"<p>Twoja Odporność na obrażenia fizyczne w każdej lokalizacji trafienia zwiększa się o poniższy modyfikator wynikający z wartości Siły. Nie odnosisz tej korzyści, gdy używasz pancerza wspomaganego.</p><ul><li><strong>SI 7&ndash;8:</strong> +1 fizyczne DR</li><li><strong>SI 9&ndash;10:</strong> +2 fizyczne DR</li><li><strong>SI 11+:</strong> +3 fizyczne DR</li></ul><p>&nbsp;</p>",
+			"requirements":"SI 7, poziom 4+, nie robot"
 		},
 		"Basher": {
-			"name": "Tłuczek"
+			"name": "Tłuczek",
+			"description":"Gdy wykonujesz atak wręcz, uderzając bronią palną(strona 95), twój atak zyskuje Efekt obrażeń Brutalne.",
+			"requirements":"SI 6"
 		},
 		"Bear-Proofing your Campsite": {
-			"name": "Bear-Proofing your Campsite"
+			"name": "Zabezpiecz biwak przed niedźwiedziami",
+			"description":"<h2>Spluwy i kulki</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>Kiedy atakujesz yao guai, zwiększasz zadawane obrażenia o +3@fos[DC]</li> </ul>"
 		},
 		"Better Criticals": {
-			"name": "Człowiek Demolka"
+			"name": "Człowiek Demolka",
+			"description":"Kiedy zadasz przeciwnikowi co najmniej 1 punkt obrażeń, możesz wydać 1 punkt Szczęścia, żeby automatycznie uzyskać trafienie krytyczne i zadać ranę.",
+			"requirements":"SZ 9"
 		},
 		"Beware the Man Handler": {
-			"name": "Beware the Man Handler"
+			"name": "Strzeż się ekshibicjonisty!",			
+			"description":"<h2>Żyj i kochaj</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz korzystać <strong>przez całą scenę</strong>. Jeśli wykupisz dany profit na stałe, działa on przez cały czas.</p><ul> <li>Pula grupowa może mieć o 1 PA więcej</li></ul>"
 		},		
 		"Big Leagues": {
-			"name": "Pierwsza Liga"
+			"name": "Pierwsza Liga",
+			"description":"Kiedy wykonujesz atak wręcz dwuręczną białą, zyskuje ona Efekt obrażeń Brutalne.",
+			"requirements":"SI 8"
 		},
 		"Black Widow / Lady Killer": {
-			"name": "Czarna Wdowa/Kobieciarz"
+			"name": "Czarna Wdowa/Kobieciarz",
+			"description":"Czarna wdowa działa na mężczyzn i istoty męskie, natomiast Kobieciarz na kobiety i istoty żeńskie – poza tym rozróżnieniem są identyczne. Kiedy wykonujesz test oparty na CHA, żeby wpłynąć na postać wybranej płci, możesz przerzucić 1k20. Dodatkowo twoje ataki wymierzone w postać wybranej płci zadają obrażenia zwiększone o 1 @fos[DC] .",
+			"requirements":"CHA 6"
 		},
 		"Blacksmith": {
-			"name": "Kowal"
+			"name": "Kowal",
+			"description":"Potrafisz modyfikować broń białą. Każda ranga tego profitu odblokowuje wyższą rangę modyfikacji broni białej – pierwsza ranga odblokowuje modyfikatory 1 rangi, druga ranga modyfikatory 2 rangi itd. Za każdym razem, gdy wykupujesz ten profit, wymagany poziom doświadczenia wzrasta o +4.",
+			"requirements":"SI 6, poziom 2+"
 		},
 		"Blitz": {
-			"name": "Natarcie"
+			"name": "Natarcie",
+			"description":"Jeśli w tej samej turze wchodzisz w zasięg bezpośredni przeciwnika i wykonujesz przeciwko niemu atak wręcz, możesz przerzucić 1k20 w teście ataku. Na drugiej randze dodatkowo zwiększasz o +1 @fos[DC] obrażenia, jakie w tym ataku zadajesz. Za każdym razem, gdy wykupujesz ten profit, wymagany poziom doświadczenia wzrasta o +3.",
+			"requirements":"ZW 9, poziom 1+"
 		},
 		"Blood on the Harp": {
 			"name": "Krew na harfie",
@@ -102,85 +130,121 @@
 		
 		},
 		"Bloody Mess": {
-			"name": "Krwawa Jatka"
+			"name": "Krwawa Jatka",
+			"description":"Kiedy zadajesz trafienie krytyczne,rzuć 1 @fos[DC] . Jeśli wypadnie symbol Efektu, zadajesz 1 dodatkową ranę w losowo określoną lokalizację trafienia.",
+			"requirements":"SZ 6"
 		},
 		"Bobby Pins: More Effective Than Lockpicks?": {
-			"name": "Bobby Pins: More Effective Than Lockpicks?"
+			"name": "SPINKI: skuteczniejsze od wytrychów?",			
+			"description":"<h2>Mieszkaniec dziczy</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>Kiedy używasz spinki, obniżasz o dodatkowe –1 trudność testu Otwierania zamków (minimum 0)</li></ul>"
 		},
 		"Boxing Times": {
 			"name": "Świat Boksu",
 			"description":"Jeśli po udanym teście ataku bez broni wydajesz PA, żeby zwiększyć obrażenia, możesz dodać do nich Efekt Ogłuszające. Jeśli wykupisz ten profit na stałe, możesz to zrobić w każdym ataku bez broni."
 		},
 		"Can Do!": {
-			"name": "Pycha Pucha!"
+			"name": "Pycha Pucha!",
+			"description":"Kiedy szabrujesz miejsce, w którym jest żywność, znajdujesz 1 dodatkowy przedmiot (określony losowo) bez konieczności wydawania PA.",
+			"requirements":"SZ 5"
 		},
 		"Cap Collector": {
-			"name": "Zbierzacz Kapsli"
+			"name": "Zbieracz Kapsli",
+			"description":"Kiedy coś sprzedajesz lub kupujesz, możesz podwyższyć lub obniżyć cenę o 10%.",
+			"requirements":"CHA 5"
 		},
 		"Carnivorous Rabbits of Appalachia": {
-			"name": "Carnivorous Rabbits of Appalachia"
+			"name": "Mięsożerne króliki z Appalachii",			
+			"description":"<h2>Mieszkaniec dziczy</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>Kiedy atakujesz Ssaka lub Gada, zwiększasz zadawane obrażenia o +2@fos[DC]</li></ul>"
 		},
 		"Cautious Nature": {
-			"name": "Wrodzona Ostrożnośc"
+			"name": "Wrodzona Ostrożnośc",
+			"description":"Jeśli w trakcie testu umiejętności dokupujesz 1 lub więcej k20 za Punkty Akcji, możesz w tym teście przerzucić 1k20. Nie możesz wybrać tego profitu, jeśli masz Wrodzoną brawurę.",
+			"requirements":"PER 7"
 		},
 		"Center Mass": {
-			"name": "Prosto w Klatę"
+			"name": "Prosto w Klatę",
+			"description":"Kiedy wykonujesz atak dystansowy, możesz trafić przeciwnika w korpus – lub jego odpowiednik w przypadku stworzeń z odmiennymi lokalizacjami trafienia – bez zwiększenia trudności testu. Dodatkowo w czasie tego ataku możesz przerzucić 1k20.",
+			"requirements":"ZW 7"
 		},
 		"Chem Resistant": {
-			"name": "Chemioodporność"
+			"name": "Chemioodporność",
+			"description":"Na pierwszej randze tego profitu rzucasz o 1 @fos[DC] mniej (minimum 0), gdy sprawdzasz, czy uzależniłeś się od środków chemicznych. Na drugiej randze nie możesz się od nich uzależnić. Za każdym razem, gdy wykupujesz ten profit, wymagany poziom doświadczenia wzrasta o +4.",
+			"requirements":"WT 7, poziom 1+"
 		},
 		"Chemist": {
-			"name": "Chemik"
+			"name": "Chemik",
+			"description":"Syntetyzowane przez ciebie środki chemiczne mają dwukrotnie dłuższy czas działania (strona 164). Dodatkowo odblokowujesz przepisy na środki chemiczne, które mają ten profit w swoich wymaganiach.",
+			"requirements":"INT 7"
 		},
 		"Cometh the Trickster": {
 			"name": "Nadchodzi błazen",
 			"description":"<h2>Grognak Barbarzyńca</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę..</p><ul> <li>+1 do trudności testu innej postaci, kiedy próbuje cię wykryć</li> </ul>"
 		},
 		"Commando": {
-			"name": "iKomandos"
+			"name": "Komandos",
+			"description":"Kiedy wykonujesz atak dystansowy bronią o szybkostrzelności 3 lub wyższej (z wyłączeniem broni ciężkiej), zadajesz obrażenia zwiększone o +1 @fos[DC] za każdą rangę profitu. Za każdym razem, gdy wykupujesz ten profit, wymagany poziom doświadczenia wzrasta o +3.",
+			"requirements":"ZW 8, poziom 2+"
 		},
 		"Commie-Kazi vs. Manta Man": {
-			"name": "Commie-Kazi vs. Manta Man"
+			"name": "Komuch-Kazek kontra Człowiek-Płaszczka",
+			"description":"<h2>Niezwyciężeni</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Pozwalają one wydawać punkty Szczęścia, żeby uniknąć różnych rodzajów obrażeń. Jeśli wykupisz dany profit na stałe, możesz z niego korzystać, dopóki starczy ci punktów Szczęścia.</p><ul> <li>Wydaj 1 punkt Szczęścia, żeby uniknąć wszystkich obrażeń pochodzących z ataku bronią Wybuchową</li> </ul>"
 		},
 		"Comprehension": {
-			"name": "Eureka!"
+			"name": "Eureka!",
+			"description":"Kiedy skorzystasz z modyfikatora zapewnianego przez przeczytanie czasopisma lub książki, rzuć 1 @fos[DC] . Jeśli wypadnie symbol Efektu, możesz zastosować ten modyfikator jeszcze jeden raz.",
+			"requirements":"INT 6"
 		},
 		"Concentrated Fire": {
-			"name": "Skoncentrowany Ostrzał"
+			"name": "Skoncentrowany Ostrzał",
+			"description":"Kiedy w trakcie ataku dystansowego zużywasz jednostki amunicji, żeby zwiększyć zadane obrażenia, możesz przerzucić maksymalnie do 3 @fos[DC] w rzucie na obrażenia.",
+			"requirements":"PER 8, ZW 6"
 		},
 		"Confessions of a Housebreaker": {
-			"name": "Confessions of a Housebreaker"
+			"name": "Wyznania włamywacza",			
+			"description":"<h2>Mieszkaniec dziczy</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>Kiedy szabrujesz lub zbierasz, możesz wydać 1 punkt Szczęścia, żeby znaleźć 2 + 2@fos[DC] spinki</li></ul>"
 		},
 		"Coupon Spectacular": {
-			"name": "Coupon Spectacular"
+			"name": "Rewia kuponów",
+			"description":"<h2>Podręcznik przetrwania na pustkowiach</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>kiedy kupujesz posiłek lub napój, jego cena zostaje zmodyfikowana o 10% na twoją korzyść</li> </ul>"
 		},
 		"Curse of the Burned!": {
-			"name": "Curse of the Burned!"
+			"name": "Klątwa poparzeńców!",
+			"description":"<h2>Niesamowicie Niesłychane</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Zapewniają one modyfikator do obrażeń lub Odporności przeciwko przeciwnikowi lub atakowi. Efekt ten stosuje się do jednego ataku (wykonywanego lub otrzymywanego). Jeśli wykupisz dany profit na stałe, możesz go używać w każdym ataku.</p><ul> <li>Kiedy atakujesz Ghula, otrzymujesz +1@fos[DC] do ataku</li> </ul>"
 		},
 		"Daring Nature": {
-			"name": "Wrodzona Brawura"
+			"name": "Wrodzona Brawura",
+			"description":"Jeśli w trakcie testu umiejętności dokupujesz 1 lub więcej k20, dając mistrzowi gry Punkty Akcji, możesz w tym teście przerzucić 1k20. Nie możesz wybrać tego profitu, jeśli masz Wrodzoną ostrożność."
 		},
 		"Deadly Lasers!": {
-			"name": "Deadly Lasers!"
+			"name": "Śmiercionośne lasery!",
+			"description":"<h2>Niesamowicie Niesłychane</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Zapewniają one modyfikator do obrażeń lub Odporności przeciwko przeciwnikowi lub atakowi. Efekt ten stosuje się do jednego ataku (wykonywanego lub otrzymywanego). Jeśli wykupisz dany profit na stałe, możesz go używać w każdym ataku.</p><ul> <li>Kiedy atakujesz bronią energetyczną, otrzymujesz +1@fos[DC] do ataku</li> </ul>"
 		},
 		"Demolition Expert": {
-			"name": "Bombowo"
+			"name": "Bombowo",
+			"description":"Jeśli wykonujesz atak bronią z cechą Wybuchowa, zyskuje ona Efekt obrażeń Brutalne. Dodatkowo odblokowujesz przepisy na materiały wybuchowe, które mają ten profit w swoich wymaganiach.",
+			"requirements":"PER 6, SZ 6"
 		},
 		"Demon Slaves, Demon Sands": {
 			"name": "Zniewolone demony na demonicznych piaskach",
 			"description":"<h2>Grognak Barbarzyńca</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę..</p><ul> <li>Kiedy trafisz Ghula, zwiększasz zadawane obrażenia o +2@fos[DC]</li> </ul>"
 		},
 		"Dodger": {
-			"name": "Mistrz Uników"
+			"name": "Mistrz Uników",
+			"description":"Na pierwszej randze, gdy wykonujesz akcję główną uniku, trudność testu zmniejsza się o –1. Ranga druga zmniejsza do 1 koszt w PA, żeby otrzymać dodatkowe +1 do Obrony. Za każdym razem, gdy wykupujesz ten profit, wymagany poziom doświadczenia wzrasta o +6.",
+			"requirements":"ZW 6, poziom 4+"
 		},
 		"Dogmeat": {
-			"name": "Ochłap"
+			"name": "Ochłap",
+			"description":"Nie jesteś sam na pustkowiach. Kręci się przy tobie pies, twój przyjaciel i sojusznik w chwilach zagrożenia. Jego profil znajdziesz w ramce poniżej. Jest on traktowany jako sprzymierzone stworzenie, które wykonuje twoje polecenia (strona 338). Jeśli musisz szukać pożywienia i wody, twój pies potrafi sam o siebie zadbać. W przypadku gdy zostanie zabity, przed rozpoczęciem nowej misji przygarniasz innego psa lub po zakończeniu aktualnej misji możesz wymienić ten profit na inny.",
+			"requirements":"CHA 5"
 		},
 		"Down Home Cookin'": {
-			"name": "Down Home Cookin'"
+			"name": "Wiejska kuchnia",			
+			"description":"<h2>Mieszkaniec dziczy</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>Kiedy atakujesz bronią Rzucaną (z wyjątkiem Wybuchowej), zwiększasz zadawane obrażenia o +2@fos[DC]</li></ul>"
 		},
 		"Dr. Brainwash and His Army of De-Capitalists!": {
-			"name": "Dr. Brainwash and His Army of De-Capitalists!"
+			"name": "Doktor Indoktrynator i jego armia antykapitalistów!!",
+			"description":"<h2>Niezwyciężeni</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Pozwalają one wydawać punkty Szczęścia, żeby uniknąć różnych rodzajów obrażeń. Jeśli wykupisz dany profit na stałe, możesz z niego korzystać, dopóki starczy ci punktów Szczęścia.</p><ul> <li>Wydaj 3 punkty Szczęścia, żeby uniknąć wszystkich obrażeń pochodzących z jednego ataku lub zagrożenia</li> </ul>"
 		},
 		"Duck and Cover!": {
 			"name": "Padnij! Kryj się!",
@@ -191,60 +255,82 @@
 			"description":"<h2>Grognak Barbarzyńca</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę..</p><ul> <li>Kiedy atakujesz wręcz dwuręczną bronią białą, otrzymujesz Efekt obrażeń Przeszywające 1 (lub +1, jeśli już go posiadasz)</li> </ul>"
 		},
 		"Entomologist": {
-			"name": "Entomolog"
+			"name": "Entomolog",
+			"description":"Twoje ataki przeciwko BN-owi ze słowem kluczowym Owad zyskują Efekt obrażeń Przeszywające 1 lub wzrasta on o +1, jeśli broń już go posiada.",
+			"requirements":"INT 7"
 		},
 		"Farming the Wastes": {
-			"name": "Farming the Wastes"
+			"name": "Uprawy na pustkowiach",
+			"description":"<h2>Podręcznik przetrwania na pustkowiach</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>Spożycie owocu lub posiłku warzywnego leczy dwa razy więcej PZ</li> </ul>"
 		},
 		"Fast Metabolism": {
-			"name": "Szybki Metabolizm"
+			"name": "Szybki Metabolizm",
+			"description":"Kiedy odzyskujesz 1 lub więcej PZ w sposób inny niż odpoczynek, za każdą wykupioną rangę profitu odzyskujesz +1 PZ więcej. Za każdym razem, gdy wykupujesz ten profit, wymagany poziom doświadczenia wzrasta o +3.",
+			"requirements":"WT 6, poziom 1+, nie robot"
 		},
 		"Faster Healing": {
-			"name": "Szybkie Zdrowienie"
+			"name": "Szybkie Zdrowienie",
+			"description":"Kiedy wykonujesz test WT + Przetrwania, żeby wyleczyć własne rany, pierwszą dodatkową k20 otrzymujesz za darmo. Nadal obowiązuje cię limit 5k20 w puli kości",
+			"requirements":"WT 6, nie robot"
 		},
 		"Fatherless Cur!": {
 			"name": "Bezpański psie!",
 			"description":"<h2>Grognak Barbarzyńca</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę..</p><ul> <li>Kiedy atakujesz wręcz, ignorujesz jedną komplikację</li> </ul>"
 		},
 		"FH 5-01 Whistling in the Dark": {
-			"name": "FH 5-01 Whistling in the Dark"
+			"name": "FH 5-01 Gwizdanie w mroku",
+			"description":"<h2>Vademecum amerykańskich sił specjalnych</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>Jeśli zostaniesz zauważony, kiedy się skradasz, otrzymujesz +2 do Odporności na obrażenia fizyczne przeciwko pierwszemu atakowi, który otrzymasz po wykryciu</li> </ul>"
 		},
 		"FH 5-02 Urban Camouflage": {
-			"name": "FH 5-02 Urban Camouflage"
+			"name": "FH 5-02 Miejski kamuflaż",
+			"description":"<h2>Vademecum amerykańskich sił specjalnych</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>+1 do trudności testów, żeby cię zauważyć (nie kumuluje się z modyfikatorami do trudności ze względu na słabe oświetlenie lub ciemność)</li> </ul>"
 		},
 		"FH 5-03 Facepaint Fundamentals": {
-			"name": "FH 5-03 Facepaint Fundamentals"
+			"name": "FH 5-03 Podstawy maskowania indywidualnego",
+			"description":"<h2>Vademecum amerykańskich sił specjalnych</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>+1 do każdej Odporności przeciwko atakom wykonywanym przez BN-ów</li> </ul>"
 		},
 		"FH 5-04 Not the Soldiers You’re Looking For": {
-			"name": "FH 5-04 Not the Soldiers You’re Looking For"
+			"name": "FH 5-04 Nie jesteśmy żołnierzami, których szukacie",
+			
+			"description":"<h2>Vademecum amerykańskich sił specjalnych</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>Kiedy atakujesz BN-a, zwiększasz zadawane obrażenia o +1@fos[DC]</li> </ul>"
 		},
 		"FH 5-05 Who Goes There?": {
-			"name": "FH 5-05 Who Goes There?"
+			"name": "FH 5-05 Kto idzie?!",
+			"description":"<h2>Vademecum amerykańskich sił specjalnych</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>Kiedy wydajesz punkt Szczęścia, żeby przerzucić k20 w teście PER, zamiast nią rzucać, ustawiasz na niej wynik 1</li> </ul>"
 		},
 		"FH 5-06 Squeaky Floorboard, Sudden Death": {
-			"name": "FH 5-06 Squeaky Floorboard, Sudden Death"
+			"name": "FH 5-06 Skrzypiąca podłoga to nagła śmierć",			
+			"description":"<h2>Vademecum amerykańskich sił specjalnych</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>Kiedy w teście Skradania się wyrzucisz jedną lub więcej komplikacji, możesz je zignorować</li></ul>"
 		},
 		"FH 5-07 Getting the Drop on the Communists": {
-			"name": "FH 5-07 Getting the Drop on the Communists"
+			"name": "FH 5-07 Zrzut na komunistów",
+			"description":"<h2>Vademecum amerykańskich sił specjalnych</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>Kiedy wróg celuje, zanim wykona przeciwko tobie atak, możesz spowodować, że utraci korzyści z akcji celowania</li></ul>"
 		},
 		"FH 5-08 Bushes, Boxes, and Beehives: Camouflage Special": {
-			"name": "FH 5-08 Bushes, Boxes, and Beehives: Camouflage Special"
+			"name": "FH 5-08 Krzaki, skrzynki i ule - wydanie specjalne o kamuflażu",
+			"description":"<h2>Vademecum amerykańskich sił specjalnych</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>Kiedy walczysz nożem lub bez broni, zwiększasz zadawane obrażenia o +2@fos[DC]</li></ul>"
 		},
 		"FH 5-09 Look Better in Black": {
-			"name": "FH 5-09 Look Better in Black"
+			"name": "FH 5-09 Lepiej ubrać czarne",			
+			"description":"<h2>Vademecum amerykańskich sił specjalnych</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>Kiedy używasz Stealth Boya, możesz wydłużyć czas jego działania o dodatkową turę</li></ul>"
 		},
 		"FH 5-10 Tiptoe Through the Tulips": {
-			"name": "FH 5-10 Tiptoe Through the Tulips"
+			"name": "FH 5-10 Na palcach przez tulipany",
+			"description":"<h2>Vademecum amerykańskich sił specjalnych</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>Kiedy wydajesz punkt Szczęścia, żeby przerzucić k20 w teście ZW, zamiast nią rzucać, ustawiasz na niej wynik 1</li></ul>"
 		},		
 		"Finesse": {
-			"name": "Finezja"
+			"name": "Finezja",
+			"description":"Raz w trakcie starcia, nie wydając punktów Szczęścia, możesz przerzucić wszystkie @fos[DC] w rzucie na obrażenia.",
+			"requirements":"ZW 9"
 		},
 		"Fixin' Things": {
 			"name": "Napraw to sam",
 			"description":"Raz w trakcie naprawy przedmiotu zużywasz połowę niezbędnych materiałów (zaokrąglone w górę). Jeśli wykupisz ten profit na stałe, możesz go używać w każdej próbie naprawy."
 		},		
 		"Fortune Finder": {
-			"name": "Poszukiwacz Skarbów"
+			"name": "Poszukiwacz Skarbów",
+			"description":"Każdy rzut, który ma ustalić, ile znajdujesz pieniędzy, pozwala ci znaleźć ich jeszcze więcej. Na pierwszej randze znajdujesz +3@fos[DC] dodatkowych kapsli. Na drugiej randze +6@fos[DC]. Na trzeciej zaś aż +10@fos[DC] . Za każdym razem, gdy wykupujesz ten profit, wymagany poziom doświadczenia wzrasta o +4.",
+			"requirements":"SZ 5, poziom 2+"
 		},
 		"Future of Warfare?": {
 			"name": "Przyszłość wojen?",
@@ -260,109 +346,157 @@
 		
 		},
 		"Get Off My Lawn": {
-			"name": "Get Off My Lawn"
+			"name": "Zjeżdżać z mojego terenu!",			
+			"description":"<h2>Mieszkaniec dziczy</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>Z oprawionej zwierzyny uzyskujesz dwa razy więcej mięsa</li></ul>"
 		},
 		"Ghost": {
-			"name": "Duch"
+			"name": "Duch",
+			"description":"Kiedy wykonujesz test ZW + Skradania się w ciemności lub cieniach, pierwsza dokupiona dodatkowa k20 jest darmowa. Nadal obowiązuje cię limit 5k20.",
+			"requirements":"PER 6, ZW 6"
 		},
 		"Giant Insects Invade!": {
-			"name": "Giant Insects Invade!"
+			"name": "Najazd olbrzymich owadów!",
+			"description":"<h2>Niesamowicie Niesłychane</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Zapewniają one modyfikator do obrażeń lub Odporności przeciwko przeciwnikowi lub atakowi. Efekt ten stosuje się do jednego ataku (wykonywanego lub otrzymywanego). Jeśli wykupisz dany profit na stałe, możesz go używać w każdym ataku.</p><ul> <li>+2 do Odporności na obrażenia radiacyjne</li> </ul>"
 		},
 		"Giant Super Weapons!": {
 			"name": "Olbrzymie superbronie!",
 			"description":"<h2>Nauka z Teslą</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę..</p><ul> <li>Kiedy atakujesz bronią Gatlinga, możesz zużyć 8 razy więcej amunicji zamiast normalnych 10</li> </ul>"
 		},		
 		"Grim Reaper's Sprint": {
-			"name": "Pośpiech Kostuchy"
+			"name": "Pośpiech Kostuchy",
+			"description":"Jeśli wskutek twojego ataku zginął jeden lub więcej przeciwników, rzuć 1@fos[DC]. Jeśli wypadnie symbol Efektu, dodajesz +2 PA do grupowej puli.",
+			"requirements":"SZ 8"
 		},		
 		"Guide to Hunting Commies!": {
-			"name": "Guide to Hunting Commies!"
+			"name": "Przewodnik łowcy komuchów!",
+			"description":"<h2>Spluwy i kulki</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>Kiedy atakujesz wroga, który ma niższy poziom doświadczenia od ciebie, zwiększasz zadawane obrażenia o +2@fos[DC]</li> </ul>"
 		},
 		"Gun Fu": {
-			"name": "Gnat-Fu"
+			"name": "Gnat-Fu",
+			"description":"Jeśli trafisz atakiem dystansowym, możesz wydać 1 PA i 1 jednostkę amunicji, żeby trafić drugi cel znajdujący się w bliskim dystansie od pierwszego. Otrzymuje on takie same obrażenia jak pierwszy. Na drugiej randze możesz wydać 2 PA i 2 jednostki amunicji, żeby trafić dwa dodatkowe cele. Na trzeciej randze możesz wydać 3 PA i 3 jednostki amunicji, żeby trafić trzy dodatkowe cele. Za każdym razem, gdy wykupujesz ten profit, wymagany poziom doświadczenia wzrasta o +5.",
+			"requirements":"ZW 10, poziom 1+"
 		},
 		"Gun Nut": {
-			"name": "Znawca Spluw"
+			"name": "Znawca Spluw",
+			"description":"Możesz modyfikować broń palną i ciężką. Każda ranga tego profitu odblokowuje wyższą rangę modyfikacji broni – pierwsza ranga odblokowuje modyfikacje 1 rangi, druga ranga modyfikacje 2 rangi itd. Za każdym razem, gdy wykupujesz ten profit, wymagany poziom doświadczenia wzrasta o +4.",
+			"requirements":"INT 6, poziom 2+"
 		},
 		"Gunslinger": {
-			"name": "Rewolwerowiec"
+			"name": "Rewolwerowiec",
+			"description":"Kiedy wykonujesz atak dystansowy jednoręczną bronią o szybkostrzelności 2 lub niższej, za każdą wykupioną rangę profitu zadajesz obrażenia zwiększone o +1@fos[DC]. Dodatkowo możesz przerzucić wynik rzutu na lokalizację trafienia. Za każdym razem, gdy wykupujesz ten profit, wymagany poziom doświadczenia wzrasta o +4.",
+			"requirements":"ZW 7, poziom 2+"
 		},
 		"Hacker": {
-			"name": "Haker"
+			"name": "Haker",
+			"description":"Testy umiejętności, żeby zhakować komputer, mają trudność zmniejszoną o –1 (minimalnie 0).",
+			"requirements":"INT 8"
 		},
 		"Hardy as a Sasquatch": {
-			"name": "Hardy as a Sasquatch"
+			"name": "Odporny jak Sasquatch",			
+			"description":"<h2>Mieszkaniec dziczy</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>Kiedy szukasz roślin, znajdujesz ich dwa razy więcej</li></ul>"
 		},
 		"Healer": {
-			"name": "Uzdrowiciel"
+			"name": "Uzdrowiciel",
+			"description":"Jeśli akcją główną pierwszej pomocy przywracasz komuś Punkty Zdrowia, za każdą wykupioną rangę profitu przywracasz +1 PZ więcej. Za każdym razem, gdy wykupujesz ten profit, wymagany poziom doświadczenia wzrasta o +5.",
+			"requirements":"INT 7, poziom +1"
 		},
 		"Heave Ho!": {
-			"name": "Lotem Bliżej!"
+			"name": "Lotem Bliżej!",
+			"description":"Kiedy wykonujesz atak bronią rzucaną, możesz wydać 1 PA, żeby zwiększyć dystans o 1 zakres – z bliskiego na średni lub ze średniego na daleki.",
+			"requirements":"SI 8"
 		},
 		"Homesteading Horror": {
-			"name": "Homesteading Horror"
+			"name": "Groza samowystarczalności",			
+			"description":"<h2>Mieszkaniec dziczy</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>–1 do trudności testu wytwarzania broni (minimum 0)</li></ul>"
 		},
 		"Hunter": {
-			"name": "Łowca"
+			"name": "Łowca",
+			"description":"Kiedy wykonujesz atak przeciwko BN-owi ze słowem kluczowym Mutant oraz jednym z następujących – Ssak, Gad lub Owad, twój atak zyskuje Efekt obrażeń Brutalne (jeśli wcześniej go nie miał).",
+			"requirements":"WT "
 		},
 		"Hunting in the Wastes": {
-			"name": "Hunting in the Wastes"
+			"name": "Polowanie na pustkowiach",
+			"description":"<h2>Podręcznik przetrwania na pustkowiach</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>Kiedy oprawiasz zwierzynę, którą zabiłeś, a ilość uzyskanego mięsa można zwiększyć poprzez wydanie PA, otrzymujesz 1 darmowy PA do wykorzystania w tym celu (jeśli tego nie zrobisz, przepada)</li> </ul>"
 		},
 		"I Married a Robot": {
-			"name": "I Married a Robot"
+			"name": "Poślubiłam Robota",			
+			"description":"<h2>Żyj i kochaj</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz korzystać <strong>przez całą scenę</strong>. Jeśli wykupisz dany profit na stałe, działa on przez cały czas.</p><ul> <li>+2 do wszystkich Odporności przeciwko robotom</li></ul>"
 		},
 		"In the Bosom of the Corsair Queen": {
 			"name": "Na łonie Królowej Korsarzy",
 			"description":"<h2>Grognak Barbarzyńca</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę..</p><ul> <li>Kiedy trafisz wręcz, automatycznie powodujesz trafienie krytyczne</li> </ul>"
 		},
 		"Infiltrator": {
-			"name": "Infiltrator"
+			"name": "Infiltrator",
+			"description":"Kiedy wykonujesz test Otwierania zamków, żeby otworzyć drzwi lub pojemnik, możesz przerzucić 1k20.",
+			"requirements":"PER 8"
 		},
 		"Insect Repellent Special": {
-			"name": "Insect Repellent Special"
+			"name": "Środki owadobójcze - wydanie specjalne",
+			"description":"<h2>Podręcznik przetrwania na pustkowiach</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>+2 do każdej Odporności przeciwko atakowi ze strony Owada</li> </ul>"
 		},
 		"Inspirational": {
-			"name": "Ku Pokrzepieniu Serc"
+			"name": "Ku Pokrzepieniu Serc",
+			"description":"Zawsze dajesz dobry przykład innym, więc maksymalna liczba PA, jaką możecie zgromadzić w grupowej puli, jest zwiększona o 1.",
+			"requirements":"CHA 8"
 		},
 		"Intense Training": {
-			"name": "Intensywny Trening"
+			"name": "Intensywny Trening",
+			"description":"Zwiększasz o +1 wartość dowolnego atrybutu. Nie możesz w ten sposób podnieść atrybutu powyżej 10. Za każdym razem, gdy wykupujesz ten profit, wymagany poziom doświadczenia wzrasta o +2.",
+			"requirements":"Poziom 2+"
 		},
 		"Iron Fist": {
-			"name": "Żelazna Pięść"
+			"name": "Żelazna Pięść",
+			"description":"Na pierwszej randze otrzymujesz +1@fos[DC] do obrażeń, gdy atakujesz bez broni. Na drugiej randze zyskujesz Efekt obrażeń Brutalne. Za każdym razem, gdy wykupujesz ten profit, wymagany poziom doświadczenia wzrasta o +5.",
+			"requirements":"SI poziom 1+"
 		},
 		"Jungle of the Bat-Babies": {
 			"name": "Dżungla nietoperzych dzieci",
 			"description":"<h2>Grognak Barbarzyńca</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę..</p><ul> <li>Kiedy otrzymasz obrażenia toksyczne, zyskujesz +3 do Odporności na obrażenia toksyczne</li> </ul>"
 		},
 		"Junktown Jerky Vendor": {
-			"name": "Handlarz Mięsem z Junktown"
+			"name": "Handlarz Mięsem z Junktown",
+			"description":"Po nieudanym teście Handlu, żeby negocjować cenę, możesz raz wydać 1 punkt Szczęścia, żeby zmienić ją o 10% na swoją korzyść. Jeśli wykupisz ten profit na stałe, możesz to zrobić w każdym teście Handlu, kiedy się targujesz. Za każdym kolejnym razem, kiedy używasz tego profitu podczas tej samej sesji, wydajesz o 1 punkt Szczęścia więcej (1 za pierwszym razem, 2 za drugim, 3 za trzecim i tak dalej).",
+			"requirements":"CHA 8"
 		},
 		"Jury Rigging": {
-			"name": "Prowizorka"
+			"name": "Prowizorka",
+			"description":"Możesz naprawić przedmiot bez potrzeby zużywania części zamiennych. Jest to jednak prowizoryczna naprawa i przedmiot znów się zepsuje przy następnej komplikacji, która wypadnie podczas jego użytkowania. Zakres komplikacji wszystkich testów umiejętności z wykorzystaniem tego przedmiotu wzrasta o +1 do 19-20."
 		},
 		"Laser Commander": {
-			"name": "Porucznik Laser"
+			"name": "Porucznik Laser",
+			"description":"Kiedy wykonujesz atak dystansową bronią energetyczną, za każdą wykupioną rangę profitu zadajesz obrażenia zwiększone o +1@fos[DC]. Za każdym",
+			"requirements":"WT 6, poziom 2+"
 		},
 		"Lasers & Hunting: Acceptable Overkill": {
-			"name": "Lasers & Hunting: Acceptable Overkill"
+			"name": "LASERY NA POLOWANIU: Akceptowalna przesada",
+			"description":"<h2>Spluwy i kulki</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>Kiedy atakujesz bronią laserową, zyskuje ona Efekt obrażeń Brutalne (jeśli go nie ma)</li> </ul>"
 		},
 		"Lead Belly": {
-			"name": "Brzuch z Ołowiu"
+			"name": "Brzuch z Ołowiu",
+			"description":"Na pierwszej randze możesz przerzucić @fos[DC] , kiedy ustalasz, czy otrzymujesz obrażenia radiacyjne po spożyciu skażonej żywności lub napoju. Na drugiej randze jesteś niewrażliwy na obrażenia radiacyjne po spożyciu skażonej żywności lub napoju. Za każdym razem, gdy wykupujesz ten profit, wymagany poziom doświadczenia wzrasta o +4.",
+			"requirements":"WT 6, poziom 1+"
 		},
 		"Life Giver": {
-			"name": "Życiodajna Moc"
+			"name": "Życiodajna Moc",
+			"description":"Zwiększasz maksymalną liczbę Punktów Zdrowia o wartość swojej Wytrzymałości. Za każdym razem, gdy wykupujesz ten profit, wymagany poziom doświadczenia wzrasta o +5.",
+			"requirements":"Poziom 5+"
 		},
 		"Life Long Best Friends!": {
-			"name": "Life Long Best Friends!"
+			"name": "Najlepsze przyjaciółki na całe życie!",			
+			"description":"<h2>Żyj i kochaj</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz korzystać <strong>przez całą scenę</strong>. Jeśli wykupisz dany profit na stałe, działa on przez cały czas.</p><ul> <li>+1 do maksymalnych PZ dla wszystkich członków drużyny</li></ul>"
 		},
 		"Light Step": {
-			"name": "Na Paluszkach"
+			"name": "Na Paluszkach",
+			"description":"Jeśli podczas testu umiejętności opartego na Zwinności wystąpią komplikacje, możesz je zignorować, wydając 1 PA za każdą z nich. Dodatkowo możesz przerzucić 1k20 w dowolnym teście ZW + Atletyki, żeby uniknąć pułapek aktywowanych czujnikiem nacisku lub podobnym mechanizmem."
 		},
 		"Little Guns for Little Ladies": {
-			"name": "Little Guns for Little Ladies"
+			"name": "Małe spluwy dla drobnych pań",
+			"description":"<h2>Spluwy i kulki</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>Kiedy atakujesz bronią palną, zyskuje ona Efekt obrażeń Brutalne (jeśli go nie ma)</li> </ul>"
 		},
 		"Locksmith Certification Special — Pass with Flying Colors": {
-			"name": "Locksmith Certification Special — Pass with Flying Colors"
+			"name": "WYDANIE SPECJALNE: Zdaj celująco certyfikat ślusarski",			
+			"description":"<h2>Mieszkaniec dziczy</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>Kiedy w teście Otwierania zamków przydarzy ci się jedna lub więcej komplikacji, możesz wydać 1 punkt Szczęścia, żeby je zignorować</li></ul>"
 		},
 		"Lost in the Snows of Lust": {
 			"name": "Zagubiony wśród śniegów żądzy",
@@ -373,224 +507,330 @@
 			"description": "Kiedy udzielasz innej postaci pomocy medycznej i wspierasz jej test WT + Przetrwania, żeby uleczyć ranę, możesz jeden raz potraktować k20 tak, jakby wypadło na niej 1. Jeśli wykupisz ten profit na stałe, możesz to robić raz na sesję."
 		},
 		"Master Thief": {
-			"name": "Ksiąze Złodziei"
+			"name": "Książę Złodziei",
+			"description":"Kiedy próbujesz kogoś okraść lub otworzyć zamek, trudność testu umiejętności przeciwnika, żeby cię przyłapać, wzrasta o +1.",
+			"requirements":"PER 6, ZW 9"
 		},
 		"Medic": {
-			"name": "Sanitariusz"
+			"name": "Sanitariusz",
+			"description":"Kiedy wykonujesz akcję główną pierwszej pomocy, żeby opatrzyć ranę, możesz przerzucić 1k20.",
+			"requirements":"INT 8"
 		},
 		"Meeting People": {
 			"name": "Spotkania z Ludźmi",
 			"description":"Kiedy w teście Retoryki wyrzucisz jedną lub więcej komplikacji, możesz je zignorować. Jeśli wykupisz ten profit na stałe, możesz go użyć raz na scenę."
 		},
 		"Meltdown": {
-			"name": "Stopienie"
+			"name": "Stopienie",
+			"description":"Kiedy zabijesz przeciwnika bronią energetyczną, jego ciało eksploduje. Rzuć tyloma @fos[DC], ile wynosi połowa poziomu obrażeń broni (zaokrąglając w dół). Za każdy uzyskany symbol Efektu jedna postać w bliskim zasięgu od eksplodującego ciała (zaczynając od najbliższej) otrzymuje tyle obrażeń energetycznych, ile wyrzuciłeś na @fos[DC].",
+			"requirements":"PER 10"
 		},
 		"Mister Sandman": {
-			"name": "Piaskowy Dziadek"
+			"name": "Piaskowy Dziadek",
+			"description":"Kiedy wykonujesz atak z zaskoczenia z użyciem wytłumionej broni, zadajesz obrażenia zwiększone o +2@fos[DC]. Nie odnosisz tej korzyści, gdy używasz pancerza wspomaganego.",
+			"requirements":"ZW 9"
 		},
 		"Moving Target": {
-			"name": "Ruchomy Cel"
+			"name": "Ruchomy Cel",
+			"description":"Kiedy wykonujesz akcję główną bieg, aż do początku twojej następnej tury otrzymujesz +1 do Obrony.",
+			"requirements":"ZW 6"
 		},
 		"Mysteries of the Master Key Exposed!": {
-			"name": "Mysteries of the Master Key Exposed!"
+			"name": "Zdradzamy sekrety mistrza ślusarskiego!",			
+			"description":"<h2>Mieszkaniec dziczy</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>Możesz przerzucić 1k20 w teście Otwierania zamków</li></ul>"
 		},
 		"Mysterious Stranger": {
-			"name": "Tajemniczy Nieznajomy"
+			"name": "Tajemniczy Nieznajomy",
+			"description":"Co jakiś czas z pomocą przychodzi ci śmiertelnie groźny sprzymierzeniec. Jeśli na początku starcia wydasz 1 punkt Szczęścia, w dowolnym momencie sceny mistrz gry może zdecydować, że nagle pojawia się Tajemniczy Nieznajomy, wykonuje pojedynczy atak dystansowy w przeciwnika, którego zaatakowałeś lub który zaatakował ciebie, a następnie znika. Jeśli Tajemniczy Nieznajomy nie przybył, mistrz gry musi ci zwrócić wydany punkt Szczęścia. Nieznajomy ma ZW 10, Broń palną 6 i specjalizację w tej umiejętności. W teście ataku rzuca 3k20 zamiast 2k20 i posługuje się zmodyfikowanym rewolwerem .44 Magnum, który zadaje 8@fos[DC] obrażeń fizycznych z Efektami Brutalne i Przeszywające 1. Pojawia się on zawsze na optymalnym dystansie. Wszelkie próby ustalenia, gdzie się oddalił, kończą się automatycznym niepowodzeniem.",
+			"requirements":"SZ 7"
 		},
 		"Nerd Rage!": {
-			"name": "Szał Kujona!"
+			"name": "Szał Kujona!",
+			"description":"Kiedy liczba twoich Punktów Zdrowia spadnie poniżej jednej czwartej ich maksymalnej wartości, otrzymujesz +1 do Obrony przed obrażeniami fizycznymi i energetycznymi oraz +1@fos[DC] do zadawanych obrażeń w dowolnym ataku. Na drugiej randze modyfikatoryte wzrastają do +2 O i +2 DC , a na trzeciej randze do +3 O i +3@fos[DC]. Za każdym razem, gdy wykupujesz ten profit, wymagany poziom doświadczenia wzrasta o +5.",
+			"requirements":"INT 8, poziom 2+"
 		},
 		"Night Person": {
-			"name": "Dziecko Nocy"
+			"name": "Dziecko Nocy",
+			"description":"Obniżasz o –1 modyfikator trudności testu wynikający z ciemności.",
+			"requirements":"PER 7"
 		},
 		"Nightmare in the Garden": {
-			"name": "Nightmare in the Garden"
+			"name": "Koszmar w ogrodzie",			
+			"description":"<h2>Mieszkaniec dziczy</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>Spożycie Alkoholu leczy dodatkowe 2 PZ</li></ul>"
 		},
 		"Ninja": {
-			"name": "Ninja"
+			"name": "Ninja",
+			"description":"Kiedy wykonujesz z zaskoczenia atak wręcz, zadajesz obrażenia zwiększone o +2@fos[DC] . Nie odnosisz tej korzyści, gdy używasz pancerza wspomaganego.",
+			"requirements":"ZW 8"
 		},
 		"Nuclear Physicist": {
-			"name": "Fizyk Jądrowy"
+			"name": "Fizyk Jądrowy",
+			"description":"Kiedy używasz broni zadającej obrażenia radiacyjne lub posiadającej Efekt obrażeń Radioaktywne, każdy Efekt uzyskany w rzucie na obrażenia zadaje +1 dodatkowy punkt obrażeń radiacyjnych. Ponadto używane przez ciebie rdzenie fuzyjne mają 3 dodatkowe ładunki.",
+			"requirements":"INT 9"
 		},
 		"Nuke-the-Man!": {
-			"name": "Nuke-the-Man!"
+			"name": "Zrzuć mu na łeb bombę atomową!",			
+			"description":"<h2>Żyj i kochaj</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz korzystać <strong>przez całą scenę</strong>. Jeśli wykupisz dany profit na stałe, działa on przez cały czas.</p><ul> <li>Kiedy członkowie drużyny atakują, zwiększają zadawane przez siebie obrażenia o +1@fos[DC]</li></ul>"
 		},
 		"Open Any Lock in 5 Seconds Flat": {
-			"name": "Open Any Lock in 5 Seconds Flat"
+			"name": "Dowolny zamek w pięc sekund",			
+			"description":"<h2>Mieszkaniec dziczy</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>Kiedy otworzyłeś zamek, możesz skorzystać z opcji skrócenia czasu bez wydawania PA</li></ul>"
 		},
 		"Pain Train": {
-			"name": "Pociąg Bólu"
+			"name": "Pociąg Bólu",
+			"description":"Jeśli nosisz pancerz wspomagany lub jesteś supermutantem, możesz wykonać akcję główną szarża. Jest to akcja ruchu, więc w tej samej turze nie możesz wykonać ruchu ani biegu. Dzięki niej przemieszczasz się w bezpośredni zasięg przeciwnika, który znajduje się w średnim dystansie od ciebie (odległość 1 strefy), i wykonujesz test SI + Atletyki o trudności 2. Jeśli go zdasz, przeciwnik otrzymuje obrażenia, jakie zadałbyś normalnym atakiem bez broni, i zostaje powalony. Na drugiej randze zadajesz obrażenia zwiększone o +1@fos[DC] z Efektem Ogłuszające. Mistrz gry może uznać, że szczególnie duże lub masywne istoty nie mogą zostać obalone szarżą. Za każdym razem, gdy wykupujesz ten profit, wymagany poziom doświadczenia wzrasta o +5.",
+			"requirements":"SI 9, WT 7, poziom 1+"
 		},
 		"Paralyzing Palm": {
-			"name": "Paraliżująca Dłoń"
+			"name": "Paraliżująca Dłoń",
+			"description":"Kiedy wykonujesz atak bez broni i uderzasz w wybraną lokalizację trafienia, twój atak zyskuje Efekt obrażeń Ogłuszające.",
+			"requirements":"SI 8"
 		},
 		"Party Boy / Party Girl": {
-			"name": "Imprezowicz/Imprezowiczka"
+			"name": "Imprezowicz/Imprezowiczka",
+			"description":"Nie możesz się uzależnić od napojów alkoholowych. Za każdym razem, gdy wypijasz napój alkoholowy, odzyskujesz 2 PZ.",
+			"requirements":"WT 6, CHA  7"
 		},
 		"Pathfinder": {
-			"name": "Pionier"
+			"name": "Pionier",
+			"description":"Kiedy pokonujesz duże odległości przez pustkowia, udany test PER + Przetrwania (o trudności ustalonej przez MG i zależnej od rodzaju terenu) skraca o połowę czas podróży.",
+			"requirements":"PER 6, WT 6"
 		},
 		"Pharma Farma": {
-			"name": "Farma Farmy"
+			"name": "Farma Farmy",
+			"description":"Kiedy szabrujesz miejsce, w którym są środki medyczne lub chemiczne, znajdujesz jeden dodatkowy przedmiot (określony losowo) bez konieczności wydawania PA.",
+			"requirements":"SZ 6"
 		},
 		"Pickpocket": {
-			"name": "Kieszonkowiec"
+			"name": "Kieszonkowiec",
+			"description":"Na pierwszej randze możesz zignorować pierwszą komplikację, która wypadnie w teście ZW + Skradania się, żeby ukraść lub podrzucić komuś jakiś przedmiot. Druga ranga profitu umożliwia ci przerzucenie 1k20 z puli kości, gdy wykonujesz test kradzieży kieszonkowej. Na trzeciej randze otrzymujesz –1 do trudności testów kradzieży kieszonkowej. Za każdym razem, gdy wykupujesz ten profit, wymagany poziom doświadczenia wzrasta o +3.",
+			"requirements":"PER 8, ZW 8, poziom 1+"
 		},
 		"Piercing Strike": {
-			"name": "Przeszywający Cios"
+			"name": "Przeszywający Cios",
+			"description":"Twoje ataki bez broni lub bronią białą sieczną zyskują Efekt obrażeń Przeszywające 1 lub wzrasta on o +1, jeśli broń już go posiada."
 		},
 		"Plasma: The Weapon of Tomorrow": {
-			"name": "Plasma: The Weapon of Tomorrow"
+			"name": "PLAZMA: broń jutra",
+			"description":"<h2>Spluwy i kulki</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>Kiedy atakujesz bronią plazmową, zyskuje ona Efekt obrażeń Brutalne (jeśli go nie ma)</li> </ul>"
 		},
 		"Programmer's Digest": {
 			"name": "Przegląd Programisty",
 			"description":"Po nieudanym teście Nauki w celu zhakowania komputera, kiedy grozi ci zablokowanie systemu (udaremniające kolejną próbę), możesz to jeden raz obejść i podjąć drugą próbę. Jeśli wykupisz ten profit na stałe, możesz to zrobić za każdym razem, kiedy grozi ci zablokowanie systemu."
 		},
 		"Pyromaniac": {
-			"name": "Piroman"
+			"name": "Piroman",
+			"description":"Kiedy używasz broni wykorzystującej ogień, za każdą wykupioną rangę profitu zadajesz obrażenia zwiększone o +1@fos[DC]. Za każdym razem, gdy wykupujesz ten profit, wymagany poziom doświadczenia wzrasta o +4.",
+			"requirements":"WT 6, poziom 2+"
 		},
 		"Quick Draw": {
-			"name": "Szybkie Dobycie"
+			"name": "Szybkie Dobycie",
+			"description":"Raz na turę, bez poświęcania na to pomniejszej akcji, możesz wyciągnąć pojedynczą broń lub przedmiot, który masz przy sobie.",
+			"requirements":"ZW 6"
 		},
 		"Quick Hands": {
-			"name": "Zwinne Rączki"
+			"name": "Zwinne Rączki",
+			"description":"Szybciej przeładowujesz broń. Kiedy wykonujesz atak dystansowy, możesz wydać 2 PA, żeby na potrzeby tego ataku zwiększyć szybkostrzelność swojej broni o +2.",
+			"requirements":"ZW 8"
 		},
 		"Rad Resistance": {
-			"name": "Ołowiany Fartuch"
+			"name": "Ołowiany Fartuch",
+			"description":"Za każdą rangę tego profitu twoja Odporność na obrażenia radiacyjne wzrasta o +1 dla każdej lokalizacji trafienia. Za każdym razem, gdy wykupujesz ten profit, wymagany poziom doświadczenia wzrasta o +4.",
+			"requirements":"WT 8, poziom 1+"
 		},
 		"Refractor": {
-			"name": "Rozpraszacz"
+			"name": "Rozpraszacz",
+			"description":"Za każdą wykupioną rangę profitu twoja Odporność na obrażenia energetyczne wzrasta o +1 dla każdej lokalizacji trafienia. Za każdym razem, gdy wykupujesz ten profit, wymagany poziom doświadczenia wzrasta o +4.",
+			"requirements":"PER 6, SZ 6, poziom 1+"
 		},
 		"Ricochet": {
-			"name": "Rykoszet"
+			"name": "Rykoszet",
+			"description":"Jeśli jesteś celem ataku dystansowego wroga i wyrzuci on komplikację, możesz wydać 1 punkt Szczęścia, żeby oberwał rykoszetem – otrzymuje on obrażenia zamiast ciebie.",
+			"requirements":"SZ 10, poziom 5+"
 		},
 		"Rifleman": {
-			"name": "Karabinier"
+			"name": "Karabinier",
+			"description":"Kiedy wykonujesz atak dystansowy dwuręczną bronią (z wyłączeniem broni ciężkiej) o szybkostrzelności 2 lub niższej, za każdą wykupioną rangę profitu zadajesz obrażenia zwiększone o +1 @fos[DC]. Na drugiej randze atak zyskuje dodatkowo Efekt obrażeń Przeszywające 1 lub wzrasta on o +1, jeśli broń już go posiada. Za każdym razem, gdy wykupujesz ten profit, wymagany poziom doświadczenia wzrasta o +4.",
+			"requirements":"ZW 7, poziom 2+"
 		},
 		"Rise of the Mutants!": {
-			"name": "Rise of the Mutants!"
+			"name": "Powstanie Mutantów!",
+			"description":"<h2>Niesamowicie Niesłychane</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Zapewniają one modyfikator do obrażeń lub Odporności przeciwko przeciwnikowi lub atakowi. Efekt ten stosuje się do jednego ataku (wykonywanego lub otrzymywanego). Jeśli wykupisz dany profit na stałe, możesz go używać w każdym ataku.</p><ul> <li>Kiedy atakujesz supermutanta, otrzymujesz +1@fos[DC] do ataku</li> </ul>"
 		},
 		"Robotics Expert": {
-			"name": "Ekspert Robotyki"
+			"name": "Ekspert Robotyki",
+			"description":"Na pierwszej randze otrzymujesz dostęp do modyfikacji pancerza, uzbrojenia i modułów robota 1 rangi. Ranga druga zapewnia ci dostęp do modyfikacji 2 rangi oraz stały modyfikator –1 do trudności testów naprawy robotów. Ranga trzecia daje ci dostęp do modyfikacji 3 rangi, możesz też przeprogramować robota, żeby pełnił inne funkcje, lub zmienić jego zachowanie (za zgodą mistrza gry). Za każdym razem, gdy wykupujesz ten profit, wymagany poziom doświadczenia wzrasta o +4.",
+			"requirements":"INT 8, poziom 2+"
 		},
 		"Rocket Science for Toddlers": {
 			"name": "Inżyniera rakietowa dla najmłodszych",
 			"description":"<h2>Nauka z Teslą</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę..</p><ul> <li>Kiedy atakujesz bronią Wybuchową, zwiększasz zadawane obrażenia o +2 @fos[DC] </li> </ul>"
-		
 		},
 		"Science Gone Mad!": {
-			"name": "Science Gone Mad!"
+			"name": "Szalona nauka!",
+			"description":"<h2>Niesamowicie Niesłychane</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Zapewniają one modyfikator do obrażeń lub Odporności przeciwko przeciwnikowi lub atakowi. Efekt ten stosuje się do jednego ataku (wykonywanego lub otrzymywanego). Jeśli wykupisz dany profit na stałe, możesz go używać w każdym ataku.</p><ul> <li>+2 do Odporności na obrażenia energetyczne</li> </ul>"
 		},
 		"Science!": {
-			"name": "Nauka!"
+			"name": "Nauka!",
+			"description":"Możesz montować modyfikacje broni energetycznej i dodatkowo wytwarzać niektóre zaawansowane modyfikacje pancerza. Każda ranga profitu odblokowuje również rangę modyfikacji: pierwsza ranga odblokowuje modyfikacje 1 rangi, druga – modyfikacje 2 rangi itd. Za każdym razem, gdy wykupujesz ten profit, wymagany poziom doświadczenia wzrasta o +4.",
+			"requirements":"INT 6, poziom 2+"
 		},
 		"Scoundrel": {
-			"name": "Łajdak"
+			"name": "Łajdak",
+			"description":"Kiedy wykonujesz test CHA + Retoryki, żeby kogoś okłamać, możesz zignorować pierwszą wyrzuconą na kościach komplikację.",
+			"requirements":"CHA 7"
 		},
 		"Scrapper": {
-			"name": "Złomiarz"
+			"name": "Złomiarz",
+			"description":"Kiedy rozkładasz na części jakiś przedmiot, możesz odzyskać nie tylko pospolite materiały, ale i rzadkie (strona 208). Na drugiej randze możesz również odzyskać bardzo rzadkie materiały. Za każdym razem, gdy wykupujesz ten profit, wymagany poziom doświadczenia wzrasta o +5.",
+			"requirements":"Poziom 3+"
 		},
 		"Scrounger": {
-			"name": "Towar z Odzysku"
+			"name": "Towar z Odzysku",
+			"description":"Każdy rzut, który ma ustalić, ile znajdujesz amunicji, pozwala ci znaleźć jej jeszcze więcej. Na pierwszej randze znajdujesz +3@fos[DC] dodatkowych jednostek amunicji. Na drugiej randze +6@fos[DC]. Na trzeciej zaś aż +10@fos[DC]. Dodatkowa amunicja jest tego samego typu, co ta, którą początkowo znalazłeś. Na przykład jeśli znalazłeś naboje 10 mm, ten profit zwiększa ich liczbę. Jeśli znalazłeś amunicję różnego typu, rośnie ilość amunicji o najniższej rzadkości (jeśli mają taką samą, decyduje MG). Za każdym razem, gdy wykupujesz ten profit, wymagany poziom doświadczenia wzrasta o +5.",
+			"requirements":"SZ 6, poziom 1+"
 		},
 		"Self Defense Secrets": {
-			"name": "Self Defense Secrets"
+			"name": "Sekrety samoobrony",
+			"description":"<h2>Podręcznik przetrwania na pustkowiach</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>+1 do Obrony przeciwko atakowi wręcz</li> </ul>"
 		},
 		"Shotgun Surgeon": {
-			"name": "chirurgiczna Precyzja"
+			"name": "chirurgiczna Precyzja",
+			"description":"Twoje ataki dystansowe z użyciem strzelby zyskują Efekt obrażeń Przeszywające 1 lub wzrasta on o +1, jeśli broń już go posiada.",
+			"requirements":"SI 5, ZW 7"
 		},
 		"Size Matters": {
-			"name": "Rozmiar się Liczy"
+			"name": "Rozmiar się Liczy",
+			"description":"Kiedy wykonujesz atak dystansowy bronią ciężką, za każdą wykupioną rangę profitu zadajesz obrażenia zwiększone o +1@fos[DC]. Za każdym razem, gdy wykupujesz ten profit, wymagany poziom doświadczenia wzrasta o +4.",
+			"requirements":"WT 7, ZW 6"
 		},
 		"Skilled": {
-			"name": "Szkolenie"
+			"name": "Szkolenie",
+			"description":"Zwiększasz poziom dwóch umiejętności o +1 lub jednej o +2. W żadnej umiejętności nie możesz mieć więcej niż 6 poziomów. Za każdym razem, gdy wykupujesz ten profit, wymagany poziom doświadczenia wzrasta o +3.",
+			"requirements":"Poziom 3+"
 		},
 		"Slayer": {
-			"name": "Urodzony Morderca"
+			"name": "Urodzony Morderca",
+			"description":"Jeśli atakiem wręcz (z bronią lub bez) zadałeś przeciwnikowi przynajmniej 1 punkt obrażeń, możesz wydać 1 punkt Szczęścia, żeby automatycznie uzyskać trafienie krytyczne i zadać ranę w tej samej lokalizacji trafienia.",
+			"requirements":"SI 8"
 		},
 		"Smooth Talker": {
-			"name": "Gładka Gadka"
+			"name": "Gładka Gadka",
+			"description":"Kiedy w próbie sił korzystasz z Handlu lub Retoryki, możesz przerzucić 1k20.",
+			"requirements":"CHA 6"
 		},
 		"Snakeater": {
-			"name": "Wężożerca"
+			"name": "Wężożerca",
+			"description":"Otrzymujesz +2 do Odporności na obrażenia toksyczne.",
+			"requirements":"WT 7"
 		},
 		"Sniper": {
-			"name": "Snajper"
+			"name": "Snajper",
+			"description":"Kiedy wykonujesz pomniejszą akcję celowania, a następnie atakujesz dystansowo dwuręczną bronią z cechą Celna, możesz wybrać lokalizację trafienia bez zwiększenia trudności testu.",
+			"requirements":"PER 8, ZW 6"
 		},
 		"Solar Powered": {
-			"name": "Zasilanie Słoneczne"
+			"name": "Zasilanie Słoneczne",
+			"description":"Po każdej godzinie spędzonej w pełnym słońcu leczysz 1 punkt obrażeń radiacyjnych",
+			"requirements":"WT 7"
 		},
 		"Steady Aim": {
-			"name": "Pewna Ręka"
+			"name": "Pewna Ręka",
+			"description":"Kiedy wykonujesz pomniejszą akcję celowania, możesz albo przerzucić 2k20 w pierwszym ataku, który wykonujesz w tej turze, albo przerzucić 1k20 we wszystkich testach ataków w tej turze.",
+			"requirements":"SI 8, ZW 7"
 		},
 		"Street Guns of Detroit": {
-			"name": "Street Guns of Detroit"
+			"name": "Uliczna broń z Detroit",
+			"description":"<h2>Spluwy i kulki</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>Po udanym teście ataku otrzymujesz 2 dodatkowe PA; musisz je natychmiast wydać i nie możesz ich zachować na później</li> </ul>"
 		},
 		"Strong Back": {
-			"name": "Mocny Grzbiet"
+			"name": "Mocny Grzbiet",
+			"description":"Każda ranga tego profitu zwiększa twój udźwig o 25 funtów. Za każdym razem, gdy wykupujesz ten profit, wymagany poziom doświadczenia wzrasta o +2.",
+			"requirements":"SI 5, poziom 1+"
 		},
 		"Surrounded by the Dead!": {
-			"name": "Surrounded by the Dead!"
+			"name": "Otoczeni przez umarłych!",
+			"description":"<h2>Niesamowicie Niesłychane</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Zapewniają one modyfikator do obrażeń lub Odporności przeciwko przeciwnikowi lub atakowi. Efekt ten stosuje się do jednego ataku (wykonywanego lub otrzymywanego). Jeśli wykupisz dany profit na stałe, możesz go używać w każdym ataku.</p><ul> <li>Kiedy atakujesz i zużywasz 1 lub więcej jednostek amunicji, żeby zadać dodatkowe obrażenia, otrzymujesz +1@fos[DC] do ataku</li> </ul>"
 		},
 		"Tag!": {
-			"name": "Specjalizacja"
+			"name": "Specjalizacja",
+			"description":"Wybierasz dodatkową specjalizację dla jednej ze swoich umiejętności. Zwiększasz jej poziom o +2 (maksymalnie do 6) i zaznaczasz jako umiejętność wyspecjalizowaną. Umożliwia ci to uzyskanie krytycznego sukcesu, kiedy w teście umiejętności wyrzucisz wynik równy lub niższy od jej poziomu.",
+			"requirements":"Poziom 5+"
 		},
 		"Take Aim, Army Style": {
-			"name": "Take Aim, Army Style"
+			"name": "Celuj w wojskowym stylu",
+			"description":"<h2>Spluwy i kulki</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>Kiedy wykonujesz pomniejszą akcję celowania bronią, która nie posiada cechy Celna, a następnie nią atakujesz, zadawane obrażenia zostają zwiększone o +2@fos[DC]</li> </ul>"
 		},
 		"Tales of a Junktown Jerky Vendor": {
 			"name": "Opowieści handlarza mięsem z Junktown",
 			"description":"Po nieudanym teście Handlu, żeby negocjować cenę, możesz raz wydać 1 punkt Szczęścia, żeby zmienić ją o 10% na swoją korzyść. Jeśli wykupisz ten profit na stałe, możesz to zrobić w każdym teście Handlu, kiedy się targujesz. Za każdym kolejnym razem, kiedy używasz tego profitu podczas tej samej sesji, wydajesz o 1 punkt Szczęścia więcej (1 za pierwszym razem, 2 za drugim, 3 za trzecim i tak dalej)."
 		},
 		"Talk Yourself Sober": {
-			"name": "Talk Yourself Sober"
+			"name": "Sama się przekonaj do trzeźwości",			
+			"description":"<h2>Żyj i kochaj</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz korzystać <strong>przez całą scenę</strong>. Jeśli wykupisz dany profit na stałe, działa on przez cały czas.</p><ul> <li>Kiedy wypijesz Alkohol, otrzymujesz 1 punkt Szczęścia (jeśli do końca sceny go nie użyjesz, przepada)</li></ul>"
 		},
 		"Terrifying Presence": {
-			"name": "Porażająca Poza"
+			"name": "Porażająca Poza",
+			"description":"Kiedy komuś grozisz lub próbujesz go zastraszyć, możesz przerzucić w teście Retoryki 1k20. Na drugiej randze możesz użyć w walce akcji głównej, żeby zastraszyć przeciwnika na średnim lub bliższym dystansie. Wykonujesz test SI + Retoryki o trudności 2. Sukces oznacza, że w swojej następnej turze zastraszony przeciwnik musi oddalić się od ciebie (choć może przy tym wykonywać inne akcje). Za każdym razem, gdy wykupujesz ten profit, wymagany poziom doświadczenia wzrasta o +5.",
+			"requirements":"SI 6, CHA 8, poziom 3+"
 		},
 		"The Appalachia Squirrel Massacre": {
-			"name": "The Appalachia Squirrel Massacre"
+			"name": "Rzeź wiewiórek z Appalachii",			
+			"description":"<h2>Mieszkaniec dziczy</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>Jeden posiłek, który ugotujesz i zjesz, leczy dodatkowe +3 PZ</li></ul>"
 		},
 		"The Bright Side of Radiation Poisoning": {
-			"name": "The Bright Side of Radiation Poisoning"
+			"name": "Zalety zatrucia radiacyjnego",
+			"description":"<h2>Podręcznik przetrwania na pustkowiach</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>Spożycie skażonego posiłku lub napoju leczy tyle PZ, ile wypadło na @fos[DC]</li> </ul>"
 		},
 		"The Future of Hunting?": {
-			"name": "The Future of Hunting?"
+			"name": "Przyszłość polowań?",
+			"description":"<h2>Spluwy i kulki</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>Kiedy atakujesz robota, zwiększasz zadawane obrażenia o +2@fos[DC]</li> </ul>"
 		},
 		"The Gunsmith of Harper’s Ferry": {
-			"name": "The Gunsmith of Harper’s Ferry"
+			"name": "Rusznikarz z Harper’s Ferry",			
+			"description":"<h2>Mieszkaniec dziczy</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>Kiedy szukasz amunicji, znajdujesz dodatkowe +2@fos[DC] jednostki</li></ul>"
 		},
 		"The Lair of the Virgin Eaters": {
 			"name": "Siedlisko Pożeraczy Dziewic",
 			"description":"<h2>Grognak Barbarzyńca</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę..</p><ul> <li>Udźwig +10 do końca sceny</li> </ul>"
 		},
 		"The Mad Russian's Revenge!": {
-			"name": "The Mad Russian's Revenge!"
+			"name": "Zemsta Szalonego Rosjanina!",
+			"description":"<h2>Niesamowicie Niesłychane</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Zapewniają one modyfikator do obrażeń lub Odporności przeciwko przeciwnikowi lub atakowi. Efekt ten stosuje się do jednego ataku (wykonywanego lub otrzymywanego). Jeśli wykupisz dany profit na stałe, możesz go używać w każdym ataku.</p><ul> <li>+2 do Odporności na obrażenia toksyczne</li> </ul>"
+		
 		},
 		"The Moon: A Communist Doomsday Device?!": {
-			"name": "The Moon: A Communist Doomsday Device?!"
+			"name": "KSIĘŻYC: komunistyczna broń zagłady?!",
+			"description":"<h2>Spluwy i kulki</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>+2 do Odporności na obrażenia fizyczne lub energetyczne przeciwko atakowi wykonywanemu w nocy</li> </ul>"
 		},
 		"The Ohio River Hermit": {
-			"name": "The Ohio River Hermit"
+			"name": "Pustelnik znad rzeki Ohio",			
+			"description":"<h2>Mieszkaniec dziczy</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>–1 do trudności testu naprawy uszkodzonego przedmiotu (minimum 0)</li></ul>"
 		},
 		"The Secretary Charmer": {
-			"name": "The Secretary Charmer"
+			"name": "Czarująca sekretarka",			
+			"description":"<h2>Żyj i kochaj</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz korzystać <strong>przez całą scenę</strong>. Jeśli wykupisz dany profit na stałe, działa on przez cały czas.</p><ul> <li>Na początku sceny dodajesz +1 PA do puli grupowej</li></ul>"
 		},
 		"The Starlet Sniper!": {
-			"name": "The Starlet Sniper!"
+			"name": "Sexy snajperka!",
+			"description":"<h2>Niesamowicie Niesłychane</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Zapewniają one modyfikator do obrażeń lub Odporności przeciwko przeciwnikowi lub atakowi. Efekt ten stosuje się do jednego ataku (wykonywanego lub otrzymywanego). Jeśli wykupisz dany profit na stałe, możesz go używać w każdym ataku.</p><ul> <li>Kiedy atakujesz Celną bronią, otrzymujesz +1@fos[DC] do ataku</li> </ul>"
 		},
 		"Tomorrow's Technology for Today's Super Soldiers": {
 			"name": "Technologia jutra dla dzisiejszych superżołnierzy",
 			"description":"<h2>Nauka z Teslą</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę..</p><ul> <li>Po wydaniu 1 ładunku rdzenia fuzyjnego możesz wydać 1 punkt Szczęścia, żeby zanegować jego zużycie</li> </ul>"
 		},
 		"Toughness": {
-			"name": "Twardziel"
+			"name": "Twardziel",
+			"description":"Za każdą wykupioną rangę profitu twoja Odporność na obrażenia fizyczne wzrasta o +1 dla każdej lokalizacji trafienia. Za każdym razem, gdy wykupujesz ten profit, wymagany poziom doświadczenia wzrasta o +4.",
+			"requirements":"WT 6, SZ 6, poziom 1+"
 		},
 		"Trapped in the Dimension of the Pterror-dactyls": {
-			"name": "Trapped in the Dimension of the Pterror-dactyls"
+			"name": "Uwięzieni w wymiarze Pterror-daktyli!",
+			"description":"<h2>Niezwyciężeni</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Pozwalają one wydawać punkty Szczęścia, żeby uniknąć różnych rodzajów obrażeń. Jeśli wykupisz dany profit na stałe, możesz z niego korzystać, dopóki starczy ci punktów Szczęścia.</p><ul> <li>Wydaj 1 punkt Szczęścia, żeby uniknąć wszystkich obrażeń pochodzących z ataku wręcz</li> </ul>"
 		},
 		"Trim the Fat!": {
-			"name": "Trim the Fat!"
+			"name": "Spal tłuszcz!",			
+			"description":"<h2>Żyj i kochaj</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz korzystać <strong>przez całą scenę</strong>. Jeśli wykupisz dany profit na stałe, działa on przez cały czas.</p><ul> <li>Spożycie owoców leczy dwa razy więcej PZ</li></ul>"
 		},
 		"True Police Stories": {
 			"name": "Prawdziwe Historie Policyjne",
@@ -601,10 +841,12 @@
 			"description":"<h2>Nauka z Teslą</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę..</p><ul> <li>Kiedy atakujesz bronią energetyczną, powodujesz trafienie krytyczne, jeśli po odliczeniu Odporności celu zadasz mu 3 lub więcej obrażeń (zamiast normalnych 5 lub więcej)</li> </ul>"
 		},
 		"Visit the Ux-Ron Galaxy!": {
-			"name": "Visit the Ux-Ron Galaxy!"
+			"name": "Podróż do galaktyki ux-ronów!",
+			"description":"<h2>Niezwyciężeni</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Pozwalają one wydawać punkty Szczęścia, żeby uniknąć różnych rodzajów obrażeń. Jeśli wykupisz dany profit na stałe, możesz z niego korzystać, dopóki starczy ci punktów Szczęścia.</p><ul> <li>Wydaj 1 punkt Szczęścia, żeby uniknąć wszystkich obrażeń energetycznych pochodzących z pojedynczego ataku</li> </ul>"
 		},
 		"Water Aerobics for Ghouls": {
-			"name": "Water Aerobics for Ghouls"
+			"name": "Wodny aerobik dla ghuli",
+			"description":"<h2>Podręcznik przetrwania na pustkowiach</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>–1 do trudności (minimum 0) testu Atletyki, kiedy pływasz (minimum 0)</li> </ul>"
 		},
 		"What Is Plasma, Anyway?": {
 			"name": "Czym tak naprawdę jest plazma?",
@@ -615,7 +857,8 @@
 			"description":"<h2>Grognak Barbarzyńca</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę..</p><ul> <li>+2 do Odporności na obrażenia energetyczne przeciwko jednemu atakowi</li> </ul>"
 		},
 		"Who Can Stop the Unstoppable Grog-Na-Rok?!": {
-			"name": "Who Can Stop the Unstoppable Grog-Na-Rok?!"
+			"name": "Kto powstrzyma Niepowstrzymanego Grog-Na-Roka?!",
+			"description":"<h2>Niezwyciężeni</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Pozwalają one wydawać punkty Szczęścia, żeby uniknąć różnych rodzajów obrażeń. Jeśli wykupisz dany profit na stałe, możesz z niego korzystać, dopóki starczy ci punktów Szczęścia.</p><ul> <li>Wydaj 2 punkty Szczęścia, żeby uniknąć wszystkich obrażeń pochodzących z jednego ataku wykonanego przez humanoidalnego Mutanta (łącznie z ghulami i supermutantami)</li> </ul>"
 		},
 		"Will Robots Rule the World?": {
 			"name": "Czy Roboty będą rządzić światem",
@@ -623,6 +866,7 @@
 		}
 	},
 	"mapping": {
-		"description":"system.description"
+		"description":"system.description",
+		"requirements":"system.requirements"
 	}
 }
