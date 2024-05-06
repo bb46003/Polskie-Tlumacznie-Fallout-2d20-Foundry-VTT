@@ -645,5 +645,9 @@
 			"name": "Winterized Coating",
 			"description": "<p>Installed with the <strong>Repair</strong> skill.</p>\n<p>Cannot be installed on <strong>X-01 Power Armor</strong>.</p>"
 		}
+	},
+	"mapping": {
+		"description":"system.description"
+		
 	}
 }

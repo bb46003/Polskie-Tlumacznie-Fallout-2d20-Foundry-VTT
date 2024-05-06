@@ -137,5 +137,9 @@
 			"name": "Tomahawk",
 			"description": "<p>A small, short-handled axe, akin to a small hatchet. Less subtle than a throwing knife, a hurled tomahawk can certainly make an impression in an enemy.</p>"
 		}
+	},
+	"mapping": {
+		"description":"system.description"
+		
 	}
 }

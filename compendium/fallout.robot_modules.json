@@ -53,5 +53,10 @@
 			"name": "Tesla Coils",
 			"description": "<p>A collection of antennae on the robot&rsquo;s outer surface allow it to direct electrical discharges over a short distance to nearby aggressors. The partially directed nature of these discharges mean that allies are not at risk of more than a mild shock, while enemies may suffer severe electrical burns.</p>"
 		}
+	},
+	"mapping": {
+		"description":"system.description"
+		
 	}
+	
 }

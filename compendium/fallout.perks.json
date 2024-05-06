@@ -31,7 +31,7 @@
 		"Adamantium Skeleton": {
 			"name": "Szkielet z Admantytu",
 			"description":"Każda ranga tego profitu zwiększa liczbę obrażeń wymaganych, żeby wymierzony w ciebie atak liczył się jako trafienie krytyczne. Na przykład jeśli masz pierwszą rangę, w pojedynczym ataku musisz otrzymać 6 lub więcej obrażeń, żeby ucierpieć od trafienia krytycznego (normalnie 5 lub więcej). Za każdym razem, gdy wykupujesz ten profit, wymagany poziom doświadczenia wzrasta o +3.",
-			"requirements":"WYT 7, poziom 1+"
+			"requirements":"WT 7, poziom 1+"
 		},
 		"Adrenalin Rush": {
 			"name": "Kop Adrenaliny",

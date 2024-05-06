@@ -2,43 +2,52 @@
   "id": "fallout-pl",
   "title": "Polskie tłumacznie systemu Fallout 2d20",
   "description": "Dzięki uprzejmości AlisGames wszystkie tłumaczneia podzą z Polskiego wydania gry Fallout 2d20",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "license": "LICENSE",
   "compatibility": {
     "minimum": "11",
-    "verified": "11.302",
-    "maximum": "12"
+    "verified": "11.315"
   },
   "authors": [
     {
       "name": "Bartek",
-       "discord": "bartek6199"
+      "discord": "bartek6199",
+      "flags": {}
     }
   ],
- "relationships": {
+  "relationships": {
     "systems": [
-      {"id": "fallout"}
+      {
+        "id": "fallout",
+        "type": "system",
+        "compatibility": {}
+      }
     ],
     "requires": [
       {
         "id": "babele",
-        "type": "module"
+        "type": "module",
+        "compatibility": {}
       },
       {
         "id": "lib-wrapper",
-        "type": "module"
+        "type": "module",
+        "compatibility": {}
       }
     ]
   },
   "esmodules": [
     "javascript/babele-register.js"
   ],
-  "styles": ["css/fallout.css"],
+  "styles": [
+    "css/fallout.css"
+  ],
   "languages": [
     {
       "lang": "pl",
       "name": "Polski",
-      "path": "pl.json"    
+      "path": "pl.json",
+      "flags": {}
     }
   ],
   "url": "https://github.com/bb46003/Polskie-Tlumacznie-Fallout-2d20-Foundry-VTT",

@@ -81,5 +81,9 @@
 			"name": "Weeping Sores",
 			"description": "<p>Whenever you suffer Physical damage, you suffer +1 Physical damage at the start of your next turn, ignoring damage resistance</p>"
 		}
+	},
+	"mapping": {
+		"description":"system.description"
+		
 	}
 }

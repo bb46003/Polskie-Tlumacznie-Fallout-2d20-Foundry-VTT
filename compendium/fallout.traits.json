@@ -1,45 +1,49 @@
 {
-	"label": "Traits",
+	"label": "Atuty",
 	"entries": {
 		"Educated": {
-			"name": "Educated",
-			"description": "<p>You have one additional tag skill.</p>\n<p>When you fail a skill test using a skill other than a tag skill, the GM gains 1 AP.</p>"
+			"name": "Erudycja",
+			"description": "<p><strong>Korzyści:</strong>Otrzymujesz dodatkową specjalizację.</p>\n<p><strong>Wady:</strong>Jeśli nie zdasz testu umiejętności innej niż specjalizacja,mistrz gry zyskuje 1 PA.</p>"
 		},
 		"Fast Shot": {
-			"name": "Fast Shot",
-			"description": "<p>If you take a second major action in combat, and use it to make a ranged attack, the additional major action only costs 1 AP, rather than 2.</p>\n<p>You cannot benefit from the Aim minor action&mdash;you&rsquo;re too impatient.</p>"
+			"name": "Szybki cyngiel",
+			"description": "<p><strong>Korzyści:</strong>Jeśli zdecydujesz się wykonać w walce dodatkową akcję główną, która będzie atakiem dystansowym, zapłacisz za nią tylko 1 PA (a nie 2).</p>\n<p><strong>Wady:</strong>Nie otrzymujesz żadnych korzyści z pomniejszej akcji celowania – jesteś na to zbyt niecierpliwy.</p>"
 		},
 		"Forced Evolution": {
-			"name": "Forced Evolution",
-			"description": "<p>Your initial Strength and Endurance attributes are increased by +2 each, and your maximum Strength and Endurance are increased to 12, but your maximum Intelligence and Charisma are both reduced to 6. You may not have more than 4 ranks in any skill. You are completely immune to radiation and poison damage.</p>\n<p>You stand over seven feet tall, and your body is bulky and muscular. Your skin is green, yellow, or grey, regardless of what color it was when you were human. You do not seem to age, but you are sterile.&nbsp;You can only wear armor which has been made to fit a super mutant.</p>"
-		},
+			"name": "Wymuszona ewolucja",
+			"description": "<p>Otrzymujesz +2 do początkowej Siły i Wytrzymałości, a ich maksymalna wartość wynosi 12. Jednocześnie maksymalna wartość Inteligencji i Charyzmy spada do 6. W żadnej umiejętności nie możesz mieć więcej niż 4 poziomy. Jesteś całkowicie odporny na obrażenia radiacyjne i toksyczne.</p>\n<p>Mierzysz dobrze ponad siedem stóp wzrostu(2,1m), a twoje ciało jest masywne i muskularne. Niezależnie od koloru skóry, jaki miałeś, gdy byłeś człowiekiem, teraz przybrała ona kolor zielony, żółtawy lub szary. Nie starzejesz się i jesteś bezpłodny. Możesz nosić pancerz, choć musi on być specjalnie dostosowany dla supermutantów.</p>"
+	},
 		"Gifted": {
-			"name": "Gifted",
-			"description": "<p>Choose two S.P.E.C.I.A.L. attributes and increase them by +1 each.</p>\n<p>Your maximum number of Luck points is one fewer than your Luck attribute.</p>"
-		},
+			"name": "Zdolniacha",
+			"description": "<p><strong>Korzyści:</strong>Wybierasz dwa atrybuty i zwiększasz ich wartość o 1.</p>\n<p><strong>Wady:</strong>Liczba twoich punktów Szczęścia jest o 1 niższa, niż wynika to z wartości atrybutu Szczęście.<p>"
+			},
 		"Heavy Handed": {
-			"name": "Heavy Handed",
-			"description": "<p>Your Melee Damage bonus increases by +1 @fos[DC]</p>\n<p>Your melee and unarmed attacks suffer a complication on a 19 or 20, rather than only a 20.</p>"
+			"name": "Brutal",
+			"description": "<p><strong>Korzyści:</strong>+1@fos[DC] do obrażeń w walce wręcz.</p>\n<p><strong>Wady:</strong>Zakres komplikacji w atakach wręcz zwiększa się do 19-20.</p>"
 		},
 		"Mister Handy Robot": {
-			"name": "Mister Handy Robot",
-			"description": "<p>You have 360&deg; vision and improved sensory systems that can detect smells, chemicals, and radiation, reducing the difficulty of Perception tests that rely on sight and smell by 1. You are also immune to radiation and poison damage, but you cannot use chems, nor can you benefit from food, drink, or rest. You move by jet propulsion, hovering above the ground, unaffected by difficult terrain or obstacles. Your carry weight is 150 lbs., and it cannot be increased by your Strength or perks, but it can be increased by modified armor. You cannot recover from your own injuries or heal health points without receiving repairs (see Healing Robots, p.34).</p>\n<p>You cannot manipulate the physical world like humans do, instead you have three of the arm attachments in the Arm Attachments table, determined by your choice of equipment pack. If you select an arm that features a weapon, you also gain 20 shots of ammo for that weapon.</p>"
-		},
+			"name": "Robot Złota Rączka",
+			"description": "<p>Twoje pole widzenia wynosi 360°, a ulepszone sensory wykrywają zapachy, substancje chemiczne i promieniowanie, co zmniejsza o –1 trudność testów Percepcji opartych na węchu i wzroku. Jesteś odporny na promieniowanie i trucizny, jednak nie możesz zażywać środków chemicznych ani korzystać z efektów jedzenia, napojów oraz odpoczynku. Napęd odrzutowy pozwala ci unosić się nad ziemią, dzięki czemu bez kłopotów pokonujesz trudny teren i przeszkody. Twój udźwig wynosi 150 funtów i nie możesz go zwiększać za pomocą Siły i profitów – robisz to, montując zmodyfikowany pancerz. Nie możesz zdrowieć i leczyć się w naturalny sposób, a otrzymane przez ciebie obrażenia muszą zostać naprawione (patrz Naprawianie robotów, strona 34).</p>\n<p> W porównaniu z ludźmi twoje możliwości interakcji ze światem są ograniczone. W zależności od wybranego zestawu wyposażenia, masz do dyspozycji trzy akcesoria, każde na końcu jednego z trzech ramion. Jeśli wybrałeś ramię z bronią, otrzymujesz do niej 20 jednostek amunicji.</p>"
+			},
 		"Necrotic Post-Human": {
-			"name": "Necrotic Post-Human",
-			"description": "<p>You are immune to radiation damage. In fact, you&rsquo;re healed by it&mdash;you regain 1 HP for every 3 points of radiation damage inflicted upon you, and if you rest in an irradiated location, you may re-roll your dice pool when checking if your injuries heal. In addition, Survival becomes a Tag skill, increasing it by 2 ranks.</p>\n<p>You age at a much-decreased rate, and you&rsquo;re probably older than your unmutated companions&mdash;you may even have survived the Great War of 2077&mdash;but you&rsquo;re sterile: &ldquo;the first generation of ghouls is the last&rdquo; as the saying goes. You may face discrimination from &ldquo;smoothskins&rdquo; (humans who aren&rsquo;t ghouls), increasing the difficulty or complication range of Charisma tests depending on your opponent&rsquo;s beliefs.</p>"
+			"name": "Nekrotyczny postczłowiek",
+			"description": "<p>Jesteś niewrażliwy na obrażenia radiacyjne – co więcej, możesz się dzięki nim leczyć. Za każde otrzymane 3 punkty obrażeń radiacyjnych odzyskujesz 1 Punkt Zdrowia. Jeśli odpoczywasz w napromieniowanym miejscu, przy rzucie na zdrowienie możesz przerzucić całą pulę kości. Dodatkowo otrzymujesz specjalizację w Przetrwaniu (co zwiększa jego poziom o +2).</p>\n<p> Bardzo wolno się starzejesz i prawdopodobnie jesteś starszy od swoich niezmutowanych towarzyszy – być może nawet przeżyłeś Wielką Wojnę z 2077 roku. Niestety z powodu promieniowania jesteś bezpłodny; jak głosi znane powiedzenie: pierwsze pokolenie ghuli jest zarazem ostatnim. Bądź przygotowany na przejawy dyskryminacji ze strony „gładkoskórych” (czyli ludzi, którzy nie są ghulami). W zależności od przekonań twojego przeciwnika zwiększa to trudność lub zakres komplikacji testów Charyzmy.</p>"
 		},
 		"Small Frame": {
-			"name": "Small Frame",
-			"description": "<p>You may re-roll 1d20 on all AGI tests which rely on balance or contortion.</p>\n<p>Your carry weight is 150 + (5 x STR) lbs., rather than 150 + (10 x STR) lbs.</p>"
+			"name": "Drobna postura",
+			"description": "<p><strong>Korzyści:</strong>Możesz przerzucić 1k20 w każdym teście ZR związanym z zachowaniem równowagi lub gibkością.</p>\n<p><strong>Wady:</strong>Twój udźwig w funtach to 150 + Siła pomnożona przez 5, a nie przez 10.</p>"
 		},
 		"The Chain that Binds": {
-			"name": "The Chain that Binds",
-			"description": "<p>You gain one additional Tag skill, which must be one of Energy Weapons, Science, or Repair.</p>\n<p>As a member of the Brotherhood of Steel, you are bound by the chain of command: The Chain that Binds. You must carry out the orders of your immediate superiors, and you are responsible for your subordinate siblings. If you do not carry out your duty, you are expelled from the Brotherhood and your technology will be reclaimed&mdash;by any means necessary.</p>"
+			"name": "Łańcuch więzi",
+			"description": "<p>Zyskujesz dodatkową specjalizację w jednej z umiejętności: Broń energetyczna, Naprawa lub Nauka.</p>\n<p> Jesteś członkiem Bractwa Stali, w którym obowiązuje łańcuch dowodzenia. Musisz wypełniać rozkazy swoich bezpośrednich przełożonych i jesteś odpowiedzialny za niższych rangą braci. Niesubordynacja lub niedopełnienie obowiązków będą skutkowały wygnaniem z Bractwa i odebraniem przekazanej ci technologii – wszelkimi możliwymi sposobami.</p>"
 		},
 		"Vault Kid": {
-			"name": "Vault Kid",
-			"description": "<p>Your healthier start to life at the hands of trained doctors and sophisticated auto-docs means you reduce the difficulty of all END tests to resist the effects of disease. In addition, your carefully-planned upbringing means you have one additional tag skill of your choice.</p>\n<p>You may also work with the Gamemaster to determine what sort of experiment took place within your Vault. Once per quest, the GM may introduce a complication which reflects the nature of the experiment you unwittingly took part in, or introduce a complication related to your early life of isolation and confinement within the Vault. If the GM does this, you immediately regain one Luck Point.</p>"
+			"name": "Dzieciak z krypty",
+			"description": "<p>Przebywając pod opieką wyszkolonych lekarzy i zaawansowanych technologicznie auto-doków, miałeś zdrowszy życiowy start. Dzięki temu zmniejszasz o –1 trudność wszystkich testów WT wykonywanych przeciwko efektom chorób. Ze względu na starannie zaplanowane wychowanie otrzymujesz też jedną dodatkową specjalizację.</p>\n<p>W porozumieniu z mistrzem gry możesz ustalić, jakie eksperymenty toczyły się w twojej krypcie. Raz na misję MG może wprowadzić komplikację, która ma związek z charakterem przeprowadzanych badań, jakim zostałeś nieświadomie poddany, lub taką, która ma związek z dzieciństwem spędzonym w odizolowanej społeczności podziemnego bunkra. Jeśli MG to zrobi, natychmiast odzyskujesz 1 punkt Szczęścia.</p>"
 		}
+	},
+	"mapping": {
+		"description":"system.description"
+		
 	}
 }
