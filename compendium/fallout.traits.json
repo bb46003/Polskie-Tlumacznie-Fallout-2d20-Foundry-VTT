@@ -12,7 +12,7 @@
 		"Forced Evolution": {
 			"name": "Wymuszona ewolucja",
 			"description": "<p>Otrzymujesz +2 do początkowej Siły i Wytrzymałości, a ich maksymalna wartość wynosi 12. Jednocześnie maksymalna wartość Inteligencji i Charyzmy spada do 6. W żadnej umiejętności nie możesz mieć więcej niż 4 poziomy. Jesteś całkowicie odporny na obrażenia radiacyjne i toksyczne.</p>\n<p>Mierzysz dobrze ponad siedem stóp wzrostu(2,1m), a twoje ciało jest masywne i muskularne. Niezależnie od koloru skóry, jaki miałeś, gdy byłeś człowiekiem, teraz przybrała ona kolor zielony, żółtawy lub szary. Nie starzejesz się i jesteś bezpłodny. Możesz nosić pancerz, choć musi on być specjalnie dostosowany dla supermutantów.</p>"
-	},
+		},
 		"Gifted": {
 			"name": "Zdolniacha",
 			"description": "<p><strong>Korzyści:</strong>Wybierasz dwa atrybuty i zwiększasz ich wartość o 1.</p>\n<p><strong>Wady:</strong>Liczba twoich punktów Szczęścia jest o 1 niższa, niż wynika to z wartości atrybutu Szczęście.<p>"
@@ -24,7 +24,7 @@
 		"Mister Handy Robot": {
 			"name": "Robot Złota Rączka",
 			"description": "<p>Twoje pole widzenia wynosi 360°, a ulepszone sensory wykrywają zapachy, substancje chemiczne i promieniowanie, co zmniejsza o –1 trudność testów Percepcji opartych na węchu i wzroku. Jesteś odporny na promieniowanie i trucizny, jednak nie możesz zażywać środków chemicznych ani korzystać z efektów jedzenia, napojów oraz odpoczynku. Napęd odrzutowy pozwala ci unosić się nad ziemią, dzięki czemu bez kłopotów pokonujesz trudny teren i przeszkody. Twój udźwig wynosi 150 funtów i nie możesz go zwiększać za pomocą Siły i profitów – robisz to, montując zmodyfikowany pancerz. Nie możesz zdrowieć i leczyć się w naturalny sposób, a otrzymane przez ciebie obrażenia muszą zostać naprawione (patrz Naprawianie robotów, strona 34).</p>\n<p> W porównaniu z ludźmi twoje możliwości interakcji ze światem są ograniczone. W zależności od wybranego zestawu wyposażenia, masz do dyspozycji trzy akcesoria, każde na końcu jednego z trzech ramion. Jeśli wybrałeś ramię z bronią, otrzymujesz do niej 20 jednostek amunicji.</p>"
-			},
+		},
 		"Necrotic Post-Human": {
 			"name": "Nekrotyczny postczłowiek",
 			"description": "<p>Jesteś niewrażliwy na obrażenia radiacyjne – co więcej, możesz się dzięki nim leczyć. Za każde otrzymane 3 punkty obrażeń radiacyjnych odzyskujesz 1 Punkt Zdrowia. Jeśli odpoczywasz w napromieniowanym miejscu, przy rzucie na zdrowienie możesz przerzucić całą pulę kości. Dodatkowo otrzymujesz specjalizację w Przetrwaniu (co zwiększa jego poziom o +2).</p>\n<p> Bardzo wolno się starzejesz i prawdopodobnie jesteś starszy od swoich niezmutowanych towarzyszy – być może nawet przeżyłeś Wielką Wojnę z 2077 roku. Niestety z powodu promieniowania jesteś bezpłodny; jak głosi znane powiedzenie: pierwsze pokolenie ghuli jest zarazem ostatnim. Bądź przygotowany na przejawy dyskryminacji ze strony „gładkoskórych” (czyli ludzi, którzy nie są ghulami). W zależności od przekonań twojego przeciwnika zwiększa to trudność lub zakres komplikacji testów Charyzmy.</p>"
