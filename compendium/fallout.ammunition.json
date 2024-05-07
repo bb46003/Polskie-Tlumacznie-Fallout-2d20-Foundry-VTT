@@ -1,140 +1,140 @@
 {
-	"label": "Ammunition",
+	"label": "Amunicja",
 	"entries": {
 		".308 Round": {
-			"name": ".308 Round",
+			"name": "Naboje .308",
 			"description": "<p><span class=\"fontstyle0\">A high-powered rifle round normally used in hunting rifles and some bolt-action pipe rifles. They&rsquo;re a common enough sight in the wastelands that a weapon using .308 rounds is unlikely to run out of ammunition too often.</span></p>\n<p><strong>Quantity Found: </strong>[[/r 6+3dc # .308 Round]]</p>"
 		},
 		".38 Round": {
-			"name": ".38 Round",
+			"name": "Naboje .38",
 			"description": "<p><span class=\"fontstyle0\">Small-caliber pistol ammunition designed for double-action revolvers before the Great War. Abundant enough that it is the ammunition of choice for most makeshift firearms, and several more powerful weapons can be modified to accept a .38 cartridge, sacrificing stopping power for availability of ammunition.</span></p>\n<p><strong>Quantity Found:</strong> [[/r 10+5dc # .38 Round]]</p>"
 		},
 		".44 Magnum Round": {
-			"name": ".44 Magnum Round",
+			"name": "Naboje.44 Magnum",
 			"description": "<p><span class=\"fontstyle0\">The powerful .44 Magnum round was originally developed for revolvers. Its excellent stopping power makes it well suited for any inhabitant of the wasteland needing a round capable of stopping monsters, human or otherwise. All this is limited mainly by the scarcity of these rounds.</span></p>\n<p><strong>Quantity Found:</strong> [[/r 4+2dc # .44 Magnum Round]]</p>"
 		},
 		".45 Round": {
-			"name": ".45 Round",
+			"name": "Naboje .45",
 			"description": "<p><span class=\"fontstyle0\">A decent round which combines reasonable stopping power with manageable recoil and decent accuracy. It&rsquo;s used by a few different weapons found commonly in the wastelands and isn&rsquo;t too scarce.</span></p>\n<p><strong>Quantity Found:</strong> [[/r 8+4dc # .45 Round]]</p>"
 		},
 		".50 Round": {
-			"name": ".50 Round",
+			"name": "Naboje .50",
 			"description": "<p><span class=\"fontstyle0\">Large, high-powered, high-performance rounds used only in the most powerful rifles. These rounds were normally used for heavy machine guns and anti-materiel rifles pre-War, so supplies of them tend to be scarce unless there&rsquo;s a military base nearby. A shot from one of these will make a mess of anything it hits, but you need to make every shot count.</span></p>\n<p><strong>Quantity Found:</strong> [[/r 4+2dc # .50 Round]]</p>"
 		},
 		"10mm Round": {
-			"name": "10mm Round",
+			"name": "Naboje 10mm",
 			"description": "<p><span class=\"fontstyle0\">One of the most common types of pistol round found in the wastelands, manufactured in vast quantities before the Great War to accompany the large numbers of 10mm pistols they were producing as sidearms for soldiers, and as personal defense weapons for civilians.</span></p>\n<p><strong>Quantity Found:</strong> [[/r 8+4dc # 10mm Round]]</p>"
 		},
 		"2mm Electromagnetic Cartridge": {
-			"name": "2mm Electromagnetic Cartridge",
+			"name": "2mm KE",
 			"description": "<p><span class=\"fontstyle0\">The 2mm Electromagnetic Cartridge is a self-contained magazine containing high-velocity ferromagnetic projectiles and the battery pack necessary to power the gauss weapon they are fired from.</span></p>\n<p><span class=\"fontstyle0\">This ammunition is not found loose, but in magazines containing the number of shots generated (and sufficient battery charge to power the weapon for those shots).</span></p>\n<p><strong>Quantity Found:</strong> [[/r 6+3dc # 2mm Electromagnetic Cartridge]]</p>"
 		},
 		"5.56mm Round": {
-			"name": "5.56mm Round",
+			"name": "Naboje 5.56mm",
 			"description": "<p><span class=\"fontstyle0\">A lightweight, Accurate rifle round normally used in assault rifles. Developed centuries ago for the U.S. Army&rsquo;s standard rifle of the era, 5.56mm rounds remained in production and use right up until the end of the Great War, and if you know where to look they&rsquo;re easy enough to find.</span></p>\n<p><strong>Quantity Found:</strong> [[/r 8+4dc # 5.56mm Round]]</p>"
 		},
 		"5mm Round": {
-			"name": "5mm Round",
+			"name": "Naboje 5mm",
 			"description": "<p><span class=\"fontstyle0\">Small-caliber rifle rounds normally used by the military in miniguns. While supplies of these weapons are rare, they&rsquo;re normally found in large quantities. The problem is that the weapons which use them consume ammunition at a prodigious rate, and a full box of 5mm rounds doesn&rsquo;t last long.</span></p>\n<p><strong>Quantity Found:</strong> [[/r 10*(12+6dc) # 5mm Round]]</p>"
 		},
 		"Baseball Grenade": {
-			"name": "Baseball Grenade",
+			"name": "Granaty baseballowy",
 			"description": "<p>Little more than a hollowed-out baseball filled with an improvised explosive mixture, these grenades are crude, low-tech, and easy to make, dealing a moderate amount of damage to those within the blast.</p>"
 		},
 		"Bottlecap Mine": {
-			"name": "Bottlecap Mine",
+			"name": "Miny kapslowe",
 			"description": "<p><span class=\"fontstyle0\">The Bottlecap mine is crudely put together, yet a formidable explosive. Bottlecap mines are constructed from a simple container such as a lunchbox, filled with bottle caps and a crude explosive mixture, and </span><span class=\"fontstyle0\">fitted with a sensor and a detonator. The explosive force hurls the caps over a wide area at such speed that they are essentially shrapnel.</span></p>\n<p><span class=\"fontstyle2\"><strong>Special:</strong>&nbsp;</span><span class=\"fontstyle0\">when constructing a Bottlecap mine, you may add extra bottlecaps; every 10 caps added increases the damage by +1 @fos[DC]</span><span class=\"fontstyle0\">. When the mine detonates, roll the damage rating a second time: the total rolled is the number of intact caps found in the zone where the mine detonated.</span> <br><br></p>"
 		},
 		"Flamer Fuel": {
-			"name": "Flamer Fuel",
+			"name": "Paliwo do miotacza ognia ",
 			"description": "<p><span class=\"fontstyle0\">A highly flammable chemical mixture designed to be used in a flamer. The quality of flamer fuel varies, but most tend to be a viscous substance that stays burning at a high temperature or a long duration, to make for an effective weapon.</span></p>\n<p><span class=\"fontstyle0\">When flamer fuel is found, it is in the form of a canister containing enough fuel for the number of shots generated.</span></p>\n<p><strong>Quantity Found:</strong> [[/r 12+6dc # Flamer Fuel]]</p>"
 		},
 		"Flare": {
-			"name": "Flare",
+			"name": "Flary",
 			"description": "<p><span class=\"fontstyle0\">A small tube like a shotgun cartridge, containing a chemical which burns brightly when ignited. Fired from a flare gun, which ignites a fuse upon launching: the flare shoots up into the sky, illuminating the area around it and then drifting down on a plume of white smoke. Good for signaling for help, not for much else.</span> </p>\n<p><strong>Quantity Found:</strong> [[/r 2+1dc]]</p>"
 		},
 		"Frag Grenade": {
-			"name": "Frag Grenade",
+			"name": "Granaty odłamkowe",
 			"description": "<p>A basic fragmentation grenade, consisting of an explosive core within a metal casing designed to shatter into shrapnel upon detonation. They&rsquo;re simple and highly effective. Just remember to throw the grenade, and not the pin.</p>"
 		},
 		"Frag Mine": {
-			"name": "Frag Mine",
+			"name": "Miny odłamkowe",
 			"description": "<p><span class=\"fontstyle0\">Similar in design and construction to a frag grenade, a fragmentation mine is instead placed on the ground and uses a pressure plate or proximity sensor to trigger detonation when someone gets too close.</span></p>"
 		},
 		"Fusion Cell": {
-			"name": "Fusion Cell",
+			"name": "Ogniwa fuzyjne",
 			"description": "<p><span class=\"fontstyle0\">A microfusion cell&mdash;or fusion cell&mdash;is a miniaturized fusion reactor used in light energy weapons. They use volatile hydrogen isotopes which undergo fusion when subjected to extreme heat and pressure, and they can explode if exposed to a significant external heat source. Difficult to refuel without the proper facilities, these cells are often simply disposed of when depleted.</span></p>\n<p><span class=\"fontstyle0\">When fusion cell ammunition is found, it is in the form of a single cell containing the number of shots generated.</span></p>\n<p><strong>Quantity Found:</strong> [[/r 14+7 # Fusion Cell]]</p>"
 		},
 		"Fusion Core": {
-			"name": "Fusion Core",
+			"name": "Rdzeńfuzyjny",
 			"description": "<p><span class=\"fontstyle0\">Pre-War fusion cores are high-grade, long-term nuclear batteries. A single core can power a small building for a long time or provide a lot of power for something very quickly. Most suits of Power Armor accept a fusion core power source, which lasts for several hours of activity. They can also be used as the ammunition supply for a Gatling laser.</span></p>\n<p><span class=\"fontstyle0\">When discovered, a fusion core contains a number of charges equal to 10 plus the user&rsquo;s Science skill (people with more scientific knowledge can utilize the power more efficiently; the Nuclear Physicist perk also adds extra charges, see p.68). How these charges are used or depleted depends on what they&rsquo;re plugged into (see Power Armor, p.123).</span></p>\n<p><span class=\"fontstyle0\">When used as the ammunition for a Gatling laser, each charge a fusion core contains translates to 50 shots for a Gatling laser. As a Gatling weapon, the Gatling laser consumes ammunition ten times as quickly as most weapon (see </span><span class=\"fontstyle2\">Gatling</span><span class=\"fontstyle0\">, p.90).</span></p>\n<p><span class=\"fontstyle0\">The Scavenger perk cannot increase the number of fusion cores found.</span></p>\n<p><strong>Quantity Found:</strong> [[/r 1 # Fusion Core]]</p>"
 		},
 		"Gamma Round": {
-			"name": "Gamma Round",
+			"name": "Naboje gamma",
 			"description": "<p><span class=\"fontstyle0\">A large, plastic-coated battery, capable of containing the charge needed to power a Gamma Gun.</span></p>\n<p><strong>Quantity Found:</strong> [[/r 4+2dc # Gamma Round]]</p>"
 		},
 		"Javelin": {
-			"name": "Javelin",
+			"name": "Oszczepy",
 			"description": "<p>A short spear, not typically sturdy enough for close-in fighting, a javelin can be thrown a considerable distance.</p>"
 		},
 		"Mini-Nuke": {
-			"name": "Mini-Nuke",
+			"name": "Miniatomówki",
 			"description": "<p><span class=\"fontstyle0\">A small, football-sized tactical nuclear warhead designed to be hurled by a launcher to a safe distance. Mini-Nukes are extremely rare and found only in small quantities.</span></p>\n<p><span class=\"fontstyle0\">The Scavenger perk cannot increase the number of Mini-Nukes found.</span></p>\n<p><strong>Quantity Found:</strong> [[/r 1+1dc # Mini-Nuke]]</p>"
 		},
 		"Missile": {
-			"name": "Missile",
+			"name": "Rakiety",
 			"description": "<p><span class=\"fontstyle0\">Compact high-explosive rockets designed to be launched from a missile launcher. They are capable of steering to a target under control from a guidance system, if the launcher has one, which means that makeshift rockets won&rsquo;t work in their place.</span></p>\n<p><span class=\"fontstyle0\">When found by a character with the Scavenger perk, roll only +1</span><span class=\"fontstyle2\">C</span><span class=\"fontstyle2\">D </span><span class=\"fontstyle0\">per Rank, rather than the normal bonus amount.</span></p>\n<p><strong>Quantity Found:</strong> [[/r 2+1dc # Missile]]</p>"
 		},
 		"Molotov Cocktail": {
-			"name": "Molotov Cocktail",
+			"name": "Koktajle Mołotowa",
 			"description": "<p>Consisting of a glass bottle&mdash;normally from an alcoholic beverage&mdash;containing a flammable fuel mixture, a bit of motor oil to help it spread, and an alcohol-soaked rag stuffed in the top to act as a wick. When used, the wick is ignited and the bottle hurled at the target; the breaking bottle spreads the agitated mixture, which quickly ignites begins to burn anything in the vicinity. Cheap and effective.</p>"
 		},
 		"Nuka Grenade": {
-			"name": "Nuka Grenade",
+			"name": "Nuka-granaty",
 			"description": "<p><span class=\"fontstyle0\">A tiny, handheld tactical nuclear weapon, a Nuka Grenade is extremely dangerous to use&mdash;dropping one is ill-advised&mdash;but devastatingly effective, comparable to the mini-nukes used by the Fat Man launcher.</span></p>"
 		},
 		"Nuke Mine": {
-			"name": "Nuke Mine",
+			"name": "Miny atomowa",
 			"description": "<p><span class=\"fontstyle0\">It is a nuclear variant of a landmine. The Nuke mine operates in all respects as other mines do although its explosion is more akin to that of a mini-nuke. Naturally, this means that they inflict damage from both the explosion and from the radiation the blast emits.</span></p>"
 		},
 		"Plasma Cartridge": {
-			"name": "Plasma Cartridge",
+			"name": "Wkłady plazmowe",
 			"description": "<p><span class=\"fontstyle0\">Plasma weapons draw power and fuel from a plasma cartridge, a combination of fusion cell to power the weapon, and a capsule containing a stable version of the chemical which becomes the plasma which the weapon fires.</span></p>\n<p><strong>Quantity Found:</strong> [[/r 10_5dc # Plasma Cartridge]]</p>"
 		},
 		"Plasma Grenade": {
-			"name": "Plasma Grenade",
+			"name": "Granaty plazmowe",
 			"description": "<p>A canister containing chemicals which are rapidly transformed into superheated ionized gas&mdash;or plasma&mdash;upon detonation. The blast of a plasma grenade generates vast amounts of heat which more than makes up for the lack of shrapnel or concussive shockwaves.</p>\n<p>Special: Plasma grenades inflict both physical and energy damage. Roll damage as normal, and then reduce the total by whichever of the target&rsquo;s damage resistances is lower out of Physical or Energy.</p>\n<p>&nbsp;</p>"
 		},
 		"Plasma Mine": {
-			"name": "Plasma Mine",
+			"name": "Miny plazmowe",
 			"description": "<p><span class=\"fontstyle0\">These magnetically sealed mines unleash a blast of energized plasma upon being triggered, searing those who tripped the mine&rsquo;s sensors.</span></p>\n<p><span class=\"fontstyle2\"><strong>Special:</strong>&nbsp;</span><span class=\"fontstyle0\">Plasma minflict both Physical and Energy damage. Roll damage as normal, and then reduce the total by whichever of the target&rsquo;s damage resistances is lower out of Physical or Energy.</span></p>"
 		},
 		"Pulse Grenade": {
-			"name": "Pulse Grenade",
+			"name": "Granaty elektromagnetyczna(EM)",
 			"description": "<p><span class=\"fontstyle0\">Pulse grenades emit a burst of electromagnetism which inflicts massive damage to machines&mdash;such as robots, synths, and Power Armor&mdash;within the vicinity, while leaving living creatures unharmed.</span></p>\n<p><span class=\"fontstyle2\"><strong>Special:</strong>&nbsp;</span><span class=\"fontstyle0\">Pulse grenades only inflict damage to robots, synths, Power Armor (though not the wearer within) and other mechanical or technological targets. Any computers in the blast are also damaged by the grenade. Against any other target, Pulse grenades inflict 0 damage.</span> <br><br></p>"
 		},
 		"Pulse Mine": {
-			"name": "Pulse Mine",
+			"name": "Miny elektromagnetyczna(EM)",
 			"description": "<p>The mine consists of a powerful EMP device wired to a proximity fuse and then secured inside a heavy metal casing. While only mildly harmful to organic targets, these mines deal severe damage to robotic enemies, stunning or even permanently disabling them.</p>\n<p><strong>Special:</strong> Pulse mines only inflict damage to robots, synths, Power Armor (though not the wearer within) and other mechanical or technological targets. Any computers in the blast are also damaged by the grenade. Against any other target, pulse mines inflict 0 damage.</p>"
 		},
 		"Railway Spike": {
-			"name": "Railway Spike",
+			"name": "Gwoździe z torowiska",
 			"description": "<p><span class=\"fontstyle0\">Iron spikes designed for fastening railway tracks in place. Not as easy to find as you might think, given their mundane origins.</span></p>\n<p><strong>Quantity Found:</strong> [[/r 6+3dc # Railway Spike]]</p>"
 		},
 		"Shotgun Shell": {
-			"name": "Shotgun Shell",
+			"name": "Naboje do strzelby",
 			"description": "<p><span class=\"fontstyle0\">The standard shotgun shell found in the wastelands is a 12 gauge 2 3/4&rdquo; cartridge filled with #0 buckshot. Relatively easy to find, those living in the wastes often keep a shotgun handy for close encounters.</span></p>\n<p><strong>Quantity Found:</strong> [[/r 6+3dc # Shotgun Shell]]</p>"
 		},
 		"Syringer Ammo": {
-			"name": "Syringer Ammo",
+			"name": "Naboje-strzykawki",
 			"description": "<p><span class=\"fontstyle0\">Syringer ammunition comes in the following forms, often hand-crafted by wasteland chemists. None of the Effects listed here may apply more than once at the same time to a single target.</span></p>\n<p><span class=\"fontstyle0\"><strong>Quantity Found:</strong> [[/r 4+2dc # Syringer Ammo]]</span></p>\n<p>&nbsp;</p>\n<table class=\"NormalTable\" style=\"width: 99.9524%; height: 285.6px;\">\n<tbody>\n<tr style=\"height: 16.8px;\">\n<td style=\"border-style: none; width: 19.3619%; height: 16.8px;\" width=\"200\"><strong><span class=\"fontstyle0\">AMMO NAME </span></strong></td>\n<td style=\"border-style: none; width: 72.1312%; height: 16.8px;\" width=\"200\"><strong><span class=\"fontstyle0\">EFFECT </span></strong></td>\n<td style=\"border-style: none; width: 8.47999%; height: 16.8px; text-align: center;\" width=\"200\"><strong><span class=\"fontstyle0\">COST</span></strong></td>\n</tr>\n<tr style=\"height: 33.6px;\">\n<td style=\"border-style: none; width: 19.3619%; height: 33.6px;\" width=\"200\"><span class=\"fontstyle2\">Berserk</span></td>\n<td style=\"border-style: none; width: 72.1312%; height: 33.6px;\" width=\"200\"><span class=\"fontstyle2\">If one or more Effects are rolled for the weapon&rsquo;s damage, the target becomes frenzied and berserk, attacking the nearest living creature (friend or foe) for the remainder of the scene.</span></td>\n<td style=\"border-style: none; width: 8.47999%; height: 33.6px; text-align: center;\" width=\"200\"><span class=\"fontstyle2\">50</span></td>\n</tr>\n<tr style=\"height: 16.8px;\">\n<td style=\"border-style: none; width: 19.3619%; height: 16.8px;\" width=\"200\"><span class=\"fontstyle2\">Bleed-Out </span></td>\n<td style=\"border-style: none; width: 72.1312%; height: 16.8px;\" width=\"200\"><span class=\"fontstyle2\">The weapon gains the Persistent damage effect. </span></td>\n<td style=\"border-style: none; width: 8.47999%; height: 16.8px; text-align: center;\" width=\"200\"><span class=\"fontstyle2\">17</span></td>\n</tr>\n<tr style=\"height: 33.6px;\">\n<td style=\"border-style: none; width: 19.3619%; height: 33.6px;\" width=\"200\"><span class=\"fontstyle2\">Bloatfly Larva </span></td>\n<td style=\"border-style: none; width: 72.1312%; height: 33.6px;\" width=\"200\"><span class=\"fontstyle2\">If one or more Effects are rolled for the weapon&rsquo;s damage, then upon the target&rsquo;s death, a Bloatfly emerges from their remains. </span></td>\n<td style=\"border-style: none; width: 8.47999%; height: 33.6px; text-align: center;\" width=\"200\"><span class=\"fontstyle2\">10</span></td>\n</tr>\n<tr style=\"height: 33.6px;\">\n<td style=\"border-style: none; width: 19.3619%; height: 33.6px;\" width=\"200\"><span class=\"fontstyle2\">Endangerol </span></td>\n<td style=\"border-style: none; width: 72.1312%; height: 33.6px;\" width=\"200\"><span class=\"fontstyle2\">If one or more Effects are rolled for the weapon&rsquo;s damage, the target&rsquo;s Physical damage resistance is reduced by 2 for the remainder of the scene. </span></td>\n<td style=\"border-style: none; width: 8.47999%; height: 33.6px; text-align: center;\" width=\"200\"><span class=\"fontstyle2\">60</span></td>\n</tr>\n<tr style=\"height: 16.8px;\">\n<td style=\"border-style: none; width: 19.3619%; height: 16.8px;\" width=\"200\"><span class=\"fontstyle2\">Lock Joint </span></td>\n<td style=\"border-style: none; width: 72.1312%; height: 16.8px;\" width=\"200\"><span class=\"fontstyle2\">The weapon gains the Stun damage effect. </span></td>\n<td style=\"border-style: none; width: 8.47999%; height: 16.8px; text-align: center;\" width=\"200\"><span class=\"fontstyle2\">40</span></td>\n</tr>\n<tr style=\"height: 33.6px;\">\n<td style=\"border-style: none; width: 19.3619%; height: 33.6px;\" width=\"200\"><span class=\"fontstyle2\">Mind Cloud</span></td>\n<td style=\"border-style: none; width: 72.1312%; height: 33.6px;\" width=\"200\"><span class=\"fontstyle2\">If one or more Effects are rolled for the weapon&rsquo;s damage, the target becomes confused and adds +2 difficulty to all </span><span class=\"fontstyle3\">PER </span><span class=\"fontstyle2\">tests for a number of rounds equal to the number of Effects rolled.</span></td>\n<td style=\"border-style: none; width: 8.47999%; height: 33.6px; text-align: center;\" width=\"200\"><span class=\"fontstyle2\">73</span></td>\n</tr>\n<tr style=\"height: 33.6px;\">\n<td style=\"border-style: none; width: 19.3619%; height: 33.6px;\" width=\"200\"><span class=\"fontstyle2\">Pax</span></td>\n<td style=\"border-style: none; width: 72.1312%; height: 33.6px;\" width=\"200\"><span class=\"fontstyle2\">If one or more Effects are rolled for the weapon&rsquo;s damage, the target cannot take hostile or aggressive actions for a number of rounds equal to the number of Effects rolled.</span></td>\n<td style=\"border-style: none; width: 8.47999%; height: 33.6px; text-align: center;\" width=\"200\"><span class=\"fontstyle2\">39</span></td>\n</tr>\n<tr style=\"height: 16.8px;\">\n<td style=\"border-style: none; width: 19.3619%; height: 16.8px;\" width=\"200\"><span class=\"fontstyle2\">Radscorpion Venom </span></td>\n<td style=\"border-style: none; width: 72.1312%; height: 16.8px;\" width=\"200\"><span class=\"fontstyle2\">The weapon adds +1@fos[DC]</span><span class=\"fontstyle4\">&nbsp;</span><span class=\"fontstyle2\">damage and gains the Persistent (Poison) damage effect. </span></td>\n<td style=\"border-style: none; width: 8.47999%; height: 16.8px; text-align: center;\" width=\"200\"><span class=\"fontstyle2\">65</span></td>\n</tr>\n<tr style=\"height: 50.4px;\">\n<td style=\"border-style: none; width: 19.3619%; height: 50.4px;\" width=\"200\"><span class=\"fontstyle2\">Yellow Belly</span></td>\n<td style=\"border-style: none; width: 72.1312%; height: 50.4px;\" width=\"200\"><span class=\"fontstyle2\">If one or more Effects are rolled for the weapon&rsquo;s damage, the target must use at least one of their actions each turn to move away from all enemies by the most direct route. This lasts for a number of rounds equal to the number of Effects rolled.</span></td>\n<td style=\"border-style: none; width: 8.47999%; height: 50.4px; text-align: center;\" width=\"200\"><span class=\"fontstyle2\">55</span></td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>"
 		},
 		"Throwing Knife": {
-			"name": "Throwing Knife",
+			"name": "Nóże do rzucania",
 			"description": "<p>A small, sharp knife, specially balanced for throwing. Normally made of a lightweight metal, with the grip hollowed out to reduce weight. They do little damage by themselves, but are light, quiet, and quick to handle.</p>"
 		},
 		"Tomahawk": {
-			"name": "Tomahawk",
+			"name": "Tomahawki",
 			"description": "<p>A small, short-handled axe, akin to a small hatchet. Less subtle than a throwing knife, a hurled tomahawk can certainly make an impression in an enemy.</p>"
 		}
 	},
