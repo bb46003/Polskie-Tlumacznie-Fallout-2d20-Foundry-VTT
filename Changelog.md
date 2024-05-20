@@ -1,3 +1,12 @@
+## V 0.1.5
+- przetłumaczono uzależniania
+- przetłumaczono część strojów i odzierzy
+- przetłumaczono choroby
+- przetłomaczono bronie
+- przetłumaczono wszystkie foldery
+- przetłumaczone nazwy ammunicji  ojawiają się w rozwijanym menu bronii
+
+
 ## V 0.1.4
 - dodano tłumaczenia nazw amunicji
 - opcja odświerzania działa tylko jak przeciągamy elementy z kompendium, nie działa gdy dodajemy je lupką z karty postaci

@@ -1,653 +1,840 @@
 {
-	"label": "Armor & Clothing Mods",
-	"entries": {
-		"Aerodynamic": {
-			"name": "Aerodynamic",
-			"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+	"label": "Modyfikacje Pancerzy i Stroii","folders": {
+		"All Locations":"Wszyctkie lokalizacje",
+		"Arms Only Upgrades": "Modyfikacje na ramiona",
+		"Legs Only Upgrades":"Modyfikacje na nogi",
+		"Torso Only Upgrades":"Modyfikacje na tłów",
+		"Ballistic Weave":"Modyfikacje Podszewki Balistycznej",
+		"Combat Armor Material":"Modyfikacje pancerza Bojowego",
+		"Leather Armor Material": "Modyfikacje pancerza Skórzanego",
+		"Metal Armor Material": "Modyfikacje pancerza Metalowego",
+		"Raider Armor Material": "Modyfikacje pancerza Bandyckiego",
+		"Synth Armor Material": "Modyfikacje pancerza Synterycznego",
+		"Vault Jumpsuit Mods": "Modyfikacje pokrycia kombinezonu mieszkańca krypty",
+		"Power Armor":"Pancerz Wspomagany",
+		"Power Armor Plating Mods":"Modyfikacje pancerzy wspomaganych",
+		"Power Armor System Mods":"Modyfikacje systemowe",
+		"Power Armor Upgrade Mods":"Modyfikacje wersji",
+		"Raider Power Armor": "Modyfikacje bandyckiego pancerza wspomaganego",
+		"T-45 Power Armor": "Modyfikacje pancerza T-45",
+		"T-51 Power Armor": "Modyfikacje pancerza T-51",
+		"T-60 Power Armor": "Modyfikacje pancerza T-60",
+		"X-01 Power Armor": "Modyfikacje pancerza X-01",
+		"All Power Armor": "Wszystki pancerze wspomagane"
+
+		},
+
+	
+		"entries": {
+			"Aerodynamic": {
+				"name": "Aerodynamic",
+				"effect": "<p>May spend up to 4 AP on bonus damage for melee attacks</p>",
+				"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+			},
+			"Alloyed Metal": {
+				"name": "Alloyed Metal",
+				"effect": "",
+				"description": ""
+			},
+			"Asbestos Lining": {
+				"name": "Asbestos Lining",
+				"effect": "<p>Ignore Energy damage from the Persistent damage effect</p>",
+				"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+			},
+			"Ballistic Weave": {
+				"name": "Ballistic Weave",
+				"effect": "",
+				"description": "<p><span class=\"fontstyle0\">Ballistic polymer weave is an armor mod which improves the defensive abilities of some clothing items. A layer of this tough artificial fabric can be used as a lining in a variety of garments, giving them a limited ability to resist impacts, bullets, and energy blasts.</span></p>\n<p><span class=\"fontstyle0\">Knowledge of this recipe is possessed only by a few, and they share these secrets only occasionally. All ballistic weave mods are&nbsp;</span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span> </p>"
+			},
+			"Ballistic Weave Mk II": {
+				"name": "Ballistic Weave Mk II",
+				"effect": "",
+				"description": "<p><span class=\"fontstyle0\">Ballistic polymer weave is an armor mod which improves the defensive abilities of some clothing items. A layer of this tough artificial fabric can be used as a lining in a variety of garments, giving them a limited ability to resist impacts, bullets, and energy blasts.</span></p>\n<p><span class=\"fontstyle0\">Knowledge of this recipe is possessed only by a few, and they share these secrets only occasionally. All ballistic weave mods are&nbsp;</span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+			},
+			"Ballistic Weave Mk III": {
+				"name": "Ballistic Weave Mk III",
+				"effect": "",
+				"description": "<p><span class=\"fontstyle0\">Ballistic polymer weave is an armor mod which improves the defensive abilities of some clothing items. A layer of this tough artificial fabric can be used as a lining in a variety of garments, giving them a limited ability to resist impacts, bullets, and energy blasts.</span></p>\n<p><span class=\"fontstyle0\">Knowledge of this recipe is possessed only by a few, and they share these secrets only occasionally. All ballistic weave mods are&nbsp;</span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+			},
+			"Ballistic Weave Mk IV": {
+				"name": "Ballistic Weave Mk IV",
+				"effect": "",
+				"description": "<p><span class=\"fontstyle0\">Ballistic polymer weave is an armor mod which improves the defensive abilities of some clothing items. A layer of this tough artificial fabric can be used as a lining in a variety of garments, giving them a limited ability to resist impacts, bullets, and energy blasts.</span></p>\n<p><span class=\"fontstyle0\">Knowledge of this recipe is possessed only by a few, and they share these secrets only occasionally. All ballistic weave mods are&nbsp;</span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+			},
+			"Ballistic Weave Mk V": {
+				"name": "Ballistic Weave Mk V",
+				"effect": "",
+				"description": "<p><span class=\"fontstyle0\">Ballistic polymer weave is an armor mod which improves the defensive abilities of some clothing items. A layer of this tough artificial fabric can be used as a lining in a variety of garments, giving them a limited ability to resist impacts, bullets, and energy blasts.</span></p>\n<p><span class=\"fontstyle0\">Knowledge of this recipe is possessed only by a few, and they share these secrets only occasionally. All ballistic weave mods are&nbsp;</span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+			},
+			"BioCommMesh": {
+				"name": "BioCommMesh",
+				"effect": "<p>Chems last twice as long</p>",
+				"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+			},
+			"Blood Cleanser": {
+				"name": "Blood Cleanser",
+				"effect": "<p>Re-roll addiction roll for addictive chems while armor is powered</p>",
+				"description": "<p>Installed with the <b>Science</b> skill</p>"
+			},
+			"Boiled Leather": {
+				"name": "Boiled Leather",
+				"effect": "",
+				"description": ""
+			},
+			"Braced": {
+				"name": "Braced",
+				"effect": "<p>+2 to all damage resistances vs melee attacks</p>",
+				"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+			},
+			"Brawling": {
+				"name": "Brawling",
+				"effect": "<p>Unarmed attacks inflict +1 @fos[DC] damage</p>",
+				"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+			},
+			"Buttressed": {
+				"name": "Buttressed",
+				"effect": "",
+				"description": ""
+			},
+			"Calibrated Shocks": {
+				"name": "Calibrated Shocks",
+				"effect": "<p>Your carry weight is increased by +50</p>",
+				"description": "<p>Installed with the <b>Science</b> skill</p>"
+			},
+			"Core Assembly": {
+				"name": "Core Assembly",
+				"effect": "<p>While armor is powered, if you begin your turn and there is no AP in the group pool, add +1 AP</p>",
+				"description": "<p>Installed with the <b>Science</b> skill</p>"
+			},
+			"Cushioned": {
+				"name": "Cushioned",
+				"effect": "<p>+2 to Physical damage resistance vs falling damage</p>",
+				"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+			},
+			"Deep Pocketed": {
+				"name": "Deep Pocketed",
+				"effect": "<p>+20 Carry Weight</p>",
+				"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+			},
+			"Dense": {
+				"name": "Dense",
+				"effect": "<p>+4 to all damage resistances vs Blast weapons</p>",
+				"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+			},
+			"Emergency Protocols": {
+				"name": "Emergency Protocols",
+				"effect": "<p>While armor is powered, if your current HP is below 1/4 of your maximum, add +1 to Defense and +3 to all damage resistances</p>",
+				"description": "<p>Installed with the <b>Science</b> skill</p>"
+			},
+			"EMP Shielding": {
+				"name": "EMP Shielding",
+				"effect": "<p>+2 Energy damage resistance</p>",
+				"description": ""
+			},
+			"Enameled Metal": {
+				"name": "Enameled Metal",
+				"effect": "",
+				"description": ""
+			},
+			"Explosive Vent": {
+				"name": "Explosive Vent",
+				"effect": "<p>While the armor is powered, when you land from a height, you inflict 4 @fos[DC] damage to all creatures and damageable objects within Close range</p>",
+				"description": "<p>Installed with the <b>Science</b> skill</p>"
+			},
+			"Fiberglass": {
+				"name": "Fiberglass",
+				"effect": "",
+				"description": ""
+			},
+			"Girded Leather": {
+				"name": "Girded Leather",
+				"effect": "",
+				"description": ""
+			},
+			"Hardened": {
+				"name": "Hardened",
+				"effect": "",
+				"description": ""
+			},
+			"Hydraulic Bracers": {
+				"name": "Hydraulic Bracers",
+				"effect": "<p>While armor is powered, your unarmed attacks inflict +2 @fos[DC] damage </p>",
+				"description": "<p>Installed with the <b>Repair</b> skill</p>"
+			},
+			"Insulated Lining": {
+				"name": "Insulated Lining",
+				"effect": "",
+				"description": ""
+			},
+			"Internal Database": {
+				"name": "Internal Database",
+				"effect": "<p>Re-roll 1d20 on all INT tests while armor is powered</p>",
+				"description": "<p>Installed with the <b>Science</b> skill</p>"
+			},
+			"Jetpack": {
+				"name": "Jetpack",
+				"effect": "<p>When you move you may activate a jetpack by spending 1 charge; this allows you to move one additional zone (horizontally or vertically) or gain enough height for an impact landing</p>",
+				"description": "<p>Installed with the <b>Repair</b> skill</p>"
+			},
+			"Kinetic Dynamo": {
+				"name": "Kinetic Dynamo",
+				"effect": "<p>While armor is powered, when you suffer any damage (after reductions for damage resistances), add +1 to the group AP pool</p>",
+				"description": "<p>Installed with the <b>Science</b> skill</p>"
+			},
+			"Laminated": {
+				"name": "Laminated",
+				"effect": "",
+				"description": ""
+			},
+			"Lead Lined": {
+				"name": "Lead Lined",
+				"effect": "",
+				"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+			},
+			"Lead Plating": {
+				"name": "Lead Plating",
+				"effect": "<p>+2 Radiation damage resistance</p>",
+				"description": "<p>Installed with the <strong>Repair</strong> skill.</p>"
+			},
+			"Lighter Build": {
+				"name": "Lighter Build",
+				"effect": "",
+				"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+			},
+			"Medic Pump": {
+				"name": "Medic Pump",
+				"effect": "<p>While armor is powered, when yourHP are reduced to below 1/2 of your maximum, you immediately use a Stimpak, regaining 3 HP or treating one Injury.</p>",
+				"description": "<p>Installed with the <b>Science</b> skill</p>"
+			},
+			"Microcarbon": {
+				"name": "Microcarbon",
+				"effect": "",
+				"description": ""
+			},
+			"Mk II Arm": {
+				"name": "Mk II Arm",
+				"effect": "",
+				"description": ""
+			},
+			"Mk II Chest Piece": {
+				"name": "Mk II Chest Piece",
+				"effect": "",
+				"description": ""
+			},
+			"Mk II Helm": {
+				"name": "Mk II Helm",
+				"effect": "",
+				"description": ""
+			},
+			"Mk II Leg": {
+				"name": "Mk II Leg",
+				"effect": "",
+				"description": ""
+			},
+			"Mk III Arm": {
+				"name": "Mk III Arm",
+				"effect": "",
+				"description": ""
+			},
+			"Mk III Chest Piece": {
+				"name": "Mk III Chest Piece",
+				"effect": "",
+				"description": ""
+			},
+			"Mk III Helm": {
+				"name": "Mk III Helm",
+				"effect": "",
+				"description": ""
+			},
+			"Mk III Leg": {
+				"name": "Mk III Leg",
+				"effect": "",
+				"description": ""
+			},
+			"Mk IV Arm": {
+				"name": "Mk IV Arm",
+				"effect": "",
+				"description": ""
+			},
+			"Mk IV ChestPiece": {
+				"name": "Mk IV ChestPiece",
+				"effect": "",
+				"description": ""
+			},
+			"Mk IV Helm": {
+				"name": "Mk IV Helm",
+				"effect": "",
+				"description": ""
+			},
+			"Mk IV Leg": {
+				"name": "Mk IV Leg",
+				"effect": "",
+				"description": ""
+			},
+			"Mk V Arm": {
+				"name": "Mk V Arm",
+				"effect": "",
+				"description": ""
+			},
+			"Mk V Chest Piece": {
+				"name": "Mk V Chest Piece",
+				"effect": "",
+				"description": ""
+			},
+			"Mk V Helm": {
+				"name": "Mk V Helm",
+				"effect": "",
+				"description": ""
+			},
+			"Mk V Leg": {
+				"name": "Mk V Leg",
+				"effect": "",
+				"description": ""
+			},
+			"Mk VI Arm": {
+				"name": "Mk VI Arm",
+				"effect": "",
+				"description": ""
+			},
+			"Mk VI ChestPiece": {
+				"name": "Mk VI ChestPiece",
+				"effect": "",
+				"description": ""
+			},
+			"Mk VI Helm": {
+				"name": "Mk VI Helm",
+				"effect": "",
+				"description": ""
+			},
+			"Mk VI Leg": {
+				"name": "Mk VI Leg",
+				"effect": "",
+				"description": ""
+			},
+			"Motion-Assist Servos": {
+				"name": "Motion-Assist Servos",
+				"effect": "<p>Increase STR of armor frame to 13 while armor is powered</p>",
+				"description": "<p>Installed with the <b>Science</b> skill</p>"
+			},
+			"Muffled": {
+				"name": "Muffled",
+				"effect": "<p>Re-roll 1d20 on Stealth tests</p>",
+				"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+			},
+			"Nanofilament": {
+				"name": "Nanofilament",
+				"effect": "",
+				"description": ""
+			},
+			"Optimized Bracers": {
+				"name": "Optimized Bracers",
+				"effect": "<p>While armor is powered, you may spend up to 4 AP on bonus damage for melee attacks </p>",
+				"description": "<p>Installed with the <b>Repair</b> skill</p>"
+			},
+			"Overdrive Servos": {
+				"name": "Overdrive Servos",
+				"effect": "<p>While armor is powered, when you Sprint, you may spend +2 AP to move one additional zone</p>",
+				"description": "<p>Installed with the <b>Science</b> skill</p>"
+			},
+			"Padded": {
+				"name": "Padded",
+				"effect": "<p>+2 to all damage resistances vs Blast weapons</p>",
+				"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+			},
+			"Painted Metal": {
+				"name": "Painted Metal",
+				"effect": "",
+				"description": ""
+			},
+			"Photovoltaic Plating": {
+				"name": "Photovoltaic Plating",
+				"effect": "<p>+1 AP at the start of a scene if in direct sunlight (only applies once)</p>",
+				"description": "<p>Installed with the <strong>Science </strong>skill.</p>"
+			},
+			"Pneumatic": {
+				"name": "Pneumatic",
+				"effect": "<p>Stun damage effect requires 2+ Effects to be rolled to affect you</p>",
+				"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+			},
+			"Pocketed": {
+				"name": "Pocketed",
+				"effect": "<p>+10 Carry Weight</p>",
+				"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+			},
+			"Polished Metal": {
+				"name": "Polished Metal",
+				"effect": "",
+				"description": ""
+			},
+			"Polymer": {
+				"name": "Polymer",
+				"effect": "",
+				"description": ""
+			},
+			"Prism Shielding": {
+				"name": "Prism Shielding",
+				"effect": "<p>+2 damage resistances vs Blast weapons</p>",
+				"description": "<p>Installed with the <strong>Science </strong>skill.</p>"
+			},
+			"Protective Lining": {
+				"name": "Protective Lining",
+				"effect": "",
+				"description": ""
+			},
+			"Rad Scrubber": {
+				"name": "Rad Scrubber",
+				"effect": "<p>Ignore radiation from Irradiated food or drink consumed while armor is powered</p>",
+				"description": "<p>Installed with the <b>Science</b> skill</p>"
+			},
+			"Raider II Arm": {
+				"name": "Raider II Arm",
+				"effect": "",
+				"description": ""
+			},
+			"Raider II Chest Piece": {
+				"name": "Raider II Chest Piece",
+				"effect": "",
+				"description": ""
+			},
+			"Raider II Helm": {
+				"name": "Raider II Helm",
+				"effect": "",
+				"description": ""
+			},
+			"Raider II Leg": {
+				"name": "Raider II Leg",
+				"effect": "",
+				"description": ""
+			},
+			"Reactive Plates": {
+				"name": "Reactive Plates",
+				"effect": "<p>While armor is powered, when you suffer damage from a melee or unarmed attack, you inflict Physical damage back to the attacker equal to half the damage total rolled</p>",
+				"description": "<p>Installed with the <b>Repair</b> skill</p>"
+			},
+			"Reinforced": {
+				"name": "Reinforced",
+				"effect": "",
+				"description": ""
+			},
+			"Resin": {
+				"name": "Resin",
+				"effect": "",
+				"description": ""
+			},
+			"Resistant Lining": {
+				"name": "Resistant Lining",
+				"effect": "",
+				"description": ""
+			},
+			"Rusty Knuckles": {
+				"name": "Rusty Knuckles",
+				"effect": "<p>Your unarmed attacks gain the Persistent damage effect</p>",
+				"description": "<p>Installed with the <b>Repair</b> skill</p>"
+			},
+			"Sensor Array": {
+				"name": "Sensor Array",
+				"effect": "<p>Re-roll 1d20 on all PER tests while armor is powered</p>",
+				"description": "<p>Installed with the <b>Science</b> skill</p>"
+			},
+			"Shadowed": {
+				"name": "Shadowed",
+				"effect": "<h2><span class=\"fontstyle0\">Shadowed Armor</span></h2>\n<p><span class=\"fontstyle2\">Many of the armor types listed in this section can be modified to become&nbsp;</span><span class=\"fontstyle3\">Shadowed</span><span class=\"fontstyle2\">. Shadowed armor has a darker, less-reflective surface to make it harder to see the wearer in dim light or darkness.</span></p>\n<ul>\n<li><span class=\"fontstyle2\">If you are wearing one or two pieces of Shadowed </span><span class=\"fontstyle2\">armor, you may ignore the first complication rolled on a </span><span class=\"fontstyle3\"><strong>Sneak</strong> </span><span class=\"fontstyle2\">test you attempt while in dim light or darkness.</span></li>\n<li><span class=\"fontstyle2\">If you are wearing three or more pieces of Shadowed </span><span class=\"fontstyle2\">armor, you may re-roll a single d20 on one </span><span class=\"fontstyle3\"><strong>Sneak</strong> </span><span class=\"fontstyle2\">test </span><span class=\"fontstyle2\">you attempt each scene while in dim light or darkness.</span></li>\n<li><span class=\"fontstyle2\">If you are wearing five or more pieces of Shadowed </span><span class=\"fontstyle2\">armor, you may re-roll a single d20 on any </span><span class=\"fontstyle3\"><strong>Sneak</strong> </span><span class=\"fontstyle2\">test </span><span class=\"fontstyle2\">you attempt while in dim light or darkness.</span></li>\n</ul>\n<p><span class=\"fontstyle2\">Torso armor counts as two pieces towards this. Shadowed armor does not provide any bonus if you are in a suit of Power Armor.</span> <br><br></p>",
+				"description": ""
+			},
+			"Shadowed Leather": {
+				"name": "Shadowed Leather",
+				"effect": "<h2><span class=\"fontstyle0\">Shadowed Armor</span></h2>\n<p><span class=\"fontstyle2\">Many of the armor types listed in this section can be modified to become&nbsp;</span><span class=\"fontstyle3\">Shadowed</span><span class=\"fontstyle2\">. Shadowed armor has a darker, less-reflective surface to make it harder to see the wearer in dim light or darkness.</span></p>\n<ul>\n<li><span class=\"fontstyle2\">If you are wearing one or two pieces of Shadowed </span><span class=\"fontstyle2\">armor, you may ignore the first complication rolled on a </span><span class=\"fontstyle3\"><strong>Sneak</strong> </span><span class=\"fontstyle2\">test you attempt while in dim light or darkness.</span></li>\n<li><span class=\"fontstyle2\">If you are wearing three or more pieces of Shadowed </span><span class=\"fontstyle2\">armor, you may re-roll a single d20 on one </span><span class=\"fontstyle3\"><strong>Sneak</strong> </span><span class=\"fontstyle2\">test </span><span class=\"fontstyle2\">you attempt each scene while in dim light or darkness.</span></li>\n<li><span class=\"fontstyle2\">If you are wearing five or more pieces of Shadowed </span><span class=\"fontstyle2\">armor, you may re-roll a single d20 on any </span><span class=\"fontstyle3\"><strong>Sneak</strong> </span><span class=\"fontstyle2\">test </span><span class=\"fontstyle2\">you attempt while in dim light or darkness.</span></li>\n</ul>\n<p><span class=\"fontstyle2\">Torso armor counts as two pieces towards this. Shadowed armor does not provide any bonus if you are in a suit of Power Armor.</span> <br><br></p>",
+				"description": ""
+			},
+			"Shadowed Metal": {
+				"name": "Shadowed Metal",
+				"effect": "<h2><span class=\"fontstyle0\">Shadowed Armor</span></h2>\n<p><span class=\"fontstyle2\">Many of the armor types listed in this section can be modified to become&nbsp;</span><span class=\"fontstyle3\">Shadowed</span><span class=\"fontstyle2\">. Shadowed armor has a darker, less-reflective surface to make it harder to see the wearer in dim light or darkness.</span></p>\n<ul>\n<li><span class=\"fontstyle2\">If you are wearing one or two pieces of Shadowed </span><span class=\"fontstyle2\">armor, you may ignore the first complication rolled on a </span><span class=\"fontstyle3\"><strong>Sneak</strong> </span><span class=\"fontstyle2\">test you attempt while in dim light or darkness.</span></li>\n<li><span class=\"fontstyle2\">If you are wearing three or more pieces of Shadowed </span><span class=\"fontstyle2\">armor, you may re-roll a single d20 on one </span><span class=\"fontstyle3\"><strong>Sneak</strong> </span><span class=\"fontstyle2\">test </span><span class=\"fontstyle2\">you attempt each scene while in dim light or darkness.</span></li>\n<li><span class=\"fontstyle2\">If you are wearing five or more pieces of Shadowed </span><span class=\"fontstyle2\">armor, you may re-roll a single d20 on any </span><span class=\"fontstyle3\"><strong>Sneak</strong> </span><span class=\"fontstyle2\">test </span><span class=\"fontstyle2\">you attempt while in dim light or darkness.</span></li>\n</ul>\n<p><span class=\"fontstyle2\">Torso armor counts as two pieces towards this. Shadowed armor does not provide any bonus if you are in a suit of Power Armor.</span> <br><br></p>",
+				"description": ""
+			},
+			"Shielded Lining": {
+				"name": "Shielded Lining",
+				"effect": "",
+				"description": ""
+			},
+			"Stabilized": {
+				"name": "Stabilized",
+				"effect": "<p>When you aim and make a ranged attack, +1 @fos[DC] to the attack's damage</p>",
+				"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+			},
+			"Stealth Boy": {
+				"name": "Stealth Boy",
+				"effect": "<p>You may activate a Stealth Boy (p.171) once per scene by spending 1 charge</p>",
+				"description": "<p>Installed with the <b>Science</b> skill</p>"
+			},
+			"Studded Leather": {
+				"name": "Studded Leather",
+				"effect": "",
+				"description": ""
+			},
+			"T-45b Arm": {
+				"name": "T-45b Arm",
+				"effect": "",
+				"description": ""
+			},
+			"T-45b Chest Piece": {
+				"name": "T-45b Chest Piece",
+				"effect": "",
+				"description": ""
+			},
+			"T-45b Helm": {
+				"name": "T-45b Helm",
+				"effect": "",
+				"description": ""
+			},
+			"T-45b Leg": {
+				"name": "T-45b Leg",
+				"effect": "",
+				"description": ""
+			},
+			"T-45c Arm": {
+				"name": "T-45c Arm",
+				"effect": "",
+				"description": ""
+			},
+			"T-45c Chest Piece": {
+				"name": "T-45c Chest Piece",
+				"effect": "",
+				"description": ""
+			},
+			"T-45c Helm": {
+				"name": "T-45c Helm",
+				"effect": "",
+				"description": ""
+			},
+			"T-45c Leg": {
+				"name": "T-45c Leg",
+				"effect": "",
+				"description": ""
+			},
+			"T-45d Arm": {
+				"name": "T-45d Arm",
+				"effect": "",
+				"description": ""
+			},
+			"T-45d Chest Piece": {
+				"name": "T-45d Chest Piece",
+				"effect": "",
+				"description": ""
+			},
+			"T-45d Helm": {
+				"name": "T-45d Helm",
+				"effect": "",
+				"description": ""
+			},
+			"T-45d Leg": {
+				"name": "T-45d Leg",
+				"effect": "",
+				"description": ""
+			},
+			"T-45e Arm": {
+				"name": "T-45e Arm",
+				"effect": "",
+				"description": ""
+			},
+			"T-45e Chest Piece": {
+				"name": "T-45e Chest Piece",
+				"effect": "",
+				"description": ""
+			},
+			"T-45e Helm": {
+				"name": "T-45e Helm",
+				"effect": "",
+				"description": ""
+			},
+			"T-45e Leg": {
+				"name": "T-45e Leg",
+				"effect": "",
+				"description": ""
+			},
+			"T-45f Arm": {
+				"name": "T-45f Arm",
+				"effect": "",
+				"description": ""
+			},
+			"T-45f Chest Piece": {
+				"name": "T-45f Chest Piece",
+				"effect": "",
+				"description": ""
+			},
+			"T-45f Helm": {
+				"name": "T-45f Helm",
+				"effect": "",
+				"description": ""
+			},
+			"T-45f Leg": {
+				"name": "T-45f Leg",
+				"effect": "",
+				"description": ""
+			},
+			"T-51b Arm": {
+				"name": "T-51b Arm",
+				"effect": "",
+				"description": ""
+			},
+			"T-51b Chest Piece": {
+				"name": "T-51b Chest Piece",
+				"effect": "",
+				"description": ""
+			},
+			"T-51b Helm": {
+				"name": "T-51b Helm",
+				"effect": "",
+				"description": ""
+			},
+			"T-51b Leg": {
+				"name": "T-51b Leg",
+				"effect": "",
+				"description": ""
+			},
+			"T-51c Arm": {
+				"name": "T-51c Arm",
+				"effect": "",
+				"description": ""
+			},
+			"T-51c Chest Piece": {
+				"name": "T-51c Chest Piece",
+				"effect": "",
+				"description": ""
+			},
+			"T-51c Helm": {
+				"name": "T-51c Helm",
+				"effect": "",
+				"description": ""
+			},
+			"T-51c Leg": {
+				"name": "T-51c Leg",
+				"effect": "",
+				"description": ""
+			},
+			"T-51d Arm": {
+				"name": "T-51d Arm",
+				"effect": "",
+				"description": ""
+			},
+			"T-51d Chest Piece": {
+				"name": "T-51d Chest Piece",
+				"effect": "",
+				"description": ""
+			},
+			"T-51d Helm": {
+				"name": "T-51d Helm",
+				"effect": "",
+				"description": ""
+			},
+			"T-51d Leg": {
+				"name": "T-51d Leg",
+				"effect": "",
+				"description": ""
+			},
+			"T-51e Arm": {
+				"name": "T-51e Arm",
+				"effect": "",
+				"description": ""
+			},
+			"T-51e Chest Piece": {
+				"name": "T-51e Chest Piece",
+				"effect": "",
+				"description": ""
+			},
+			"T-51e Helm": {
+				"name": "T-51e Helm",
+				"effect": "",
+				"description": ""
+			},
+			"T-51e Leg": {
+				"name": "T-51e Leg",
+				"effect": "",
+				"description": ""
+			},
+			"T-51f Arm": {
+				"name": "T-51f Arm",
+				"effect": "",
+				"description": ""
+			},
+			"T-51f Chest Piece": {
+				"name": "T-51f Chest Piece",
+				"effect": "",
+				"description": ""
+			},
+			"T-51f Helm": {
+				"name": "T-51f Helm",
+				"effect": "",
+				"description": ""
+			},
+			"T-51f Leg": {
+				"name": "T-51f Leg",
+				"effect": "",
+				"description": ""
+			},
+			"T-60b Arm": {
+				"name": "T-60b Arm",
+				"effect": "",
+				"description": ""
+			},
+			"T-60b Chest Piece": {
+				"name": "T-60b Chest Piece",
+				"effect": "",
+				"description": ""
+			},
+			"T-60b Helm": {
+				"name": "T-60b Helm",
+				"effect": "",
+				"description": ""
+			},
+			"T-60b Leg": {
+				"name": "T-60b Leg",
+				"effect": "",
+				"description": ""
+			},
+			"T-60c Arm": {
+				"name": "T-60c Arm",
+				"effect": "",
+				"description": ""
+			},
+			"T-60c Chest Piece": {
+				"name": "T-60c Chest Piece",
+				"effect": "",
+				"description": ""
+			},
+			"T-60c Helm": {
+				"name": "T-60c Helm",
+				"effect": "",
+				"description": ""
+			},
+			"T-60c Leg": {
+				"name": "T-60c Leg",
+				"effect": "",
+				"description": ""
+			},
+			"T-60d Arm": {
+				"name": "T-60d Arm",
+				"effect": "",
+				"description": ""
+			},
+			"T-60d Chest Piece": {
+				"name": "T-60d Chest Piece",
+				"effect": "",
+				"description": ""
+			},
+			"T-60d Helm": {
+				"name": "T-60d Helm",
+				"effect": "",
+				"description": ""
+			},
+			"T-60d Leg": {
+				"name": "T-60d Leg",
+				"effect": "",
+				"description": ""
+			},
+			"T-60e Arm": {
+				"name": "T-60e Arm",
+				"effect": "",
+				"description": ""
+			},
+			"T-60e Chest Piece": {
+				"name": "T-60e Chest Piece",
+				"effect": "",
+				"description": ""
+			},
+			"T-60e Helm": {
+				"name": "T-60e Helm",
+				"effect": "",
+				"description": ""
+			},
+			"T-60e Leg": {
+				"name": "T-60e Leg",
+				"effect": "",
+				"description": ""
+			},
+			"T-60f Arm": {
+				"name": "T-60f Arm",
+				"effect": "",
+				"description": ""
+			},
+			"T-60f Chest Piece": {
+				"name": "T-60f Chest Piece",
+				"effect": "",
+				"description": ""
+			},
+			"T-60f Helm": {
+				"name": "T-60f Helm",
+				"effect": "",
+				"description": ""
+			},
+			"T-60f Leg": {
+				"name": "T-60f Leg",
+				"effect": "",
+				"description": ""
+			},
+			"Targeting HUD": {
+				"name": "Targeting HUD",
+				"effect": "<p>When you take the Aim minor action, you may take a second minor action for 0 AP while armor is powered</p>",
+				"description": "<p>Installed with the <b>Science</b> skill</p>"
+			},
+			"Tempered": {
+				"name": "Tempered",
+				"effect": "",
+				"description": ""
+			},
+			"Tesla Bracers": {
+				"name": "Tesla Bracers",
+				"effect": "<p>While armor is powered, your unarmed attacks inflict +2 @fos[DC] damage and now inflict Energy damage</p>",
+				"description": "<p>Installed with the <b>Repair</b> skill</p>"
+			},
+			"Tesla Coils": {
+				"name": "Tesla Coils",
+				"effect": "<p>While armor is powered, whenever an enemy makes a melee attack against you, they suffer 4 @fos[DC] Energy damage</p>",
+				"description": "<p>Installed with the <b>Science</b> skill</p>"
+			},
+			"Titanium Plating": {
+				"name": "Titanium Plating",
+				"effect": "<p>+1 HP to Armor Piece (+2 to Torso)</p>",
+				"description": "<p>Installed with the <strong>Repair</strong> skill.</p>"
+			},
+			"Treated Leather": {
+				"name": "Treated Leather",
+				"effect": "",
+				"description": ""
+			},
+			"Treated Lining": {
+				"name": "Treated Lining",
+				"effect": "",
+				"description": ""
+			},
+			"Ultra Light Build": {
+				"name": "Ultra Light Build",
+				"effect": "",
+				"description": ""
+			},
+			"Weighted": {
+				"name": "Weighted",
+				"effect": "<p>Melee and Unarmed attacks gain Piercing 1</p>",
+				"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+			},
+			"Welded": {
+				"name": "Welded",
+				"effect": "",
+				"description": ""
+			},
+			"Welded Rebar": {
+				"name": "Welded Rebar",
+				"effect": "<p>Enemies who attack you with a melee or unarmed attack and suffer a complication suffer 2 @fos[DC] damage</p>",
+				"description": ""
+			},
+			"Winterized Coating": {
+				"name": "Winterized Coating",
+				"effect": "<p>+1 Energy damage resistance</p>",
+				"description": "<p>Installed with the <strong>Repair</strong> skill.</p>\n<p>Cannot be installed on <strong>X-01 Power Armor</strong>.</p>"
+			}
 		},
-		"Alloyed Metal": {
-			"name": "Alloyed Metal",
-			"description": ""
-		},
-		"Asbestos Lining": {
-			"name": "Asbestos Lining",
-			"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
-		},
-		"Ballistic Weave": {
-			"name": "Ballistic Weave",
-			"description": "<p><span class=\"fontstyle0\">Ballistic polymer weave is an armor mod which improves the defensive abilities of some clothing items. A layer of this tough artificial fabric can be used as a lining in a variety of garments, giving them a limited ability to resist impacts, bullets, and energy blasts.</span></p>\n<p><span class=\"fontstyle0\">Knowledge of this recipe is possessed only by a few, and they share these secrets only occasionally. All ballistic weave mods are&nbsp;</span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span> </p>"
-		},
-		"Ballistic Weave Mk II": {
-			"name": "Ballistic Weave Mk II",
-			"description": "<p><span class=\"fontstyle0\">Ballistic polymer weave is an armor mod which improves the defensive abilities of some clothing items. A layer of this tough artificial fabric can be used as a lining in a variety of garments, giving them a limited ability to resist impacts, bullets, and energy blasts.</span></p>\n<p><span class=\"fontstyle0\">Knowledge of this recipe is possessed only by a few, and they share these secrets only occasionally. All ballistic weave mods are&nbsp;</span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
-		},
-		"Ballistic Weave Mk III": {
-			"name": "Ballistic Weave Mk III",
-			"description": "<p><span class=\"fontstyle0\">Ballistic polymer weave is an armor mod which improves the defensive abilities of some clothing items. A layer of this tough artificial fabric can be used as a lining in a variety of garments, giving them a limited ability to resist impacts, bullets, and energy blasts.</span></p>\n<p><span class=\"fontstyle0\">Knowledge of this recipe is possessed only by a few, and they share these secrets only occasionally. All ballistic weave mods are&nbsp;</span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
-		},
-		"Ballistic Weave Mk IV": {
-			"name": "Ballistic Weave Mk IV",
-			"description": "<p><span class=\"fontstyle0\">Ballistic polymer weave is an armor mod which improves the defensive abilities of some clothing items. A layer of this tough artificial fabric can be used as a lining in a variety of garments, giving them a limited ability to resist impacts, bullets, and energy blasts.</span></p>\n<p><span class=\"fontstyle0\">Knowledge of this recipe is possessed only by a few, and they share these secrets only occasionally. All ballistic weave mods are&nbsp;</span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
-		},
-		"Ballistic Weave Mk V": {
-			"name": "Ballistic Weave Mk V",
-			"description": "<p><span class=\"fontstyle0\">Ballistic polymer weave is an armor mod which improves the defensive abilities of some clothing items. A layer of this tough artificial fabric can be used as a lining in a variety of garments, giving them a limited ability to resist impacts, bullets, and energy blasts.</span></p>\n<p><span class=\"fontstyle0\">Knowledge of this recipe is possessed only by a few, and they share these secrets only occasionally. All ballistic weave mods are&nbsp;</span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
-		},
-		"BioCommMesh": {
-			"name": "BioCommMesh",
-			"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
-		},
-		"Blood Cleanser": {
-			"name": "Blood Cleanser",
-			"description": "<p>Installed with the <b>Science</b> skill</p>"
-		},
-		"Boiled Leather": {
-			"name": "Boiled Leather",
-			"description": ""
-		},
-		"Braced": {
-			"name": "Braced",
-			"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
-		},
-		"Brawling": {
-			"name": "Brawling",
-			"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
-		},
-		"Buttressed": {
-			"name": "Buttressed",
-			"description": ""
-		},
-		"Calibrated Shocks": {
-			"name": "Calibrated Shocks",
-			"description": "<p>Installed with the <b>Science</b> skill</p>"
-		},
-		"Core Assembly": {
-			"name": "Core Assembly",
-			"description": "<p>Installed with the <b>Science</b> skill</p>"
-		},
-		"Cushioned": {
-			"name": "Cushioned",
-			"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
-		},
-		"Deep Pocketed": {
-			"name": "Deep Pocketed",
-			"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
-		},
-		"Dense": {
-			"name": "Dense",
-			"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
-		},
-		"Emergency Protocols": {
-			"name": "Emergency Protocols",
-			"description": "<p>Installed with the <b>Science</b> skill</p>"
-		},
-		"EMP Shielding": {
-			"name": "EMP Shielding",
-			"description": ""
-		},
-		"Enameled Metal": {
-			"name": "Enameled Metal",
-			"description": ""
-		},
-		"Explosive Vent": {
-			"name": "Explosive Vent",
-			"description": "<p>Installed with the <b>Science</b> skill</p>"
-		},
-		"Fiberglass": {
-			"name": "Fiberglass",
-			"description": ""
-		},
-		"Girded Leather": {
-			"name": "Girded Leather",
-			"description": ""
-		},
-		"Hardened": {
-			"name": "Hardened",
-			"description": ""
-		},
-		"Hydraulic Bracers": {
-			"name": "Hydraulic Bracers",
-			"description": "<p>Installed with the <b>Repair</b> skill</p>"
-		},
-		"Insulated Lining": {
-			"name": "Insulated Lining",
-			"description": ""
-		},
-		"Internal Database": {
-			"name": "Internal Database",
-			"description": "<p>Installed with the <b>Science</b> skill</p>"
-		},
-		"Jetpack": {
-			"name": "Jetpack",
-			"description": "<p>Installed with the <b>Repair</b> skill</p>"
-		},
-		"Kinetic Dynamo": {
-			"name": "Kinetic Dynamo",
-			"description": "<p>Installed with the <b>Science</b> skill</p>"
-		},
-		"Laminated": {
-			"name": "Laminated",
-			"description": ""
-		},
-		"Lead Lined": {
-			"name": "Lead Lined",
-			"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
-		},
-		"Lead Plating": {
-			"name": "Lead Plating",
-			"description": "<p>Installed with the <strong>Repair</strong> skill.</p>"
-		},
-		"Lighter Build": {
-			"name": "Lighter Build",
-			"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
-		},
-		"Medic Pump": {
-			"name": "Medic Pump",
-			"description": "<p>Installed with the <b>Science</b> skill</p>"
-		},
-		"Microcarbon": {
-			"name": "Microcarbon",
-			"description": ""
-		},
-		"Mk II Arm": {
-			"name": "Mk II Arm",
-			"description": ""
-		},
-		"Mk II Chest Piece": {
-			"name": "Mk II Chest Piece",
-			"description": ""
-		},
-		"Mk II Helm": {
-			"name": "Mk II Helm",
-			"description": ""
-		},
-		"Mk II Leg": {
-			"name": "Mk II Leg",
-			"description": ""
-		},
-		"Mk III Arm": {
-			"name": "Mk III Arm",
-			"description": ""
-		},
-		"Mk III Chest Piece": {
-			"name": "Mk III Chest Piece",
-			"description": ""
-		},
-		"Mk III Helm": {
-			"name": "Mk III Helm",
-			"description": ""
-		},
-		"Mk III Leg": {
-			"name": "Mk III Leg",
-			"description": ""
-		},
-		"Mk IV Arm": {
-			"name": "Mk IV Arm",
-			"description": ""
-		},
-		"Mk IV ChestPiece": {
-			"name": "Mk IV ChestPiece",
-			"description": ""
-		},
-		"Mk IV Helm": {
-			"name": "Mk IV Helm",
-			"description": ""
-		},
-		"Mk IV Leg": {
-			"name": "Mk IV Leg",
-			"description": ""
-		},
-		"Mk V Arm": {
-			"name": "Mk V Arm",
-			"description": ""
-		},
-		"Mk V Chest Piece": {
-			"name": "Mk V Chest Piece",
-			"description": ""
-		},
-		"Mk V Helm": {
-			"name": "Mk V Helm",
-			"description": ""
-		},
-		"Mk V Leg": {
-			"name": "Mk V Leg",
-			"description": ""
-		},
-		"Mk VI Arm": {
-			"name": "Mk VI Arm",
-			"description": ""
-		},
-		"Mk VI ChestPiece": {
-			"name": "Mk VI ChestPiece",
-			"description": ""
-		},
-		"Mk VI Helm": {
-			"name": "Mk VI Helm",
-			"description": ""
-		},
-		"Mk VI Leg": {
-			"name": "Mk VI Leg",
-			"description": ""
-		},
-		"Motion-Assist Servos": {
-			"name": "Motion-Assist Servos",
-			"description": "<p>Installed with the <b>Science</b> skill</p>"
-		},
-		"Muffled": {
-			"name": "Muffled",
-			"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
-		},
-		"Nanofilament": {
-			"name": "Nanofilament",
-			"description": ""
-		},
-		"Optimized Bracers": {
-			"name": "Optimized Bracers",
-			"description": "<p>Installed with the <b>Repair</b> skill</p>"
-		},
-		"Overdrive Servos": {
-			"name": "Overdrive Servos",
-			"description": "<p>Installed with the <b>Science</b> skill</p>"
-		},
-		"Padded": {
-			"name": "Padded",
-			"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
-		},
-		"Painted Metal": {
-			"name": "Painted Metal",
-			"description": ""
-		},
-		"Photovoltaic Plating": {
-			"name": "Photovoltaic Plating",
-			"description": "<p>Installed with the <strong>Science </strong>skill.</p>"
-		},
-		"Pneumatic": {
-			"name": "Pneumatic",
-			"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
-		},
-		"Pocketed": {
-			"name": "Pocketed",
-			"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
-		},
-		"Polished Metal": {
-			"name": "Polished Metal",
-			"description": ""
-		},
-		"Polymer": {
-			"name": "Polymer",
-			"description": ""
-		},
-		"Prism Shielding": {
-			"name": "Prism Shielding",
-			"description": "<p>Installed with the <strong>Science </strong>skill.</p>"
-		},
-		"Protective Lining": {
-			"name": "Protective Lining",
-			"description": ""
-		},
-		"Rad Scrubber": {
-			"name": "Rad Scrubber",
-			"description": "<p>Installed with the <b>Science</b> skill</p>"
-		},
-		"Raider II Arm": {
-			"name": "Raider II Arm",
-			"description": ""
-		},
-		"Raider II Chest Piece": {
-			"name": "Raider II Chest Piece",
-			"description": ""
-		},
-		"Raider II Helm": {
-			"name": "Raider II Helm",
-			"description": ""
-		},
-		"Raider II Leg": {
-			"name": "Raider II Leg",
-			"description": ""
-		},
-		"Reactive Plates": {
-			"name": "Reactive Plates",
-			"description": "<p>Installed with the <b>Repair</b> skill</p>"
-		},
-		"Reinforced": {
-			"name": "Reinforced",
-			"description": ""
-		},
-		"Resin": {
-			"name": "Resin",
-			"description": ""
-		},
-		"Resistant Lining": {
-			"name": "Resistant Lining",
-			"description": ""
-		},
-		"Rusty Knuckles": {
-			"name": "Rusty Knuckles",
-			"description": "<p>Installed with the <b>Repair</b> skill</p>"
-		},
-		"Sensor Array": {
-			"name": "Sensor Array",
-			"description": "<p>Installed with the <b>Science</b> skill</p>"
-		},
-		"Shadowed": {
-			"name": "Shadowed",
-			"description": ""
-		},
-		"Shadowed Leather": {
-			"name": "Shadowed Leather",
-			"description": ""
-		},
-		"Shadowed Metal": {
-			"name": "Shadowed Metal",
-			"description": ""
-		},
-		"Shielded Lining": {
-			"name": "Shielded Lining",
-			"description": ""
-		},
-		"Stabilized": {
-			"name": "Stabilized",
-			"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
-		},
-		"Stealth Boy": {
-			"name": "Stealth Boy",
-			"description": "<p>Installed with the <b>Science</b> skill</p>"
-		},
-		"Studded Leather": {
-			"name": "Studded Leather",
-			"description": ""
-		},
-		"T-45b Arm": {
-			"name": "T-45b Arm",
-			"description": ""
-		},
-		"T-45b Chest Piece": {
-			"name": "T-45b Chest Piece",
-			"description": ""
-		},
-		"T-45b Helm": {
-			"name": "T-45b Helm",
-			"description": ""
-		},
-		"T-45b Leg": {
-			"name": "T-45b Leg",
-			"description": ""
-		},
-		"T-45c Arm": {
-			"name": "T-45c Arm",
-			"description": ""
-		},
-		"T-45c Chest Piece": {
-			"name": "T-45c Chest Piece",
-			"description": ""
-		},
-		"T-45c Helm": {
-			"name": "T-45c Helm",
-			"description": ""
-		},
-		"T-45c Leg": {
-			"name": "T-45c Leg",
-			"description": ""
-		},
-		"T-45d Arm": {
-			"name": "T-45d Arm",
-			"description": ""
-		},
-		"T-45d Chest Piece": {
-			"name": "T-45d Chest Piece",
-			"description": ""
-		},
-		"T-45d Helm": {
-			"name": "T-45d Helm",
-			"description": ""
-		},
-		"T-45d Leg": {
-			"name": "T-45d Leg",
-			"description": ""
-		},
-		"T-45e Arm": {
-			"name": "T-45e Arm",
-			"description": ""
-		},
-		"T-45e Chest Piece": {
-			"name": "T-45e Chest Piece",
-			"description": ""
-		},
-		"T-45e Helm": {
-			"name": "T-45e Helm",
-			"description": ""
-		},
-		"T-45e Leg": {
-			"name": "T-45e Leg",
-			"description": ""
-		},
-		"T-45f Arm": {
-			"name": "T-45f Arm",
-			"description": ""
-		},
-		"T-45f Chest Piece": {
-			"name": "T-45f Chest Piece",
-			"description": ""
-		},
-		"T-45f Helm": {
-			"name": "T-45f Helm",
-			"description": ""
-		},
-		"T-45f Leg": {
-			"name": "T-45f Leg",
-			"description": ""
-		},
-		"T-51b Arm": {
-			"name": "T-51b Arm",
-			"description": ""
-		},
-		"T-51b Chest Piece": {
-			"name": "T-51b Chest Piece",
-			"description": ""
-		},
-		"T-51b Helm": {
-			"name": "T-51b Helm",
-			"description": ""
-		},
-		"T-51b Leg": {
-			"name": "T-51b Leg",
-			"description": ""
-		},
-		"T-51c Arm": {
-			"name": "T-51c Arm",
-			"description": ""
-		},
-		"T-51c Chest Piece": {
-			"name": "T-51c Chest Piece",
-			"description": ""
-		},
-		"T-51c Helm": {
-			"name": "T-51c Helm",
-			"description": ""
-		},
-		"T-51c Leg": {
-			"name": "T-51c Leg",
-			"description": ""
-		},
-		"T-51d Arm": {
-			"name": "T-51d Arm",
-			"description": ""
-		},
-		"T-51d Chest Piece": {
-			"name": "T-51d Chest Piece",
-			"description": ""
-		},
-		"T-51d Helm": {
-			"name": "T-51d Helm",
-			"description": ""
-		},
-		"T-51d Leg": {
-			"name": "T-51d Leg",
-			"description": ""
-		},
-		"T-51e Arm": {
-			"name": "T-51e Arm",
-			"description": ""
-		},
-		"T-51e Chest Piece": {
-			"name": "T-51e Chest Piece",
-			"description": ""
-		},
-		"T-51e Helm": {
-			"name": "T-51e Helm",
-			"description": ""
-		},
-		"T-51e Leg": {
-			"name": "T-51e Leg",
-			"description": ""
-		},
-		"T-51f Arm": {
-			"name": "T-51f Arm",
-			"description": ""
-		},
-		"T-51f Chest Piece": {
-			"name": "T-51f Chest Piece",
-			"description": ""
-		},
-		"T-51f Helm": {
-			"name": "T-51f Helm",
-			"description": ""
-		},
-		"T-51f Leg": {
-			"name": "T-51f Leg",
-			"description": ""
-		},
-		"T-60b Arm": {
-			"name": "T-60b Arm",
-			"description": ""
-		},
-		"T-60b Chest Piece": {
-			"name": "T-60b Chest Piece",
-			"description": ""
-		},
-		"T-60b Helm": {
-			"name": "T-60b Helm",
-			"description": ""
-		},
-		"T-60b Leg": {
-			"name": "T-60b Leg",
-			"description": ""
-		},
-		"T-60c Arm": {
-			"name": "T-60c Arm",
-			"description": ""
-		},
-		"T-60c Chest Piece": {
-			"name": "T-60c Chest Piece",
-			"description": ""
-		},
-		"T-60c Helm": {
-			"name": "T-60c Helm",
-			"description": ""
-		},
-		"T-60c Leg": {
-			"name": "T-60c Leg",
-			"description": ""
-		},
-		"T-60d Arm": {
-			"name": "T-60d Arm",
-			"description": ""
-		},
-		"T-60d Chest Piece": {
-			"name": "T-60d Chest Piece",
-			"description": ""
-		},
-		"T-60d Helm": {
-			"name": "T-60d Helm",
-			"description": ""
-		},
-		"T-60d Leg": {
-			"name": "T-60d Leg",
-			"description": ""
-		},
-		"T-60e Arm": {
-			"name": "T-60e Arm",
-			"description": ""
-		},
-		"T-60e Chest Piece": {
-			"name": "T-60e Chest Piece",
-			"description": ""
-		},
-		"T-60e Helm": {
-			"name": "T-60e Helm",
-			"description": ""
-		},
-		"T-60e Leg": {
-			"name": "T-60e Leg",
-			"description": ""
-		},
-		"T-60f Arm": {
-			"name": "T-60f Arm",
-			"description": ""
-		},
-		"T-60f Chest Piece": {
-			"name": "T-60f Chest Piece",
-			"description": ""
-		},
-		"T-60f Helm": {
-			"name": "T-60f Helm",
-			"description": ""
-		},
-		"T-60f Leg": {
-			"name": "T-60f Leg",
-			"description": ""
-		},
-		"Targeting HUD": {
-			"name": "Targeting HUD",
-			"description": "<p>Installed with the <b>Science</b> skill</p>"
-		},
-		"Tempered": {
-			"name": "Tempered",
-			"description": ""
-		},
-		"Tesla Bracers": {
-			"name": "Tesla Bracers",
-			"description": "<p>Installed with the <b>Repair</b> skill</p>"
-		},
-		"Tesla Coils": {
-			"name": "Tesla Coils",
-			"description": "<p>Installed with the <b>Science</b> skill</p>"
-		},
-		"Titanium Plating": {
-			"name": "Titanium Plating",
-			"description": "<p>Installed with the <strong>Repair</strong> skill.</p>"
-		},
-		"Treated Leather": {
-			"name": "Treated Leather",
-			"description": ""
-		},
-		"Treated Lining": {
-			"name": "Treated Lining",
-			"description": ""
-		},
-		"Ultra Light Build": {
-			"name": "Ultra Light Build",
-			"description": ""
-		},
-		"Weighted": {
-			"name": "Weighted",
-			"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
-		},
-		"Welded": {
-			"name": "Welded",
-			"description": ""
-		},
-		"Welded Rebar": {
-			"name": "Welded Rebar",
-			"description": ""
-		},
-		"Winterized Coating": {
-			"name": "Winterized Coating",
-			"description": "<p>Installed with the <strong>Repair</strong> skill.</p>\n<p>Cannot be installed on <strong>X-01 Power Armor</strong>.</p>"
-		}
-	},
 	"mapping": {
-		"description":"system.description"
+		"description":"system.description",
+		"effect":"system.effect"
 		
 	}
 }

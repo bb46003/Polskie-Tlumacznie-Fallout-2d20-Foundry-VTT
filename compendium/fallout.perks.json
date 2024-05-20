@@ -290,8 +290,7 @@
 			"description":"<h2>Vademecum amerykańskich sił specjalnych</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>+1 do każdej Odporności przeciwko atakom wykonywanym przez BN-ów</li> </ul>"
 		},
 		"FH 5-04 Not the Soldiers You’re Looking For": {
-			"name": "FH 5-04 Nie jesteśmy żołnierzami, których szukacie",
-			
+			"name": "FH 5-04 Nie jesteśmy żołnierzami, których szukacie",			
 			"description":"<h2>Vademecum amerykańskich sił specjalnych</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>Kiedy atakujesz BN-a, zwiększasz zadawane obrażenia o +1@fos[DC]</li> </ul>"
 		},
 		"FH 5-05 Who Goes There?": {

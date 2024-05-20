@@ -1,85 +1,85 @@
 {
-	"label": "Diseases",
+	"label": "Choroby",
 	"entries": {
 		"Blood Worms": {
-			"name": "Blood Worms",
-			"description": "<p>Attacks against you inflict +2CD damage</p>"
+			"name": "Krwioglisty",
+			"description": "<p>+2@fos[DC] do obrażeń we wszystkich atakach wykonywanych przeciwko tobie </p>"
 		},
 		"Bone Worms": {
-			"name": "Bone Worms",
-			"description": "<p>Attacks against you which hit your arms or legs inflict +4CD damage</p>"
+			"name": "Gnatoglisty",
+			"description": "<p>Każdy atak, który trafia w twoją nogę lub rękę, zadaje obrażenia zwiększone o +4@fos[DC] </p>"
 		},
 		"Buzz Brain": {
-			"name": "Buzz Brain",
-			"description": "<p>INT tests suffer +1 difficulty</p>"
+			"name": "Szumica czaszkowa",
+			"description": "<p> +1 do trudności testów INT </p>"
 		},
 		"Dysentery": {
-			"name": "Dysentery",
-			"description": "<p>Halves time at each step of thirst track</p>"
+			"name": "Czerwonka",
+			"description": "<p> Skraca o połowę czas obowiązywania każdego poziomu Pragnienia</p>"
 		},
 		"Fever Claw": {
-			"name": "Fever Claw",
-			"description": "<p>Your ranged attacks inflict 2CD less damage (minimum 1CD)</p>"
+			"name": "Gorączka palców",
+			"description": "<p>Twoje ataki dystansowe zadają obrażenia zmniejszone o –2@fos[DC] (minimum 1@fos[DC] ) </p>"
 		},
 		"Flap Limb": {
-			"name": "Flap Limb",
-			"description": "<p>STR tests suffer +1 difficulty</p>"
+			"name": "Flakołapa",
+			"description": "<p> +1 do trudności testów SI</p>"
 		},
 		"Glowing Pustules": {
-			"name": "Glowing Pustules",
-			"description": "<p>Whenever you suffer an Injury, anyone within Reach suffers 1CD Radiation damage</p>"
+			"name": "Świecący trądzik",
+			"description": "<p>Kiedy odnosisz ranę, wszystkie istoty znajdujące się w twoim zasięgu bezpośrednim otrzymują 1@fos[DC] obrażeń radiacyjnych</p>"
 		},
 		"Heat Flashes": {
-			"name": "Heat Flashes",
-			"description": "<p>END tests suffer +1 difficulty</p>"
+			"name": "Uderzenia gorąca",
+			"description": "<p> +1 do trudności testów WT </p>"
 		},
 		"Jelly Fingers": {
-			"name": "Jelly Fingers",
-			"description": "<p>Attempting a ranged attack requires spending 1 AP</p>"
+			"name": "Galaretowate palce",
+			"description": "<p> Każdy atak dystansowy wymaga wydania 1 PA </p>"
 		},
 		"Lock Joint": {
-			"name": "Lock Joint",
-			"description": "<p>Attempting a melee attack requires spending 1 AP</p>"
+			"name": "Blokada stawu",
+			"description": "<p>Każdy atak wręcz wymaga wydania 1 PA </p>"
 		},
 		"Needle Spine": {
-			"name": "Needle Spine",
-			"description": "<p>-10 Carry Weight</p>"
+			"name": "Lumbago",
+			"description": "<p>Udźwig –10</p>"
 		},
 		"Parasites": {
-			"name": "Parasites",
-			"description": "<p>Halves time at each step of hunger track</p>"
+			"name": "Pasożyty",
+			"description": "<p> Skracają o połowę czas obowiązywania każdego poziomu Głodu</p>"
 		},
 		"Rad Worms": {
-			"name": "Rad Worms",
-			"description": "<p>Whenever you suffer Radiation damage, add +2 to the amount suffered</p>"
+			"name": "Radrobaki",
+			"description": "<p>Kiedy otrzymasz obrażenia radiacyjne, zostają one zwiększone o +2</p>"
 		},
 		"Shell Shock": {
-			"name": "Shell Shock",
-			"description": "<p>Whenever you suffer an Injury, lose 1 AP from the group pool (if possible)</p>"
+			"name": "Nerwica frontowa",
+			"description": "<p> Za każdym razem, kiedy odnosisz ranę, usuwasz 1 PA z puli grupowej (o ile to możliwe)</p>"
 		},
 		"Sludge Lung": {
-			"name": "Sludge Lung",
-			"description": "<p>Gain 1 Fatigue; you can only save AP into group pool if there are 3 orfewer AP saved</p>"
+			"name": "Błotniste płuco",
+			"description": "<p> +1 punkt Zmęczenia; możesz dodawać PA do puli grupowej tylko wtedy, kiedy jest ich w niej 3 lub mniej</p>"
 		},
 		"Snot Ear": {
-			"name": "Snot Ear",
-			"description": "<p>PER tests suffer +1 difficulty</p>"
+			"name": "Katar uszny",
+			"description": "<p> +1 do trudności testów PER </p>"
 		},
 		"Swamp Gas": {
-			"name": "Swamp Gas",
-			"description": "<p>CHA tests suffer +1 difficulty</p>"
+			"name": "Błotne gazy",
+			"description": "<p> +1 do trudności testów CHA</p>"
 		},
 		"Swamp Itch": {
-			"name": "Swamp Itch",
-			"description": "<p>AGI tests suffer +1 difficulty</p>"
+			"name": "Świąd błotny",
+			"description": "<p>+1 do trudności testów ZW </p>"
 		},
 		"The Whoopsies": {
-			"name": "The Whoopsies",
-			"description": "<p>Must spend twice as many Luck points to gain an Effect</p>"
+			"name": "Pechowica",
+			"description": "<p>Żeby uzyskać Efekt, musisz wydać dwa razy więcej punktów Szczęścia</p>"
 		},
 		"Weeping Sores": {
-			"name": "Weeping Sores",
-			"description": "<p>Whenever you suffer Physical damage, you suffer +1 Physical damage at the start of your next turn, ignoring damage resistance</p>"
+			"name": "Ropne wrzody",
+			"description": "<p>Kiedy otrzymasz obrażenia fizyczne, na początku swojej następnej tury otrzymujesz +1 dodatkowe obrażenie fizyczne bez uwzględniania twojej Odporności na obrażenia fizyczne</p>"
 		}
 	},
 	"mapping": {

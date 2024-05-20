@@ -38,7 +38,7 @@
 			"description": "<p><span class=\"fontstyle0\">Small-caliber rifle rounds normally used by the military in miniguns. While supplies of these weapons are rare, they&rsquo;re normally found in large quantities. The problem is that the weapons which use them consume ammunition at a prodigious rate, and a full box of 5mm rounds doesn&rsquo;t last long.</span></p>\n<p><strong>Quantity Found:</strong> [[/r 10*(12+6dc) # 5mm Round]]</p>"
 		},
 		"Baseball Grenade": {
-			"name": "Granaty baseballowy",
+			"name": "Granaty baseballowe",
 			"description": "<p>Little more than a hollowed-out baseball filled with an improvised explosive mixture, these grenades are crude, low-tech, and easy to make, dealing a moderate amount of damage to those within the blast.</p>"
 		},
 		"Bottlecap Mine": {
@@ -94,7 +94,7 @@
 			"description": "<p><span class=\"fontstyle0\">A tiny, handheld tactical nuclear weapon, a Nuka Grenade is extremely dangerous to use&mdash;dropping one is ill-advised&mdash;but devastatingly effective, comparable to the mini-nukes used by the Fat Man launcher.</span></p>"
 		},
 		"Nuke Mine": {
-			"name": "Miny atomowa",
+			"name": "Miny atomowe",
 			"description": "<p><span class=\"fontstyle0\">It is a nuclear variant of a landmine. The Nuke mine operates in all respects as other mines do although its explosion is more akin to that of a mini-nuke. Naturally, this means that they inflict damage from both the explosion and from the radiation the blast emits.</span></p>"
 		},
 		"Plasma Cartridge": {
@@ -110,11 +110,11 @@
 			"description": "<p><span class=\"fontstyle0\">These magnetically sealed mines unleash a blast of energized plasma upon being triggered, searing those who tripped the mine&rsquo;s sensors.</span></p>\n<p><span class=\"fontstyle2\"><strong>Special:</strong>&nbsp;</span><span class=\"fontstyle0\">Plasma minflict both Physical and Energy damage. Roll damage as normal, and then reduce the total by whichever of the target&rsquo;s damage resistances is lower out of Physical or Energy.</span></p>"
 		},
 		"Pulse Grenade": {
-			"name": "Granaty elektromagnetyczna(EM)",
+			"name": "Granaty elektromagnetyczne(EM)",
 			"description": "<p><span class=\"fontstyle0\">Pulse grenades emit a burst of electromagnetism which inflicts massive damage to machines&mdash;such as robots, synths, and Power Armor&mdash;within the vicinity, while leaving living creatures unharmed.</span></p>\n<p><span class=\"fontstyle2\"><strong>Special:</strong>&nbsp;</span><span class=\"fontstyle0\">Pulse grenades only inflict damage to robots, synths, Power Armor (though not the wearer within) and other mechanical or technological targets. Any computers in the blast are also damaged by the grenade. Against any other target, Pulse grenades inflict 0 damage.</span> <br><br></p>"
 		},
 		"Pulse Mine": {
-			"name": "Miny elektromagnetyczna(EM)",
+			"name": "Miny elektromagnetyczne(EM)",
 			"description": "<p>The mine consists of a powerful EMP device wired to a proximity fuse and then secured inside a heavy metal casing. While only mildly harmful to organic targets, these mines deal severe damage to robotic enemies, stunning or even permanently disabling them.</p>\n<p><strong>Special:</strong> Pulse mines only inflict damage to robots, synths, Power Armor (though not the wearer within) and other mechanical or technological targets. Any computers in the blast are also damaged by the grenade. Against any other target, pulse mines inflict 0 damage.</p>"
 		},
 		"Railway Spike": {

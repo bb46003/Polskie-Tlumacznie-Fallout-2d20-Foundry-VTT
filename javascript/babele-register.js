@@ -2,7 +2,7 @@ class compendiumrefresh {
     static appendHeaderButton(html, fn) {
         let isbutton = html.closest('.app').find('.refresh');
         if (isbutton.length === 0) {
-            let openBtn = $(`<a class="refresh" title="Odświerz"><i class="fas fa-sync-alt"></i>Odświerz</a>`);
+            let openBtn = $(`<a class="refresh" title="Odświerz"><i class="fas fa-sync-alt"></i>Odśwież</a>`);
             openBtn.click(fn);
             html.closest('.app').find('.translate').remove();
             let titleElement = html.closest('.app').find('.window-title');
@@ -19,7 +19,7 @@ class falloutpl {
         if (element.type === "skill"){
             let flag = element.flags.core;
             if (flag !== undefined) {
-                let fullitemID = flag.sourceId;
+                let fullitemID = flag.sourceID;
                 const parts = fullitemID.split(".");
                 const compendiumKey = parts[1] + "." + parts[2];
                 const itemID = parts[parts.length - 1];
@@ -47,7 +47,8 @@ class falloutpl {
         const aitems=document.object;
         let flag = aitems.flags.core;
             if (flag !== undefined) {
-                let fullitemID = flag.sourceId;
+                
+                let fullitemID = flag.sourceID;
                 const parts = fullitemID.split(".");
                 const compendiumKey = parts[1] + "." + parts[2];
                 const itemID = parts[parts.length - 1];
@@ -74,6 +75,8 @@ class falloutpl {
 
                 }  
     }
+
+    
 }
 
 Hooks.on('init', () => {
@@ -84,7 +87,28 @@ Hooks.on('init', () => {
             dir: 'compendium'
         });
     }
+    
+
 });
+
+
+
+Hooks.once('ready', async () => {
+    await Babele.get().loadTranslations();
+    const  ammo =  game.babele.packs.get("fallout.ammunition").translations;
+    const ammunitionArray = Object.entries(ammo).map(([name, data]) => ({ name, ...data }));    
+    
+    CONFIG.FALLOUT.AMMO_BY_UUID = {};
+    let ammoTypes = [];
+    for (const ammoType of ammunitionArray) {
+        ammoTypes.push(ammoType.name);
+        CONFIG.FALLOUT.AMMO_BY_UUID[ammoType.uuid] = ammoType.name;
+    }
+    ammoTypes = [...new Set(ammoTypes)]; // de-dupe
+
+    CONFIG.FALLOUT.AMMO_TYPES = ammoTypes.sort((a, b) => a.localeCompare(b));
+});
+
 
 Hooks.on('renderFalloutNpcSheet', (document, html) => {
     compendiumrefresh.appendHeaderButton(html, ev => {
@@ -96,3 +120,25 @@ Hooks.on('renderFalloutItemSheet', (document, html) => {
         falloutpl.refreshItem(document);
     });
 });
+
+
+Hooks.on('renderFalloutPcSheet', (document, html) => {
+    compendiumrefresh.appendHeaderButton(html, ev => {
+        falloutpl.refreshNPC(document);
+    });
+});
+
+async function discoverAvailableAmmoTypes() {
+	const ammo = await fallout.compendiums.ammo();
+
+	CONFIG.FALLOUT.AMMO_BY_UUID = {};
+	let ammoTypes = [];
+	for (const ammoType of ammo) {
+		ammoTypes.push(ammoType.name);
+		CONFIG.FALLOUT.AMMO_BY_UUID[ammoType.uuid] = ammoType.name;
+		console.log(ammoType.name);
+	}
+	ammoTypes = [...new Set(ammoTypes)]; // de-dupe
+
+	CONFIG.FALLOUT.AMMO_TYPES = ammoTypes.sort((a, b) => a.localeCompare(b));
+}

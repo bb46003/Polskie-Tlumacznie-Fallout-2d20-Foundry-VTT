@@ -1,413 +1,461 @@
 {
-	"label": "Weapon Mods",
+	"label": "Modyfikacje Broni",
+	"folders": {
+		"Big Guns":"Broń Ciężka",
+		"Energy Weapons":"Broń Energetyczna",
+		"Melee Weapons": "Broń Biała",
+		"Small Guns": "Broń Palna",
+		"Receiver Mods": "Modyfikacje komory zamkowej",
+		"Barrel Mods": "Modyfikacja lufy",
+		"Pool Cue Mods": "Modyfikacje kija bilardowego",
+		"Muzzle Mods": "Modyfikacje wylotu",
+		"Capacitor Mods": "Modyfikacje kondensatora",
+		"Tire Iron Mods": "Modyfikacje klucza do kół",
+		"Baseball Bat Mods": "Modyfikacje kija baseballowego",
+		"Grip Mods": "Modyfikacje uchwytu",
+		"Nozzle Mods": "Modyfikacje końcówki",
+		"Gamma Gun Dish Mods": "Modyfikacje talerza Gammostrzału",
+		"Gamma Gun Muzzle Mods": "Modyfikacje wylotu Gammostrzału",
+		"Sword Mods": "Modyfikacje miecza",
+		"Deathclaw Gauntlet Mods": "Modyfikacje rękawicy ze szpona śmierci ",
+		"Shishkebab Mods": "Modyfikacje sziszkebabu",
+		"Pipe Wrench Mods": "Modyfikacje klucza francuskiego",
+		"Laser Musket Capacitor Mods": "Modyfikacje muszkietu laserowego",
+		"Propellant Tank Mods": "Modyfikacja zbiornika z paliwem",
+		"Boxing Glove Mods": "Modyfikacje rękawic bokserskich",
+		"Stock Mods": "Modyfikacja kolby",
+		"Sight Mods": "Modyfikacje Celownika",
+		"Fuel Mods": "Modyfikacja paliwa",
+		"Super Sledge Mods": "Modyfikacje supermłota",
+		"Sledgehammer Mods": "Modyfikacje młota",
+		"Magazine Mods": "Modyfikacje magazynka",
+		"Combat Knife Mods": "Modyfikacje noża bojowego",
+		"Board Mods": "Modyfikacje deski",
+		"Baton Mods":"Modyfikacje pałki",
+		"Knuckles Mods":"Modyfikacje kastetu",
+		"Lead Pipe Mods":"Modyfikacje ołowianej rurki",
+		"Machete Mods":"Modyfikacje maczety",
+		"Power Fist Mods":"Modyfikacje rękawicy wspomaganej",
+		"Ripper Mods":"Modyfikacje rozpruwacza",
+		"Rolling Pin Mods":"Modyfikacje wałka",
+		"Switchblade Mods":"Modyfikacje sprężynowca",
+		"Walking Cane Mods":"Modyfikacje laski",
+		"Flamer":"Modyfikacje miotacza ognia",
+		"Gatling Laser":"Modyfikacje laseru Gatlinga",
+		"Junk Jet":"Modyfikacje śmieciomiotu",
+		"Minigun":"Modyfikacje minigana",
+		"Missile Launcher":"Modyfikacje wyrzutni rakiet"
+
+
+	},
 	"entries": {
 		".308 Receiver": {
 			"name": ".308 Receiver",
-			"description": ""
+			"effect": "<p>Change damage to 7 @fos[DC]</p>\n<p>Ammo changes to @UUID[Item.i4CuRrtBhO2mWeDz]{.308 Round}</p>"
 		},
 		".38 Receiver": {
 			"name": ".38 Receiver",
-			"description": ""
+			"effect": "<p>Change damage to 4 @fos[DC]</p>\n<p>Ammo changes to @UUID[Item.YthgQHCfKPTHC3I9]{.38 Round}</p>"
 		},
 		".45 Receiver": {
 			"name": ".45 Receiver",
-			"description": ""
+			"effect": "<p>Change damage to 4 @fos[DC]</p>\n<p>+1 fire rate</p>\n<p>Ammo changes to @UUID[Item.sNuUqfuwQTubAOi4]{.45 Round}</p>\n<p>&nbsp;</p>"
 		},
 		".50 Receiver": {
 			"name": ".50 Receiver",
-			"description": ""
+			"effect": "<p>Change damage to 8 @fos[DC]</p>\n<p>Ammo changes to @UUID[Item.AhvbZn2bwcpGswOQ]{.50 Round}</p>"
 		},
 		"Accelerated Barrel": {
 			"name": "Accelerated Barrel",
-			"description": ""
+			"effect": "<p>+1 @fos[DC]</p>\n<p>+1 Fire Rate</p>\n<p>Reduce Range by 1 step</p>\n<p>&nbsp;</p>"
 		},
 		"Advanced": {
 			"name": "Advanced",
-			"description": ""
+			"effect": "<p>+3 @fos[DC] damage</p>\n<p>+1 fire rate</p>"
 		},
 		"Automatic": {
 			"name": "Automatic",
-			"description": ""
+			"effect": "<p>-1 @fos[DC] damage</p>\n<p>+2 fire rate</p>\n<p>Gain Burst</p>\n<p>Gain Inaccurate</p>"
 		},
 		"Automatic Barrel": {
 			"name": "Automatic Barrel",
-			"description": ""
+			"effect": "<p>-1 @fos[DC]</p>\n<p>Remove Close Quarters</p>\n<p>Increase Range by 1 step</p>\n<p>+1 Fire Rate</p>\n<p>&nbsp;</p>"
 		},
 		"Automatic Piston": {
 			"name": "Automatic Piston",
-			"description": ""
+			"effect": "<p>+2 fire rate</p>\n<p>Reduce range by 1 step</p>\n<p>&nbsp;</p>"
 		},
 		"Barbed": {
 			"name": "Barbed",
-			"description": ""
+			"effect": "<p>+1 @fos[DC]</p>\n<p>Gain Piercing 1</p>\n<p>&nbsp;</p>"
 		},
 		"Bayonet": {
 			"name": "Bayonet",
-			"description": ""
+			"effect": "<p>Melee weapon</p>\n<p>Deals 4 @fos[DC] Piercing 1 physical damage</p>\n<p>&nbsp;</p>"
 		},
 		"Beam Focuser": {
 			"name": "Beam Focuser",
-			"description": ""
+			"effect": "<p>Increase Range by 1 step</p>\n<p>&nbsp;</p>"
 		},
 		"Beam Splitter": {
 			"name": "Beam Splitter",
-			"description": ""
+			"effect": "<p>-1 @fos[DC]</p>\n<p>-1 Fire Rate</p>\n<p>Gain Inaccurate</p>\n<p>Reduce Range by 1 step</p>\n<p>&nbsp;</p>"
 		},
 		"Beta Wave Tuner": {
 			"name": "Beta Wave Tuner",
-			"description": ""
+			"effect": "<p>Gain Persistent</p>\n<p>&nbsp;</p>"
 		},
 		"Bladed": {
 			"name": "Bladed",
-			"description": ""
+			"effect": "<p>+1 @fos[DC]</p>\n<p>Gain Persistent</p>\n<p>&nbsp;</p>"
 		},
 		"Boosted Capacitor": {
 			"name": "Boosted Capacitor",
-			"description": ""
+			"effect": "<p>+1 @fos[DC]</p>\n<p>&nbsp;</p>"
 		},
 		"Bracketed Long Barrel": {
 			"name": "Bracketed Long Barrel",
-			"description": ""
+			"effect": "<p>Remove Close Quarters</p>\n<p>Increase Range by 1 step</p>\n<p>Allows the weapon to take a Muzzle mod</p>\n<p>&nbsp;</p>"
 		},
 		"Bracketed Short Barrel": {
 			"name": "Bracketed Short Barrel",
-			"description": ""
+			"effect": "<p>Allows the weapon to take a Muzzle mod</p>\n<p>&nbsp;</p>"
 		},
 		"Bull Barrel": {
 			"name": "Bull Barrel",
-			"description": ""
+			"effect": "<p>Gain Reliable</p>"
 		},
 		"Calibrated": {
 			"name": "Calibrated",
-			"description": ""
+			"effect": "<p>Gain Vicious</p>"
 		},
 		"Capactor Boosting Coil": {
 			"name": "Capactor Boosting Coil",
-			"description": ""
+			"effect": "<p>+1 @fos[DC] damage</p>\n<p>Gain Vicious</p>\n<p>&nbsp;</p>"
 		},
 		"Chain-Wrapped": {
 			"name": "Chain-Wrapped",
-			"description": ""
+			"effect": "<p>+2 @fos[DC]</p>\n<p>&nbsp;</p>"
 		},
 		"Charging Barrels": {
 			"name": "Charging Barrels",
-			"description": ""
+			"effect": "<p>+4 @fos[DC]</p>\n<p>-3 Fire Rate</p>\n<p>Increase Range by 1 step</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
 		},
 		"Comfort Grip": {
 			"name": "Comfort Grip",
-			"description": ""
+			"effect": "<p>Remove Inaccurate</p>\n<p>&nbsp;</p>"
 		},
 		"Compensator": {
 			"name": "Compensator",
-			"description": ""
+			"effect": "<p>Remove Inaccurate</p>\n<p>&nbsp;</p>"
 		},
 		"Compression Nozzle": {
 			"name": "Compression Nozzle",
-			"description": ""
+			"effect": "<p>+1 @fos[DC]</p>\n<p>&nbsp;</p>"
 		},
 		"Curved Blade": {
 			"name": "Curved Blade",
-			"description": ""
+			"effect": "<p>+1 @fos[DC]</p>\n<p>On successful attack, spend 2 AP to disarm opponent, knocking one held weapon away</p>\n<p>&nbsp;</p>"
 		},
 		"Deep Dish": {
 			"name": "Deep Dish",
-			"description": ""
+			"effect": "<p>+1 @fos[DC]</p>\n<p>Increase Range by 1 step</p>\n<p>&nbsp;</p>"
 		},
 		"Electric Signal Carrier Antennae": {
 			"name": "Electric Signal Carrier Antennae",
-			"description": ""
+			"effect": "<p>Change damage to 7 @fos[DC]</p>\n<p>Change damage type to Energy</p>\n<p>Gain Radioactive</p>\n<p>&nbsp;</p>"
 		},
 		"Electrification Module": {
 			"name": "Electrification Module",
-			"description": ""
+			"effect": "<p>Gain Vicious</p>\n<p>Change damage type to Energy</p>\n<p>&nbsp;</p>"
 		},
 		"Electrified": {
 			"name": "Electrified",
-			"description": ""
+			"effect": "<p>+2 @fos[DC]</p>\n<p>Damage type becomes Energy</p>\n<p>&nbsp;</p>"
 		},
 		"Electrified Blade": {
 			"name": "Electrified Blade",
-			"description": ""
+			"effect": "<p>+1 @fos[DC]</p>\n<p>Damage type becomed Energy</p>\n<p>&nbsp;</p>"
 		},
 		"Electrified Serrated Blade": {
 			"name": "Electrified Serrated Blade",
-			"description": ""
+			"effect": "<p>+1 @fos[DC]</p>\n<p>Damage type becomed Energy</p>\n<p>Gain Persistent (Physical)</p>\n<p>&nbsp;</p>"
 		},
 		"Extended Blade": {
 			"name": "Extended Blade",
-			"description": ""
+			"effect": "<p>+1 @fos[DC]</p>\n<p>Gain Persistent</p>\n<p>&nbsp;</p>"
 		},
 		"Extra Claw": {
 			"name": "Extra Claw",
-			"description": ""
+			"effect": "<p>+1 @fos[DC]</p>\n<p>On a successful attack, spend 2 AP to disarm opponent, knocking one held weapon away.</p>\n<p>&nbsp;</p>"
 		},
 		"Extra Flame Jets": {
 			"name": "Extra Flame Jets",
-			"description": ""
+			"effect": "<p>+1 @fos[DC]</p>\n<p>Gain Persistent</p>\n<p>&nbsp;</p>"
 		},
 		"Extra Heavy": {
 			"name": "Extra Heavy",
-			"description": ""
+			"effect": "<p>+3 @fos[DC]</p>\n<p>&nbsp;</p>"
 		},
 		"Finned": {
 			"name": "Finned",
-			"description": ""
+			"effect": "<p>+1 @fos[DC] damage</p>\n<p>Increase Range by 1 step</p>\n<p>&nbsp;</p>"
 		},
 		"Five-Crank Capacitor": {
 			"name": "Five-Crank Capacitor",
-			"description": ""
+			"effect": "<p>+3 @fos[DC]</p>\n<p>Consumes 5 shots per attack</p>\n<p>&nbsp;</p>"
 		},
 		"Flamer Barrel": {
 			"name": "Flamer Barrel",
-			"description": ""
+			"effect": "<p>-2 @fos[DC]</p>\n<p>+2 Fire Rate</p>\n<p>Gain Burst</p>\n<p>Reduce Range by 1 step</p>\n<p>Gain Inaccurate</p>\n<p>&nbsp;</p>"
 		},
 		"Four-Crank Capacitor": {
 			"name": "Four-Crank Capacitor",
-			"description": ""
+			"effect": "<p>+2 @fos[DC]</p>\n<p>Consumes 4 shots per attack</p>\n<p>&nbsp;</p>"
 		},
 		"Full Capacitors": {
 			"name": "Full Capacitors",
-			"description": ""
+			"effect": "<p>Gain Vicious</p>\n<p>&nbsp;</p>"
 		},
 		"Full Stock": {
 			"name": "Full Stock",
-			"description": ""
+			"effect": "<p>Gain Two-Handed</p>\n<p>Remove Inaccurate</p>\n<p>&nbsp;</p>"
 		},
 		"Gunner Sight": {
 			"name": "Gunner Sight",
-			"description": ""
+			"effect": "<p>Remove Inaccurate</p>\n<p>&nbsp;</p>"
 		},
 		"Gyro Compensating Lens": {
 			"name": "Gyro Compensating Lens",
-			"description": ""
+			"effect": "<p>+1 Fire Rate</p>\n<p>Remove Inaccurate</p>\n<p>&nbsp;</p>"
 		},
 		"Hair Trigger": {
 			"name": "Hair Trigger",
-			"description": ""
+			"effect": "<p>+1 fire rate</p>"
 		},
 		"Hardened": {
 			"name": "Hardened",
-			"description": ""
+			"effect": "<p>+1 @fos[DC] damage</p>"
 		},
 		"Heating Coil": {
 			"name": "Heating Coil",
-			"description": ""
+			"effect": "<p>+1 @fos[DC]</p>\n<p>Change Damage Type to Energy</p>\n<p>&nbsp;</p>"
 		},
 		"Heavy": {
 			"name": "Heavy",
-			"description": ""
+			"effect": "<p>+2 @fos[DC]</p>\n<p>&nbsp;</p>"
 		},
 		"Hooked": {
 			"name": "Hooked",
-			"description": ""
+			"effect": "<p>+1 @fos[DC]</p>\n<p>An successful attack, spend 2 AP to disarm opponent, knocking one held weapon away</p>\n<p>&nbsp;</p>"
 		},
 		"Huge Tank": {
 			"name": "Huge Tank",
-			"description": ""
+			"effect": "<p>+2 Fire Rate</p>\n<p>&nbsp;</p>"
 		},
 		"Ignition Module": {
 			"name": "Ignition Module",
-			"description": ""
+			"effect": "<p>Gain Persistent (Energy)</p>\n<p>&nbsp;</p>"
 		},
 		"Improved Barrel": {
 			"name": "Improved Barrel",
-			"description": ""
+			"effect": "<p>+1 @fos[DC]</p>\n<p>&nbsp;</p>"
 		},
 		"Large Magazine": {
 			"name": "Large Magazine",
-			"description": ""
+			"effect": "<p>+1 fire rate</p>\n<p>Gain Unreliable</p>\n<p>&nbsp;</p>"
 		},
 		"Large Quick-Eject Mag": {
 			"name": "Large Quick-Eject Mag",
-			"description": ""
+			"effect": "<p>+1 Fire Rate</p>\n<p>&nbsp;</p>"
 		},
 		"Large Tank": {
 			"name": "Large Tank",
-			"description": ""
+			"effect": "<p>+1 Fire Rate</p>\n<p>&nbsp;</p>"
 		},
 		"Lead Lining": {
 			"name": "Lead Lining",
-			"description": ""
+			"effect": "<p>+2 @fos[DC]</p>\n<p>&nbsp;</p>"
 		},
 		"Long": {
 			"name": "Long",
-			"description": ""
+			"effect": "<p>Increase Range by 1 step</p>"
 		},
 		"Long Barrel": {
 			"name": "Long Barrel",
-			"description": ""
+			"effect": "<p>Increase Range by 1 step</p>\n<p>&nbsp;</p>"
 		},
 		"Long Night Vision Scope": {
 			"name": "Long Night Vision Scope",
-			"description": ""
+			"effect": "<p>Gain Accurate</p>\n<p>Gain Night Vision</p>\n<p>Increase Range by 1 step</p>\n<p>&nbsp;</p>"
 		},
 		"Long Scope": {
 			"name": "Long Scope",
-			"description": ""
+			"effect": "<p>Gain Accurate</p>\n<p>Increase Range by 1 step</p>\n<p>&nbsp;</p>"
 		},
 		"Marksman's Stock": {
 			"name": "Marksman's Stock",
-			"description": ""
+			"effect": "<p>Gain Two-Handed</p>\n<p>Remove Inaccurate</p>\n<p>Gain Accurate</p>\n<p>Remove Close Quarters</p>\n<p>&nbsp;</p>"
 		},
 		"Muzzle Break": {
 			"name": "Muzzle Break",
-			"description": ""
+			"effect": "<p>Remove Inaccurate</p>\n<p>+1 Fire Rate</p>\n<p>&nbsp;</p>"
 		},
 		"Napalm": {
 			"name": "Napalm",
-			"description": ""
+			"effect": "<p>+1 @fos[DC]</p>\n<p>&nbsp;</p>"
 		},
 		"Night Vision Scope": {
 			"name": "Night Vision Scope",
-			"description": ""
+			"effect": "<p>Gain Accurate</p>\n<p>Gain Night Vision</p>\n<p>&nbsp;</p>"
 		},
 		"Photon Agitator": {
 			"name": "Photon Agitator",
-			"description": ""
+			"effect": "<p>+1 @fos[DC]</p>\n<p>Gain Vicious</p>\n<p>&nbsp;</p>"
 		},
 		"Photon Exciter": {
 			"name": "Photon Exciter",
-			"description": ""
+			"effect": "<p>Gain Vicious</p>\n<p>&nbsp;</p>"
 		},
 		"Ported": {
 			"name": "Ported",
-			"description": ""
+			"effect": "<p>Increase Range by 1 step</p>\n<p>+1 fire rate</p>\n<p>&nbsp;</p>"
 		},
 		"Powerful": {
 			"name": "Powerful",
-			"description": ""
+			"effect": "<p>+2 @fos[DC] damage</p>"
 		},
 		"Puncturing": {
 			"name": "Puncturing",
-			"description": ""
+			"effect": "<p>+1 @fos[DC]</p>\n<p>Gain Piercing 1</p>\n<p>&nbsp;</p>"
 		},
 		"Quad Barrel": {
 			"name": "Quad Barrel",
-			"description": ""
+			"effect": "<p>+2 Fire Rate</p>\n<p>&nbsp;</p>"
 		},
 		"Quick-Eject Mag": {
 			"name": "Quick-Eject Mag",
-			"description": ""
+			"effect": "<p>Gain Reliable</p>"
 		},
 		"Recoil Compensating Stock": {
 			"name": "Recoil Compensating Stock",
-			"description": ""
+			"effect": "<p>Gain Two-Handed</p>\n<p>Remove Inaccurate</p>\n<p>+1 Fire Rate</p>\n<p>&nbsp;</p>"
 		},
 		"Recon Scope": {
 			"name": "Recon Scope",
-			"description": ""
+			"effect": "<p>Gain Accurate</p>\n<p>Gain Recon</p>\n<p>&nbsp;</p>"
 		},
 		"Reflex Sight": {
 			"name": "Reflex Sight",
-			"description": ""
+			"effect": "<p>May re-roll hit location die</p>\n<p>&nbsp;</p>"
 		},
 		"Sawed-Off": {
 			"name": "Sawed-Off",
-			"description": ""
+			"effect": "<p>Remove Two-Handed</p>\n<p>Gain Close Quarters</p>\n<p>&nbsp;</p>"
 		},
 		"Scope": {
 			"name": "Scope",
-			"description": ""
+			"effect": "<p>Gain Accurate</p>\n<p>&nbsp;</p>"
 		},
 		"Serrated Blade": {
 			"name": "Serrated Blade",
-			"description": ""
+			"effect": "<p>Gain Persistent</p>\n<p>&nbsp;</p>"
 		},
 		"Sharp": {
 			"name": "Sharp",
-			"description": ""
+			"effect": "<p>+1 @fos[DC]</p>\n<p>Gain Persistent</p>\n<p>&nbsp;</p>"
 		},
 		"Sharpshooter's Grip": {
 			"name": "Sharpshooter's Grip",
-			"description": ""
+			"effect": "<p>Remove Inaccurate</p>\n<p>Add Piercing 1</p>\n<p>&nbsp;</p>"
 		},
 		"Shielded Barrel": {
 			"name": "Shielded Barrel",
-			"description": ""
+			"effect": "<p>+1 @fos[DC] damage</p>"
 		},
 		"Short Night Vision Scope": {
 			"name": "Short Night Vision Scope",
-			"description": ""
+			"effect": "<p>Gain Accurate</p>\n<p>Gain Night Vision</p>\n<p>&nbsp;</p>"
 		},
 		"Short Scope": {
 			"name": "Short Scope",
-			"description": ""
+			"effect": "<p>Gain Accurate</p>\n<p>&nbsp;</p>"
 		},
 		"Shredder": {
 			"name": "Shredder",
-			"description": ""
+			"effect": "<p>Melee weapon,</p>\n<p>Deals @fos[DC] of Physical damage equal to Fire Rate</p>\n<p>&nbsp;</p>"
 		},
 		"Signal Repeater": {
 			"name": "Signal Repeater",
-			"description": ""
+			"effect": "<p>+2 Fire Rate</p>\n<p>Gain Burst</p>\n<p>Remove Blast</p>\n<p>&nbsp;</p>"
 		},
 		"Six-Crank Capacitor": {
 			"name": "Six-Crank Capacitor",
-			"description": ""
+			"effect": "<p>+4 @fos[DC]</p>\n<p>Consumes 6 shots per attack</p>\n<p>&nbsp;</p>"
 		},
 		"Sniper Barrel": {
 			"name": "Sniper Barrel",
-			"description": ""
+			"effect": "<p>+2 @fos[DC]</p>\n<p>Remove Close Quarters</p>\n<p>Increase Range by 1 step</p>\n<p>-1 Fire Rate</p>\n<p>&nbsp;</p>"
 		},
 		"Snubnose": {
 			"name": "Snubnose",
-			"description": ""
+			"effect": "<p>Gain Inaccurate</p>"
 		},
 		"Spiked": {
 			"name": "Spiked",
-			"description": ""
+			"effect": "<p>+1 @fos[DC]</p>\n<p>Gain Piercing 1</p>\n<p>&nbsp;</p>"
 		},
 		"Splitter": {
 			"name": "Splitter",
-			"description": ""
+			"effect": "<p>-1 @fos[DC]</p>\n<p>Gain Spread</p>\n<p>Gain Inaccurate</p>\n<p>&nbsp;</p>"
 		},
 		"Stabilizer": {
 			"name": "Stabilizer",
-			"description": ""
+			"effect": "<p>Gain Piercing 1</p>\n<p>&nbsp;</p>"
 		},
 		"Standard Stock": {
 			"name": "Standard Stock",
-			"description": ""
+			"effect": "<p>Gain Two-Handed</p>\n<p>Remove Inaccurate</p>\n<p>Remove Close Quarters</p>\n<p>&nbsp;</p>"
 		},
 		"Stealth Blade": {
 			"name": "Stealth Blade",
-			"description": ""
+			"effect": "<p>+1 @fos[DC]</p>\n<p>Gain Persistent</p>\n<p>+2 @fos[DC] on Sneak Attacks</p>\n<p>&nbsp;</p>"
 		},
 		"Stun Pack": {
 			"name": "Stun Pack",
-			"description": ""
+			"effect": "<p>+2 @fos[DC]</p>\n<p>Gain Stun</p>\n<p>Change Damage Type to Energy</p>\n<p>&nbsp;</p>"
 		},
 		"Suppressor": {
 			"name": "Suppressor",
-			"description": ""
+			"effect": "<p>Gain Suppressed</p>\n<p>&nbsp;</p>"
 		},
 		"Targeting Computer": {
 			"name": "Targeting Computer",
-			"description": ""
+			"effect": "<p>When you Aim at a target, the target does not benefit from being in cover, and the bonus for aiming applies to the next attack on any subsequent turn during the scene.</p>\n<p>&nbsp;</p>"
 		},
 		"Three-Crank Capacitor": {
 			"name": "Three-Crank Capacitor",
-			"description": ""
+			"effect": "<p>+1 @fos[DC]</p>\n<p>Consumes 3 shots per attack</p>\n<p>&nbsp;</p>"
 		},
 		"Tri-Barrel": {
 			"name": "Tri-Barrel",
-			"description": ""
+			"effect": "<p>+2 @fos[DC]</p>\n<p>-2 Fire Rate</p>\n<p>&nbsp;</p>"
 		},
 		"Triple Barrel": {
 			"name": "Triple Barrel",
-			"description": ""
+			"effect": "<p>+1 Fire Rate</p>\n<p>&nbsp;</p>"
 		},
 		"Vaporization Nozzle": {
 			"name": "Vaporization Nozzle",
-			"description": ""
+			"effect": "<p>+1 @fos[DC]</p>\n<p>Gain Vicious</p>\n<p>&nbsp;</p>"
 		},
 		"Vented": {
 			"name": "Vented",
-			"description": ""
+			"effect": "<p>Increase Range by 1 step</p>\n<p>+1 fire rate</p>\n<p>Gain Reliable</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
 		}
 	},
+
 	"mapping": {
-		"description":"system.description"
-		
+		"effect":"system.effect"
 	}
 }
