@@ -27,809 +27,952 @@
 	
 		"entries": {
 			"Aerodynamic": {
-				"name": "Aerodynamic",
+				"name": "Aerodynamika",
 				"effect": "<p>May spend up to 4 AP on bonus damage for melee attacks</p>",
-				"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
-			},
+				"description": "<p><span class=\"fontstyle0\">Ulepszenia pancerza można zamontować w każdym rodzaju powyżej opisanych pancerzy z wyjątkiem pancerza ochrony Vault-Tecu.Do instalacji wszystkich ulepszeń </span><span class=\"fontstyle2\"> wykorzystuje się umiejętność Naprawa.</span><span class=\"fontstyle0\">.</span></p>"
+			},			
 			"Alloyed Metal": {
-				"name": "Alloyed Metal",
+				"name": "Stop metalu",
 				"effect": "",
 				"description": ""
+
 			},
 			"Asbestos Lining": {
-				"name": "Asbestos Lining",
+				"name": "Pokrycie azbestowe",
 				"effect": "<p>Ignore Energy damage from the Persistent damage effect</p>",
-				"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+				"description": "<p><span class=\"fontstyle0\">Ulepszenia pancerza można zamontować w każdym rodzaju powyżej opisanych pancerzy z wyjątkiem pancerza ochrony Vault-Tecu.Do instalacji wszystkich ulepszeń </span><span class=\"fontstyle2\"> wykorzystuje się umiejętność Naprawa.</span><span class=\"fontstyle0\">.</span></p>"
 			},
 			"Ballistic Weave": {
-				"name": "Ballistic Weave",
-				"effect": "",
-				"description": "<p><span class=\"fontstyle0\">Ballistic polymer weave is an armor mod which improves the defensive abilities of some clothing items. A layer of this tough artificial fabric can be used as a lining in a variety of garments, giving them a limited ability to resist impacts, bullets, and energy blasts.</span></p>\n<p><span class=\"fontstyle0\">Knowledge of this recipe is possessed only by a few, and they share these secrets only occasionally. All ballistic weave mods are&nbsp;</span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span> </p>"
+				"name": "Podszewka balistyczna,",
+				"effect": "+2 Odporności na obrażenia fizyczne i energetyczne",
+				"description": "<p><span class=\"fontstyle0\">Polimerowa podszewka balistyczna to modyfikacja opancerzenia, która zwiększa właściwości ochronne odzieży. Warstwa mocnego syntetycznego materiału może służyć jako podszewka dla niektórych rodzajów ubioru, zapewniając im ograniczoną odporność na uderzenia, trafienia pociskami i wyładowania energetyczne.</span></p>\n<p><span class=\"fontstyle0\">Wiedza, jak wykonywać taki materiał, jest znana niewielkiej liczbie osób, które niechętnie i rzadko się nią dzielą. Do jej wszycia wykorzystuje się&nbsp;</span><span class=\"fontstyle2\"> umiejętność Naprawa</span><span class=\"fontstyle0\">.</span> </p>"
+
 			},
 			"Ballistic Weave Mk II": {
-				"name": "Ballistic Weave Mk II",
-				"effect": "",
-				"description": "<p><span class=\"fontstyle0\">Ballistic polymer weave is an armor mod which improves the defensive abilities of some clothing items. A layer of this tough artificial fabric can be used as a lining in a variety of garments, giving them a limited ability to resist impacts, bullets, and energy blasts.</span></p>\n<p><span class=\"fontstyle0\">Knowledge of this recipe is possessed only by a few, and they share these secrets only occasionally. All ballistic weave mods are&nbsp;</span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+				"name":"Podszewka balistyczna, wersja II",
+				"effect": "+3 Odporności na obrażenia fizyczne i energetyczne",
+				"description": "<p><span class=\"fontstyle0\">Polimerowa podszewka balistyczna to modyfikacja opancerzenia, która zwiększa właściwości ochronne odzieży. Warstwa mocnego syntetycznego materiału może służyć jako podszewka dla niektórych rodzajów ubioru, zapewniając im ograniczoną odporność na uderzenia, trafienia pociskami i wyładowania energetyczne.</span></p>\n<p><span class=\"fontstyle0\">Wiedza, jak wykonywać taki materiał, jest znana niewielkiej liczbie osób, które niechętnie i rzadko się nią dzielą. Do jej wszycia wykorzystuje się&nbsp;</span><span class=\"fontstyle2\"> umiejętność Naprawa</span><span class=\"fontstyle0\">.</span> </p>"
+
 			},
 			"Ballistic Weave Mk III": {
-				"name": "Ballistic Weave Mk III",
-				"effect": "",
-				"description": "<p><span class=\"fontstyle0\">Ballistic polymer weave is an armor mod which improves the defensive abilities of some clothing items. A layer of this tough artificial fabric can be used as a lining in a variety of garments, giving them a limited ability to resist impacts, bullets, and energy blasts.</span></p>\n<p><span class=\"fontstyle0\">Knowledge of this recipe is possessed only by a few, and they share these secrets only occasionally. All ballistic weave mods are&nbsp;</span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+				"name":"Podszewka balistyczna, wersja III",
+				"effect": "+4 Odporności na obrażenia fizyczne i energetyczne",
+				"description": "<p><span class=\"fontstyle0\">Polimerowa podszewka balistyczna to modyfikacja opancerzenia, która zwiększa właściwości ochronne odzieży. Warstwa mocnego syntetycznego materiału może służyć jako podszewka dla niektórych rodzajów ubioru, zapewniając im ograniczoną odporność na uderzenia, trafienia pociskami i wyładowania energetyczne.</span></p>\n<p><span class=\"fontstyle0\">Wiedza, jak wykonywać taki materiał, jest znana niewielkiej liczbie osób, które niechętnie i rzadko się nią dzielą. Do jej wszycia wykorzystuje się&nbsp;</span><span class=\"fontstyle2\"> umiejętność Naprawa</span><span class=\"fontstyle0\">.</span> </p>"
+
 			},
 			"Ballistic Weave Mk IV": {
-				"name": "Ballistic Weave Mk IV",
-				"effect": "",
-				"description": "<p><span class=\"fontstyle0\">Ballistic polymer weave is an armor mod which improves the defensive abilities of some clothing items. A layer of this tough artificial fabric can be used as a lining in a variety of garments, giving them a limited ability to resist impacts, bullets, and energy blasts.</span></p>\n<p><span class=\"fontstyle0\">Knowledge of this recipe is possessed only by a few, and they share these secrets only occasionally. All ballistic weave mods are&nbsp;</span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+				"name":"Podszewka balistyczna, wersja IV",
+				"effect": "+5 Odporności na obrażenia fizyczne i energetyczne",
+				"description": "<p><span class=\"fontstyle0\">Polimerowa podszewka balistyczna to modyfikacja opancerzenia, która zwiększa właściwości ochronne odzieży. Warstwa mocnego syntetycznego materiału może służyć jako podszewka dla niektórych rodzajów ubioru, zapewniając im ograniczoną odporność na uderzenia, trafienia pociskami i wyładowania energetyczne.</span></p>\n<p><span class=\"fontstyle0\">Wiedza, jak wykonywać taki materiał, jest znana niewielkiej liczbie osób, które niechętnie i rzadko się nią dzielą. Do jej wszycia wykorzystuje się&nbsp;</span><span class=\"fontstyle2\"> umiejętność Naprawa</span><span class=\"fontstyle0\">.</span> </p>"
+
 			},
 			"Ballistic Weave Mk V": {
-				"name": "Ballistic Weave Mk V",
-				"effect": "",
-				"description": "<p><span class=\"fontstyle0\">Ballistic polymer weave is an armor mod which improves the defensive abilities of some clothing items. A layer of this tough artificial fabric can be used as a lining in a variety of garments, giving them a limited ability to resist impacts, bullets, and energy blasts.</span></p>\n<p><span class=\"fontstyle0\">Knowledge of this recipe is possessed only by a few, and they share these secrets only occasionally. All ballistic weave mods are&nbsp;</span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+				"name":"Podszewka balistyczna, wersja V",
+				"effect": "+6 Odporności na obrażenia fizyczne i energetyczne",
+				"description": "<p><span class=\"fontstyle0\">Polimerowa podszewka balistyczna to modyfikacja opancerzenia, która zwiększa właściwości ochronne odzieży. Warstwa mocnego syntetycznego materiału może służyć jako podszewka dla niektórych rodzajów ubioru, zapewniając im ograniczoną odporność na uderzenia, trafienia pociskami i wyładowania energetyczne.</span></p>\n<p><span class=\"fontstyle0\">Wiedza, jak wykonywać taki materiał, jest znana niewielkiej liczbie osób, które niechętnie i rzadko się nią dzielą. Do jej wszycia wykorzystuje się&nbsp;</span><span class=\"fontstyle2\"> umiejętność Naprawa</span><span class=\"fontstyle0\">.</span> </p>"
+
 			},
 			"BioCommMesh": {
-				"name": "BioCommMesh",
-				"effect": "<p>Chems last twice as long</p>",
-				"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+				"name": "Siatka BioComm",
+				"effect": "Środki chemiczne działają dwukrotnie dłużej (strona 164)",
+				"description": "<p><span class=\"fontstyle0\">Ulepszenia pancerza można zamontować w każdym rodzaju powyżej opisanych pancerzy z wyjątkiem pancerza ochrony Vault-Tecu.Do instalacji wszystkich ulepszeń </span><span class=\"fontstyle2\"> wykorzystuje się umiejętność Naprawa.</span><span class=\"fontstyle0\">.</span></p>"
 			},
 			"Blood Cleanser": {
-				"name": "Blood Cleanser",
-				"effect": "<p>Re-roll addiction roll for addictive chems while armor is powered</p>",
-				"description": "<p>Installed with the <b>Science</b> skill</p>"
+				"name": "Oczyszczalnik krwi",
+				"effect": "<p>Dopóki pancerz jest zasilany, możesz przerzucić rzut uzależnienia dla uzależniających środków chemicznych</p>",
+				"description": "<p>Do zamontowania używa się umiejętności <b>Nauka</b></p>"
+
 			},
 			"Boiled Leather": {
-				"name": "Boiled Leather",
+				"name": "Wygotowanie skóry",
 				"effect": "",
 				"description": ""
 			},
 			"Braced": {
-				"name": "Braced",
-				"effect": "<p>+2 to all damage resistances vs melee attacks</p>",
-				"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+				"name": "Usztywnienie",
+				"effect": "<p>+2 do każdej Odporności przeciwko atakom wykonywanym w walce wręcz</p>",
+				"description": "<p><span class=\"fontstyle0\">Ulepszenia pancerza można zamontować w każdym rodzaju powyżej opisanych pancerzy z wyjątkiem pancerza ochrony Vault-Tecu.Do instalacji wszystkich ulepszeń </span><span class=\"fontstyle2\"> wykorzystuje się umiejętność Naprawa.</span><span class=\"fontstyle0\">.</span></p>"
 			},
 			"Brawling": {
-				"name": "Brawling",
-				"effect": "<p>Unarmed attacks inflict +1 @fos[DC] damage</p>",
-				"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+				"name": "Mod bitewny",
+				"effect": "<p>+1@fos[DC] do obrażeń w ataku bez broni</p>",
+				"description": "<p><span class=\"fontstyle0\">Ulepszenia pancerza można zamontować w każdym rodzaju powyżej opisanych pancerzy z wyjątkiem pancerza ochrony Vault-Tecu.Do instalacji wszystkich ulepszeń </span><span class=\"fontstyle2\"> wykorzystuje się umiejętność Naprawa.</span><span class=\"fontstyle0\">.</span></p>"
 			},
 			"Buttressed": {
-				"name": "Buttressed",
+				"name": "Zabezpieczanie",
 				"effect": "",
 				"description": ""
+
 			},
 			"Calibrated Shocks": {
-				"name": "Calibrated Shocks",
-				"effect": "<p>Your carry weight is increased by +50</p>",
-				"description": "<p>Installed with the <b>Science</b> skill</p>"
+				"name": "Skalibrowane amortyzatory",
+				"effect": "<p>Udźwig +50</p>",
+				"description": "<p>Do zamontowania używa się umiejętności<b>Nauka</b></p>"
+
 			},
 			"Core Assembly": {
-				"name": "Core Assembly",
-				"effect": "<p>While armor is powered, if you begin your turn and there is no AP in the group pool, add +1 AP</p>",
-				"description": "<p>Installed with the <b>Science</b> skill</p>"
+				"name": "Moduł rdzenia",
+				"effect": "<p>Dopóki pancerz jest zasilany, jeśli na początku twojej tury w puli grupowej nie ma PA, dodajesz do niej 1 PA</p>",
+				"description": "<p>Do zamontowania używa się umiejętności<b>Nauka</b></p>"
+
 			},
 			"Cushioned": {
-				"name": "Cushioned",
-				"effect": "<p>+2 to Physical damage resistance vs falling damage</p>",
-				"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+				"name": "Poduszki",
+				"effect": "<p>+2 do Odporności na obrażenia fizyczne od upadku</p>",
+				"description": "<p><span class=\"fontstyle0\">Ulepszenia pancerza można zamontować w każdym rodzaju powyżej opisanych pancerzy z wyjątkiem pancerza ochrony Vault-Tecu.Do instalacji wszystkich ulepszeń </span><span class=\"fontstyle2\"> wykorzystuje się umiejętność Naprawa.</span><span class=\"fontstyle0\">.</span></p>"
 			},
 			"Deep Pocketed": {
-				"name": "Deep Pocketed",
-				"effect": "<p>+20 Carry Weight</p>",
-				"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+				"name": "Głębokie kieszenie",
+				"effect": "<p>Udźwig +20</p>",
+				"description": "<p><span class=\"fontstyle0\">Ulepszenia pancerza można zamontować w każdym rodzaju powyżej opisanych pancerzy z wyjątkiem pancerza ochrony Vault-Tecu.Do instalacji wszystkich ulepszeń </span><span class=\"fontstyle2\"> wykorzystuje się umiejętność Naprawa.</span><span class=\"fontstyle0\">.</span></p>"
 			},
 			"Dense": {
-				"name": "Dense",
-				"effect": "<p>+4 to all damage resistances vs Blast weapons</p>",
-				"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+				"name": "Gęstość",
+				"effect": "<p>+4 do każdej Odporności przeciwko broni Wybuchowej</p>",
+				"description": "<p><span class=\"fontstyle0\">Ulepszenia pancerza można zamontować w każdym rodzaju powyżej opisanych pancerzy z wyjątkiem pancerza ochrony Vault-Tecu.Do instalacji wszystkich ulepszeń </span><span class=\"fontstyle2\"> wykorzystuje się umiejętność Naprawa.</span><span class=\"fontstyle0\">.</span></p>"
 			},
 			"Emergency Protocols": {
-				"name": "Emergency Protocols",
-				"effect": "<p>While armor is powered, if your current HP is below 1/4 of your maximum, add +1 to Defense and +3 to all damage resistances</p>",
-				"description": "<p>Installed with the <b>Science</b> skill</p>"
+				"name": "Procedury awaryjne",
+				"effect": "<p>Dopóki pancerz jest zasilany, jeśli twoja aktualna liczba PZ jest poniżej ¼ ich maksymalnego poziomu, otrzymujesz +1 do Obrony i +3 do wszystkich Odporności na obrażenia</p>",
+				"description": "<p>Do zamontowania używa się umiejętności<b>Nauka</b></p>"
+
 			},
 			"EMP Shielding": {
-				"name": "EMP Shielding",
-				"effect": "<p>+2 Energy damage resistance</p>",
+				"name": "Osłona EM",
+				"effect": "<p>+2 do Odporności na obrażenia energetyczne</p>",
 				"description": ""
+
 			},
 			"Enameled Metal": {
-				"name": "Enameled Metal",
+				"name": "Emaliowanie",
 				"effect": "",
 				"description": ""
+
 			},
 			"Explosive Vent": {
-				"name": "Explosive Vent",
-				"effect": "<p>While the armor is powered, when you land from a height, you inflict 4 @fos[DC] damage to all creatures and damageable objects within Close range</p>",
-				"description": "<p>Installed with the <b>Science</b> skill</p>"
+				"name": "Pokrywa dekompresyjna",
+				"effect": "<p>Dopóki pancerz jest zasilany, kiedy wykonujesz twarde lądowanie, zadajesz 4@fos[DC] obrażeń wszystkim istotom oraz przedmiotom znajdującym się na bliskim dystansie</p>",
+				"description": "<p>Do zamontowania używa się umiejętności<b>Nauka</b></p>"
+
 			},
 			"Fiberglass": {
-				"name": "Fiberglass",
+				"name": "Włókno szklane",
 				"effect": "",
 				"description": ""
+
 			},
 			"Girded Leather": {
-				"name": "Girded Leather",
+				"name": "Utwardzenie skóry",
 				"effect": "",
 				"description": ""
+
 			},
 			"Hardened": {
-				"name": "Hardened",
+				"name": "Utwardzanie",
 				"effect": "",
 				"description": ""
+
 			},
 			"Hydraulic Bracers": {
-				"name": "Hydraulic Bracers",
-				"effect": "<p>While armor is powered, your unarmed attacks inflict +2 @fos[DC] damage </p>",
-				"description": "<p>Installed with the <b>Repair</b> skill</p>"
+				"name": "Hydrauliczne karwasze",
+				"effect": "<p>Dopóki pancerz jest zasilany, w ataku bez broni zadajesz obrażenia zwiększone o +2 @fos[DC]</p>",
+				"description": "<p>Do zamontowania używa się umiejętności<b>Naprawa</b></p>"
+
 			},
 			"Insulated Lining": {
-				"name": "Insulated Lining",
+				"name": "Ocieplane",
 				"effect": "",
 				"description": ""
+
 			},
 			"Internal Database": {
-				"name": "Internal Database",
-				"effect": "<p>Re-roll 1d20 on all INT tests while armor is powered</p>",
-				"description": "<p>Installed with the <b>Science</b> skill</p>"
+				"name": "Wewnętrzna baza danych",
+				"effect": "<p>Dopóki pancerz jest zasilany, możesz przerzucić 1k20 w dowolnym teście INT</p>",
+				"description": "<p>Do zamontowania używa się umiejętności<b>Nauka</b></p>"
+
 			},
 			"Jetpack": {
-				"name": "Jetpack",
-				"effect": "<p>When you move you may activate a jetpack by spending 1 charge; this allows you to move one additional zone (horizontally or vertically) or gain enough height for an impact landing</p>",
-				"description": "<p>Installed with the <b>Repair</b> skill</p>"
+				"name": "Plecak odrzutowy",
+				"effect": "<p>Podczas ruchu możesz zużyć 1 ładunek, żeby włączyć plecak odrzutowy; dzięki niemu możesz przesunąć się o dodatkową strefę (w pionie lub poziomie) lub wznieść się na odpowiedni pułap, żeby wykonać twarde lądowanie</p>",
+				"description": "<p>Do zamontowania używa się umiejętności<b>Naprawa</b></p>"
+
 			},
 			"Kinetic Dynamo": {
-				"name": "Kinetic Dynamo",
-				"effect": "<p>While armor is powered, when you suffer any damage (after reductions for damage resistances), add +1 to the group AP pool</p>",
-				"description": "<p>Installed with the <b>Science</b> skill</p>"
+				"name": "Dynamo kinetyczne",
+				"effect": "<p>Dopóki pancerz jest zasilany, za każdym razem, gdy otrzymasz jakiekolwiek obrażenia (po uwzględnieniu Odporności), dodajesz 1 PA do puli grupowej</p>",
+				"description": "<p>Do zamontowania używa się umiejętności<b>Nauka</b></p>"
+
 			},
 			"Laminated": {
-				"name": "Laminated",
+				"name": "Laminowanie",
 				"effect": "",
 				"description": ""
+
 			},
 			"Lead Lined": {
-				"name": "Lead Lined",
+				"name": "Warstwa ołowiu",
 				"effect": "",
-				"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+				"description": "<p><span class=\"fontstyle0\">Ulepszenia pancerza można zamontować w każdym rodzaju powyżej opisanych pancerzy z wyjątkiem pancerza ochrony Vault-Tecu.Do instalacji wszystkich ulepszeń </span><span class=\"fontstyle2\"> wykorzystuje się umiejętność Naprawa.</span><span class=\"fontstyle0\">.</span></p>"
 			},
 			"Lead Plating": {
-				"name": "Lead Plating",
-				"effect": "<p>+2 Radiation damage resistance</p>",
-				"description": "<p>Installed with the <strong>Repair</strong> skill.</p>"
+				"name": "Płyty ołowiane",
+				"effect": "<p>+2 do Odporności na obrażenia radiacyjne</p>",
+				"description": "<p>Do zamontowania używa się umiejętności<strong>Repair</strong> skill.</p>"
+
 			},
 			"Lighter Build": {
-				"name": "Lighter Build",
+				"name": "Delikatniejsza budowa",
 				"effect": "",
-				"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+				"description": "<p><span class=\"fontstyle0\">Ulepszenia pancerza można zamontować w każdym rodzaju powyżej opisanych pancerzy z wyjątkiem pancerza ochrony Vault-Tecu.Do instalacji wszystkich ulepszeń </span><span class=\"fontstyle2\"> wykorzystuje się umiejętność Naprawa.</span><span class=\"fontstyle0\">.</span></p>"
 			},
 			"Medic Pump": {
-				"name": "Medic Pump",
-				"effect": "<p>While armor is powered, when yourHP are reduced to below 1/2 of your maximum, you immediately use a Stimpak, regaining 3 HP or treating one Injury.</p>",
-				"description": "<p>Installed with the <b>Science</b> skill</p>"
+				"name": "Pompa infuzyjna",
+				"effect": "<p>Dopóki pancerz jest zasilany, jeśli twoja aktualna liczba PZ spadnie poniżej ½ ich maksymalnego poziomu, natychmiast zużywasz 1 stimpak i odzyskujesz 3 PZ lub leczysz 1 ranę.</p>",
+				"description": "<p>Do zamontowania używa się umiejętności<b>Nauka</b></p>"
+
 			},
 			"Microcarbon": {
-				"name": "Microcarbon",
+				"name": "Materiał mikrokarbonowy",
 				"effect": "",
 				"description": ""
+
 			},
 			"Mk II Arm": {
-				"name": "Mk II Arm",
+				"name": "Typ II na rękę",
 				"effect": "",
 				"description": ""
+
 			},
 			"Mk II Chest Piece": {
-				"name": "Mk II Chest Piece",
+				"name": "Typ II na korpus",
 				"effect": "",
 				"description": ""
+
 			},
 			"Mk II Helm": {
-				"name": "Mk II Helm",
+				"name": "Typ II hełm",
 				"effect": "",
 				"description": ""
+
 			},
 			"Mk II Leg": {
-				"name": "Mk II Leg",
+				"name": "Typ II na nogę",
 				"effect": "",
 				"description": ""
+
 			},
 			"Mk III Arm": {
-				"name": "Mk III Arm",
+				"name": "Typ III na rękę",
 				"effect": "",
 				"description": ""
+
 			},
 			"Mk III Chest Piece": {
-				"name": "Mk III Chest Piece",
+				"name": "Typ III na korpus",
 				"effect": "",
 				"description": ""
+
 			},
 			"Mk III Helm": {
-				"name": "Mk III Helm",
+				"name": "Typ III hełm",
 				"effect": "",
 				"description": ""
+
 			},
 			"Mk III Leg": {
-				"name": "Mk III Leg",
+				"name": "Typ III na nogę",
 				"effect": "",
 				"description": ""
+
 			},
 			"Mk IV Arm": {
-				"name": "Mk IV Arm",
+				"name": "Typ IV na rękę",
 				"effect": "",
 				"description": ""
+
 			},
 			"Mk IV ChestPiece": {
-				"name": "Mk IV ChestPiece",
+				"name": "Typ IV na korpus",
 				"effect": "",
 				"description": ""
+
 			},
 			"Mk IV Helm": {
-				"name": "Mk IV Helm",
+				"name": "Typ IV hełm",
 				"effect": "",
 				"description": ""
+
 			},
 			"Mk IV Leg": {
-				"name": "Mk IV Leg",
+				"name": "Typ IV na nogę",
 				"effect": "",
 				"description": ""
+
 			},
 			"Mk V Arm": {
-				"name": "Mk V Arm",
+				"name": "Typ V na rękę",
 				"effect": "",
 				"description": ""
+
 			},
 			"Mk V Chest Piece": {
-				"name": "Mk V Chest Piece",
+				"name": "Typ V na korpus",
 				"effect": "",
 				"description": ""
+
 			},
 			"Mk V Helm": {
-				"name": "Mk V Helm",
+				"name": "Typ V hełm",
 				"effect": "",
 				"description": ""
+
 			},
 			"Mk V Leg": {
-				"name": "Mk V Leg",
+				"name": "Typ V na nogę",
 				"effect": "",
 				"description": ""
+
 			},
 			"Mk VI Arm": {
-				"name": "Mk VI Arm",
+				"name": "Typ VI na rękę",
 				"effect": "",
 				"description": ""
+
 			},
 			"Mk VI ChestPiece": {
-				"name": "Mk VI ChestPiece",
+				"name": "Typ VI na korpus",
 				"effect": "",
 				"description": ""
+
 			},
 			"Mk VI Helm": {
-				"name": "Mk VI Helm",
+				"name": "Typ VI hełm",
 				"effect": "",
 				"description": ""
+
 			},
 			"Mk VI Leg": {
-				"name": "Mk VI Leg",
+				"name": "Typ VI na nogę",
 				"effect": "",
 				"description": ""
+
 			},
 			"Motion-Assist Servos": {
-				"name": "Motion-Assist Servos",
-				"effect": "<p>Increase STR of armor frame to 13 while armor is powered</p>",
-				"description": "<p>Installed with the <b>Science</b> skill</p>"
+				"name": "Serwomechanizmy wspomagające",
+				"effect": "<p>Dopóki pancerz jest zasilany, jego SI wynosi 13</p>",
+				"description": "<p>Do zamontowania używa się umiejętności<b>Nauka</b></p>"
+
 			},
 			"Muffled": {
-				"name": "Muffled",
-				"effect": "<p>Re-roll 1d20 on Stealth tests</p>",
-				"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+				"name": "Wyściełanie",
+				"effect": "<p>Możesz przerzucić 1k20 w dowolnym teście Skradania się</p>",
+				"description": "<p><span class=\"fontstyle0\">Ulepszenia pancerza można zamontować w każdym rodzaju powyżej opisanych pancerzy z wyjątkiem pancerza ochrony Vault-Tecu.Do instalacji wszystkich ulepszeń </span><span class=\"fontstyle2\"> wykorzystuje się umiejętność Naprawa.</span><span class=\"fontstyle0\">.</span></p>"
 			},
 			"Nanofilament": {
-				"name": "Nanofilament",
+				"name": "Nanowłókna",
 				"effect": "",
 				"description": ""
+
 			},
 			"Optimized Bracers": {
-				"name": "Optimized Bracers",
-				"effect": "<p>While armor is powered, you may spend up to 4 AP on bonus damage for melee attacks </p>",
-				"description": "<p>Installed with the <b>Repair</b> skill</p>"
+				"name": "Zoptymalizowane karwasze",
+				"effect": "<p>Dopóki pancerz jest zasilany, możesz w ataku wręcz wydać do 4 PA, żeby zwiększyć obrażenia</p>",
+				"description": "<p>Do zamontowania używa się umiejętności<b>Naprawa</b></p>"
+
 			},
 			"Overdrive Servos": {
-				"name": "Overdrive Servos",
-				"effect": "<p>While armor is powered, when you Sprint, you may spend +2 AP to move one additional zone</p>",
-				"description": "<p>Installed with the <b>Science</b> skill</p>"
+				"name": "Doładowane serwomechanizmy",
+				"effect": "<p>Dopóki pancerz jest zasilany, jeśli wykonujesz główną akcję biegu, możesz wydać 2 PA, żeby poruszyć się o dodatkową strefę</p>",
+				"description": "<p>Do zamontowania używa się umiejętności<b>Nauka</b></p>"
+
 			},
 			"Padded": {
-				"name": "Padded",
-				"effect": "<p>+2 to all damage resistances vs Blast weapons</p>",
-				"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+				"name": "Wyściełanie",
+				"effect": "<p>+2 do każdej Odporności przeciwko broni Wybuchowej</p>",
+				"description": "<p><span class=\"fontstyle0\">Ulepszenia pancerza można zamontować w każdym rodzaju powyżej opisanych pancerzy z wyjątkiem pancerza ochrony Vault-Tecu.Do instalacji wszystkich ulepszeń </span><span class=\"fontstyle2\"> wykorzystuje się umiejętność Naprawa.</span><span class=\"fontstyle0\">.</span></p>"
 			},
 			"Painted Metal": {
-				"name": "Painted Metal",
+				"name": "Malowanie",
 				"effect": "",
 				"description": ""
+
 			},
 			"Photovoltaic Plating": {
-				"name": "Photovoltaic Plating",
-				"effect": "<p>+1 AP at the start of a scene if in direct sunlight (only applies once)</p>",
-				"description": "<p>Installed with the <strong>Science </strong>skill.</p>"
+				"name": "Warstwa fotowoltaiczna",
+				"effect": "<p>+1 PA na początku sceny, jeśli pada na ciebie światło słoneczne (tylko raz na scenę)</p>",
+				"description": "<p>Do zamontowania używa się umiejętności<strong>Nauka </strong>skill.</p>"
+
 			},
 			"Pneumatic": {
-				"name": "Pneumatic",
-				"effect": "<p>Stun damage effect requires 2+ Effects to be rolled to affect you</p>",
-				"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+				"name": "Pneumatyczność",
+				"effect": "<p>Przeciwnik musi uzyskać co najmniej 2 Efekty, żeby zadziałał przeciw tobie Efekt obrażeń Ogłuszające</p>",
+				"description": "<p><span class=\"fontstyle0\">Ulepszenia pancerza można zamontować w każdym rodzaju powyżej opisanych pancerzy z wyjątkiem pancerza ochrony Vault-Tecu.Do instalacji wszystkich ulepszeń </span><span class=\"fontstyle2\"> wykorzystuje się umiejętność Naprawa.</span><span class=\"fontstyle0\">.</span></p>"
 			},
 			"Pocketed": {
-				"name": "Pocketed",
-				"effect": "<p>+10 Carry Weight</p>",
-				"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+				"name": "Kieszenie",
+				"effect": "<p>Udźwig +10</p>",
+				"description": "<p><span class=\"fontstyle0\">Ulepszenia pancerza można zamontować w każdym rodzaju powyżej opisanych pancerzy z wyjątkiem pancerza ochrony Vault-Tecu.Do instalacji wszystkich ulepszeń </span><span class=\"fontstyle2\"> wykorzystuje się umiejętność Naprawa.</span><span class=\"fontstyle0\">.</span></p>"
 			},
 			"Polished Metal": {
-				"name": "Polished Metal",
+				"name": "Polerowanie",
 				"effect": "",
 				"description": ""
+
 			},
 			"Polymer": {
-				"name": "Polymer",
+				"name": "Materiał polimerowy",
 				"effect": "",
 				"description": ""
+
 			},
 			"Prism Shielding": {
-				"name": "Prism Shielding",
-				"effect": "<p>+2 damage resistances vs Blast weapons</p>",
-				"description": "<p>Installed with the <strong>Science </strong>skill.</p>"
+				"name": "Osłona wybuchowa",
+				"effect": "<p>+2 Odporności przeciwko broni Wybuchowej</p>",
+				"description": "<p>Do zamontowania używa się umiejętności<strong>Nauka </strong>skill.</p>"
+
 			},
 			"Protective Lining": {
-				"name": "Protective Lining",
+				"name": "Ochronne",
 				"effect": "",
 				"description": ""
+
 			},
 			"Rad Scrubber": {
-				"name": "Rad Scrubber",
-				"effect": "<p>Ignore radiation from Irradiated food or drink consumed while armor is powered</p>",
-				"description": "<p>Installed with the <b>Science</b> skill</p>"
+				"name": "Likwidator promieniowania",
+				"effect": "<p>Dopóki pancerz jest zasilany, możesz ignorować efekty spożycia skażonej żywności i wody</p>",
+				"description": "<p>Do zamontowania używa się umiejętności<b>Nauka</b></p>"
+
 			},
 			"Raider II Arm": {
-				"name": "Raider II Arm",
+				"name":"Bandycki PW II na rękę",
 				"effect": "",
 				"description": ""
+
 			},
 			"Raider II Chest Piece": {
-				"name": "Raider II Chest Piece",
+				"name":"Bandycki PW II na korpus",
 				"effect": "",
 				"description": ""
+
 			},
 			"Raider II Helm": {
-				"name": "Raider II Helm",
+				"name":"Bandycki PW II hełm",
 				"effect": "",
 				"description": ""
+
 			},
 			"Raider II Leg": {
-				"name": "Raider II Leg",
+				"name":"Bandycki PW II na nogę",
 				"effect": "",
 				"description": ""
+
 			},
 			"Reactive Plates": {
-				"name": "Reactive Plates",
-				"effect": "<p>While armor is powered, when you suffer damage from a melee or unarmed attack, you inflict Physical damage back to the attacker equal to half the damage total rolled</p>",
-				"description": "<p>Installed with the <b>Repair</b> skill</p>"
+				"name": "Płytki reaktywne",
+				"effect": "<p>Dopóki pancerz jest zasilany, kiedy otrzymujesz obrażenia wskutek ataku wręcz, przeciwnik otrzymuje połowę łącznej liczby wyrzuconych obrażeń (fizyczne)</p>",
+				"description": "<p>Do zamontowania używa się umiejętności<b>Naprawa</b></p>"
+
 			},
 			"Reinforced": {
-				"name": "Reinforced",
+				"name": "Wzmocnienie",
 				"effect": "",
 				"description": ""
+
 			},
 			"Resin": {
-				"name": "Resin",
+				"name": "Żywiczny",
 				"effect": "",
 				"description": ""
+
 			},
 			"Resistant Lining": {
-				"name": "Resistant Lining",
+				"name": "Odporne",
 				"effect": "",
 				"description": ""
+
 			},
 			"Rusty Knuckles": {
-				"name": "Rusty Knuckles",
-				"effect": "<p>Your unarmed attacks gain the Persistent damage effect</p>",
-				"description": "<p>Installed with the <b>Repair</b> skill</p>"
+				"name": "Zardzewiały kastet",
+				"effect": "<p>Twoje ataki bez broni otrzymują Efekt obrażeń Uporczywe</p>",
+				"description": "<p>Do zamontowania używa się umiejętności<b>Naprawa</b></p>"
+
 			},
 			"Sensor Array": {
-				"name": "Sensor Array",
-				"effect": "<p>Re-roll 1d20 on all PER tests while armor is powered</p>",
-				"description": "<p>Installed with the <b>Science</b> skill</p>"
+				"name": "Układ sensorów",
+				"effect": "<p>Dopóki pancerz jest zasilany, możesz przerzucić 1k20 w dowolnym teście PER</p>",
+				"description": "<p>Do zamontowania używa się umiejętności<b>Nauka</b></p>"
+
 			},
 			"Shadowed": {
-				"name": "Shadowed",
-				"effect": "<h2><span class=\"fontstyle0\">Shadowed Armor</span></h2>\n<p><span class=\"fontstyle2\">Many of the armor types listed in this section can be modified to become&nbsp;</span><span class=\"fontstyle3\">Shadowed</span><span class=\"fontstyle2\">. Shadowed armor has a darker, less-reflective surface to make it harder to see the wearer in dim light or darkness.</span></p>\n<ul>\n<li><span class=\"fontstyle2\">If you are wearing one or two pieces of Shadowed </span><span class=\"fontstyle2\">armor, you may ignore the first complication rolled on a </span><span class=\"fontstyle3\"><strong>Sneak</strong> </span><span class=\"fontstyle2\">test you attempt while in dim light or darkness.</span></li>\n<li><span class=\"fontstyle2\">If you are wearing three or more pieces of Shadowed </span><span class=\"fontstyle2\">armor, you may re-roll a single d20 on one </span><span class=\"fontstyle3\"><strong>Sneak</strong> </span><span class=\"fontstyle2\">test </span><span class=\"fontstyle2\">you attempt each scene while in dim light or darkness.</span></li>\n<li><span class=\"fontstyle2\">If you are wearing five or more pieces of Shadowed </span><span class=\"fontstyle2\">armor, you may re-roll a single d20 on any </span><span class=\"fontstyle3\"><strong>Sneak</strong> </span><span class=\"fontstyle2\">test </span><span class=\"fontstyle2\">you attempt while in dim light or darkness.</span></li>\n</ul>\n<p><span class=\"fontstyle2\">Torso armor counts as two pieces towards this. Shadowed armor does not provide any bonus if you are in a suit of Power Armor.</span> <br><br></p>",
+				"name": "Przyciemnienie metalu",
+				"effect": "<h2><span class=\"fontstyle0\">Pancerz przyciemniany</span></h2>\n<p><span class=\"fontstyle2\">Znaczna część opisanych w tym podrozdziale rodzajów pancerzy może zostać zmodyfikowana, aby stały się&nbsp;</span><span class=\"fontstyle3\">przyciemniane</span><span class=\"fontstyle2\">Ta modyfikacja sprawia, że wykonana z ciemniejszego, mniej połyskliwego materiału powierzchnia pancerza utrudnia dostrzeżenie go w ciemnościach lub przyćmionym świetle.</span></p>\n<ul>\n<li><span class=\"fontstyle2\">Jeśli nosisz jeden lub dwa elementy przyciemnianego pancerza </span><span class=\"fontstyle2\">możesz zignorować pierwszą komplikację, jaką uzyskasz w teście</span><span class=\"fontstyle3\"><strong>Skradania się</strong> </span><span class=\"fontstyle2\">wykonywanym w ciemnościach lub przyćmionym świetle.</span></li>\n<li><span class=\"fontstyle2\">Jeśli nosisz trzy lub cztery elementy przyciemnianego pancerza </span><span class=\"fontstyle2\">możesz w każdej scenie przerzucić 1k20 w jednym teście</span><span class=\"fontstyle3\"><strong>Skradania się</strong> </span><span class=\"fontstyle2\"></span><span class=\"fontstyle2\">wykonywanym w ciemnościach lub przyćmionym świetle.</span></li>\n<li><span class=\"fontstyle2\">Jeśli nosisz pięć lub więcej elementów przyciemnianego pancerza,</span><span class=\"fontstyle2\">możesz przerzucić 1k20 w dowolnym teście</span><span class=\"fontstyle3\"><strong>Skradania się</strong> </span><span class=\"fontstyle2\"></span><span class=\"fontstyle2\">wykonywanym w ciemnościach lub przyćmionym świetle..</span></li>\n</ul>\n<p><span class=\"fontstyle2\">Napierśnik liczy się jako dwa elementy. Nie możesz korzystać z zalet przyciemnianego pancerza, jeśli nosisz pancerz wspomagany.</span> <br><br></p>",
 				"description": ""
+
 			},
 			"Shadowed Leather": {
 				"name": "Shadowed Leather",
-				"effect": "<h2><span class=\"fontstyle0\">Shadowed Armor</span></h2>\n<p><span class=\"fontstyle2\">Many of the armor types listed in this section can be modified to become&nbsp;</span><span class=\"fontstyle3\">Shadowed</span><span class=\"fontstyle2\">. Shadowed armor has a darker, less-reflective surface to make it harder to see the wearer in dim light or darkness.</span></p>\n<ul>\n<li><span class=\"fontstyle2\">If you are wearing one or two pieces of Shadowed </span><span class=\"fontstyle2\">armor, you may ignore the first complication rolled on a </span><span class=\"fontstyle3\"><strong>Sneak</strong> </span><span class=\"fontstyle2\">test you attempt while in dim light or darkness.</span></li>\n<li><span class=\"fontstyle2\">If you are wearing three or more pieces of Shadowed </span><span class=\"fontstyle2\">armor, you may re-roll a single d20 on one </span><span class=\"fontstyle3\"><strong>Sneak</strong> </span><span class=\"fontstyle2\">test </span><span class=\"fontstyle2\">you attempt each scene while in dim light or darkness.</span></li>\n<li><span class=\"fontstyle2\">If you are wearing five or more pieces of Shadowed </span><span class=\"fontstyle2\">armor, you may re-roll a single d20 on any </span><span class=\"fontstyle3\"><strong>Sneak</strong> </span><span class=\"fontstyle2\">test </span><span class=\"fontstyle2\">you attempt while in dim light or darkness.</span></li>\n</ul>\n<p><span class=\"fontstyle2\">Torso armor counts as two pieces towards this. Shadowed armor does not provide any bonus if you are in a suit of Power Armor.</span> <br><br></p>",
+				"effect": "<h2><span class=\"fontstyle0\">Pancerz przyciemniany</span></h2>\n<p><span class=\"fontstyle2\">Znaczna część opisanych w tym podrozdziale rodzajów pancerzy może zostać zmodyfikowana, aby stały się&nbsp;</span><span class=\"fontstyle3\">przyciemniane</span><span class=\"fontstyle2\">Ta modyfikacja sprawia, że wykonana z ciemniejszego, mniej połyskliwego materiału powierzchnia pancerza utrudnia dostrzeżenie go w ciemnościach lub przyćmionym świetle.</span></p>\n<ul>\n<li><span class=\"fontstyle2\">Jeśli nosisz jeden lub dwa elementy przyciemnianego pancerza </span><span class=\"fontstyle2\">możesz zignorować pierwszą komplikację, jaką uzyskasz w teście</span><span class=\"fontstyle3\"><strong>Skradania się</strong> </span><span class=\"fontstyle2\">wykonywanym w ciemnościach lub przyćmionym świetle.</span></li>\n<li><span class=\"fontstyle2\">Jeśli nosisz trzy lub cztery elementy przyciemnianego pancerza </span><span class=\"fontstyle2\">możesz w każdej scenie przerzucić 1k20 w jednym teście</span><span class=\"fontstyle3\"><strong>Skradania się</strong> </span><span class=\"fontstyle2\"></span><span class=\"fontstyle2\">wykonywanym w ciemnościach lub przyćmionym świetle.</span></li>\n<li><span class=\"fontstyle2\">Jeśli nosisz pięć lub więcej elementów przyciemnianego pancerza,</span><span class=\"fontstyle2\">możesz przerzucić 1k20 w dowolnym teście</span><span class=\"fontstyle3\"><strong>Skradania się</strong> </span><span class=\"fontstyle2\"></span><span class=\"fontstyle2\">wykonywanym w ciemnościach lub przyćmionym świetle..</span></li>\n</ul>\n<p><span class=\"fontstyle2\">Napierśnik liczy się jako dwa elementy. Nie możesz korzystać z zalet przyciemnianego pancerza, jeśli nosisz pancerz wspomagany.</span> <br><br></p>",
 				"description": ""
+
 			},
 			"Shadowed Metal": {
-				"name": "Shadowed Metal",
-				"effect": "<h2><span class=\"fontstyle0\">Shadowed Armor</span></h2>\n<p><span class=\"fontstyle2\">Many of the armor types listed in this section can be modified to become&nbsp;</span><span class=\"fontstyle3\">Shadowed</span><span class=\"fontstyle2\">. Shadowed armor has a darker, less-reflective surface to make it harder to see the wearer in dim light or darkness.</span></p>\n<ul>\n<li><span class=\"fontstyle2\">If you are wearing one or two pieces of Shadowed </span><span class=\"fontstyle2\">armor, you may ignore the first complication rolled on a </span><span class=\"fontstyle3\"><strong>Sneak</strong> </span><span class=\"fontstyle2\">test you attempt while in dim light or darkness.</span></li>\n<li><span class=\"fontstyle2\">If you are wearing three or more pieces of Shadowed </span><span class=\"fontstyle2\">armor, you may re-roll a single d20 on one </span><span class=\"fontstyle3\"><strong>Sneak</strong> </span><span class=\"fontstyle2\">test </span><span class=\"fontstyle2\">you attempt each scene while in dim light or darkness.</span></li>\n<li><span class=\"fontstyle2\">If you are wearing five or more pieces of Shadowed </span><span class=\"fontstyle2\">armor, you may re-roll a single d20 on any </span><span class=\"fontstyle3\"><strong>Sneak</strong> </span><span class=\"fontstyle2\">test </span><span class=\"fontstyle2\">you attempt while in dim light or darkness.</span></li>\n</ul>\n<p><span class=\"fontstyle2\">Torso armor counts as two pieces towards this. Shadowed armor does not provide any bonus if you are in a suit of Power Armor.</span> <br><br></p>",
+				"name": "Przyciemnienie metalu",
+				"effect": "<h2><span class=\"fontstyle0\">Pancerz przyciemniany</span></h2>\n<p><span class=\"fontstyle2\">Znaczna część opisanych w tym podrozdziale rodzajów pancerzy może zostać zmodyfikowana, aby stały się&nbsp;</span><span class=\"fontstyle3\">przyciemniane</span><span class=\"fontstyle2\">Ta modyfikacja sprawia, że wykonana z ciemniejszego, mniej połyskliwego materiału powierzchnia pancerza utrudnia dostrzeżenie go w ciemnościach lub przyćmionym świetle.</span></p>\n<ul>\n<li><span class=\"fontstyle2\">Jeśli nosisz jeden lub dwa elementy przyciemnianego pancerza </span><span class=\"fontstyle2\">możesz zignorować pierwszą komplikację, jaką uzyskasz w teście</span><span class=\"fontstyle3\"><strong>Skradania się</strong> </span><span class=\"fontstyle2\">wykonywanym w ciemnościach lub przyćmionym świetle.</span></li>\n<li><span class=\"fontstyle2\">Jeśli nosisz trzy lub cztery elementy przyciemnianego pancerza </span><span class=\"fontstyle2\">możesz w każdej scenie przerzucić 1k20 w jednym teście</span><span class=\"fontstyle3\"><strong>Skradania się</strong> </span><span class=\"fontstyle2\"></span><span class=\"fontstyle2\">wykonywanym w ciemnościach lub przyćmionym świetle.</span></li>\n<li><span class=\"fontstyle2\">Jeśli nosisz pięć lub więcej elementów przyciemnianego pancerza,</span><span class=\"fontstyle2\">możesz przerzucić 1k20 w dowolnym teście</span><span class=\"fontstyle3\"><strong>Skradania się</strong> </span><span class=\"fontstyle2\"></span><span class=\"fontstyle2\">wykonywanym w ciemnościach lub przyćmionym świetle..</span></li>\n</ul>\n<p><span class=\"fontstyle2\">Napierśnik liczy się jako dwa elementy. Nie możesz korzystać z zalet przyciemnianego pancerza, jeśli nosisz pancerz wspomagany.</span> <br><br></p>",
 				"description": ""
+
 			},
 			"Shielded Lining": {
-				"name": "Shielded Lining",
+				"name": "Osłaniane",
 				"effect": "",
 				"description": ""
+
 			},
 			"Stabilized": {
-				"name": "Stabilized",
-				"effect": "<p>When you aim and make a ranged attack, +1 @fos[DC] to the attack's damage</p>",
-				"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+				"name": "Stabilizacja",
+				"effect": "<p>Kiedy wykonasz pomniejszą akcję celowania, otrzymujesz +1@fos[DC] do obrażeń w ataku dystansowym</p>",
+				"description": "<p><span class=\"fontstyle0\">Ulepszenia pancerza można zamontować w każdym rodzaju powyżej opisanych pancerzy z wyjątkiem pancerza ochrony Vault-Tecu.Do instalacji wszystkich ulepszeń </span><span class=\"fontstyle2\"> wykorzystuje się umiejętność Naprawa.</span><span class=\"fontstyle0\">.</span></p>"
 			},
 			"Stealth Boy": {
 				"name": "Stealth Boy",
-				"effect": "<p>You may activate a Stealth Boy (p.171) once per scene by spending 1 charge</p>",
-				"description": "<p>Installed with the <b>Science</b> skill</p>"
+				"effect": "<p>Raz na scenę możesz zużyć 1 ładunek, żeby włączyć Stealth Boya (strona 170)</p>",
+				"description": "<p>Do zamontowania używa się umiejętności<b>Nauka</b></p>"
+
 			},
 			"Studded Leather": {
-				"name": "Studded Leather",
+				"name": "Ćwiekowanie skóry",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-45b Arm": {
-				"name": "T-45b Arm",
+				"name": "T-45b na rękę",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-45b Chest Piece": {
-				"name": "T-45b Chest Piece",
+				"name": "T-45b na korpus",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-45b Helm": {
-				"name": "T-45b Helm",
+				"name": "T-45b hełm",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-45b Leg": {
-				"name": "T-45b Leg",
+				"name": "T-45b na nogę",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-45c Arm": {
-				"name": "T-45c Arm",
+				"name": "T-45c na rękę",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-45c Chest Piece": {
-				"name": "T-45c Chest Piece",
+				"name": "T-45c na korpus",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-45c Helm": {
-				"name": "T-45c Helm",
+				"name": "T-45c hełm",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-45c Leg": {
-				"name": "T-45c Leg",
+				"name": "T-45c na nogę",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-45d Arm": {
-				"name": "T-45d Arm",
+				"name": "T-45d na rękę",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-45d Chest Piece": {
-				"name": "T-45d Chest Piece",
+				"name": "T-45d na korpus",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-45d Helm": {
-				"name": "T-45d Helm",
+				"name": "T-45d hełm",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-45d Leg": {
-				"name": "T-45d Leg",
+				"name": "T-45d na nogę",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-45e Arm": {
-				"name": "T-45e Arm",
+				"name": "T-45e na rękę",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-45e Chest Piece": {
-				"name": "T-45e Chest Piece",
+				"name": "T-45e na korpus",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-45e Helm": {
-				"name": "T-45e Helm",
+				"name": "T-45e hełm",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-45e Leg": {
-				"name": "T-45e Leg",
+				"name": "T-45e na nogę",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-45f Arm": {
-				"name": "T-45f Arm",
+				"name": "T-45f na rękę",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-45f Chest Piece": {
-				"name": "T-45f Chest Piece",
+				"name": "T-45f na korpus",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-45f Helm": {
-				"name": "T-45f Helm",
+				"name": "T-45f hełm",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-45f Leg": {
-				"name": "T-45f Leg",
+				"name": "T-45f na nogę",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-51b Arm": {
-				"name": "T-51b Arm",
+				"name": "T-51b na rękę",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-51b Chest Piece": {
-				"name": "T-51b Chest Piece",
+				"name": "T-51b na korpus",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-51b Helm": {
-				"name": "T-51b Helm",
+				"name": "T-51b hełm",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-51b Leg": {
-				"name": "T-51b Leg",
+				"name": "T-51b na nogę",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-51c Arm": {
-				"name": "T-51c Arm",
+				"name": "T-51c na rękę",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-51c Chest Piece": {
-				"name": "T-51c Chest Piece",
+				"name": "T-51c na korpus",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-51c Helm": {
-				"name": "T-51c Helm",
+				"name": "T-51c hełm",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-51c Leg": {
-				"name": "T-51c Leg",
+				"name": "T-51c na nogę",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-51d Arm": {
-				"name": "T-51d Arm",
+				"name": "T-51d na rękę",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-51d Chest Piece": {
-				"name": "T-51d Chest Piece",
+				"name": "T-51d na korpus",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-51d Helm": {
-				"name": "T-51d Helm",
+				"name": "T-51d hełm",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-51d Leg": {
-				"name": "T-51d Leg",
+				"name": "T-51d na nogę",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-51e Arm": {
-				"name": "T-51e Arm",
+				"name": "T-51e na rękę",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-51e Chest Piece": {
-				"name": "T-51e Chest Piece",
+				"name": "T-51e na korpus",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-51e Helm": {
-				"name": "T-51e Helm",
+				"name": "T-51e hełm",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-51e Leg": {
-				"name": "T-51e Leg",
+				"name": "T-51e na nogę",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-51f Arm": {
-				"name": "T-51f Arm",
+				"name": "T-51f na rękę",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-51f Chest Piece": {
-				"name": "T-51f Chest Piece",
+				"name": "T-51f na korpus",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-51f Helm": {
-				"name": "T-51f Helm",
+				"name": "T-51f hełm",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-51f Leg": {
-				"name": "T-51f Leg",
+				"name": "T-51f na nogę",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-60b Arm": {
-				"name": "T-60b Arm",
+				"name": "T-60b na rękę",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-60b Chest Piece": {
-				"name": "T-60b Chest Piece",
+				"name": "T-60b na korpus",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-60b Helm": {
-				"name": "T-60b Helm",
+				"name": "T-60b hełm",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-60b Leg": {
-				"name": "T-60b Leg",
+				"name": "T-60b na nogę",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-60c Arm": {
-				"name": "T-60c Arm",
+				"name": "T-60c na rękę",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-60c Chest Piece": {
-				"name": "T-60c Chest Piece",
+				"name": "T-60c na korpus",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-60c Helm": {
-				"name": "T-60c Helm",
+				"name": "T-60c hełm",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-60c Leg": {
-				"name": "T-60c Leg",
+				"name": "T-60c na nogę",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-60d Arm": {
-				"name": "T-60d Arm",
+				"name": "T-60d na rękę",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-60d Chest Piece": {
-				"name": "T-60d Chest Piece",
+				"name": "T-60d na korpus",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-60d Helm": {
-				"name": "T-60d Helm",
+				"name": "T-60d hełm",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-60d Leg": {
-				"name": "T-60d Leg",
+				"name": "T-60d na nogę",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-60e Arm": {
-				"name": "T-60e Arm",
+				"name": "T-60e na rękę",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-60e Chest Piece": {
-				"name": "T-60e Chest Piece",
+				"name": "T-60e na korpus",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-60e Helm": {
-				"name": "T-60e Helm",
+				"name": "T-60e hełm",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-60e Leg": {
-				"name": "T-60e Leg",
+				"name": "T-60e na nogę",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-60f Arm": {
-				"name": "T-60f Arm",
+				"name": "T-60f na rękę",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-60f Chest Piece": {
-				"name": "T-60f Chest Piece",
+				"name": "T-60f na korpus",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-60f Helm": {
-				"name": "T-60f Helm",
+				"name": "T-60f hełm",
 				"effect": "",
 				"description": ""
+
 			},
 			"T-60f Leg": {
-				"name": "T-60f Leg",
+				"name": "T-60f na nogę",
 				"effect": "",
 				"description": ""
+
 			},
 			"Targeting HUD": {
-				"name": "Targeting HUD",
-				"effect": "<p>When you take the Aim minor action, you may take a second minor action for 0 AP while armor is powered</p>",
-				"description": "<p>Installed with the <b>Science</b> skill</p>"
+				"name": "Wyświetlacz bojowy",
+				"effect": "<p>Dopóki pancerz jest zasilany, gdy wykonujeszw pomniejszą akcję celowania, możesz wykonać drugą akcję pomniejszą za 0 PA</p>",
+				"description": "<p>Do zamontowania używa się umiejętności<b>Nauka</b></p>"
+
 			},
 			"Tempered": {
-				"name": "Tempered",
+				"name": "Hartowanie",
 				"effect": "",
 				"description": ""
+
 			},
 			"Tesla Bracers": {
-				"name": "Tesla Bracers",
-				"effect": "<p>While armor is powered, your unarmed attacks inflict +2 @fos[DC] damage and now inflict Energy damage</p>",
-				"description": "<p>Installed with the <b>Repair</b> skill</p>"
+				"name": "Karwasze Tesli",
+				"effect": "<p><Dopóki pancerz jest zasilany, w ataku bez broni zadajesz obrażenia zwiększone o +2@fos[DC] i zmieniasz ich rodzaj na energetyczne</p>",
+				"description": "<p>Do zamontowania używa się umiejętności<b>Naprawa</b></p>"
+
 			},
 			"Tesla Coils": {
-				"name": "Tesla Coils",
-				"effect": "<p>While armor is powered, whenever an enemy makes a melee attack against you, they suffer 4 @fos[DC] Energy damage</p>",
-				"description": "<p>Installed with the <b>Science</b> skill</p>"
+				"name": "Cewki Tesli",
+				"effect": "<p>Dopóki pancerz jest zasilany, jeśli przeciwnik wykona przeciwko tobie atak wręcz, otrzymuje on 4@fos[DC] obrażeń energetycznych</p>",
+				"description": "<p>Do zamontowania używa się umiejętności<b>Nauka</b></p>"
+
 			},
 			"Titanium Plating": {
-				"name": "Titanium Plating",
-				"effect": "<p>+1 HP to Armor Piece (+2 to Torso)</p>",
-				"description": "<p>Installed with the <strong>Repair</strong> skill.</p>"
+				"name": "Tytanowa powłoka",
+				"effect": "<p>+1 PZ w danej lokalizacji (+2 na korpusie)</p>",
+				"description": "<p>Do zamontowania używa się umiejętności<strong>Repair</strong> skill.</p>"
+
 			},
 			"Treated Leather": {
-				"name": "Treated Leather",
+				"name": "Wyprawienie skóry",
 				"effect": "",
 				"description": ""
+
 			},
 			"Treated Lining": {
-				"name": "Treated Lining",
+				"name": "Wyprawione",
 				"effect": "",
 				"description": ""
+
 			},
 			"Ultra Light Build": {
-				"name": "Ultra Light Build",
+				"name": "Ultralekka budowa",
 				"effect": "",
 				"description": ""
+
 			},
 			"Weighted": {
-				"name": "Weighted",
-				"effect": "<p>Melee and Unarmed attacks gain Piercing 1</p>",
-				"description": "<p><span class=\"fontstyle0\">Armor Upgrades apply to all the types of armor except for Vault-Tec Security armor.&nbsp; All Armor Upgrades are </span><span class=\"fontstyle2\">installed with the Repair skill</span><span class=\"fontstyle0\">.</span></p>"
+				"name": "Dociążenie",
+				"effect": "<p>Atakując wręcz, otrzymujesz Efekt obrażeń Przeszywające 1</p>",
+				"description": "<p><span class=\"fontstyle0\">Ulepszenia pancerza można zamontować w każdym rodzaju powyżej opisanych pancerzy z wyjątkiem pancerza ochrony Vault-Tecu.Do instalacji wszystkich ulepszeń </span><span class=\"fontstyle2\"> wykorzystuje się umiejętność Naprawa.</span><span class=\"fontstyle0\">.</span></p>"
 			},
 			"Welded": {
-				"name": "Welded",
+				"name": "Spawanie",
 				"effect": "",
 				"description": ""
+
 			},
 			"Welded Rebar": {
-				"name": "Welded Rebar",
-				"effect": "<p>Enemies who attack you with a melee or unarmed attack and suffer a complication suffer 2 @fos[DC] damage</p>",
+				"name": "Spawane zbrojenie",
+				"effect": "<p>Jeśli podczas wrogiego ataku wręcz wypadnie komplikacja, przeciwnik otrzymuje 2@fos[DC] obrażeń</p>",
 				"description": ""
+
 			},
 			"Winterized Coating": {
-				"name": "Winterized Coating",
-				"effect": "<p>+1 Energy damage resistance</p>",
-				"description": "<p>Installed with the <strong>Repair</strong> skill.</p>\n<p>Cannot be installed on <strong>X-01 Power Armor</strong>.</p>"
+				"name": "Powłoka zimowa",
+				"effect": "<p>+1 do Odporności na obrażenia energetyczne</p>",
+				"description": "<p>Do zamontowania używa się umiejętności<strong>Repair</strong> skill.</p>\n<p>Cannot be installed on <strong>X-01 Power Armor</strong>.</p>"
 			}
 		},
 	"mapping": {

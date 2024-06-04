@@ -1,10 +1,17 @@
+## v 0.1.6
+- przetłumaczono modyfikacje bronii
+- przetłumaczono modyfikacje robotów
+- przetłumaczono odzież i stroje
+- przetłumaczono modyfikacje odzierzy i stroii
+
+
 ## V 0.1.5
 - przetłumaczono uzależniania
 - przetłumaczono część strojów i odzierzy
 - przetłumaczono choroby
 - przetłomaczono bronie
 - przetłumaczono wszystkie foldery
-- przetłumaczone nazwy ammunicji  ojawiają się w rozwijanym menu bronii
+- przetłumaczone nazwy ammunicji  pojawiają się w rozwijanym menu bronii
 
 
 ## V 0.1.4

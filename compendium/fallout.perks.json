@@ -22,7 +22,7 @@
 		},
 		"10 Number 1 Hits!!! Rock-o-bot Takes the Nation by Storm!!": {
 			"name": "10 przebojów numer jeden!!! Szaleństwo Rock-o-bota opanowało kraj!!!",
-			"description":"<h2>Nauka z Teslą</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę..</p><ul> <li>Kiedy spowodujesz trafienie krytyczne, zwiększasz zadane obrażenia o +2</li> </ul>"
+			"description":"<h2>Nauka z Teslą</h2> <p><strong>Profit</strong></p><ul> <li>Kiedy spowodujesz trafienie krytyczne, zwiększasz zadane obrażenia o +2</li> </ul>"
 		},
 		"Action Boy / Girl": {
 			"name": "Człowiek Czynu",
@@ -126,7 +126,7 @@
 		},
 		"Blood on the Harp": {
 			"name": "Krew na harfie",
-			"description":"<h2>Grognak Barbarzyńca</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę..</p><ul> <li>Kiedy trafisz wręcz, zwiększasz zadawane obrażenia o +2@fos[DC]</li> </ul>"
+			"description":"<h2>Grognak Barbarzyńca</h2> <p><strong>Profit</strong></p><ul> <li>Kiedy trafisz wręcz, zwiększasz zadawane obrażenia o +2@fos[DC]</li> </ul>"
 		
 		},
 		"Bloody Mess": {
@@ -178,7 +178,7 @@
 		},
 		"Cometh the Trickster": {
 			"name": "Nadchodzi błazen",
-			"description":"<h2>Grognak Barbarzyńca</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę..</p><ul> <li>+1 do trudności testu innej postaci, kiedy próbuje cię wykryć</li> </ul>"
+			"description":"<h2>Grognak Barbarzyńca</h2> <p><strong>Profit</strong></p><ul> <li>+1 do trudności testu innej postaci, kiedy próbuje cię wykryć</li> </ul>"
 		},
 		"Commando": {
 			"name": "Komandos",
@@ -226,7 +226,7 @@
 		},
 		"Demon Slaves, Demon Sands": {
 			"name": "Zniewolone demony na demonicznych piaskach",
-			"description":"<h2>Grognak Barbarzyńca</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę..</p><ul> <li>Kiedy trafisz Ghula, zwiększasz zadawane obrażenia o +2@fos[DC]</li> </ul>"
+			"description":"<h2>Grognak Barbarzyńca</h2> <p><strong>Profit</strong></p><ul> <li>Kiedy trafisz Ghula, zwiększasz zadawane obrażenia o +2@fos[DC]</li> </ul>"
 		},
 		"Dodger": {
 			"name": "Mistrz Uników",
@@ -252,7 +252,7 @@
 		},
 		"Enter Maula: War Maiden of Mars": {
 			"name": "Maula, Wojownicza Dziewica z Marsa",
-			"description":"<h2>Grognak Barbarzyńca</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę..</p><ul> <li>Kiedy atakujesz wręcz dwuręczną bronią białą, otrzymujesz Efekt obrażeń Przeszywające 1 (lub +1, jeśli już go posiadasz)</li> </ul>"
+			"description":"<h2>Grognak Barbarzyńca</h2> <p><strong>Profit</strong></p><ul> <li>Kiedy atakujesz wręcz dwuręczną bronią białą, otrzymujesz Efekt obrażeń Przeszywające 1 (lub +1, jeśli już go posiadasz)</li> </ul>"
 		},
 		"Entomologist": {
 			"name": "Entomolog",
@@ -275,7 +275,7 @@
 		},
 		"Fatherless Cur!": {
 			"name": "Bezpański psie!",
-			"description":"<h2>Grognak Barbarzyńca</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę..</p><ul> <li>Kiedy atakujesz wręcz, ignorujesz jedną komplikację</li> </ul>"
+			"description":"<h2>Grognak Barbarzyńca</h2> <p><strong>Profit</strong></p><ul> <li>Kiedy atakujesz wręcz, ignorujesz jedną komplikację</li> </ul>"
 		},
 		"FH 5-01 Whistling in the Dark": {
 			"name": "FH 5-01 Gwizdanie w mroku",
@@ -333,7 +333,7 @@
 		},
 		"Future of Warfare?": {
 			"name": "Przyszłość wojen?",
-			"description":"<h2>Nauka z Teslą</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę..</p><ul> <li>Kiedy atakujesz bronią ciężką, powodujesz trafienie krytyczne, jeśli po odliczeniu Odporności celu zadasz mu 3 lub więcej obrażeń (zamiast normalnych 5 lub więcej)</li> </ul>"
+			"description":"<h2>Nauka z Teslą</h2> <p><strong>Profit</strong></p><ul> <li>Kiedy atakujesz bronią ciężką, powodujesz trafienie krytyczne, jeśli po odliczeniu Odporności celu zadasz mu 3 lub więcej obrażeń (zamiast normalnych 5 lub więcej)</li> </ul>"
 		},
 		"Future Weapons Today": {
 			"name": "Broń jutra dziś",
@@ -341,7 +341,7 @@
 		},
 		"Geckos and Gamma Radiation": {
 			"name": "Gekony i promieniowanie gamma",
-			"description":"<h2>Nauka z Teslą</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę..</p><ul> <li>Kiedy atakujesz Mutanta, zwiększasz zadawane obrażenia o +2 @fos[DC] </li> </ul>"
+			"description":"<h2>Nauka z Teslą</h2> <p><strong>Profit</strong></p><ul> <li>Kiedy atakujesz Mutanta, zwiększasz zadawane obrażenia o +2 @fos[DC] </li> </ul>"
 		
 		},
 		"Get Off My Lawn": {
@@ -359,7 +359,7 @@
 		},
 		"Giant Super Weapons!": {
 			"name": "Olbrzymie superbronie!",
-			"description":"<h2>Nauka z Teslą</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę..</p><ul> <li>Kiedy atakujesz bronią Gatlinga, możesz zużyć 8 razy więcej amunicji zamiast normalnych 10</li> </ul>"
+			"description":"<h2>Nauka z Teslą</h2> <p><strong>Profit</strong></p><ul> <li>Kiedy atakujesz bronią Gatlinga, możesz zużyć 8 razy więcej amunicji zamiast normalnych 10</li> </ul>"
 		},		
 		"Grim Reaper's Sprint": {
 			"name": "Pośpiech Kostuchy",
@@ -423,7 +423,7 @@
 		},
 		"In the Bosom of the Corsair Queen": {
 			"name": "Na łonie Królowej Korsarzy",
-			"description":"<h2>Grognak Barbarzyńca</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę..</p><ul> <li>Kiedy trafisz wręcz, automatycznie powodujesz trafienie krytyczne</li> </ul>"
+			"description":"<h2>Grognak Barbarzyńca</h2> <p><strong>Profit</strong></p><ul> <li>Kiedy trafisz wręcz, automatycznie powodujesz trafienie krytyczne</li> </ul>"
 		},
 		"Infiltrator": {
 			"name": "Infiltrator",
@@ -451,7 +451,7 @@
 		},
 		"Jungle of the Bat-Babies": {
 			"name": "Dżungla nietoperzych dzieci",
-			"description":"<h2>Grognak Barbarzyńca</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę..</p><ul> <li>Kiedy otrzymasz obrażenia toksyczne, zyskujesz +3 do Odporności na obrażenia toksyczne</li> </ul>"
+			"description":"<h2>Grognak Barbarzyńca</h2> <p><strong>Profit</strong></p><ul> <li>Kiedy otrzymasz obrażenia toksyczne, zyskujesz +3 do Odporności na obrażenia toksyczne</li> </ul>"
 		},
 		"Junktown Jerky Vendor": {
 			"name": "Handlarz Mięsem z Junktown",
@@ -499,7 +499,7 @@
 		},
 		"Lost in the Snows of Lust": {
 			"name": "Zagubiony wśród śniegów żądzy",
-			"description":"<h2>Grognak Barbarzyńca</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę..</p><ul> <li>+2 do Odporności na obrażenia fizyczne przeciwko jednemu atakowi</li> </ul>"
+			"description":"<h2>Grognak Barbarzyńca</h2> <p><strong>Profit</strong></p><ul> <li>+2 do Odporności na obrażenia fizyczne przeciwko jednemu atakowi</li> </ul>"
 		},
 		"Massachusetts Surgical Journal": {
 			"name": "Periodyk chirurgiczny Massachusetts",
@@ -663,7 +663,7 @@
 		},
 		"Rocket Science for Toddlers": {
 			"name": "Inżyniera rakietowa dla najmłodszych",
-			"description":"<h2>Nauka z Teslą</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę..</p><ul> <li>Kiedy atakujesz bronią Wybuchową, zwiększasz zadawane obrażenia o +2 @fos[DC] </li> </ul>"
+			"description":"<h2>Nauka z Teslą</h2> <p><strong>Profit</strong></p><ul> <li>Kiedy atakujesz bronią Wybuchową, zwiększasz zadawane obrażenia o +2 @fos[DC] </li> </ul>"
 		},
 		"Science Gone Mad!": {
 			"name": "Szalona nauka!",
@@ -791,7 +791,7 @@
 		},
 		"The Lair of the Virgin Eaters": {
 			"name": "Siedlisko Pożeraczy Dziewic",
-			"description":"<h2>Grognak Barbarzyńca</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę..</p><ul> <li>Udźwig +10 do końca sceny</li> </ul>"
+			"description":"<h2>Grognak Barbarzyńca</h2> <p><strong>Profit</strong></p><ul> <li>Udźwig +10 do końca sceny</li> </ul>"
 		},
 		"The Mad Russian's Revenge!": {
 			"name": "Zemsta Szalonego Rosjanina!",
@@ -816,7 +816,7 @@
 		},
 		"Tomorrow's Technology for Today's Super Soldiers": {
 			"name": "Technologia jutra dla dzisiejszych superżołnierzy",
-			"description":"<h2>Nauka z Teslą</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę..</p><ul> <li>Po wydaniu 1 ładunku rdzenia fuzyjnego możesz wydać 1 punkt Szczęścia, żeby zanegować jego zużycie</li> </ul>"
+			"description":"<h2>Nauka z Teslą</h2> <p><strong>Profit</strong></p><ul> <li>Po wydaniu 1 ładunku rdzenia fuzyjnego możesz wydać 1 punkt Szczęścia, żeby zanegować jego zużycie</li> </ul>"
 		},
 		"Toughness": {
 			"name": "Twardziel",
@@ -837,7 +837,7 @@
 		},
 		"U.S. Army Goes to Space": {
 			"name": "Armia amerykańska wyrusza w kosmos",
-			"description":"<h2>Nauka z Teslą</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę..</p><ul> <li>Kiedy atakujesz bronią energetyczną, powodujesz trafienie krytyczne, jeśli po odliczeniu Odporności celu zadasz mu 3 lub więcej obrażeń (zamiast normalnych 5 lub więcej)</li> </ul>"
+			"description":"<h2>Nauka z Teslą</h2> <p><strong>Profit</strong></p><ul> <li>Kiedy atakujesz bronią energetyczną, powodujesz trafienie krytyczne, jeśli po odliczeniu Odporności celu zadasz mu 3 lub więcej obrażeń (zamiast normalnych 5 lub więcej)</li> </ul>"
 		},
 		"Visit the Ux-Ron Galaxy!": {
 			"name": "Podróż do galaktyki ux-ronów!",
@@ -849,11 +849,11 @@
 		},
 		"What Is Plasma, Anyway?": {
 			"name": "Czym tak naprawdę jest plazma?",
-			"description":"<h2>Nauka z Teslą</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę..</p><ul> <li>+2 do Odporności na obrażenia fizyczne i energetyczne przeciwko broni plazmowej</li> </ul>"
+			"description":"<h2>Nauka z Teslą</h2> <p><strong>Profit</strong></p><ul> <li>+2 do Odporności na obrażenia fizyczne i energetyczne przeciwko broni plazmowej</li> </ul>"
 		},
 		"What Sorcery is This?": {
 			"name": "Cóż to za czary?!",
-			"description":"<h2>Grognak Barbarzyńca</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę..</p><ul> <li>+2 do Odporności na obrażenia energetyczne przeciwko jednemu atakowi</li> </ul>"
+			"description":"<h2>Grognak Barbarzyńca</h2> <p><strong>Profit</strong></p><ul> <li>+2 do Odporności na obrażenia energetyczne przeciwko jednemu atakowi</li> </ul>"
 		},
 		"Who Can Stop the Unstoppable Grog-Na-Rok?!": {
 			"name": "Kto powstrzyma Niepowstrzymanego Grog-Na-Roka?!",
@@ -861,7 +861,7 @@
 		},
 		"Will Robots Rule the World?": {
 			"name": "Czy Roboty będą rządzić światem",
-			"description":"<h2>Nauka z Teslą</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę..</p><ul> <li>+2 do Odporności na obrażenia fizyczne i energetyczne przeciwko robotom</li> </ul>"
+			"description":"<h2>Nauka z Teslą</h2> <p><strong>Profit</strong></p><ul> <li>+2 do Odporności na obrażenia fizyczne i energetyczne przeciwko robotom</li> </ul>"
 		}
 	},
 	"mapping": {

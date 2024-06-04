@@ -1,76 +1,74 @@
 {
 	"label": "Umiejętności",
 	"mapping": {
-		"name": "name",
-		"description": "system.description"
+			"description": "system.description"
 	},
 	"entries": {
 		"Athletics":{
-			"name": "Atletyka",
+		
 			"description": "<p>Obejmuje korzystanie z siły i zręczności, znajomość własnych ograniczeń i zdolność skupienia się podczas wysiłku fizycznego.<br>Przypisanym do niej atrybutem jest Siła. Możesz jej również używać z Wytrzymałością lub Zwinnością, w zależności od charakteru aktywności fizycznej. Korzystasz z tej umiejętności, gdy próbujesz podnieść, przepchnąć lub przeciągnąć jakiś przedmiot, a także przy skakaniu, bieganiu i pływaniu.</p>"
 		},
 		"Barter":{
-			"name": "Handel",
 			"description": "<p>Obejmuje to, jak dobrze sobie radzisz z pieniędzmi – czy umiesz je oszczędzać, jak łatwo dobijasz targów i czy potrafisz skutecznie negocjować ceny.<br>Przypisanym do niego atrybutem jest Charyzma. Możesz go również używać z Percepcją, aby określić, czy ktoś jest skłonny zrezygnować ze swoich żądań, lub z Inteligencją, jeśli chcesz ustalić rzeczywistą wartość jakiegoś towaru w kapslach. Korzystasz z tej umiejętności, gdy próbujesz coś kupić lub sprzedać, a także wtedy, gdy negocjujesz cenę za jakąś usługę.</p>"
 		},
 		"Big Guns":{
-			"name": "Broń Ciężka",
+		
 			"description": "<p>Obejmuje używanie dużych i ciężkich spluw – od Grubasa po laser Gatlinga i każdą inną broń, którą można zaliczyć do tej kategorii.<br>Przypisanym do niej atrybutem jest Wytrzymałość. Możesz jej również używać z Siłą, jeśli musisz się zaprzeć, żeby utrzymać broń, lub ze Zwinnością, gdy liczy się precyzja trafienia. Korzystasz z tej umiejętności do wykonywania ataków bronią ciężką – Grubasem, wyrzutnią rakiet, miotaczem ognia, działkiem obrotowym lub laserem Gatlinga.</p>"
 		},
 		"Energy Weapons":{
-			"name": "Broń Energetyczna",
+			
 			"description": "<p>Obejmuje strzelanie z broni wykorzystującej ładunki energetyczne, na przykład laserowej i plazmowej, a także z każdej innej, która miota energią.<br>Przypisanym do niej atrybutem jest Percepcja. Możesz jej również używać z Inteligencją, gdy próbujesz naprawić lub zmodyfikować broń, albo ze Zwinnością, kiedy próbujesz rozbroić pułapkę, która wykorzystuje broń energetyczną. Korzystasz z tej umiejętności do wykonywania ataków bronią energetyczną – laserową, plazmową, Gaussa, emiterami mikrofal i laserowymi muszkietami.</p>"
 		},
 	 	"Explosives":{
-			"name": "Materiały Wybuchowe",
+			
 			"description": "<p>Korzystasz z tej umiejętności za każdym razem, gdy masz do czynienia z ładunkiem wybuchowym, niezależnie od metody jego użycia – nieważne, czy nim rzucasz, podkładasz go jako pułapkę lub odpalasz zdalnie.<br>Przypisanym do niej atrybutem jest Percepcja. Możesz jej również używać z Siłą, żeby rzucić granatem na możliwie największą odległość, lub ze Zwinnością, aby zbliżyć się do miny i jej przy tym nie aktywować. Korzystasz z Materiałów wybuchowych, gdy używasz granatów i min odłamkowych, plazmowych i EM, Nuka-granatów, koktajli Mołotowa i dynamitu.</p>"
 		},
 		"Lockpick":{
-			"name": "Otwieranie Zamków",
+			
 			"description": "<p>Obejmuje znajomość mechanicznych zamków i umiejętność ich otwierania bez posiadania właściwych kluczy.<br>Przypisanym do niego atrybutem jest Percepcja. Możesz go również używać ze Zwinnością lub Siłą, jeśli chcesz wyważyć drzwi bez zniszczenia zamka. Korzystasz z tej umiejętności, gdy włamujesz się do sejfu lub otwierasz zamknięte drzwi.</p>"
 		},
 		"Medicine":{
-			"name": "Medycyna",
+			
 			"description": "<p>Obejmuje wiedzę medyczną i umiejętność jej praktycznego zastosowania – od pierwszej pomocy, poprzez farmakologię i chirurgię, aż po leczenie objawów choroby popromiennej.<br>Przypisanym do niej atrybutem jest Inteligencja. Możesz jej również używać ze Zwinnością, gdy wykonujesz zabieg chirurgiczny, lub Charyzmą, jeśli słuchasz i pocieszasz kompana. Korzystasz z tej umiejętności, żeby podczas starcia ustabilizować umierającego towarzysza i opatrzyć jego rany.</p>"
 		},
 		"Melee Weapons":{
-			"name": "Broń Biała",
+			
 			"description": "<p>Obejmuje zdolność trafiania jednoręczną i dwuręczną bronią białą oraz blokowania nią ciosów.<br>Przypisanym do niej atrybutem jest Siła. Możesz jej również używać ze Zwinnością, żeby parować ataki wręcz, lub z Charyzmą, gdy próbujesz kogoś zastraszyć. Korzystasz z tej umiejętności do wykonywania ataków bronią białą.</p>"
 		},
 		"Pilot":{
-			"name": "Pilotaż",
+			
 			"description": "<p>Obejmuje znajomość obsługi pojazdów – od pustynnych łazików, poprzez motocykle i czołgi, aż po latacze.<br>Przypisanym do niego atrybutem jest Percepcja. Możesz go również używać z Siłą, żeby wyprowadzić łazika z poślizgu, lub ze Zwinnością, aby wylądować lataczem na małej przestrzeni. Korzystasz z tej umiejętności, gdy kierujesz pojazdem powietrznym lub naziemnym.</p>"
 		},
 		"Repair":{
-			"name": "Naprawa",
+		
 			"description": "<p>Obejmuje konstruowanie i naprawianie rzeczy – od prostych pułapek i broni aż po skomplikowane mechanizmy oraz budynki.<br>Przypisanym do niej atrybutem jest Inteligencja. Możesz jej również używać z Siłą, żeby ponownie uruchomić ciężką maszynę budowlaną, lub z Percepcją, aby określić przyczynę awarii silnika. Korzystasz z tej umiejętności do naprawiania i modyfikowania broni, serwisowania robotów, składania przedmiotów z różnych części i wznoszenia fortyfikacji.</p>"
 		},
 		"Science":{
-			"name": "Nauka",
+			
 			"description": "<p>Obejmuje wiedzę teoretyczną i praktyczną, choć ta ostatnia ogranicza się na pustkowiach do hakowania komputerów, programowania robotów i syntetyzowania środków chemicznych.<br>Przypisanym do niej atrybutem jest Inteligencja. Możesz jej również używać z Percepcją, gdy obserwujesz zachowanie obiektu doświadczalnego, lub z Charyzmą, kiedy przytaczasz naukowe fakty, żeby przekonać rozmówcę do zmiany zdania. Korzystasz z tej umiejętności do hakowania komputerów, produkowania środków chemicznych i rozwiązywania problemów za pomocą nauki!</p>"
 		},
 		"Small Guns":{
-			"name": "Broń palna",
+			
 			"description": "<p>Obejmuje celność i sprawność w posługiwaniu się bronią małokalibrową, zarówno strzelającą ogniem pojedynczym, jak i ciągłym, w szczególności zaś pistoletami, karabinami i strzelbami.<br>Przypisanym do niej atrybutem jest Zwinność. Możesz jej również używać z Charyzmą, gdy próbujesz kogoś zastraszyć spluwą, lub z Wytrzymałością, jeśli starasz się utrzymać cel na muszce. Korzystasz z tej umiejętności do wykonywania ataków bronią palną – pistoletem, karabinem lub strzelbą</p>"
 		},
 		"Sneak":{
-			"name": "Skradanie się",
+			
 			"description": "<p>Obejmuje ciche poruszanie się i ukradkowe działania.<br>Przypisanym do niego atrybutem jest Zwinność. Możesz go również używać z Percepcją, żeby wypatrzyć przeciwników czających się w zasadzce, lub z Inteligencją, aby ocenić zabezpieczenia budynku. Korzystasz z tej umiejętności, żeby się cicho poruszać lub skutecznie ukrywać.</p>"
 		},
 		"Speech":{
-			"name": "Retoryka",
+	
 			"description": "<p>Obejmuje wszystkie wyuczone techniki komunikowania się z ludźmi, przekonywania ich za pomocą silnych argumentów, a także kłamania w żywe oczy, tak aby się nie zorientowali.<br>Przypisanym do niej atrybutem jest Charyzma. Możesz jej również używać z Inteligencją, kiedy piszesz przemowę, lub Percepcją, aby ocenić, czy rozmówca uwierzy w przedstawione mu kłamstwo. Korzystasz z tej umiejętności, żeby przekonywać ludzi do swoich racji, inspirować ich lub zręcznie oszukiwać.</p>"
 		},
 		"Survival":{
-			"name": "Przetrwanie",
+	
 			"description": "<p>Obejmuje wszystkie praktyczne umiejętności, które są niezbędne do przeżycia na trudnym terenie – łowiectwo, zbieranie żywności, rybołówstwo, budowanie prowizorycznego schronienia i rozpalanie ognia.<br> Przypisanym do niego atrybutem jest Wytrzymałość. Możesz go również używać z Percepcją, żeby ocenić, ile czasu pozostało do zmierzchu, lub Charyzmą, aby oswajać zwierzęta. Korzystasz z tej umiejętności, żeby przygotować obóz, a także gdy sprawdzasz swoją wytrzymałość na głód lub odwodnienie.</p>"
 		},
 		"Throwing":{
-			"name": "Rzucanie",		
+		
 			"description": "<p>Określa twoją zdolność skutecznego atakowania bronią rzucaną – oszczepami, nożami i bronią improwizowaną.<br>Przypisanym do niego atrybutem jest Zwinność. Możesz go również używać z Siłą, gdy rzucasz jakimś ciężkim przedmiotem, lub Percepcją, żeby ocenić dystans. Korzystasz z tej umiejętności do atakowania określonymi rodzajami broni rzucanej.</p>"
 		},
 		"Unarmed":{
-			"name": "Bijatyka",
+		
 			"description": "<p>Obejmuje wszelkiego rodzaju techniki walki bez broni.<br>Przypisanym do niej atrybutem jest Siła. Możesz jej również używać ze Zwinnością lub z Charyzmą, kiedy próbujesz kogoś zastraszyć. Korzystasz z tej umiejętności do wykonywania ataków bez użycia broni.</p>"
 		}
 	}

@@ -1,0 +1,510 @@
+{
+	"label": "Modyfikacje Broni",
+	"entries": {
+		"Automatic Barrel": {
+			"name": "Automatyczna",
+			"description": "",
+			"effect": "<p>Obrażenia -1 @fos[DC]</p>\n<p>Usuwa cechę Zwarcie</p>\n<p>Zwiększa zasięg o 1 strefę</p>\n<p>szybkostrzelność +1</p>\n<p>&nbsp;</p>"
+		},
+		"Automatic": {
+			"name": "Automatyczna",
+			"description": "",
+			"effect": "<p>Obrażenia -1 @fos[DC]</p>\n<p>szybkostrzelność +2</p>\n<p>Zyskuje cechę Seria</p>\n<p>Zyskuje cechę Niecelna</p>"
+		},
+		"Automatic Piston": {
+			"name": "Automatyczna z tłokiem",
+			"description": "",
+			"effect": "<p>szybkostrzelność +2</p>\n<p>Zmniejsza zasięg o 1 strefę</p>\n<p>&nbsp;</p>"
+		},
+		"Bayonet": {
+			"name": "Bagnet",
+			"description": "",
+			"effect": "<p>Broń biała</p>\n<p>Zadaje4 @fos[DC] obrażeń fizycznych, posiada cechę Przeszywające 1</p>\n<p>&nbsp;</p>"
+		},
+		"Long": {
+			"name": "Długa",
+			"description": "",
+			"effect": "<p>Zwiększa zasięg o 1 strefę</p>"
+		},
+		"Long Barrel": {
+			"name": "Długa lufa",
+			"description": "",
+			"effect": "<p>Zwiększa zasięg o 1 strefę</p>\n<p>&nbsp;</p>"
+		},
+		"Long Scope": {
+			"name": "Długa luneta",
+			"description": "",
+			"effect": "<p>Zyskuje cechę Celna</p>\n<p>Zwiększa zasięg o 1 strefę</p>\n<p>&nbsp;</p>"
+		},
+		"Long Night Vision Scope": {
+			"name": "Długa luneta noktowizyjna",
+			"description": "",
+			"effect": "<p>Zyskuje cechę Celna</p>\n<p>Zyskuje cechę Noktowizja</p>\n<p>Zwiększa zasięg o 1 strefę</p>\n<p>&nbsp;</p>"
+		},
+		"Bracketed Long Barrel": {
+			"name": "Długa z obręczami",
+			"description": "",
+			"effect": "<p>Usuwa cechę Zwarcie</p>\n<p>Zwiększa zasięg o 1 strefę</p>\n<p>umożliwia dodanie modyfikacji wylotu</p>\n<p>&nbsp;</p>"
+		},
+		"Extra Flame Jets": {
+			"name": "Dodatkowe dysze miotacza",
+			"description": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>Zyskuje cechę Uporczywe</p>\n<p>&nbsp;</p>"
+		},
+		"Extra Claw": {
+			"name": "Dodatkowy szpon",
+			"description": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>po udanym teście ataku możesz wydać 2 PA, żeby rozbroić przeciwnika, wytrącając mu z dłoni broń</p>\n<p>&nbsp;</p>"
+		},
+		"Beta Wave Tuner": {
+			"name": "Dostrajacz fal beta",
+			"description": "",
+			"effect": "<p>Zyskuje cechę Uporczywe</p>\n<p>&nbsp;</p>"
+		},
+		"Barbed": {
+			"name": "Drut kolczasty",
+			"description": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>Zyskuje cechę Przeszywające 1</p>\n<p>&nbsp;</p>"
+		},
+		"Large Magazine": {
+			"name": "Duży magazynek",
+			"description": "",
+			"effect": "<p>szybkostrzelność +1</p>\n<p>Zyskuje cechę Zawodna</p>\n<p>&nbsp;</p>"
+		},
+		"Large Quick-Eject Mag": {
+			"name": "Duży magazynek (SP)",
+			"description": "",
+			"effect": "<p>szybkostrzelność +1</p>\n<p>&nbsp;</p>"
+		},
+		"Extra Heavy": {
+			"name": "Duży obciążnik",
+			"description": "",
+			"effect": "<p>Obrażenia +3 @fos[DC]</p>\n<p>&nbsp;</p>"
+		},
+		"Large Tank": {
+			"name": "Duży zbiornik z paliwem",
+			"description": "",
+			"effect": "<p>szybkostrzelność +1</p>\n<p>&nbsp;</p>"
+		},
+		"Electrified": {
+			"name": "Electrified",
+			"description": "",
+			"effect": "<p>+2 @fos[DC]</p>\n<p>Damage type becomes Energy</p>\n<p>&nbsp;</p>"
+		},
+		"Electrified Blade": {
+			"name": "Elektryczne ostrze",
+			"description": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>zmiana obrażeń na energetyczne</p>\n<p>&nbsp;</p>"
+		},
+		"Electrified Serrated Blade": {
+			"name": "Elektryczne ząbkowane ostrze",
+			"description": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>zmiana obrażeń na energetyczne</p>\n<p>Zyskuje cechę Uporczywe (Fizyczne)</p>\n<p>&nbsp;</p>"
+		},
+		"Deep Dish": {
+			"name": "Głęboki",
+			"description": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>Zwiększa zasięg o 1 strefę</p>\n<p>&nbsp;</p>"
+		},
+		"Finned": {
+			"name": "Gwintowana",
+			"description": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>Zwiększa zasięg o 1 strefę</p>\n<p>&nbsp;</p>"
+		},
+		"Puncturing": {
+			"name": "Gwoździe",
+			"description": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>Zyskuje cechę Przeszywające 1</p>\n<p>&nbsp;</p>"
+		},
+		"Spiked": {
+			"name": "Gwoździe",
+			"description": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>Zyskuje cechę Przeszywające 1</p>\n<p>&nbsp;</p>"
+		},
+		"Hooked": {
+			"name": "Hak",
+			"description": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p> po udanym teście ataku możesz wydać 2 PA, żeby rozbroić przeciwnika, wytrącając mu z dłoni broń</p>\n<p>&nbsp;</p>"
+		},
+		"Muzzle Break": {
+			"name": "Hamulec wylotowy",
+			"description": "",
+			"effect": "<p>Usuwa cechę Niecelna</p>\n<p>szybkostrzelność +1</p>\n<p>&nbsp;</p>"
+		},
+		"Gunner Sight": {
+			"name": "Kolimator",
+			"description": "",
+			"effect": "<p>Usuwa cechę Niecelna</p>\n<p>&nbsp;</p>"
+		},
+		"Reflex Sight": {
+			"name": "Kolimator",
+			"description": "",
+			"effect": "<p>Przerzut lokalizacji trafienia</p>\n<p>&nbsp;</p>"
+		},
+		".308 Receiver": {
+			"name": "Komora zamkowa .308",
+			"description": "",
+			"effect": "<p>Obrażenia 7 @fos[DC]</p>\n<p>Amunicja zmieniona na @UUID[Item.i4CuRrtBhO2mWeDz]{Naboje .308}</p>"
+		},
+		".38 Receiver": {
+			"name": "Komora zamkowa .38",
+			"description": "",
+			"effect": "<p>Obrażenia 4 @fos[DC]</p>\n<p>Amunicja zmieniona na @UUID[Item.YthgQHCfKPTHC3I9]{Naboje .38}</p>"
+		},
+		".45 Receiver": {
+			"name": "Komora zamkowa .45",
+			"description": "",
+			"effect": "<p>Obrażenia 4 @fos[DC]</p>\n<p>szybkostrzelność +1</p>\n<p>Amunicja zmieniona na @UUID[Item.sNuUqfuwQTubAOi4]{Naboje .45}</p>\n<p>&nbsp;</p>"
+		},
+		".50 Receiver": {
+			"name": "Komora zamkowa .50",
+			"description": "",
+			"effect": "<p>Obrażenia 8 @fos[DC]</p>\n<p>Amunicja zmieniona na @UUID[Item.AhvbZn2bwcpGswOQ]{Naboje .50}</p>"
+		},
+		"Compensator": {
+			"name": "Kompensator",
+			"description": "",
+			"effect": "<p>Usuwa cechę Niecelna</p>\n<p>&nbsp;</p>"
+		},
+		"Targeting Computer": {
+			"name": "Komputer celowniczy",
+			"description": "",
+			"effect": "<p>Kiedy wykonujesz pomniejszą akcję celowania, przeciwnik nie otrzymuje korzyści z posiadanej osłony, a modyfikator z celowania ma zastosowanie w następnym ataku wykonanym w dowolnej późniejszej turze aż do końca sceny</p>\n<p>&nbsp;</p>"
+		},
+		"Beam Focuser": {
+			"name": "Koncentrator wiązki",
+			"description": "",
+			"effect": "<p>Zwiększa zasięg o 1 strefę</p>\n<p>&nbsp;</p>"
+		},
+		"Vaporization Nozzle": {
+			"name": "Końcówka atomizująca",
+			"description": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>Zyskuje cechę Brutalne</p>\n<p>&nbsp;</p>"
+		},
+		"Compression Nozzle": {
+			"name": "Końcówka kompresyjna",
+			"description": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>&nbsp;</p>"
+		},
+		"Four-Crank Capacitor": {
+			"name": "Korba czteroobrotowa",
+			"description": "",
+			"effect": "<p>Obrażenia +2 @fos[DC]</p>\n<p>Zużywa 4 jedostek amunicji na strzał</p>\n<p>&nbsp;</p>"
+		},
+		"Five-Crank Capacitor": {
+			"name": "Korba pięcioobrotowa",
+			"description": "",
+			"effect": "<p>Obrażenia +3 @fos[DC]</p>\n<p>Zużywa 5 jedostek amunicji na strzał</p>\n<p>&nbsp;</p>"
+		},
+		"Six-Crank Capacitor": {
+			"name": "Korba sześcioobrotowa",
+			"description": "",
+			"effect": "<p>Obrażenia +4 @fos[DC]</p>\n<p>Zużywa 6 jedostek amunicji na strzał</p>\n<p>&nbsp;</p>"
+		},
+		"Three-Crank Capacitor": {
+			"name": "Korba trójobrotowa",
+			"description": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>Zużywa 3 jedostek amunicji na strzał</p>\n<p>&nbsp;</p>"
+		},
+		"Short Scope": {
+			"name": "Krótka luneta",
+			"description": "",
+			"effect": "<p>Zyskuje cechę Celna</p>\n<p>&nbsp;</p>"
+		},
+		"Night Vision Scope": {
+			"name": "Krótka luneta noktowizyjna",
+			"description": "",
+			"effect": "<p>Zyskuje cechę Celna</p>\n<p>Zyskuje cechę Noktowizja</p>\n<p>&nbsp;</p>"
+		},
+		"Short Night Vision Scope": {
+			"name": "Krótka luneta noktowizyjna",
+			"description": "",
+			"effect": "<p>Zyskuje cechę Celna</p>\n<p>Zyskuje cechę Noktowizja</p>\n<p>&nbsp;</p>"
+		},
+		"Charging Barrels": {
+			"name": "Lufy ładujące",
+			"description": "",
+			"effect": "<p>Obrażenia +4 @fos[DC]</p>\n<p>szybkostrzelność -3</p>\n<p>Zwiększa zasięg o 1 strefę</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
+		},
+		"Scope": {
+			"name": "Luneta",
+			"description": "",
+			"effect": "<p>Zyskuje cechę Celna</p>\n<p>&nbsp;</p>"
+		},
+		"Recon Scope": {
+			"name": "Luneta zwiadowcza e",
+			"description": "",
+			"effect": "<p>Zyskuje cechę Celna</p>\n<p>Zyskuje cechę Zwiadowcza</p>\n<p>&nbsp;</p>"
+		},
+		"Chain-Wrapped": {
+			"name": "Łańcuch",
+			"description": "",
+			"effect": "<p>Obrażenia +2 @fos[DC]</p>\n<p>&nbsp;</p>"
+		},
+		"Quick-Eject Mag": {
+			"name": "Magazynek (SP)",
+			"description": "",
+			"effect": "<p>Zyskuje cechę Niezawodna</p>"
+		},
+		"Flamer Barrel": {
+			"name": "Miotacz",
+			"description": "",
+			"effect": "<p>Obrażenia -2 @fos[DC]</p>\n<p>Zmniejsza zasięg o 1 strefę</p>\n<p>Zyskuje cechę Niecelna, Seria, Rozrzut</p>\n<p>&nbsp;</p>"
+		},
+		"Napalm": {
+			"name": "Napalm",
+			"description": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>&nbsp;</p>"
+		},
+		"Recoil Compensating Stock": {
+			"name": "Niwelująca odrzut",
+			"description": "",
+			"effect": "<p>Zyskuje cechę Dwuręczna</p>\n<p>Usuwa cechę Niecelna, Zwarcie</p>\n<p>szybkostrzelność +1</p>\n<p>&nbsp;</p>"
+		},
+		"Heavy": {
+			"name": "Obciążnik",
+			"description": "",
+			"effect": "<p>Obrażenia +2 @fos[DC]</p>\n<p>&nbsp;</p>"
+		},
+		"Sawed-Off": {
+			"name": "Obcięte lufy",
+			"description": "",
+			"effect": "<p>Usuwa cechę Dwuręczna</p>\n<p>Zyskuje cechę Zwarcie</p>\n<p>&nbsp;</p>"
+		},
+		"Huge Tank": {
+			"name": "Olbrzymi zbiornik z paliwem",
+			"description": "",
+			"effect": "<p>szybkostrzelność +2</p>\n<p>&nbsp;</p>"
+		},
+		"Lead Lining": {
+			"name": "Ołowiana podszewka",
+			"description": "",
+			"effect": "<p>Obrażenia +2 @fos[DC]</p>\n<p>&nbsp;</p>"
+		},
+		"Vented": {
+			"name": "Osłabienie podrzutu",
+			"description": "",
+			"effect": "<p>Zwiększa zasięg o 1 strefę</p>\n<p>szybkostrzelność +1</p>\n<p>Zyskuje cechę Niezawodna</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
+		},
+		"Shielded Barrel": {
+			"name": "Osłaniana",
+			"description": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>"
+		},
+		"Sharp": {
+			"name": "Ostrzenie",
+			"description": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>Zyskuje cechę Uporczywe</p>\n<p>&nbsp;</p>"
+		},
+		"Stun Pack": {
+			"name": "Pakiet ogłuszający",
+			"description": "",
+			"effect": "<p>Obrażenia +2 @fos[DC]</p>\n<p>Zyskuje cechę Ogłuszające</p>Obrażenia \n<p>zmiana obrażeń na energetyczne</p>\n<p>&nbsp;</p>"
+		},
+		"Full Stock": {
+			"name": "Pełna",
+			"description": "",
+			"effect": "<p>Zyskuje cechę Dwuręczna</p>\n<p>Usuwa cechę Niecelna</p>\n<p>&nbsp;</p>"
+		},
+		"Full Capacitors": {
+			"name": "Pełne kondensatory",
+			"description": "",
+			"effect": "<p>Zyskuje cechę Brutalne</p>\n<p>&nbsp;</p>"
+		},
+		"Ported": {
+			"name": "Perforowana",
+			"description": "",
+			"effect": "<p>Zwiększa zasięg o 1 strefę</p>\n<p>szybkostrzelność +1</p>\n<p>&nbsp;</p>"
+		},
+		"Bladed": {
+			"name": "Piła tarczowa",
+			"description": "",
+			"effect": "<p>Obrażenia +2 @fos[DC]</p>\n<p>Zyskuje cechę Uporczywe</p>\n<p>&nbsp;</p>"
+		},
+		"Quad Barrel": {
+			"name": "Poczwórna lufa",
+			"description": "",
+			"effect": "<p>szybkostrzelność +2</p>\n<p>&nbsp;</p>"
+		},
+		"Bull Barrel": {
+			"name": "Pogrubiona",
+			"description": "",
+			"effect": "<p>Zyskuje cechę Niezawodna</p>"
+		},
+		"Powerful": {
+			"name": "Potężna",
+			"description": "",
+			"effect": "<p>Obrażenia +2 @fos[DC]</p>"
+		},
+		"Triple Barrel": {
+			"name": "Potrójna lufa",
+			"description": "",
+			"effect": "<p>szybkostrzelność +1</p>\n<p>&nbsp;</p>"
+		},
+		"Signal Repeater": {
+			"name": "Powtarzacz sygnału",
+			"description": "",
+			"effect": "<p>szybkostrzelność +2</p>\n<p>Zyskuje cechę Seria</p>\n<p>Usuwa cechę Wybuchowy</p>\n<p>&nbsp;</p>"
+		},
+		"Extended Blade": {
+			"name": "Przedłużone ostrze",
+			"description": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>Zyskuje cechę Uporczywe</p>\n<p>&nbsp;</p>"
+		},
+		"Accelerated Barrel": {
+			"name": "Przyspieszona",
+			"description": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>szybkostrzelność +1</p>\n<p>Zmiejsza zasięg o –1 strefę</p>\n<p>&nbsp;</p>"
+		},
+		"Photon Agitator": {
+			"name": "Rezonator fotonowy",
+			"description": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>Zyskuje cechę Brutalne</p>\n<p>&nbsp;</p>"
+		},
+		"Capactor Boosting Coil": {
+			"name": "Rezonator fotonowy",
+			"description": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>Zyskuje cechę Brutalne</p>\n<p>&nbsp;</p>"
+		},
+		"Splitter": {
+			"name": "Rozdzielacz",
+			"description": "",
+			"effect": "<p>Obrażenia -1 @fos[DC]</p>\n<p>Zyskuje cechę Rozrzut</p>\n<p>Zyskuje cechę Niecelna</p>\n<p>&nbsp;</p>"
+		},
+		"Electric Signal Carrier Antennae": {
+			"name": "Rozdzielacz sygnału",
+			"description": "",
+			"effect": "<p>Zadaje 7 @fos[DC]</p>Obrażenia \n<p>zmiana obrażeń na energetyczne</p>\n<p>Zyskuje cechę Radioaktywny</p>\n<p>&nbsp;</p>"
+		},
+		"Beam Splitter": {
+			"name": "Rozdzielacz wiązki",
+			"description": "",
+			"effect": "<p>Obrażenia -1 @fos[DC]</p>\n<p>szybkostrzelność -1</p>\n<p>Zyskuje cechę Niecelna, oraz Rozrzut</p>\n<p>Zmniejsza zasięg o 1 strefę</p>\n<p>&nbsp;</p>"
+		},
+		"Calibrated": {
+			"name": "Skalibrowana",
+			"description": "",
+			"effect": "<p>Zyskuje cechę Brutalne</p>"
+		},
+		"Snubnose": {
+			"name": "Skrócona",
+			"description": "",
+			"effect": "<p>Zyskuje cechę Niecelna</p>"
+		},
+		"Sniper Barrel": {
+			"name": "Snajperska",
+			"description": "",
+			"effect": "<p>Obrażenia +2 @fos[DC]</p>\n<p>Usuwa cechę Zwarcie</p>\n<p>Zwiększa zasięg o 1 strefę</p>\n<p>szybkostrzelność -1</p>\n<p>&nbsp;</p>"
+		},
+		"Gyro Compensating Lens": {
+			"name": "Soczewki kompensacyjne",
+			"description": "",
+			"effect": "<p>szybkostrzelność +1</p>\n<p>Usuwa cechę Niecelna</p>\n<p>&nbsp;</p>"
+		},
+		"Standard Stock": {
+			"name": "Standardowa",
+			"description": "",
+			"effect": "<p>Zyskuje cechę Dwuręczna</p>\n<p>Usuwa cechę Niecelna</p>\n<p>Usuwa cechę Zwarcie</p>\n<p>&nbsp;</p>"
+		},
+		"Sharpshooter's Grip": {
+			"name": "Strzelca wyborowego",
+			"description": "",
+			"effect": "<p>Usuwa cechę Niecelna</p>\n<p>Add Przeszywające 1</p>\n<p>&nbsp;</p>"
+		},
+		"Marksman's Stock": {
+			"name": "Strzelecka",
+			"description": "",
+			"effect": "<p>Zyskuje cechę Dwuręczna</p>\n<p>Usuwa cechę Niecelna</p>\n<p>Zyskuje cechę Celna</p>\n<p>Usuwa cechę Zwarcie</p>\n<p>&nbsp;</p>"
+		},
+		"Hair Trigger": {
+			"name": "Szybkostrzelna",
+			"description": "",
+			"effect": "<p>szybkostrzelność +1</p>"
+		},
+		"Suppressor": {
+			"name": "Tłumik",
+			"description": "",
+			"effect": "<p>Zyskuje cechę Wytłumiona</p>\n<p>&nbsp;</p>"
+		},
+		"Tri-Barrel": {
+			"name": "Trójlufa",
+			"description": "",
+			"effect": "<p>Obrażenia +2 @fos[DC]</p>\n<p>szybkostrzelność -2</p>\n<p>&nbsp;</p>"
+		},
+		"Stealth Blade": {
+			"name": "Ukryte ostrze",
+			"description": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>Zyskuje cechę Uporczywe</p>\n<p>Obrażenia +2 @fos[DC] przy ataku z zaskoczenia</p>\n<p>&nbsp;</p>"
+		},
+		"Improved Barrel": {
+			"name": "Ulepszona",
+			"description": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>&nbsp;</p>"
+		},
+		"Hardened": {
+			"name": "Utwardzona",
+			"description": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>"
+		},
+		"Comfort Grip": {
+			"name": "Wygodny",
+			"description": "",
+			"effect": "<p>Usuwa cechę Niecelna</p>\n<p>&nbsp;</p>"
+		},
+		"Electrification Module": {
+			"name": "Wylot moduł elektryzujący",
+			"description": "",
+			"effect": "<p>Zyskuje cechę Brutalne</p>Obrażenia \n<p>zmiana obrażeń na energetyczne</p>\n<p>&nbsp;</p>"
+		},
+		"Ignition Module": {
+			"name": "Wylot moduł zapalający",
+			"description": "",
+			"effect": "<p>Zyskuje cechę Uporczywe (energetyczne)</p>\n<p>&nbsp;</p>"
+		},
+		"Shredder": {
+			"name": "Wylot siekacz",
+			"description": "",
+			"effect": "<p>Broń biała,</p>\n<p>zadaje @fos[DC] obrażenia Fizyczne równe szybkostrzelność broni</p>\n<p>&nbsp;</p>"
+		},
+		"Stabilizer": {
+			"name": "Wylot stabilizator",
+			"description": "",
+			"effect": "<p>Zyskuje cechę Przeszywające 1</p>\n<p>&nbsp;</p>"
+		},
+		"Boosted Capacitor": {
+			"name": "Wzmocniony kondensator",
+			"description": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>&nbsp;</p>"
+		},
+		"Photon Exciter": {
+			"name": "Wzniecacz fotonowy",
+			"description": "",
+			"effect": "<p>Zyskuje cechę Brutalne</p>\n<p>&nbsp;</p>"
+		},
+		"Bracketed Short Barrel": {
+			"name": "Z obręczami",
+			"description": "",
+			"effect": "<p>umożliwia dodanie modyfikacji wylotu</p>\n<p>&nbsp;</p>"
+		},
+		"Advanced": {
+			"name": "Zaawansowana",
+			"description": "",
+			"effect": "<p>Obrażenia +3 @fos[DC]</p>\n<p>szybkostrzelność +1</p>"
+		},
+		"Curved Blade": {
+			"name": "Zakrzywione ostrze",
+			"description": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>po udanym teście ataku możesz wydać 2 PA, żeby rozbroić przeciwnika, wytrącając mu z dłoni broń</p>\n<p>&nbsp;</p>"
+		},
+		"Serrated Blade": {
+			"name": "Ząbkowane ostrze",
+			"description": "",
+			"effect": "<p>Zyskuje cechę Uporczywe</p>\n<p>&nbsp;</p>"
+		},
+		"Heating Coil": {
+			"name": "Zwój termiczny",
+			"description": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>Obrażenia \n<p>zmiana obrażeń na energetyczne</p>\n<p>&nbsp;</p>"
+		}
+	}
+}

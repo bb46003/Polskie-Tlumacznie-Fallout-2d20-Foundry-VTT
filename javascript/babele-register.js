@@ -75,11 +75,27 @@ class falloutpl {
 
                 }  
     }
+    static async localizeAmmo(){
+        if(game.babele.packs !== undefined){ 
+        const  ammo = game.babele.packs.get("fallout.ammunition");
+        const ammunitionArray = Object.entries(ammo.translations).map(([name, data]) => ({ name, ...data }));    
+     
+        CONFIG.FALLOUT.AMMO_BY_UUID = {};
+        let ammoTypes = [];
+        for (const ammoType of ammunitionArray) {
+            ammoTypes.push(ammoType.name);
+            CONFIG.FALLOUT.AMMO_BY_UUID[ammoType.uuid] = ammoType.name;
+        }
+        ammoTypes = [...new Set(ammoTypes)]; // de-dupe
+    
+        CONFIG.FALLOUT.AMMO_TYPES = ammoTypes.sort((a, b) => a.localeCompare(b));
+    }
+}
 
     
 }
 
-Hooks.on('init', () => {
+Hooks.once('init', () => {
     if (typeof Babele !== 'undefined') {
         Babele.get().register({
             module: 'fallout-pl',
@@ -94,19 +110,9 @@ Hooks.on('init', () => {
 
 
 Hooks.once('ready', async () => {
-    await Babele.get().loadTranslations();
-    const  ammo =  game.babele.packs.get("fallout.ammunition").translations;
-    const ammunitionArray = Object.entries(ammo).map(([name, data]) => ({ name, ...data }));    
-    
-    CONFIG.FALLOUT.AMMO_BY_UUID = {};
-    let ammoTypes = [];
-    for (const ammoType of ammunitionArray) {
-        ammoTypes.push(ammoType.name);
-        CONFIG.FALLOUT.AMMO_BY_UUID[ammoType.uuid] = ammoType.name;
-    }
-    ammoTypes = [...new Set(ammoTypes)]; // de-dupe
+    await game.babele.loadTranslations();
+    falloutpl.localizeAmmo();
 
-    CONFIG.FALLOUT.AMMO_TYPES = ammoTypes.sort((a, b) => a.localeCompare(b));
 });
 
 
@@ -128,17 +134,3 @@ Hooks.on('renderFalloutPcSheet', (document, html) => {
     });
 });
 
-async function discoverAvailableAmmoTypes() {
-	const ammo = await fallout.compendiums.ammo();
-
-	CONFIG.FALLOUT.AMMO_BY_UUID = {};
-	let ammoTypes = [];
-	for (const ammoType of ammo) {
-		ammoTypes.push(ammoType.name);
-		CONFIG.FALLOUT.AMMO_BY_UUID[ammoType.uuid] = ammoType.name;
-		console.log(ammoType.name);
-	}
-	ammoTypes = [...new Set(ammoTypes)]; // de-dupe
-
-	CONFIG.FALLOUT.AMMO_TYPES = ammoTypes.sort((a, b) => a.localeCompare(b));
-}

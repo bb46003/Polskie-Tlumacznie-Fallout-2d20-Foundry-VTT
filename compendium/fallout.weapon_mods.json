@@ -2,7 +2,7 @@
 	"label": "Modyfikacje Broni",
 	"folders": {
 		"Big Guns":"Broń Ciężka",
-		"Energy Weapons":"Broń Energetyczna",
+		"energetyczne Weapons":"Broń Energetyczna",
 		"Melee Weapons": "Broń Biała",
 		"Small Guns": "Broń Palna",
 		"Receiver Mods": "Modyfikacje komory zamkowej",
@@ -30,7 +30,7 @@
 		"Sledgehammer Mods": "Modyfikacje młota",
 		"Magazine Mods": "Modyfikacje magazynka",
 		"Combat Knife Mods": "Modyfikacje noża bojowego",
-		"Board Mods": "Modyfikacje deski",
+		"Deska Mods": "Modyfikacje deski",
 		"Baton Mods":"Modyfikacje pałki",
 		"Knuckles Mods":"Modyfikacje kastetu",
 		"Lead Pipe Mods":"Modyfikacje ołowianej rurki",
@@ -43,419 +43,984 @@
 		"Flamer":"Modyfikacje miotacza ognia",
 		"Gatling Laser":"Modyfikacje laseru Gatlinga",
 		"Junk Jet":"Modyfikacje śmieciomiotu",
-		"Minigun":"Modyfikacje minigana",
+		"Minigun":"Modyfikacje działka obrotowego",
 		"Missile Launcher":"Modyfikacje wyrzutni rakiet"
 
 
 	},
 	"entries": {
-		".308 Receiver": {
-			"name": ".308 Receiver",
-			"effect": "<p>Change damage to 7 @fos[DC]</p>\n<p>Ammo changes to @UUID[Item.i4CuRrtBhO2mWeDz]{.308 Round}</p>"
-		},
-		".38 Receiver": {
-			"name": ".38 Receiver",
-			"effect": "<p>Change damage to 4 @fos[DC]</p>\n<p>Ammo changes to @UUID[Item.YthgQHCfKPTHC3I9]{.38 Round}</p>"
-		},
-		".45 Receiver": {
-			"name": ".45 Receiver",
-			"effect": "<p>Change damage to 4 @fos[DC]</p>\n<p>+1 fire rate</p>\n<p>Ammo changes to @UUID[Item.sNuUqfuwQTubAOi4]{.45 Round}</p>\n<p>&nbsp;</p>"
-		},
-		".50 Receiver": {
-			"name": ".50 Receiver",
-			"effect": "<p>Change damage to 8 @fos[DC]</p>\n<p>Ammo changes to @UUID[Item.AhvbZn2bwcpGswOQ]{.50 Round}</p>"
-		},
-		"Accelerated Barrel": {
-			"name": "Accelerated Barrel",
-			"effect": "<p>+1 @fos[DC]</p>\n<p>+1 Fire Rate</p>\n<p>Reduce Range by 1 step</p>\n<p>&nbsp;</p>"
-		},
-		"Advanced": {
-			"name": "Advanced",
-			"effect": "<p>+3 @fos[DC] damage</p>\n<p>+1 fire rate</p>"
+		"Automatic Barrel": {
+			"name": "Automatyczna",
+			"modtype": "Modyfikacje Lufy",
+			"prefix": "Automatyczna",
+			"perks": "Nauka! 1",
+			"effect": "<p>Obrażenia -1 @fos[DC]</p>\n<p>Usuwa cechę Zwarcie</p>\n<p>Zwiększa zasięg o 1 strefę</p>\n<p>szybkostrzelność +1</p>\n<p>&nbsp;</p>"
 		},
 		"Automatic": {
-			"name": "Automatic",
-			"effect": "<p>-1 @fos[DC] damage</p>\n<p>+2 fire rate</p>\n<p>Gain Burst</p>\n<p>Gain Inaccurate</p>"
-		},
-		"Automatic Barrel": {
-			"name": "Automatic Barrel",
-			"effect": "<p>-1 @fos[DC]</p>\n<p>Remove Close Quarters</p>\n<p>Increase Range by 1 step</p>\n<p>+1 Fire Rate</p>\n<p>&nbsp;</p>"
+			"name": "Automatyczna",
+			"modtype": "Modyfikacje komory zamkowej",
+			"prefix": "Automatyczna",
+			"perks": "Znawca spluw 1",
+			"effect": "<p>Obrażenia -1 @fos[DC]</p>\n<p>szybkostrzelność +2</p>\n<p>Zyskuje cechę Seria</p>\n<p>Zyskuje cechę Niecelna</p>"
 		},
 		"Automatic Piston": {
-			"name": "Automatic Piston",
-			"effect": "<p>+2 fire rate</p>\n<p>Reduce range by 1 step</p>\n<p>&nbsp;</p>"
-		},
-		"Barbed": {
-			"name": "Barbed",
-			"effect": "<p>+1 @fos[DC]</p>\n<p>Gain Piercing 1</p>\n<p>&nbsp;</p>"
+			"name": "Automatyczna z tłokiem",
+			"modtype": "Modyfikacje komory zamkowej",
+			"prefix": "Automatyczna",
+			"perks": "Znawca spluw 2",
+			"effect": "<p>szybkostrzelność +2</p>\n<p>Zmniejsza zasięg o 1 strefę</p>\n<p>&nbsp;</p>"
 		},
 		"Bayonet": {
-			"name": "Bayonet",
-			"effect": "<p>Melee weapon</p>\n<p>Deals 4 @fos[DC] Piercing 1 physical damage</p>\n<p>&nbsp;</p>"
+			"name": "Bagnet",
+			"modtype": "Modyfikacje wylotu",
+			"prefix": "Z bagnetem",
+			"perks": "",
+			"effect": "<p>Broń biała</p>\n<p>Zadaje4 @fos[DC] obrażeń fizycznych, posiada cechę Przeszywające 1</p>\n<p>&nbsp;</p>"
 		},
-		"Beam Focuser": {
-			"name": "Beam Focuser",
-			"effect": "<p>Increase Range by 1 step</p>\n<p>&nbsp;</p>"
-		},
-		"Beam Splitter": {
-			"name": "Beam Splitter",
-			"effect": "<p>-1 @fos[DC]</p>\n<p>-1 Fire Rate</p>\n<p>Gain Inaccurate</p>\n<p>Reduce Range by 1 step</p>\n<p>&nbsp;</p>"
-		},
-		"Beta Wave Tuner": {
-			"name": "Beta Wave Tuner",
-			"effect": "<p>Gain Persistent</p>\n<p>&nbsp;</p>"
-		},
-		"Bladed": {
-			"name": "Bladed",
-			"effect": "<p>+1 @fos[DC]</p>\n<p>Gain Persistent</p>\n<p>&nbsp;</p>"
-		},
-		"Boosted Capacitor": {
-			"name": "Boosted Capacitor",
-			"effect": "<p>+1 @fos[DC]</p>\n<p>&nbsp;</p>"
-		},
-		"Bracketed Long Barrel": {
-			"name": "Bracketed Long Barrel",
-			"effect": "<p>Remove Close Quarters</p>\n<p>Increase Range by 1 step</p>\n<p>Allows the weapon to take a Muzzle mod</p>\n<p>&nbsp;</p>"
-		},
-		"Bracketed Short Barrel": {
-			"name": "Bracketed Short Barrel",
-			"effect": "<p>Allows the weapon to take a Muzzle mod</p>\n<p>&nbsp;</p>"
-		},
-		"Bull Barrel": {
-			"name": "Bull Barrel",
-			"effect": "<p>Gain Reliable</p>"
-		},
-		"Calibrated": {
-			"name": "Calibrated",
-			"effect": "<p>Gain Vicious</p>"
-		},
-		"Capactor Boosting Coil": {
-			"name": "Capactor Boosting Coil",
-			"effect": "<p>+1 @fos[DC] damage</p>\n<p>Gain Vicious</p>\n<p>&nbsp;</p>"
-		},
-		"Chain-Wrapped": {
-			"name": "Chain-Wrapped",
-			"effect": "<p>+2 @fos[DC]</p>\n<p>&nbsp;</p>"
-		},
-		"Charging Barrels": {
-			"name": "Charging Barrels",
-			"effect": "<p>+4 @fos[DC]</p>\n<p>-3 Fire Rate</p>\n<p>Increase Range by 1 step</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
-		},
-		"Comfort Grip": {
-			"name": "Comfort Grip",
-			"effect": "<p>Remove Inaccurate</p>\n<p>&nbsp;</p>"
-		},
-		"Compensator": {
-			"name": "Compensator",
-			"effect": "<p>Remove Inaccurate</p>\n<p>&nbsp;</p>"
-		},
-		"Compression Nozzle": {
-			"name": "Compression Nozzle",
-			"effect": "<p>+1 @fos[DC]</p>\n<p>&nbsp;</p>"
-		},
-		"Curved Blade": {
-			"name": "Curved Blade",
-			"effect": "<p>+1 @fos[DC]</p>\n<p>On successful attack, spend 2 AP to disarm opponent, knocking one held weapon away</p>\n<p>&nbsp;</p>"
-		},
-		"Deep Dish": {
-			"name": "Deep Dish",
-			"effect": "<p>+1 @fos[DC]</p>\n<p>Increase Range by 1 step</p>\n<p>&nbsp;</p>"
-		},
-		"Electric Signal Carrier Antennae": {
-			"name": "Electric Signal Carrier Antennae",
-			"effect": "<p>Change damage to 7 @fos[DC]</p>\n<p>Change damage type to Energy</p>\n<p>Gain Radioactive</p>\n<p>&nbsp;</p>"
-		},
-		"Electrification Module": {
-			"name": "Electrification Module",
-			"effect": "<p>Gain Vicious</p>\n<p>Change damage type to Energy</p>\n<p>&nbsp;</p>"
-		},
-		"Electrified": {
-			"name": "Electrified",
-			"effect": "<p>+2 @fos[DC]</p>\n<p>Damage type becomes Energy</p>\n<p>&nbsp;</p>"
-		},
-		"Electrified Blade": {
-			"name": "Electrified Blade",
-			"effect": "<p>+1 @fos[DC]</p>\n<p>Damage type becomed Energy</p>\n<p>&nbsp;</p>"
-		},
-		"Electrified Serrated Blade": {
-			"name": "Electrified Serrated Blade",
-			"effect": "<p>+1 @fos[DC]</p>\n<p>Damage type becomed Energy</p>\n<p>Gain Persistent (Physical)</p>\n<p>&nbsp;</p>"
-		},
-		"Extended Blade": {
-			"name": "Extended Blade",
-			"effect": "<p>+1 @fos[DC]</p>\n<p>Gain Persistent</p>\n<p>&nbsp;</p>"
-		},
-		"Extra Claw": {
-			"name": "Extra Claw",
-			"effect": "<p>+1 @fos[DC]</p>\n<p>On a successful attack, spend 2 AP to disarm opponent, knocking one held weapon away.</p>\n<p>&nbsp;</p>"
-		},
-		"Extra Flame Jets": {
-			"name": "Extra Flame Jets",
-			"effect": "<p>+1 @fos[DC]</p>\n<p>Gain Persistent</p>\n<p>&nbsp;</p>"
-		},
-		"Extra Heavy": {
-			"name": "Extra Heavy",
-			"effect": "<p>+3 @fos[DC]</p>\n<p>&nbsp;</p>"
-		},
-		"Finned": {
-			"name": "Finned",
-			"effect": "<p>+1 @fos[DC] damage</p>\n<p>Increase Range by 1 step</p>\n<p>&nbsp;</p>"
-		},
-		"Five-Crank Capacitor": {
-			"name": "Five-Crank Capacitor",
-			"effect": "<p>+3 @fos[DC]</p>\n<p>Consumes 5 shots per attack</p>\n<p>&nbsp;</p>"
-		},
-		"Flamer Barrel": {
-			"name": "Flamer Barrel",
-			"effect": "<p>-2 @fos[DC]</p>\n<p>+2 Fire Rate</p>\n<p>Gain Burst</p>\n<p>Reduce Range by 1 step</p>\n<p>Gain Inaccurate</p>\n<p>&nbsp;</p>"
-		},
-		"Four-Crank Capacitor": {
-			"name": "Four-Crank Capacitor",
-			"effect": "<p>+2 @fos[DC]</p>\n<p>Consumes 4 shots per attack</p>\n<p>&nbsp;</p>"
-		},
-		"Full Capacitors": {
-			"name": "Full Capacitors",
-			"effect": "<p>Gain Vicious</p>\n<p>&nbsp;</p>"
-		},
-		"Full Stock": {
-			"name": "Full Stock",
-			"effect": "<p>Gain Two-Handed</p>\n<p>Remove Inaccurate</p>\n<p>&nbsp;</p>"
-		},
-		"Gunner Sight": {
-			"name": "Gunner Sight",
-			"effect": "<p>Remove Inaccurate</p>\n<p>&nbsp;</p>"
-		},
-		"Gyro Compensating Lens": {
-			"name": "Gyro Compensating Lens",
-			"effect": "<p>+1 Fire Rate</p>\n<p>Remove Inaccurate</p>\n<p>&nbsp;</p>"
-		},
-		"Hair Trigger": {
-			"name": "Hair Trigger",
-			"effect": "<p>+1 fire rate</p>"
-		},
-		"Hardened": {
-			"name": "Hardened",
-			"effect": "<p>+1 @fos[DC] damage</p>"
-		},
-		"Heating Coil": {
-			"name": "Heating Coil",
-			"effect": "<p>+1 @fos[DC]</p>\n<p>Change Damage Type to Energy</p>\n<p>&nbsp;</p>"
-		},
-		"Heavy": {
-			"name": "Heavy",
-			"effect": "<p>+2 @fos[DC]</p>\n<p>&nbsp;</p>"
-		},
-		"Hooked": {
-			"name": "Hooked",
-			"effect": "<p>+1 @fos[DC]</p>\n<p>An successful attack, spend 2 AP to disarm opponent, knocking one held weapon away</p>\n<p>&nbsp;</p>"
-		},
-		"Huge Tank": {
-			"name": "Huge Tank",
-			"effect": "<p>+2 Fire Rate</p>\n<p>&nbsp;</p>"
-		},
-		"Ignition Module": {
-			"name": "Ignition Module",
-			"effect": "<p>Gain Persistent (Energy)</p>\n<p>&nbsp;</p>"
-		},
-		"Improved Barrel": {
-			"name": "Improved Barrel",
-			"effect": "<p>+1 @fos[DC]</p>\n<p>&nbsp;</p>"
-		},
-		"Large Magazine": {
-			"name": "Large Magazine",
-			"effect": "<p>+1 fire rate</p>\n<p>Gain Unreliable</p>\n<p>&nbsp;</p>"
-		},
-		"Large Quick-Eject Mag": {
-			"name": "Large Quick-Eject Mag",
-			"effect": "<p>+1 Fire Rate</p>\n<p>&nbsp;</p>"
-		},
-		"Large Tank": {
-			"name": "Large Tank",
-			"effect": "<p>+1 Fire Rate</p>\n<p>&nbsp;</p>"
-		},
-		"Lead Lining": {
-			"name": "Lead Lining",
-			"effect": "<p>+2 @fos[DC]</p>\n<p>&nbsp;</p>"
+		"pk8yYPVKXuuatunI": {
+			"name": "Bagnet",
+			"modtype": "Modyfikacje wylotu wyrzutni rakiet",
+			"prefix": "Z bagnetem siekającym",
+			"perks": "",
+			"effect": "<p>Broń biała</p>\n<p>Zadaje4 @fos[DC] obrażeń fizycznych, posiada cechę Przeszywające 1</p>\n<p>&nbsp;</p>"
 		},
 		"Long": {
-			"name": "Long",
-			"effect": "<p>Increase Range by 1 step</p>"
+			"name": "Długa",
+			"modtype": "Modyfikacje Lufy",
+			"prefix": "Długa",
+			"perks": "Znawca spluw 1",
+			"effect": "<p>Zwiększa zasięg o 1 strefę</p>"
 		},
 		"Long Barrel": {
-			"name": "Long Barrel",
-			"effect": "<p>Increase Range by 1 step</p>\n<p>&nbsp;</p>"
+			"name": "Długa lufa",
+			"modtype": "Modyfikacje Lufy",
+			"prefix": "Długa",
+			"perks": "",
+			"effect": "<p>Zwiększa zasięg o 1 strefę</p>\n<p>&nbsp;</p>"
 		},
-		"Long Night Vision Scope": {
-			"name": "Long Night Vision Scope",
-			"effect": "<p>Gain Accurate</p>\n<p>Gain Night Vision</p>\n<p>Increase Range by 1 step</p>\n<p>&nbsp;</p>"
+		"bhpEF2ZReAacz7NI": {
+			"name": "Długa",
+			"modtype": "Modyfikacje lufy miotacza ognia",
+			"prefix": "Długi",
+			"perks": "Znawca spluw 1",
+			"effect": "<p>Usuwa cechę Niecelny</p>\n<p>&nbsp;</p>"
+		},
+		"cs76CKLMxYAzhNhb": {
+			"name": "Długa",
+			"modtype": "Modyfikacje lufy śmieciomiotu",
+			"prefix": "Długi",
+			"perks": "Znawca spluw 1",
+			"effect": "<p>Zwiększa zasięg o 1 strefę</p>\n<p>&nbsp;</p>"
 		},
 		"Long Scope": {
-			"name": "Long Scope",
-			"effect": "<p>Gain Accurate</p>\n<p>Increase Range by 1 step</p>\n<p>&nbsp;</p>"
+			"name": "Długa luneta",
+			"modtype": "Modyfikacje celownika",
+			"prefix": "Z lunetą",
+			"perks": "Nauka! 2",
+			"effect": "<p>Zyskuje cechę Celna</p>\n<p>Zwiększa zasięg o 1 strefę</p>\n<p>&nbsp;</p>"
 		},
-		"Marksman's Stock": {
-			"name": "Marksman's Stock",
-			"effect": "<p>Gain Two-Handed</p>\n<p>Remove Inaccurate</p>\n<p>Gain Accurate</p>\n<p>Remove Close Quarters</p>\n<p>&nbsp;</p>"
+		"Long Night Vision Scope": {
+			"name": "Długa luneta noktowizyjna",
+			"modtype": "Modyfikacje celownika",
+			"prefix": "Z noktowizorem",
+			"perks": "Nauka! 3",
+			"effect": "<p>Zyskuje cechę Celna</p>\n<p>Zyskuje cechę Noktowizja</p>\n<p>Zwiększa zasięg o 1 strefę</p>\n<p>&nbsp;</p>"
+		},
+		"Bracketed Long Barrel": {
+			"name": "Długa z obręczami",
+			"modtype": "Modyfikacje Lufy",
+			"prefix": "",
+			"perks": "Nauka! 1",
+			"effect": "<p>Usuwa cechę Zwarcie</p>\n<p>Zwiększa zasięg o 1 strefę</p>\n<p>umożliwia dodanie modyfikacji wylotu</p>\n<p>&nbsp;</p>"
+		},
+		"Extra Flame Jets": {
+			"name": "Dodatkowe dysze miotacza",
+			"modtype": "Modyfikacje sziszkebabu",
+			"prefix": "Smażący",
+			"perks": "Kowal 3",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>Zyskuje cechę Uporczywe</p>\n<p>&nbsp;</p>"
+		},
+		"Extra Claw": {
+			"name": "Dodatkowy szpon",
+			"modtype": "Modyfikacje rękawicy ze szpona śmierci",
+			"prefix": "Duża",
+			"perks": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>po udanym teście ataku możesz wydać 2 PA, żeby rozbroić przeciwnika, wytrącając mu z dłoni broń</p>\n<p>&nbsp;</p>"
+		},
+		"Beta Wave Tuner": {
+			"name": "Dostrajacz fal beta",
+			"modtype": "Modyfikacje kondenstora",
+			"prefix": "Zapalająca",
+			"perks": "",
+			"effect": "<p>Zyskuje cechę Uporczywe</p>\n<p>&nbsp;</p>"
+		},
+		"xg5FEwwagDUpedcL": {
+			"name": "Dostrajacz fal beta",
+			"modtype": "Modyfikacje kondensatora lasera Gatlinga",
+			"prefix": "Zapalający",
+			"perks": "",
+			"effect": "<p>Zyskuje cechę Uporczywe</p>\n<p>&nbsp;</p>"
+		},
+		"Barbed": {
+			"name": "Gwoździe",
+			"modtype": "Modyfikacje kija baseballowego",
+			"prefix": "Nabijany gwoźdźmi",
+			"perks": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>Zyskuje cechę Przeszywające 1</p>\n<p>&nbsp;</p>"
+		},
+		"bIxeUpjoKTniv7P7": {
+			"name": "Drut kolczasty",
+			"modtype": "Modyfikacje laski",
+			"prefix": "Kolczasta",
+			"perks": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>Zyskuje cechę Przeszywające 1</p>\n<p>&nbsp;</p>"
+		},
+		"iqpxSXwVu0d13y7j": {
+			"name": "Drut kolczasty",
+			"modtype": "Modyfikacje kija bilardowego",
+			"prefix": "Kolczasty",
+			"perks": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>Zyskuje cechę Przeszywające 1</p>\n<p>&nbsp;</p>"
+		},
+		"Large Magazine": {
+			"name": "Duży magazynek",
+			"modtype": "Magazine",
+			"prefix": "O dużej pojemności",
+			"perks": "Znawca spluw 2",
+			"effect": "<p>szybkostrzelność +1</p>\n<p>Zyskuje cechę Zawodna</p>\n<p>&nbsp;</p>"
+		},
+		"Large Quick-Eject Mag": {
+			"name": "Duży magazynek (SP)",
+			"modtype": "Magazine",
+			"prefix": "O dużej pojemności (SP)",
+			"perks": "Znawca spluw 2",
+			"effect": "<p>szybkostrzelność +1</p>\n<p>&nbsp;</p>"
+		},
+		"Extra Heavy": {
+			"name": "Duży obciążnik",
+			"modtype": "Modyfikacje klucza francuskiego",
+			"prefix": "Ciężki",
+			"perks": "Kowal 2",
+			"effect": "<p>Obrażenia +3 @fos[DC]</p>\n<p>&nbsp;</p>"
+		},
+		"Large Tank": {
+			"name": "Duży zbiornik z paliwem",
+			"modtype": "Modyfikacje zbiornika z plaiwem miotacza ognia",
+			"prefix": "O dużej pojemności",
+			"perks": "Znawca spluw 1",
+			"effect": "<p>szybkostrzelność +1</p>\n<p>&nbsp;</p>"
+		},
+		"Electrified": {
+			"name": "Elektryczna",
+			"modtype": "Modyfikacje pałki",
+			"prefix": "Porażająca",
+			"perks": "Kowal 2, Nauka! 1",
+			"effect": "<p>Obrażenie +3 @fos[DC]</p>\n<p>zmiana obrażeń na energetyczne</p>\n<p>&nbsp;</p>"
+		},
+		"Electrified Blade": {
+			"name": "Elektryczne ostrze",
+			"modtype": "Modyfikacje miecza",
+			"prefix": "Elektryczny",
+			"perks": "Kowal 2, Nauka! 1",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>zmiana obrażeń na energetyczne</p>\n<p>&nbsp;</p>"
+		},
+		"Electrified Serrated Blade": {
+			"name": "Elektryczne ząbkowane ostrze",
+			"modtype": "Modyfikacje miecza",
+			"prefix": "Elektryczny i ząbkowany",
+			"perks": "Kowal 3, Nauka! 1",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>zmiana obrażeń na energetyczne</p>\n<p>Zyskuje cechę Uporczywe (Fizyczne)</p>\n<p>&nbsp;</p>"
+		},
+		"Deep Dish": {
+			"name": "Głęboki",
+			"modtype": "Gamma Gun Dish",
+			"prefix": "Długa",
+			"perks": "Nauka! 4",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>Zwiększa zasięg o 1 strefę</p>\n<p>&nbsp;</p>"
+		},
+		"Finned": {
+			"name": "Gwintowana",
+			"modtype": "Modyfikacje Lufy",
+			"prefix": "Gwintowana",
+			"perks": "Znawca spluw 2",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>Zwiększa zasięg o 1 strefę</p>\n<p>&nbsp;</p>"
+		},
+		"Puncturing": {
+			"name": "Kolce",
+			"modtype": "Deska",
+			"prefix": "Przebijająca",
+			"perks": "Kowal 1",
+			"effect": "<p>Obrażenia +2 @fos[DC]</p>\n<p>Zyskuje cechę Przeszywające 1</p>\n<p>&nbsp;</p>"
+		},
+		"7OZouPhriL9tzrOD": {
+			"name": "Kolce",
+			"modtype": "Modyfikacje kastetu",
+			"prefix": "Przebijająca",
+			"perks": "Kowal 1",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>Zyskuje cechę Przeszywające 1</p>\n<p>&nbsp;</p>"
+		},
+		"Spiked": {
+			"name": "Drut kolczasty",
+			"modtype": "Modyfikacje kija baseballowego",
+			"prefix": "Kolczasty",
+			"perks": "",
+			"effect": "<p>Zyskuje cechę Przeszywające 1</p>\n<p>&nbsp;</p>"
+		},
+		"CFl42Fhuv4nToKcP": {
+			"name": "Gwoździe",
+			"modtype": "Modyfikacje wałka",
+			"prefix": "Nabijany gwoźdźmi",
+			"perks": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>Zyskuje cechę Przeszywające 1</p>\n<p>&nbsp;</p>"
+		},
+		"CMVHMX7fGVSi9SzJ": {
+			"name": "Kolce",
+			"modtype": "Modyfikacje rękawicy bokserskiej",
+			"prefix": "Przebijająca",
+			"perks": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>Zyskuje cechę Przeszywające 1</p>\n<p>&nbsp;</p>"
+		},
+		"Fa2RBTtGci73smRF": {
+			"name": "Bolce",
+			"modtype": "Modyfikacje klucza francuskiego",
+			"prefix": "Przebijający",
+			"perks": "Kowal 1",
+			"effect": "<p>Obrażenia +2 @fos[DC]</p>\n<p>Zyskuje cechę Przeszywające 1</p>\n<p>&nbsp;</p>"
+		},
+		"LANB6wzhO8pIEsxK": {
+			"name": "Kolce",
+			"modtype": "Modyfikacje rękawicy wspomaganej",
+			"prefix": "Przebijająca",
+			"perks": "Kowal 2",
+			"effect": "<p>Obrażenia +2 @fos[DC]</p>\n<p>Zyskuje cechę Przeszywające 1</p>\n<p>&nbsp;</p>"
+		},
+		"SoqIXVkZsUGhfofi": {
+			"name": "Gwoździe",
+			"modtype": "Modyfikacje rękawicy bokserskiej",
+			"prefix": "Nabijana gwoźdźmi",
+			"perks": "Kowal 1",
+			"effect": "<p>Zyskuje cechę Przeszywające 1</p>\n<p>&nbsp;</p>"
+		},
+		"aKnqi2PPZyD6qLGe": {
+			"name": "Gwoździe",
+			"modtype": "Modyfikacje laski",
+			"prefix": "Nabijana gwoźdźmi",
+			"perks": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>Zyskuje cechę Przeszywające 1</p>\n<p>&nbsp;</p>"
+		},
+		"e1ycQYWvjDktlxvu": {
+			"name": "Gwoździe",
+			"modtype": "Modyfikacje ołowianej rurki",
+			"prefix": "Nabijana gwoźdźmi",
+			"perks": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>Zyskuje cechę Przeszywające 1</p>\n<p>&nbsp;</p>"
+		},
+		"eakJcz2neDjGIWWP": {
+			"name": "Ćwieki",
+			"modtype": "Modyfikacje kastetu",
+			"prefix": "Nabijany ćwiekami",
+			"perks": "",
+			"effect": "<p>Zyskuje cechę Przeszywające 1</p>\n<p>&nbsp;</p>"
+		},
+		"frKj2bS1FVy8Ny3O": {
+			"name": "Gwoździe",
+			"modtype": "Modyfikacje deska",
+			"prefix": "Nabijana gwoźdźmi",
+			"perks": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>Zyskuje cechę Przeszywające 1</p>\n<p>&nbsp;</p>"
+		},
+		"ol8d48kNa9veV1kv": {
+			"name": "Bolce",
+			"modtype": "Modyfikacje młota",
+			"prefix": "Przebijający",
+			"perks": "Kowal 2",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>Zyskuje cechę Przeszywające 1</p>\n<p>&nbsp;</p>"
+		},
+		"Hooked": {
+			"name": "Hak",
+			"modtype": "Modyfikacje klucza francuskiego",
+			"prefix": "Z hakiem",
+			"perks": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p> po udanym teście ataku możesz wydać 2 PA, żeby rozbroić przeciwnika, wytrącając mu z dłoni broń</p>\n<p>&nbsp;</p>"
 		},
 		"Muzzle Break": {
-			"name": "Muzzle Break",
-			"effect": "<p>Remove Inaccurate</p>\n<p>+1 Fire Rate</p>\n<p>&nbsp;</p>"
+			"name": "Hamulec wylotowy",
+			"modtype": "Modyfikacje wylotu",
+			"prefix": "Muzzled",
+			"perks": "Znawca spluw 1",
+			"effect": "<p>Usuwa cechę Niecelna</p>\n<p>szybkostrzelność +1</p>\n<p>&nbsp;</p>"
+		},
+		"Gunner Sight": {
+			"name": "Celownik strzelca",
+			"modtype": "Modyfikacje śmieciomotu",
+			"prefix": "Taktyczny",
+			"perks": "",
+			"effect": "<p>Przerzut lokalizacji trafienia</p>\n<p>&nbsp;</p>"
+		},
+		"AMOEO5RXltJZM8kz": {
+			"name": "Kolimator",
+			"modtype": "Modyfikacje celownika lasera Gatlinga",
+			"prefix": "Taktyczny",
+			"perks": "Nauka! 4",
+			"effect": "<p>Przerzut lokalizacji trafienia</p>\n<p>&nbsp;</p>"
+		},
+		"DQwdlCs54hWqQaZa": {
+			"name": "Celownik strzelca",
+			"modtype": "Modyfikacje celownika działka obrotowego",
+			"prefix": "Taktyczny",
+			"perks": "",
+			"effect": "<p>Usuwa cechę Niecelna</p>\n<p>&nbsp;</p>"
+		},
+		"Reflex Sight": {
+			"name": "Kolimator",
+			"modtype": "Modyfikacje celownika",
+			"prefix": "Taktyczny",
+			"perks": "",
+			"effect": "<p>Przerzut lokalizacji trafienia</p>\n<p>&nbsp;</p>"
+		},
+		".308 Receiver": {
+			"name": "Komora zamkowa .308",
+			"modtype": "Modyfikacje komory zamkowej",
+			"prefix": ".308",
+			"perks": "Znawca spluw 4",
+			"effect": "<p>Obrażenia 7 @fos[DC]</p>\n<p>Amunicja zmieniona na @UUID[Item.i4CuRrtBhO2mWeDz]{Naboje .308}</p>"
+		},
+		".38 Receiver": {
+			"name": "Komora zamkowa .38",
+			"modtype": "Modyfikacje komory zamkowej",
+			"prefix": ".38",
+			"perks": "Znawca spluw 4",
+			"effect": "<p>Obrażenia 4 @fos[DC]</p>\n<p>Amunicja zmieniona na @UUID[Item.YthgQHCfKPTHC3I9]{Naboje .38}</p>"
+		},
+		".45 Receiver": {
+			"name": "Komora zamkowa .45",
+			"modtype": "Modyfikacje komory zamkowej",
+			"prefix": ".45",
+			"perks": "Znawca spluw 2",
+			"effect": "<p>Obrażenia 4 @fos[DC]</p>\n<p>szybkostrzelność +1</p>\n<p>Amunicja zmieniona na @UUID[Item.sNuUqfuwQTubAOi4]{Naboje .45}</p>\n<p>&nbsp;</p>"
+		},
+		".50 Receiver": {
+			"name": "Komora zamkowa .50",
+			"modtype": "Modyfikacje komory zamkowej",
+			"prefix": ".50",
+			"perks": "Znawca spluw 4",
+			"effect": "<p>Obrażenia 8 @fos[DC]</p>\n<p>Amunicja zmieniona na @UUID[Item.AhvbZn2bwcpGswOQ]{Naboje .50}</p>"
+		},
+		"Compensator": {
+			"name": "Kompensator",
+			"modtype": "Modyfikacje wylotu",
+			"prefix": "Z kompensatorem",
+			"perks": "Znawca spluw 1",
+			"effect": "<p>Usuwa cechę Niecelna</p>\n<p>&nbsp;</p>"
+		},
+		"Targeting Computer": {
+			"name": "Komputer celowniczy",
+			"modtype": "Modyfikacje celownika wyrzutni rakiet",
+			"prefix": "Z namierzaniem",
+			"perks": "Znawca spluw 2; Nauka! 2",
+			"effect": "<p>Kiedy wykonujesz pomniejszą akcję celowania, przeciwnik nie otrzymuje korzyści z posiadanej osłony, a modyfikator z celowania ma zastosowanie w następnym ataku wykonanym w dowolnej późniejszej turze aż do końca sceny</p>\n<p>&nbsp;</p>"
+		},
+		"IT15FDgwEelj1LYg": {
+			"name": "Koncentrator wiązki",
+			"modtype": "Modyfikacje wylotu lasera Gatlinga",
+			"prefix": "Skupiony",
+			"perks": "",
+			"effect": "<p>Zwiększa zasięg o 1 strefę</p>\n<p>&nbsp;</p>"
+		},
+		"Beam Focuser": {
+			"name": "Koncentrator wiązki",
+			"modtype": "Modyfikacje wylotu",
+			"prefix": "Skupiony",
+			"perks": "Nauka! 1",
+			"effect": "<p>Zwiększa zasięg o 1 strefę</p>\n<p>&nbsp;</p>"
+		},
+		"Vaporization Nozzle": {
+			"name": "Końcówka atomizująca",
+			"modtype": "Modyfikacje wylotu miotacza ognia",
+			"prefix": "Atomizujący",
+			"perks": "Znawca spluw 2",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>Zyskuje cechę Brutalne</p>\n<p>&nbsp;</p>"
+		},
+		"Compression Nozzle": {
+			"name": "Końcówka kompresyjna",
+			"modtype": "Modyfikacje wylotu miotacza ognia",
+			"prefix": "Kompresyjny",
+			"perks": "Znawca spluw 1",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>&nbsp;</p>"
+		},
+		"Four-Crank Capacitor": {
+			"name": "Korba czteroobrotowa",
+			"modtype": "Laser Musket Capacitor",
+			"prefix": "Czteroobrotowy",
+			"perks": "Nauka! 1",
+			"effect": "<p>Obrażenia +2 @fos[DC]</p>\n<p>Zużywa 4 jedostek amunicji na strzał</p>\n<p>&nbsp;</p>"
+		},
+		"Five-Crank Capacitor": {
+			"name": "Korba pięcioobrotowa",
+			"modtype": "Laser Musket Capacitor",
+			"prefix": "Pięcioobrotowy",
+			"perks": "Nauka! 2",
+			"effect": "<p>Obrażenia +3 @fos[DC]</p>\n<p>Zużywa 5 jedostek amunicji na strzał</p>\n<p>&nbsp;</p>"
+		},
+		"Six-Crank Capacitor": {
+			"name": "Korba sześcioobrotowa",
+			"modtype": "Laser Musket Capacitor",
+			"prefix": "Sześcioobrotowy",
+			"perks": "Nauka! 3",
+			"effect": "<p>Obrażenia +4 @fos[DC]</p>\n<p>Zużywa 6 jedostek amunicji na strzał</p>\n<p>&nbsp;</p>"
+		},
+		"Three-Crank Capacitor": {
+			"name": "Korba trójobrotowa",
+			"modtype": "Laser Musket Capacitor",
+			"prefix": "Trójobrotowy",
+			"perks": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>Zużywa 3 jedostek amunicji na strzał</p>\n<p>&nbsp;</p>"
+		},
+		"Short Scope": {
+			"name": "Krótka luneta",
+			"modtype": "Modyfikacje celownika",
+			"prefix": "Z lunetą",
+			"perks": "",
+			"effect": "<p>Zyskuje cechę Celna</p>\n<p>&nbsp;</p>"
+		},
+		"Night Vision Scope": {
+			"name": "Krótka luneta noktowizyjna",
+			"modtype": "Modyfikacje celownika wyrzutni rakiet",
+			"prefix": "Z noktowizorem",
+			"perks": "Znawca spluw 4; Nauka! 1",
+			"effect": "<p>Zyskuje cechę Celna</p>\n<p>Zyskuje cechę Noktowizja</p>\n<p>&nbsp;</p>"
+		},
+		"Short Night Vision Scope": {
+			"name": "Krótka luneta noktowizyjna",
+			"modtype": "Modyfikacje celownika",
+			"prefix": "Z noktowizorem",
+			"perks": "Nauka! 2",
+			"effect": "<p>Zyskuje cechę Celna</p>\n<p>Zyskuje cechę Noktowizja</p>\n<p>&nbsp;</p>"
+		},
+		"Charging Barrels": {
+			"name": "Lufy ładujące",
+			"modtype": "Modyfikacje lufy lasera Gatlinga",
+			"prefix": "Ładujący",
+			"perks": "Nauka! 4",
+			"effect": "<p>Obrażenia +4 @fos[DC]</p>\n<p>szybkostrzelność -3</p>\n<p>Zwiększa zasięg o 1 strefę</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
+		},
+		"Scope": {
+			"name": "Luneta",
+			"modtype": "Modyfikacje celownika",
+			"prefix": "Z lunetą",
+			"perks": "Znawca spluw 2",
+			"effect": "<p>Zyskuje cechę Celna</p>\n<p>&nbsp;</p>"
+		},
+		"Recon Scope": {
+			"name": "Luneta zwiadowcza e",
+			"modtype": "Modyfikacje celownika",
+			"prefix": "Zwiadowcza",
+			"perks": "Nauka! 3",
+			"effect": "<p>Zyskuje cechę Celna</p>\n<p>Zyskuje cechę Zwiadowcza</p>\n<p>&nbsp;</p>"
+		},
+		"Chain-Wrapped": {
+			"name": "Łańcuch",
+			"modtype": "Modyfikacje kija baseballowego",
+			"prefix": "Z łańcuchem",
+			"perks": "Kowal 1",
+			"effect": "<p>Obrażenia +2 @fos[DC]</p>\n<p>&nbsp;</p>"
+		},
+		"Quick-Eject Mag": {
+			"name": "Magazynek (SP)",
+			"modtype": "Magazine",
+			"prefix": "Z szybkim przeładowaniem",
+			"perks": "Znawca spluw 1",
+			"effect": "<p>Zyskuje cechę Niezawodna</p>"
+		},
+		"Flamer Barrel": {
+			"name": "Miotacz",
+			"modtype": "Modyfikacje Lufy",
+			"prefix": "Miotacz",
+			"perks": "Nauka! 2",
+			"effect": "<p>Obrażenia -2 @fos[DC]</p>\n<p>Zmniejsza zasięg o 1 strefę</p>\n<p>Zyskuje cechę Niecelna, Seria, Rozrzut</p>\n<p>&nbsp;</p>"
 		},
 		"Napalm": {
 			"name": "Napalm",
-			"effect": "<p>+1 @fos[DC]</p>\n<p>&nbsp;</p>"
-		},
-		"Night Vision Scope": {
-			"name": "Night Vision Scope",
-			"effect": "<p>Gain Accurate</p>\n<p>Gain Night Vision</p>\n<p>&nbsp;</p>"
-		},
-		"Photon Agitator": {
-			"name": "Photon Agitator",
-			"effect": "<p>+1 @fos[DC]</p>\n<p>Gain Vicious</p>\n<p>&nbsp;</p>"
-		},
-		"Photon Exciter": {
-			"name": "Photon Exciter",
-			"effect": "<p>Gain Vicious</p>\n<p>&nbsp;</p>"
-		},
-		"Ported": {
-			"name": "Ported",
-			"effect": "<p>Increase Range by 1 step</p>\n<p>+1 fire rate</p>\n<p>&nbsp;</p>"
-		},
-		"Powerful": {
-			"name": "Powerful",
-			"effect": "<p>+2 @fos[DC] damage</p>"
-		},
-		"Puncturing": {
-			"name": "Puncturing",
-			"effect": "<p>+1 @fos[DC]</p>\n<p>Gain Piercing 1</p>\n<p>&nbsp;</p>"
-		},
-		"Quad Barrel": {
-			"name": "Quad Barrel",
-			"effect": "<p>+2 Fire Rate</p>\n<p>&nbsp;</p>"
-		},
-		"Quick-Eject Mag": {
-			"name": "Quick-Eject Mag",
-			"effect": "<p>Gain Reliable</p>"
+			"modtype": "Modyfikacje paliwa miotacza ognia",
+			"prefix": "Napalmowy",
+			"perks": "Znawca spluw 1",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>&nbsp;</p>"
 		},
 		"Recoil Compensating Stock": {
-			"name": "Recoil Compensating Stock",
-			"effect": "<p>Gain Two-Handed</p>\n<p>Remove Inaccurate</p>\n<p>+1 Fire Rate</p>\n<p>&nbsp;</p>"
+			"name": "Niwelująca odrzut",
+			"modtype": "Modyfikacje kolby",
+			"prefix": "Z niwelacją odrzutu",
+			"perks": "Znawca spluw 3",
+			"effect": "<p>Zyskuje cechę Dwuręczna</p>\n<p>Usuwa cechę Niecelna, Zwarcie</p>\n<p>szybkostrzelność +1</p>\n<p>&nbsp;</p>"
 		},
-		"Recon Scope": {
-			"name": "Recon Scope",
-			"effect": "<p>Gain Accurate</p>\n<p>Gain Recon</p>\n<p>&nbsp;</p>"
+		"pkYZNmGx0JPKquIC": {
+			"name": "Niwelująca odrzut",
+			"modtype": "Modyfikacje kolby śmieciomotu",
+			"prefix": "Z niwelacją odrzutu",
+			"perks": "",
+			"effect": "<p>szybkostrzelność +1</p>\n<p>&nbsp;</p>"
 		},
-		"Reflex Sight": {
-			"name": "Reflex Sight",
-			"effect": "<p>May re-roll hit location die</p>\n<p>&nbsp;</p>"
+		"Heavy": {
+			"name": "Obciążnik",
+			"modtype": "Modyfikacje klucza francuskiego",
+			"prefix": "Obciążony",
+			"perks": "Kowal 1",
+			"effect": "<p>Obrażenia +2 @fos[DC]</p>\n<p>&nbsp;</p>"
+		},
+		"VJOrfCwfPhDnMP18": {
+			"name": "Obciążnik",
+			"modtype": "Modyfikacje ołowianej rurki",
+			"prefix": "Ciężka",
+			"perks": "Kowal 2",
+			"effect": "<p>Obrażenia +2 @fos[DC]</p>\n<p>&nbsp;</p>"
+		},
+		"wQSPWsdrMfYqPAMO": {
+			"name": "Obciążnik",
+			"modtype": "Modyfikacje młota",
+			"prefix": "Ciężki",
+			"perks": "Kowal 2",
+			"effect": "<p>Obrażenia +2 @fos[DC]</p>\n<p>&nbsp;</p>"
 		},
 		"Sawed-Off": {
-			"name": "Sawed-Off",
-			"effect": "<p>Remove Two-Handed</p>\n<p>Gain Close Quarters</p>\n<p>&nbsp;</p>"
+			"name": "Obcięte lufy",
+			"modtype": "Modyfikacje Lufy",
+			"prefix": "Z obciętymi lufami",
+			"perks": "",
+			"effect": "<p>Usuwa cechę Dwuręczna</p>\n<p>Zyskuje cechę Zwarcie</p>\n<p>&nbsp;</p>"
 		},
-		"Scope": {
-			"name": "Scope",
-			"effect": "<p>Gain Accurate</p>\n<p>&nbsp;</p>"
+		"Huge Tank": {
+			"name": "Olbrzymi zbiornik z paliwem",
+			"modtype": "Modyfikacje zbiornika z plaiwem miotacza ognia",
+			"prefix": "O maksymalnej pojemności",
+			"perks": "Znawca spluw 2",
+			"effect": "<p>szybkostrzelność +2</p>\n<p>&nbsp;</p>"
 		},
-		"Serrated Blade": {
-			"name": "Serrated Blade",
-			"effect": "<p>Gain Persistent</p>\n<p>&nbsp;</p>"
-		},
-		"Sharp": {
-			"name": "Sharp",
-			"effect": "<p>+1 @fos[DC]</p>\n<p>Gain Persistent</p>\n<p>&nbsp;</p>"
-		},
-		"Sharpshooter's Grip": {
-			"name": "Sharpshooter's Grip",
-			"effect": "<p>Remove Inaccurate</p>\n<p>Add Piercing 1</p>\n<p>&nbsp;</p>"
-		},
-		"Shielded Barrel": {
-			"name": "Shielded Barrel",
-			"effect": "<p>+1 @fos[DC] damage</p>"
-		},
-		"Short Night Vision Scope": {
-			"name": "Short Night Vision Scope",
-			"effect": "<p>Gain Accurate</p>\n<p>Gain Night Vision</p>\n<p>&nbsp;</p>"
-		},
-		"Short Scope": {
-			"name": "Short Scope",
-			"effect": "<p>Gain Accurate</p>\n<p>&nbsp;</p>"
-		},
-		"Shredder": {
-			"name": "Shredder",
-			"effect": "<p>Melee weapon,</p>\n<p>Deals @fos[DC] of Physical damage equal to Fire Rate</p>\n<p>&nbsp;</p>"
-		},
-		"Signal Repeater": {
-			"name": "Signal Repeater",
-			"effect": "<p>+2 Fire Rate</p>\n<p>Gain Burst</p>\n<p>Remove Blast</p>\n<p>&nbsp;</p>"
-		},
-		"Six-Crank Capacitor": {
-			"name": "Six-Crank Capacitor",
-			"effect": "<p>+4 @fos[DC]</p>\n<p>Consumes 6 shots per attack</p>\n<p>&nbsp;</p>"
-		},
-		"Sniper Barrel": {
-			"name": "Sniper Barrel",
-			"effect": "<p>+2 @fos[DC]</p>\n<p>Remove Close Quarters</p>\n<p>Increase Range by 1 step</p>\n<p>-1 Fire Rate</p>\n<p>&nbsp;</p>"
-		},
-		"Snubnose": {
-			"name": "Snubnose",
-			"effect": "<p>Gain Inaccurate</p>"
-		},
-		"Spiked": {
-			"name": "Spiked",
-			"effect": "<p>+1 @fos[DC]</p>\n<p>Gain Piercing 1</p>\n<p>&nbsp;</p>"
-		},
-		"Splitter": {
-			"name": "Splitter",
-			"effect": "<p>-1 @fos[DC]</p>\n<p>Gain Spread</p>\n<p>Gain Inaccurate</p>\n<p>&nbsp;</p>"
-		},
-		"Stabilizer": {
-			"name": "Stabilizer",
-			"effect": "<p>Gain Piercing 1</p>\n<p>&nbsp;</p>"
-		},
-		"Standard Stock": {
-			"name": "Standard Stock",
-			"effect": "<p>Gain Two-Handed</p>\n<p>Remove Inaccurate</p>\n<p>Remove Close Quarters</p>\n<p>&nbsp;</p>"
-		},
-		"Stealth Blade": {
-			"name": "Stealth Blade",
-			"effect": "<p>+1 @fos[DC]</p>\n<p>Gain Persistent</p>\n<p>+2 @fos[DC] on Sneak Attacks</p>\n<p>&nbsp;</p>"
-		},
-		"Stun Pack": {
-			"name": "Stun Pack",
-			"effect": "<p>+2 @fos[DC]</p>\n<p>Gain Stun</p>\n<p>Change Damage Type to Energy</p>\n<p>&nbsp;</p>"
-		},
-		"Suppressor": {
-			"name": "Suppressor",
-			"effect": "<p>Gain Suppressed</p>\n<p>&nbsp;</p>"
-		},
-		"Targeting Computer": {
-			"name": "Targeting Computer",
-			"effect": "<p>When you Aim at a target, the target does not benefit from being in cover, and the bonus for aiming applies to the next attack on any subsequent turn during the scene.</p>\n<p>&nbsp;</p>"
-		},
-		"Three-Crank Capacitor": {
-			"name": "Three-Crank Capacitor",
-			"effect": "<p>+1 @fos[DC]</p>\n<p>Consumes 3 shots per attack</p>\n<p>&nbsp;</p>"
-		},
-		"Tri-Barrel": {
-			"name": "Tri-Barrel",
-			"effect": "<p>+2 @fos[DC]</p>\n<p>-2 Fire Rate</p>\n<p>&nbsp;</p>"
-		},
-		"Triple Barrel": {
-			"name": "Triple Barrel",
-			"effect": "<p>+1 Fire Rate</p>\n<p>&nbsp;</p>"
-		},
-		"Vaporization Nozzle": {
-			"name": "Vaporization Nozzle",
-			"effect": "<p>+1 @fos[DC]</p>\n<p>Gain Vicious</p>\n<p>&nbsp;</p>"
+		"Lead Lining": {
+			"name": "Ołowiana podszewka",
+			"modtype": "Modyfikacje rękawicy bokserskiej",
+			"prefix": "Z ołowianą podszewką",
+			"perks": "Kowal 1",
+			"effect": "<p>Obrażenia +2 @fos[DC]</p>\n<p>&nbsp;</p>"
 		},
 		"Vented": {
-			"name": "Vented",
-			"effect": "<p>Increase Range by 1 step</p>\n<p>+1 fire rate</p>\n<p>Gain Reliable</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
+			"name": "Osłabienie podrzutu",
+			"modtype": "Modyfikacje Lufy",
+			"prefix": "Z osłabieniem podrzutu",
+			"perks": "Znawca spluw 4",
+			"effect": "<p>Zwiększa zasięg o 1 strefę</p>\n<p>szybkostrzelność +1</p>\n<p>Zyskuje cechę Niezawodna</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
+		},
+		"Shielded Barrel": {
+			"name": "Osłaniana",
+			"modtype": "Modyfikacje Lufy",
+			"prefix": "Osłaniana",
+			"perks": "Znawca spluw 3; Repair",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>"
+		},
+		"Sharp": {
+			"name": "Ostrzenie",
+			"modtype": "Modyfikacje kija bilardowego",
+			"prefix": "Naostrzony",
+			"perks": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>Zyskuje cechę Uporczywe</p>\n<p>&nbsp;</p>"
+		},
+		"M2Tl0fVG6LzG9wtj": {
+			"name": "Żyletki",
+			"modtype": "Modyfikacje wałka",
+			"prefix": "Ostry",
+			"perks": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>Zyskuje cechę Uporczywe</p>\n<p>&nbsp;</p>"
+		},
+		"fTMm3IipqcnU6tm4": {
+			"name": "Ostrza",
+			"modtype": "Modyfikacje kastetu",
+			"prefix": "Z ostrzami",
+			"perks": "",
+			"effect": "<p>Zyskuje cechę Uporczywe</p>\n<p>&nbsp;</p>"
+		},
+		"hfiueRXOH8ryrfrv": {
+			"name": "Ostrzenie",
+			"modtype": "Modyfikacje kija baseballowego",
+			"prefix": "Naostrzony",
+			"perks": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>Zyskuje cechę Uporczywe</p>\n<p>&nbsp;</p>"
+		},
+		"Stun Pack": {
+			"name": "Pakiet ogłuszający",
+			"modtype": "Modyfikacje miecza",
+			"prefix": "Ogłuszający",
+			"perks": "Kowal 3, Nauka! 1",
+			"effect": "<p>Obrażenia +2 @fos[DC]</p>\n<p>Zyskuje cechę Ogłuszające</p>Obrażenia \n<p>zmiana obrażeń na energetyczne</p>\n<p>&nbsp;</p>"
+		},
+		"G6FJ1gEgiS2553IN": {
+			"name": "Pakiet ogłuszający",
+			"modtype": "Modyfikacje pałki",
+			"prefix": "Ogłuszająca",
+			"perks": "Kowal 2, Nauka! 1",
+			"effect": "<p>Obrażenia +3 @fos[DC]</p>\n<p>Zyskuje cechę Ogłuszające</p>Obrażenia \n<p>zmiana obrażeń na energetyczne</p>\n<p>&nbsp;</p>"
+		},
+		"S8t6WX5aWZl3rXqT": {
+			"name": "Pakiet ogłuszający",
+			"modtype": "Modyfikacje supermłota",
+			"prefix": "Ogłuszający",
+			"perks": "Kowal 3, Nauka! 1",
+			"effect": "<p>Obrażenia +2 @fos[DC]</p>\n<p>Zyskuje cechę Ogłuszające</p>Obrażenia \n<p>zmiana obrażeń na energetyczne</p>\n<p>&nbsp;</p>"
+		},
+		"Full Stock": {
+			"name": "Pełna",
+			"modtype": "Modyfikacje kolby",
+			"prefix": "",
+			"perks": "",
+			"effect": "<p>Zyskuje cechę Dwuręczna</p>\n<p>Usuwa cechę Niecelna</p>\n<p>&nbsp;</p>"
+		},
+		"Full Capacitors": {
+			"name": "Pełne kondensatory",
+			"modtype": "Modyfikacje kondenstora",
+			"prefix": "O dużej pojemności",
+			"perks": "Znawca spluw 3; Nauka! 2",
+			"effect": "<p>Zyskuje cechę Brutalne</p>\n<p>&nbsp;</p>"
+		},
+		"Ported": {
+			"name": "Perforowana",
+			"modtype": "Modyfikacje Lufy",
+			"prefix": "Perforowana",
+			"perks": "Znawca spluw 4",
+			"effect": "<p>Zwiększa zasięg o 1 strefę</p>\n<p>szybkostrzelność +1</p>\n<p>&nbsp;</p>"
+		},
+		"Bladed": {
+			"name": "Piła tarczowa",
+			"modtype": "Modyfikacje kija baseballowego",
+			"prefix": "Z piłą tarczową",
+			"perks": "Kowal 2",
+			"effect": "<p>Obrażenia +2 @fos[DC]</p>\n<p>Zyskuje cechę Uporczywe</p>\n<p>&nbsp;</p>"
+		},
+		"brS0allrFP0vQ5Ac": {
+			"name": "Gwoździe",
+			"modtype": "Modyfikacje kastetu",
+			"prefix": "Nabijany gwoźdźmi",
+			"perks": "Kowal 1",
+			"effect": "<p>Obrażenia +2 @fos[DC]</p>\n<p>Zyskuje cechę Uporczywe</p>\n<p>&nbsp;</p>"
+		},
+		"uOWSNksbDqlUOhJN": {
+			"name": "Piła tarczowa",
+			"modtype": "Deska",
+			"prefix": "Z piłą tarczową",
+			"perks": "Kowal 1",
+			"effect": "<p>Obrażenia +2 @fos[DC]</p>\n<p>Zyskuje cechę Uporczywe</p>\n<p>&nbsp;</p>"
+		},
+		"xBtUynQ88d6dGQgL": {
+			"name": "Ostrze",
+			"modtype": "Modyfikacje klucza do opon",
+			"prefix": "Z ostrzem",
+			"perks": "Kowal 2",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>Zyskuje cechę Uporczywe</p>\n<p>&nbsp;</p>"
+		},
+		"Quad Barrel": {
+			"name": "Poczwórna lufa",
+			"modtype": "modyfikacje wyrzutni rakiet",
+			"prefix": "Poczwórna",
+			"perks": "Znawca spluw 3",
+			"effect": "<p>szybkostrzelność +2</p>\n<p>&nbsp;</p>"
+		},
+		"Bull Barrel": {
+			"name": "Pogrubiona",
+			"modtype": "Modyfikacje Lufy",
+			"prefix": "Pogrubiona",
+			"perks": "Znawca spluw 3",
+			"effect": "<p>Zyskuje cechę Niezawodna</p>"
+		},
+		"Powerful": {
+			"name": "Potężna",
+			"modtype": "Modyfikacje komory zamkowej",
+			"prefix": "Potężna",
+			"perks": "Znawca spluw 1",
+			"effect": "<p>Obrażenia +2 @fos[DC]</p>"
+		},
+		"Triple Barrel": {
+			"name": "Potrójna lufa",
+			"modtype": "modyfikacje wyrzutni rakiet",
+			"prefix": "Potrójna",
+			"perks": "Znawca spluw 2",
+			"effect": "<p>szybkostrzelność +1</p>\n<p>&nbsp;</p>"
+		},
+		"Signal Repeater": {
+			"name": "Powtarzacz sygnału",
+			"modtype": "Modyfikacje gammostrzału",
+			"prefix": "Automatyczna",
+			"perks": "Nauka! 4",
+			"effect": "<p>szybkostrzelność +2</p>\n<p>Zyskuje cechę Seria</p>\n<p>Usuwa cechę Wybuchowy</p>\n<p>&nbsp;</p>"
+		},
+		"Extended Blade": {
+			"name": "Przedłużone ostrze",
+			"modtype": "Modyfikacje rozpruwacza",
+			"prefix": "Przedłużony",
+			"perks": "Kowal 3",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>Zyskuje cechę Uporczywe</p>\n<p>&nbsp;</p>"
+		},
+		"Accelerated Barrel": {
+			"name": "Przyspieszona",
+			"modtype": "Modyfikacje lufy działka obrotowego",
+			"prefix": "Wysokiej prędkości",
+			"perks": "Znawca spluw 3",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>szybkostrzelność +1</p>\n<p>Zmiejsza zasięg o –1 strefę</p>\n<p>&nbsp;</p>"
+		},
+		"5TezV1CMuZiRXrKU": {
+			"name": "Rezonator fotonowy",
+			"modtype": "Modyfikacje kondensatora lasera Gatlinga",
+			"prefix": "Wzbudzony",
+			"perks": "Nauka! 3",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>Zyskuje cechę Brutalne</p>\n<p>&nbsp;</p>"
+		},
+		"Capactor Boosting Coil": {
+			"name": "Rezonator fotonowy",
+			"modtype": "Modyfikacje kondenstora",
+			"prefix": "O maksymalnej pojemności",
+			"perks": "Znawca spluw 4; Nauka! 3",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>Zyskuje cechę Brutalne</p>\n<p>&nbsp;</p>"
+		},
+		"Photon Agitator": {
+			"name": "Rezonator fotonowy",
+			"modtype": "Modyfikacje kondenstora",
+			"prefix": "Wzbudzona",
+			"perks": "Nauka! 2",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>Zyskuje cechę Brutalne</p>\n<p>&nbsp;</p>"
+		},
+		"Splitter": {
+			"name": "Rozdzielacz",
+			"modtype": "Modyfikacje Lufy",
+			"prefix": "Rozpylacz",
+			"perks": "",
+			"effect": "<p>Obrażenia -1 @fos[DC]</p>\n<p>Zyskuje cechę Rozrzut</p>\n<p>Zyskuje cechę Niecelna</p>\n<p>&nbsp;</p>"
+		},
+		"Electric Signal Carrier Antennae": {
+			"name": "Rozdzielacz sygnału",
+			"modtype": "Modyfikacje wylotu gammostrzału",
+			"prefix": "Elektryfikowany",
+			"perks": "Nauka! 4",
+			"effect": "<p>Zadaje 7 @fos[DC]</p>Obrażenia \n<p>zmiana obrażeń na energetyczne</p>\n<p>Zyskuje cechę Radioaktywny</p>\n<p>&nbsp;</p>"
+		},
+		"Beam Splitter": {
+			"name": "Rozdzielacz wiązki",
+			"modtype": "Modyfikacje wylotu",
+			"prefix": "Rozpraszająca",
+			"perks": "Nauka! 1",
+			"effect": "<p>Obrażenia -1 @fos[DC]</p>\n<p>szybkostrzelność -1</p>\n<p>Zyskuje cechę Niecelna, oraz Rozrzut</p>\n<p>Zmniejsza zasięg o 1 strefę</p>\n<p>&nbsp;</p>"
+		},
+		"Calibrated": {
+			"name": "Skalibrowana",
+			"modtype": "Modyfikacje komory zamkowej",
+			"prefix": "Skalibrowana",
+			"perks": "",
+			"effect": "<p>Zyskuje cechę Brutalne</p>"
+		},
+		"Snubnose": {
+			"name": "Skrócona",
+			"modtype": "Modyfikacje Lufy",
+			"prefix": "Skrócona",
+			"perks": "",
+			"effect": "<p>Zyskuje cechę Niecelna</p>"
+		},
+		"Sniper Barrel": {
+			"name": "Snajperska",
+			"modtype": "Modyfikacje Lufy",
+			"prefix": "Snajperska",
+			"perks": "Nauka! 1",
+			"effect": "<p>Obrażenia +2 @fos[DC]</p>\n<p>Usuwa cechę Zwarcie</p>\n<p>Zwiększa zasięg o 1 strefę</p>\n<p>szybkostrzelność -1</p>\n<p>&nbsp;</p>"
+		},
+		"Gyro Compensating Lens": {
+			"name": "Soczewki kompensacyjne",
+			"modtype": "Modyfikacje wylotu",
+			"prefix": "Namierzająca",
+			"perks": "Nauka! 1",
+			"effect": "<p>szybkostrzelność +1</p>\n<p>Usuwa cechę Niecelna</p>\n<p>&nbsp;</p>"
+		},
+		"Standard Stock": {
+			"name": "Standardowa",
+			"modtype": "Modyfikacje kolby",
+			"prefix": "",
+			"perks": "",
+			"effect": "<p>Zyskuje cechę Dwuręczna</p>\n<p>Usuwa cechę Niecelna</p>\n<p>Usuwa cechę Zwarcie</p>\n<p>&nbsp;</p>"
+		},
+		"Sharpshooter's Grip": {
+			"name": "Strzelca wyborowego",
+			"modtype":"Modyfikacje uchwytu",
+			"prefix": "Wyborowa",
+			"perks": "Znawca spluw 1",
+			"effect": "<p>Usuwa cechę Niecelna</p>\n<p>Add Przeszywające 1</p>\n<p>&nbsp;</p>"
+		},
+		"Marksman's Stock": {
+			"name": "Strzelecka",
+			"modtype": "Modyfikacje kolby",
+			"prefix": "Strzelecka",
+			"perks": "Znawca spluw 2",
+			"effect": "<p>Zyskuje cechę Dwuręczna</p>\n<p>Usuwa cechę Niecelna</p>\n<p>Zyskuje cechę Celna</p>\n<p>Usuwa cechę Zwarcie</p>\n<p>&nbsp;</p>"
+		},
+		"Hair Trigger": {
+			"name": "Szybkostrzelna",
+			"modtype": "Modyfikacje komory zamkowej",
+			"prefix": "Szybkostrzelna",
+			"perks": "Znawca spluw 2",
+			"effect": "<p>szybkostrzelność +1</p>"
+		},
+		"Suppressor": {
+			"name": "Tłumik",
+			"modtype": "Modyfikacje wylotu",
+			"prefix": "Wyciszona",
+			"perks": "Znawca spluw 2",
+			"effect": "<p>Zyskuje cechę Wytłumiona</p>\n<p>&nbsp;</p>"
+		},
+		"Tri-Barrel": {
+			"name": "Trójlufa",
+			"modtype": "Modyfikacje lufy działka obrotowego",
+			"prefix": "Wysokiej mocy",
+			"perks": "Znawca spluw 4",
+			"effect": "<p>Obrażenia +2 @fos[DC]</p>\n<p>szybkostrzelność -2</p>\n<p>&nbsp;</p>"
+		},
+		"Stealth Blade": {
+			"name": "Ukryte ostrze",
+			"modtype": "Modyfikacje noża bojowego",
+			"prefix": "Niewykrywalny",
+			"perks": "Kowal 2",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>Zyskuje cechę Uporczywe</p>\n<p>Obrażenia +2 @fos[DC] przy ataku z zaskoczenia</p>\n<p>&nbsp;</p>"
+		},
+		"Improved Barrel": {
+			"name": "Ulepszona",
+			"modtype": "Modyfikacje Lufy",
+			"prefix": "Ulepszona",
+			"perks": "Nauka! 1",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>&nbsp;</p>"
+		},
+		"Hardened": {
+			"name": "Utwardzona",
+			"modtype": "Modyfikacje komory zamkowej",
+			"prefix": "Utwardzona",
+			"perks": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>"
+		},
+		"Comfort Grip": {
+			"name": "Wygodny",
+			"modtype": "Modyfikacje uchwytu",
+			"prefix": "Wygodna",
+			"perks": "",
+			"effect": "<p>Usuwa cechę Niecelna</p>\n<p>&nbsp;</p>"
+		},
+		"Electrification Module": {
+			"name": "Wylot moduł elektryzujący",
+			"modtype": "Modyfikacje śmieciomotue",
+			"prefix": "Naelektryzowany",
+			"perks": "Znawca spluw 2; Nauka! 1",
+			"effect": "<p>Zyskuje cechę Brutalne</p>Obrażenia \n<p>zmiana obrażeń na energetyczne</p>\n<p>&nbsp;</p>"
+		},
+		"Ignition Module": {
+			"name": "Wylot moduł zapalający",
+			"modtype": "Modyfikacje wylotu śmieciomotue",
+			"prefix": "Zapalający",
+			"perks": "Znawca spluw 3; Nauka! 1",
+			"effect": "<p>Zyskuje cechę Uporczywe (energetyczne)</p>\n<p>&nbsp;</p>"
+		},
+		"Shredder": {
+			"name": "Wylot siekacz",
+			"modtype": "Modyfikacje wylotu działka obrotowego",
+			"prefix": "Z bagnetem siekaczem",
+			"perks": "Znawca spluw 2",
+			"effect": "<p>Broń biała,</p>\n<p>zadaje @fos[DC] obrażenia Fizyczne równe szybkostrzelność broni</p>\n<p>&nbsp;</p>"
+		},
+		"Stabilizer": {
+			"name": "Wylot stabilizator",
+			"modtype": "Modyfikacje wylotu wyrzutni rakiet",
+			"prefix": "Precyzyjna",
+			"perks": "Znawca spluw 2",
+			"effect": "<p>Zyskuje cechę Przeszywające 1</p>\n<p>&nbsp;</p>"
+		},
+		"Boosted Capacitor": {
+			"name": "Wzmocniony kondensator",
+			"modtype": "Modyfikacje kondensatora lasera Gatlinga",
+			"prefix": "Wzmocniony",
+			"perks": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>&nbsp;</p>"
+		},
+		"Photon Exciter": {
+			"name": "Wzniecacz fotonowy",
+			"modtype": "Modyfikacje kondenstora",
+			"prefix": "Wzniecona",
+			"perks": "Nauka! 1",
+			"effect": "<p>Zyskuje cechę Brutalne</p>\n<p>&nbsp;</p>"
+		},
+		"mcjlBsMoWIiiNoVw": {
+			"name": "Wzniecacz fotonowy",
+			"modtype": "Modyfikacje kondensatora lasera Gatlinga",
+			"prefix": "Wzniecony",
+			"perks": "Nauka! 3",
+			"effect": "<p>Zyskuje cechę Brutalne</p>\n<p>&nbsp;</p>"
+		},
+		"Bracketed Short Barrel": {
+			"name": "Z obręczami",
+			"modtype": "Modyfikacje Lufy",
+			"prefix": "",
+			"perks": "",
+			"effect": "<p>umożliwia dodanie modyfikacji wylotu</p>\n<p>&nbsp;</p>"
+		},
+		"Advanced": {
+			"name": "Zaawansowana",
+			"modtype": "Modyfikacje komory zamkowej",
+			"prefix": "Zaawansowana",
+			"perks": "Znawca spluw 2",
+			"effect": "<p>Obrażenia +3 @fos[DC]</p>\n<p>szybkostrzelność +1</p>"
+		},
+		"Curved Blade": {
+			"name": "Zakrzywione ostrze",
+			"modtype": "Modyfikacje rozpruwacza",
+			"prefix": "Zakrzywiony",
+			"perks": "",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>\n<p>po udanym teście ataku możesz wydać 2 PA, żeby rozbroić przeciwnika, wytrącając mu z dłoni broń</p>\n<p>&nbsp;</p>"
+		},
+		"Serrated Blade": {
+			"name": "Ząbkowane ostrze",
+			"modtype": "Modyfikacje noża bojowego",
+			"prefix": "Ząbkowany",
+			"perks": "Kowal 1",
+			"effect": "<p>Zyskuje cechę Uporczywe</p>\n<p>&nbsp;</p>"
+		},
+		"GFJP4TRDRaOQoOe8": {
+			"name": "Ząbkowane ostrze",
+			"modtype": "Modyfikacje maczety",
+			"prefix": "Ząbkowany",
+			"perks": "Kowal 2",
+			"effect": "<p>Zyskuje cechę Uporczywe</p>\n<p>&nbsp;</p>"
+		},
+		"uUiwz6PvOMdkU6yE": {
+			"name": "Ząbkowane ostrze",
+			"modtype": "Modyfikacje sprężynowca",
+			"prefix": "Ząbkowany",
+			"perks": "Kowal 1",
+			"effect": "<p>Zyskuje cechę Uporczywe</p>\n<p>&nbsp;</p>"
+		},
+		"vq6OcwFKhScFr26X": {
+			"name": "Ząbkowane ostrze",
+			"modtype": "Modyfikacje miecza",
+			"prefix": "Ząbkowany",
+			"perks": "Kowal 2",
+			"effect": "<p>Zyskuje cechę Uporczywe</p>\n<p>&nbsp;</p>"
+		},
+		"Heating Coil": {
+			"name": "Zwój termiczny",
+			"modtype": "Modyfikacje rękawicy wspomaganej",
+			"prefix": "Podgrzewana",
+			"perks": "Kowal 3",
+			"effect": "<p>Obrażenia +2 @fos[DC]</p>Obrażenia \n<p>zmiana obrażeń na energetyczne</p>\n<p>&nbsp;</p>"
+		},
+		"hVD46UqAqiNB4f57": {
+			"name": "Zwój termiczny",
+			"modtype": "Modyfikacje supermłota",
+			"prefix": "Podgrzewany",
+			"perks": "Kowal 2",
+			"effect": "<p>Obrażenia +1 @fos[DC]</p>Obrażenia \n<p>zmiana obrażeń na energetyczne</p>\n<p>&nbsp;</p>"
 		}
 	},
 
 	"mapping": {
-		"effect":"system.effect"
+		"effect":"system.effect",
+		"modtype":"system.modType",
+		"prefix":"system.namePrefix",
+		"perks":"system.perks"
 	}
 }
