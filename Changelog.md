@@ -1,3 +1,11 @@
+## v 0.2
+- przetłumaczono rozmaitości
+- skończono tłumaczniee odzierzy i strojów
+- przetłumaczono czasopisma i książki
+- przetłomaczono dziennik z informacjami o aktywny efektach
+- przetłumaczono nazwy makr
+- dostosowano moduł do Babele 2.5.5
+
 ## v 0.1.6
 - przetłumaczono modyfikacje bronii
 - przetłumaczono modyfikacje robotów

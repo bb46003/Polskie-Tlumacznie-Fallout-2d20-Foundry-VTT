@@ -1,500 +1,502 @@
 {
-	"label": "Książki i Czasopisma",
-	"folders": {
+    "label": "Książki i Czasopisma",
+    "folders": {
         "~ Single Issue Titles ~": "Magazyny jednorazowe",
         "Astoundingly Awesome Tales": "Niesamowicie Niesłychanychane Opowieści",
-		"Backwoodsman":"Mieszkaniec Dziczy",
-		"Grognak the Barbarian":"Grognak Barbarzyńca",
-		"Guns and Bullets":"Spluwy i Kulki",
-		"Live & Love":"Żyj i Kochaj",
-		"Tesla Science Magazine":"Nauka z Teslą",
-		"Tumbleres Today":"Magazyn Ślusarski",
-		"U.S. Covert Operations Manual":"Vademecum Amerykańskich Sił Specjalnych",
-		"Unstoppables":"Niezwyciężeni",
-		"Wasteland Survival Guide":"Podręcznik Przetrwania na Pustkowiach",
-		"Tumblers Today":"Magazyn Ślusarski"
+        "Backwoodsman": "Mieszkaniec Dziczy",
+        "Grognak the Barbarian": "Grognak Barbarzyńca",
+        "Guns and Bullets": "Spluwy i Kulki",
+        "Live & Love": "Żyj i Kochaj",
+        "Tesla Science Magazine": "Nauka z Teslą",
+        "Tumbleres Today": "Magazyn Ślusarski",
+        "U.S. Covert Operations Manual": "Vademecum Amerykańskich Sił Specjalnych",
+        "Unstoppables": "Niezwyciężeni",
+        "Wasteland Survival Guide": "Podręcznik Przetrwania na Pustkowiach",
+        "Tumblers Today": "Magazyn Ślusarski"
     },
-	"entries": {
-		"¡La Fantoma!": {
-			"name": "¡La Fantoma!",
-			"effect": "<p>When you succeed at a&nbsp;<strong>Sneak</strong> test to avoid notice, you may spend 1 AP to create a distraction somewhere within Medium range; the character who failed the opposed test to detect you heads towards the distraction you created.</p>",
-			"description": "<p>An issue of a pre-War comic book, detailing the adventures of &iexcl;La Fantoma!, a master of stealth and infiltration.</p>\n<ul>\n<li><strong>Perk:</strong> When you succeed at a <strong>Sneak</strong> test to avoid notice, you may spend 1 AP to create a distraction somewhere within Medium range; the character who failed the opposed test to detect you heads towards the distraction you created. If you learn this perk, you may use it once per scene.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.wUoc5IDZQ0ye1TDw]{&iexcl;La Fantoma!}</p>"
-		},
-		"10 Number 1 Hits!!! Rock-o-bot Takes the Nation by Storm!!": {
-			"name": "10 Number 1 Hits!!! Rock-o-bot Takes the Nation by Storm!!",
-			"effect": "<p>Once, when you inflict a Critical Hit, increase the total damage inflicted by +2</p>",
-			"description": "<p>An informational magazine covering topics such as rocket science, robotics, laser technology, and other cutting-edge fields of science and technology.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.beJfGkUq386Kw4Sj]{10 Number 1 Hits!!! Rock-o-bot Takes the Nation by Storm!!}</p>"
-		},
-		"U.S. Army Goes to Space": {
-			"name": "U.S. Army Goes to Space",
-			"effect": "<p>On a single attack with an Energy weapon, you inflict a Critical Hit if you inflict 3 or more damage after damage resistance (rather than the normal 5 or more damage)</p>",
-			"description": "<p>An informational magazine covering topics such as rocket science, robotics, laser technology, and other cutting-edge fields of science and technology.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.lkAJKVOfU1DfjLU9]{U.S. Army Goes to Space}</p>"
-		},
-		"Attack of the Metal Men!": {
-			"name": "Attack of the Metal Men!",
-			"effect": "<p>+2 to Physical and Energy damage resistances vs Robots</p>",
-			"description": "<p>A magazine containing thrilling short stories of daring adventure!</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, granting bonus damage or bonus damage resistance against a single foe or<br>type of attack. This lasts only for a single attack (made or received, respectively), unless the perk is learned, in which case it applies to all attacks. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.NNhKS3XzGuAnXNmq]{Attack of the Metal Men!}</p>"
-		},
-		"Attack of the Fishmen!": {
-			"name": "Attack of the Fishmen!",
-			"effect": "<p>+1 @fos[DC] on attacks vs mirelurk</p>",
-			"description": "<p>A magazine containing thrilling short stories of daring adventure!</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, granting bonus damage or bonus damage resistance against a single foe or<br>type of attack. This lasts only for a single attack (made or received, respectively), unless the perk is learned, in which case it applies to all attacks. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.9uBD2OLMA2YtE3ST]{Attack of the Fishmen!}</p>"
-		},
-		"Fatherless Cur!": {
-			"name": "Fatherless Cur!",
-			"effect": "<p>Ignore one complication on a melee attack</p>",
-			"description": "<p>A series of comic books published by Hubris Comics before the Great War. The comics depict the actionpacked adventures of the title character in a prehistoric world.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from <strong>once</strong>. If you ater learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.sWkveVPjKk45QqwF]{Fatherless Cur!}</p>"
-		},
-		"Future Weapons Today": {
-			"name": "Future Weapons Today",
-			"effect": "<p>Once, when you make an attack with an Energy Weapon, you may overcharge it. Increase the damage by +2CD for that attack. The weapon cannot be used to make an attack in the turn after an overcharged attack as it cools down.</p>",
-			"description": "<p>A magazine for enthusiasts of energy weaponry, featuring articles on new technologies, reviews of new weapons, and true stories about energy weapons in action.</p>\n<ul>\n<li><strong>Perk:</strong> Once, when you make an attack with an Energy Weapon, you may overcharge it. Increase the damage by +2CD for that attack. The weapon cannot be used to make an attack in the turn after an overcharged attack as it cools down. If you later learn this perk, you may overcharge an Energy Weapon once per scene.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.LJXpGjoI1HYU6Heb]{Future Weapons Today}</p>"
-		},
-		"Take Aim, Army Style": {
-			"name": "Take Aim, Army Style",
-			"effect": "<p>One aimed attack made with a weapon which lacks the Accurate quality inflicts +2CD damage</p>",
-			"description": "<p>A magazine series catering to weapons enthusiasts, with articles dedicated to hunting, weapons, gun law, and the portrayal of practical use of firearms.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.oRB1ZIvzhsUMElSc]{Take Aim, Army Style}</p>"
-		},
-		"What Sorcery is This?": {
-			"name": "What Sorcery is This?",
-			"effect": "<p>Gain +2 Energy damage resistance against one attack</p>",
-			"description": "<p>A series of comic books published by Hubris Comics before the Great War. The comics depict the actionpacked adventures of the title character in a prehistoric world.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from <strong>once</strong>. If you ater learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.1KDDs6qPimKnwL9r]{What Sorcery is This?}</p>"
-		},
-		"The Secretary Charmer": {
-			"name": "The Secretary Charmer",
-			"effect": "<p>At the start of one scene, add +1 AP to the group pool</p>",
-			"description": "<p>A pre-War magazine series dedicated to lifestyle and relationships, often covering cultural events, health advice, diet tips, relationship advice, and more.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from <strong>for a single scene</strong>. If you later learn the perk, you may use that benefit constantly. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.disfFslU7fhYTIlC]{The Secretary Charmer}</p>"
-		},
-		"Will Robots Rule the World?": {
-			"name": "Will Robots Rule the World?",
-			"effect": "<p>+2 to Physical and Energy damage resistances vs Robots</p>",
-			"description": "<p>An informational magazine covering topics such as rocket science, robotics, laser technology, and other cutting-edge fields of science and technology.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.9LAlQMlnpZ2lYqKV]{Will Robots Rule the World?}</p>"
-		},
-		"What Is Plasma, Anyway?": {
-			"name": "What Is Plasma, Anyway?",
-			"effect": "<p>+2 to Physical and Energy damage resistances vs Plasma weapons</p>",
-			"description": "<p>An informational magazine covering topics such as rocket science, robotics, laser technology, and other cutting-edge fields of science and technology.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.MsNkQ2J8T75NE3uJ]{What Is Plasma, Anyway?}</p>"
-		},
-		"Dr. Brainwash and His Army of De-Capitalists!": {
-			"name": "Dr. Brainwash and His Army of De-Capitalists!",
-			"effect": "<p>Spend 3 Luck points to avoid all damage from a single attack or hazard</p>",
-			"description": "<p>Unstoppables is a comic book published by Hubris Comics prior to the Great War. The series follows an ensemble cast of characters from the Hubris Comics roster, including the Silver Shroud, Mistress of Mystery, The Inspector, Manta Man and Grognak the Barbarian. Together, they form the titular Unstoppables. The cover art for the magazine depicts imagery highlighting the heroes, villains, and the adventure of each issue.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, allowing you to spend Luck points to avoid a single instance of damage, which you may benefit from once. If you later learn the perk, you may use that benefit as often as you have Luck points to spend on it. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.35g6izwF0LhTPGMO]{Dr. Brainwash and His Army of De-Capitalists!}</p>"
-		},
-		"Open Any Lock in 5 Seconds Flat": {
-			"name": "Open Any Lock in 5 Seconds Flat",
-			"effect": "<p>When you successfully pick a lock, you may use the Reduce Time AP option without spending AP</p>",
-			"description": "<p>Tumblers Today is a pre-War magazine containing information about the clandestine art of lockpicking and the latest in mechanical locks found in safes, footlockers, and doors. The cover art for the magazine depicts imagery from each issue, highlighting the topic and technique of the issue.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.mrgLpKa5RkDmIWHq]{Open Any Lock in 5 Seconds Flat}</p>"
-		},
-		"Jungle of the Bat-Babies": {
-			"name": "Jungle of the Bat-Babies",
-			"effect": "<p>When you suffer Poison damage, gain +3 Poison damage resistance</p>",
-			"description": "<p>A series of comic books published by Hubris Comics before the Great War. The comics depict the actionpacked adventures of the title character in a prehistoric world.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from <strong>once</strong>. If you ater learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.FgiFIu2LmrckPy5Y]{Jungle of the Bat-Babies}</p>"
-		},
-		"FH 5-01 Whistling in the Dark": {
-			"name": "FH 5-01 Whistling in the Dark",
-			"effect": "<p>If you are detected while sneaking, you add +2 to Physical damage resistance against the first attack you receive after being detected</p>",
-			"description": "<p>The U.S. Covert Operations Manual is a training handbook produced by the Department of the Army to train its personnel in the art of subterfuge. The manuals were not intended for public circulation and were marked &ldquo;Authorized Eyes Only.&rdquo; This hasn&rsquo;t stopped them being found, read, and scattered across the wastelands.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.cPjofC2nJegzoPXS]{FH 5-01 Whistling in the Dark}</p>"
-		},
-		"FH 5-02 Urban Camouflage": {
-			"name": "FH 5-02 Urban Camouflage",
-			"effect": "<p>Enemies suffer +1 difficulty on tests to detect you; this does not stack with any difficulty increases for poor light or darkness</p>",
-			"description": "<p>The U.S. Covert Operations Manual is a training handbook produced by the Department of the Army to train its personnel in the art of subterfuge. The manuals were not intended for public circulation and were marked &ldquo;Authorized Eyes Only.&rdquo; This hasn&rsquo;t stopped them being found, read, and scattered across the wastelands.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.AVB1RZC2w05dkUbZ]{FH 5-02 Urban Camouflage}</p>"
-		},
-		"FH 5-03 Facepaint Fundamentals": {
-			"name": "FH 5-03 Facepaint Fundamentals",
-			"effect": "<p>+1 to all damage resistances against attacks from Character NPCs</p>",
-			"description": "<p>The U.S. Covert Operations Manual is a training handbook produced by the Department of the Army to train its personnel in the art of subterfuge. The manuals were not intended for public circulation and were marked &ldquo;Authorized Eyes Only.&rdquo; This hasn&rsquo;t stopped them being found, read, and scattered across the wastelands.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.vYiPt2jg7x1f0NTl]{FH 5-03 Facepaint Fundamentals}</p>"
-		},
-		"FH 5-04 Not the Soldiers You’re Looking For": {
-			"name": "FH 5-04 Not the Soldiers You’re Looking For",
-			"effect": "<p>+1CD damage inflicted by attacks against Character NPCs</p>",
-			"description": "<p>The U.S. Covert Operations Manual is a training handbook produced by the Department of the Army to train its personnel in the art of subterfuge. The manuals were not intended for public circulation and were marked &ldquo;Authorized Eyes Only.&rdquo; This hasn&rsquo;t stopped them being found, read, and scattered across the wastelands.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.g6qVETrGj3ide6hr]{FH 5-04 Not the Soldiers You&rsquo;re Looking For}</p>"
-		},
-		"FH 5-05 Who Goes There?": {
-			"name": "FH 5-05 Who Goes There?",
-			"effect": "<p>When you spend a Luck point to re-roll a d20 on a PER test, instead count that die as if it had rolled a 1</p>",
-			"description": "<p>The U.S. Covert Operations Manual is a training handbook produced by the Department of the Army to train its personnel in the art of subterfuge. The manuals were not intended for public circulation and were marked &ldquo;Authorized Eyes Only.&rdquo; This hasn&rsquo;t stopped them being found, read, and scattered across the wastelands.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.lZ0REnexDQeH2cmK]{FH 5-05 Who Goes There?}</p>"
-		},
-		"FH 5-06 Squeaky Floorboard, Sudden Death": {
-			"name": "FH 5-06 Squeaky Floorboard, Sudden Death",
-			"effect": "<p>Once, when you suffer one or more Complications on a Sneak test, ignore the complications</p>",
-			"description": "<p>The U.S. Covert Operations Manual is a training handbook produced by the Department of the Army to train its personnel in the art of subterfuge. The manuals were not intended for public circulation and were marked &ldquo;Authorized Eyes Only.&rdquo; This hasn&rsquo;t stopped them being found, read, and scattered across the wastelands.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.DHdPahzQ9HMZ0FXb]{FH 5-06 Squeaky Floorboard, Sudden Death}</p>"
-		},
-		"FH 5-07 Getting the Drop on the Communists": {
-			"name": "FH 5-07 Getting the Drop on the Communists",
-			"effect": "<p>Once, when an enemy aims before making an attack against you, you may cause them to lose the benefits of aiming</p>",
-			"description": "<p>The U.S. Covert Operations Manual is a training handbook produced by the Department of the Army to train its personnel in the art of subterfuge. The manuals were not intended for public circulation and were marked &ldquo;Authorized Eyes Only.&rdquo; This hasn&rsquo;t stopped them being found, read, and scattered across the wastelands.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.5rxzpSKhciVgbmzP]{FH 5-07 Getting the Drop on the Communists}</p>"
-		},
-		"FH 5-08 Bushes, Boxes, and Beehives: Camouflage Special": {
-			"name": "FH 5-08 Bushes, Boxes, and Beehives: Camouflage Special",
-			"effect": "<p>+2CD damage inflicted by an unarmed attack or an attack made with a knife</p>",
-			"description": "<p>The U.S. Covert Operations Manual is a training handbook produced by the Department of the Army to train its personnel in the art of subterfuge. The manuals were not intended for public circulation and were marked &ldquo;Authorized Eyes Only.&rdquo; This hasn&rsquo;t stopped them being found, read, and scattered across the wastelands.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.l9jhloiw4Sylv6Y3]{FH 5-08 Bushes, Boxes, and Beehives: Camouflage Special}</p>"
-		},
-		"FH 5-09 Look Better in Black": {
-			"name": "FH 5-09 Look Better in Black",
-			"effect": "<p>Once, when using a Stealth Boy, it lasts for one additional turn</p>",
-			"description": "<p>The U.S. Covert Operations Manual is a training handbook produced by the Department of the Army to train its personnel in the art of subterfuge. The manuals were not intended for public circulation and were marked &ldquo;Authorized Eyes Only.&rdquo; This hasn&rsquo;t stopped them being found, read, and scattered across the wastelands.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.nWVbU3dqMxeoxPoT]{FH 5-09 Look Better in Black}</p>"
-		},
-		"FH 5-10 Tiptoe Through the Tulips": {
-			"name": "FH 5-10 Tiptoe Through the Tulips",
-			"effect": "<p>When you spend a Luck point to re-roll a d20 on an AGI test, instead count that die as if it had rolled a 1</p>",
-			"description": "<p>The U.S. Covert Operations Manual is a training handbook produced by the Department of the Army to train its personnel in the art of subterfuge. The manuals were not intended for public circulation and were marked &ldquo;Authorized Eyes Only.&rdquo; This hasn&rsquo;t stopped them being found, read, and scattered across the wastelands.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.xBewaCbKbQO5BQKp]{FH 5-10 Tiptoe Through the Tulips}</p>"
-		},
-		"Geckos and Gamma Radiation": {
-			"name": "Geckos and Gamma Radiation",
-			"effect": "<p>+2CD damage inflicted on one attack against a Mutated creature</p>",
-			"description": "<p>An informational magazine covering topics such as rocket science, robotics, laser technology, and other cutting-edge fields of science and technology.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.kYMZ1knDNl0hLeI8]{Geckos and Gamma Radiation}</p>"
-		},
-		"Homesteading Horror": {
-			"name": "Homesteading Horror",
-			"effect": "<p>Reduce the difficulty of crafting a weapon by 1 (min. of 0)</p>",
-			"description": "<p>Thrilling, true stories for rugged men! Backwoodsman is a magazine series containing articles and stories about outdoor survival, for people who like to talk about surviving in the wild.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.6XStNgfUJG92au27]{Homesteading Horror}</p>"
-		},
-		"Rocket Science for Toddlers": {
-			"name": "Rocket Science for Toddlers",
-			"effect": "<p>+2CD damage inflicted by one attack with a Blast weapon</p>",
-			"description": "<p>An informational magazine covering topics such as rocket science, robotics, laser technology, and other cutting-edge fields of science and technology.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.3gc78PRC1se8qefU]{Rocket Science for Toddlers}</p>"
-		},
-		"Avoid Those Pesky Gun Laws!": {
-			"name": "Avoid Those Pesky Gun Laws!",
-			"effect": "<p>When you salvage a weapon, gain 2 AP which may only be spent to salvage additional units of materials</p>",
-			"description": "<p>A magazine series catering to weapons enthusiasts, with articles dedicated to hunting, weapons, gun law, and the portrayal of practical use of firearms.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.Zl8Mt7ll7IqbgFq2]{Avoid Those Pesky Gun Laws!}</p>"
-		},
-		"Curse of the Burned!": {
-			"name": "Curse of the Burned!",
-			"effect": "<p>+1 @fos[DC] on attacks vs Ghouls</p>",
-			"description": "<p>A magazine containing thrilling short stories of daring adventure!</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, granting bonus damage or bonus damage resistance against a single foe or<br>type of attack. This lasts only for a single attack (made or received, respectively), unless the perk is learned, in which case it applies to all attacks. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.Cx5ysG2Z0XPE6DZn]{Curse of the Burned!}</p>"
-		},
-		"Commie-Kazi vs. Manta Man": {
-			"name": "Commie-Kazi vs. Manta Man",
-			"effect": "<p>Spend 1 Luck point to avoid all damage from a Blast weapon</p>",
-			"description": "<p>Unstoppables is a comic book published by Hubris Comics prior to the Great War. The series follows an ensemble cast of characters from the Hubris Comics roster, including the Silver Shroud, Mistress of Mystery, The Inspector, Manta Man and Grognak the Barbarian. Together, they form the titular Unstoppables. The cover art for the magazine depicts imagery highlighting the heroes, villains, and the adventure of each issue.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, allowing you to spend Luck points to avoid a single instance of damage, which you may benefit from once. If you later learn the perk, you may use that benefit as often as you have Luck points to spend on it. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.qItV5QGk0sN0md6p]{Commie-Kazi vs. Manta Man}</p>"
-		},
-		"Nightmare in the Garden": {
-			"name": "Nightmare in the Garden",
-			"effect": "<p>Heal +2HP when you consume an Alcoholic drink</p>",
-			"description": "<p>Thrilling, true stories for rugged men! Backwoodsman is a magazine series containing articles and stories about outdoor survival, for people who like to talk about surviving in the wild.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.C2pRfk15zpFV3sgG]{Nightmare in the Garden}</p>"
-		},
-		"Blood on the Harp": {
-			"name": "Blood on the Harp",
-			"effect": "<p>One successful melee attack you make inflicts +2CD damage</p>",
-			"description": "<p>A series of comic books published by Hubris Comics before the Great War. The comics depict the actionpacked adventures of the title character in a prehistoric world.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from <strong>once</strong>. If you ater learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.56snTc6VYoTJqCMi]{Blood on the Harp}</p>"
-		},
-		"The Moon: A Communist Doomsday Device?!": {
-			"name": "The Moon: A Communist Doomsday Device?!",
-			"effect": "<p>Gain +2 to Physical or Energy damage resistance against one attack at night</p>",
-			"description": "<p>A magazine series catering to weapons enthusiasts, with articles dedicated to hunting, weapons, gun law, and the portrayal of practical use of firearms.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.zZg9mSTuufYGzSib]{The Moon: A Communist Doomsday Device?!}</p>"
-		},
-		"Who Can Stop the Unstoppable Grog-Na-Rok?!": {
-			"name": "Who Can Stop the Unstoppable Grog-Na-Rok?!",
-			"effect": "<p>Spend 2 Luck points to avoid all damage from an attack from a Mutated Human (including Ghouls and super mutants)</p>",
-			"description": "<p>Unstoppables is a comic book published by Hubris Comics prior to the Great War. The series follows an ensemble cast of characters from the Hubris Comics roster, including the Silver Shroud, Mistress of Mystery, The Inspector, Manta Man and Grognak the Barbarian. Together, they form the titular Unstoppables. The cover art for the magazine depicts imagery highlighting the heroes, villains, and the adventure of each issue.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, allowing you to spend Luck points to avoid a single instance of damage, which you may benefit from once. If you later learn the perk, you may use that benefit as often as you have Luck points to spend on it. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.7heg2KN3JXIllHT2]{Who Can Stop the Unstoppable Grog-Na-Rok?!}</p>"
-		},
-		"Lasers & Hunting: Acceptable Overkill": {
-			"name": "Lasers & Hunting: Acceptable Overkill",
-			"effect": "<p>One attack with a Laser weapon gains the Vicious damage effect if it didn&rsquo;t already have it</p>",
-			"description": "<p>A magazine series catering to weapons enthusiasts, with articles dedicated to hunting, weapons, gun law, and the portrayal of practical use of firearms.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.nRkIZJRQqkTsqQV7]{Lasers &amp; Hunting: Acceptable Overkill}</p>"
-		},
-		"Little Guns for Little Ladies": {
-			"name": "Little Guns for Little Ladies",
-			"effect": "<p>One attack with a Small Guns weapon gains the Vicious damage effect if it didn&rsquo;t have it already</p>",
-			"description": "<p>A magazine series catering to weapons enthusiasts, with articles dedicated to hunting, weapons, gun law, and the portrayal of practical use of firearms.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.YUHxXpiMFWmEtbXB]{Little Guns for Little Ladies}</p>"
-		},
-		"Enter Maula: War Maiden of Mars": {
-			"name": "Enter Maula: War Maiden of Mars",
-			"effect": "<p>When you make a melee attack with a Two-Handed melee weapon, gain the Piercing 1 damage effect (or +1 to any existing Piercing effect)</p>",
-			"description": "<p>A series of comic books published by Hubris Comics before the Great War. The comics depict the actionpacked adventures of the title character in a prehistoric world.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from <strong>once</strong>. If you ater learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.OIVq6l91X8x6r6zi]{Enter Maula: War Maiden of Mars}</p>"
-		},
-		"Carnivorous Rabbits of Appalachia": {
-			"name": "Carnivorous Rabbits of Appalachia",
-			"effect": "<p>Add +2CD damage to an attack against a Mammal or Lizard</p>",
-			"description": "<p>Thrilling, true stories for rugged men! Backwoodsman is a magazine series containing articles and stories about outdoor survival, for people who like to talk about surviving in the wild.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.wwIthL6FW1dIq1MU]{Carnivorous Rabbits of Appalachia}</p>"
-		},
-		"In the Bosom of the Corsair Queen": {
-			"name": "In the Bosom of the Corsair Queen",
-			"effect": "<p>One successful melee attack you make automatically inflicts a Critical Hit</p>",
-			"description": "<p>A series of comic books published by Hubris Comics before the Great War. The comics depict the actionpacked adventures of the title character in a prehistoric world.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from <strong>once</strong>. If you ater learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.bzXcVbZZtHhGCcOs]{In the Bosom of the Corsair Queen}</p>"
-		},
-		"Cometh the Trickster": {
-			"name": "Cometh the Trickster",
-			"effect": "<p>Add +1 to the difficulty of another character&rsquo;s skill test to detect you</p>",
-			"description": "<p>A series of comic books published by Hubris Comics before the Great War. The comics depict the actionpacked adventures of the title character in a prehistoric world.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from <strong>once</strong>. If you ater learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.MKt5lgPvnlrnMV9S]{Cometh the Trickster}</p>"
-		},
-		"Giant Insects Invade!": {
-			"name": "Giant Insects Invade!",
-			"effect": "<p>+2 to Radiation damage resistance</p>",
-			"description": "<p>A magazine containing thrilling short stories of daring adventure!</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, granting bonus damage or bonus damage resistance against a single foe or<br>type of attack. This lasts only for a single attack (made or received, respectively), unless the perk is learned, in which case it applies to all attacks. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.fMq7BDUKGUIZDOEY]{Giant Insects Invade!}</p>"
-		},
-		"Life Long Best Friends!": {
-			"name": "Life Long Best Friends!",
-			"effect": "<p>+1 Maximum Health Points to all party members for one scene</p>",
-			"description": "<p>A pre-War magazine series dedicated to lifestyle and relationships, often covering cultural events, health advice, diet tips, relationship advice, and more.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from <strong>for a single scene</strong>. If you later learn the perk, you may use that benefit constantly. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.SKyP3uQ4CQCcdKZs]{Life Long Best Friends!}</p>"
-		},
-		"Fixin' Things": {
-			"name": "Fixin' Things",
-			"effect": "<p>Once, when you attempt to repair an item, halve the amounts of the materials needed to complete the repair (round up).</p>",
-			"description": "<p>A magazine for those dedicated to fixing things themselves, each issue contains a wealth of information on how to mend and repair a variety of objects and materials, reviews of the best tools to use, and examples of repairs sent in by readers.</p>\n<ul>\n<li><strong>Perk:</strong> Once, when you attempt to repair an item, halve the amounts of the materials needed to complete the repair (round up). If you later learn this perk, you may use this whenever you attempt repairs.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.7gsRBEPt328MaEyI]{Fixin' Things}</p>"
-		},
-		"Hardy as a Sasquatch": {
-			"name": "Hardy as a Sasquatch",
-			"effect": "<p>When scavenging from plants, gain twice as much</p>",
-			"description": "<p>Thrilling, true stories for rugged men! Backwoodsman is a magazine series containing articles and stories about outdoor survival, for people who like to talk about surviving in the wild.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.5FSxhtSwphd72BS1]{Hardy as a Sasquatch}</p>"
-		},
-		"Giant Super Weapons!": {
-			"name": "Giant Super Weapons!",
-			"effect": "<p>Once, when you fire a Gatling weapon, you consume ammunition at 8x the rate, rather than 10x the rate</p>",
-			"description": "<p>An informational magazine covering topics such as rocket science, robotics, laser technology, and other cutting-edge fields of science and technology.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.JGsQpE2E1zseUEdM]{Giant Super Weapons!}</p>"
-		},
-		"Tales of a Junktown Jerky Vendor": {
-			"name": "Tales of a Junktown Jerky Vendor",
-			"effect": "<p>Once, when you succeed or fail at a Barter test to haggle on the price of a trade, you may spend 1 Luck point to shift the price 10% in your favor.</p>",
-			"description": "<p>One example of a post-War magazine, Tales of a Junktown Jerky Vendor is a collection of short, handmade books written by an unknown vendor of jerky from Junktown. Copies have spread across the wasteland and can be found from California (near Junktown itself) to the Commonwealth.</p>\n<ul>\n<li><strong>Perk:</strong> Once, when you succeed or fail at a Barter test to haggle on the price of a trade, you may spend 1 Luck point to shift the price 10% in your favor. If you learn this Perk, you may do this on any Barter test to&nbsp;haggle, though you must spend one additional Luck point each extra time you use it during a session (1 for the first time, 2 for the second, 3 for the third, etc.).</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.Qf4PBCvZdSvPAeX7]{Tales of a Junktown Jerky Vendor}</p>"
-		},
-		"Surrounded by the Dead!": {
-			"name": "Surrounded by the Dead!",
-			"effect": "<p>+1CD on attacks where you spend one or more Ammunition for bonus damage</p>",
-			"description": "<p>A magazine containing thrilling short stories of daring adventure!</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, granting bonus damage or bonus damage resistance against a single foe or<br>type of attack. This lasts only for a single attack (made or received, respectively), unless the perk is learned, in which case it applies to all attacks. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.pk42jPbAVMosmA0k]{Surrounded by the Dead!}</p>"
-		},
-		"Duck and Cover!": {
-			"name": "Duck and Cover!",
-			"effect": "<p>Once, when you are affected by a Blast weapon, you may choose to fall prone (p.25). If you do so, you add +3 to all damage resistances against the damage caused by that Blast.</p>",
-			"description": "<p>A pre-War book about the manufacture, use, and disarming of explosives.</p>\n<ul>\n<li>Perk: Once, when you are affected by a Blast weapon, you may choose to fall prone (p.25). If you do so, you add +3 to all damage resistances against the damage caused by that Blast. If you later learn this perk, you may use whenever you are affected by a Blast weapon by spending 1 AP.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.gD1wycvvp1ivtXdY]{Duck and Cover!}</p>"
-		},
-		"An Experience to Remember": {
-			"name": "An Experience to Remember",
-			"effect": "<p>Choose one other Magazine perk you have previously used but not learned; that now takes effect</p>",
-			"description": "<p>A pre-War magazine series dedicated to lifestyle and relationships, often covering cultural events, health advice, diet tips, relationship advice, and more.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from <strong>for a single scene</strong>. If you later learn the perk, you may use that benefit constantly. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.4iTCNKydcsh3PHwY]{An Experience to Remember}</p>"
-		},
-		"Massachusetts Surgical Journal": {
-			"name": "Massachusetts Surgical Journal",
-			"effect": "<p>Once, when you provide medical attention to another character and assist their <strong>END + Survival </strong>test to heal Injuries, you may treat your assistance die as if it had rolled a 1.&nbsp;</p>",
-			"description": "<p>A periodical medical journal originating from preWar Massachusetts, a region now known as the Commonwealth. It contains detailed discussions of advances in medical science and technology, published studies on unusual diseases, and a host of other useful medical knowledge.</p>\n<p><strong>Perk:</strong> Once, when you provide medical attention to another character and assist their END + Survival test to heal Injuries, you may treat your assistance die as if it had rolled a 1. If you learn this perk, you may do this once per session.</p>\n<p>@UUID[Compendium.fallout.perks.Item.scI8HRzH0QjDb1bh]{Massachusetts Surgical Journal}</p>"
-		},
-		"Plasma: The Weapon of Tomorrow": {
-			"name": "Plasma: The Weapon of Tomorrow",
-			"effect": "<p>One attack with a Plasma weapon gains the Vicious damage effect if it didn&rsquo;t already have it</p>",
-			"description": "<p>A magazine series catering to weapons enthusiasts, with articles dedicated to hunting, weapons, gun law, and the portrayal of practical use of firearms.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.SbayR4I8JCyymq0a]{Plasma: The Weapon of Tomorrow}</p>"
-		},
-		"Visit the Ux-Ron Galaxy!": {
-			"name": "Visit the Ux-Ron Galaxy!",
-			"effect": "<p>Spend 1 Luck point to avoid all Energy damage from a single attack</p>",
-			"description": "<p>Unstoppables is a comic book published by Hubris Comics prior to the Great War. The series follows an ensemble cast of characters from the Hubris Comics roster, including the Silver Shroud, Mistress of Mystery, The Inspector, Manta Man and Grognak the Barbarian. Together, they form the titular Unstoppables. The cover art for the magazine depicts imagery highlighting the heroes, villains, and the adventure of each issue.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, allowing you to spend Luck points to avoid a single instance of damage, which you may benefit from once. If you later learn the perk, you may use that benefit as often as you have Luck points to spend on it. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.Lf2VvWWVug9jj5Ly]{Visit the Ux-Ron Galaxy!}</p>"
-		},
-		"Hunting in the Wastes": {
-			"name": "Hunting in the Wastes",
-			"effect": "<p>When you butcher an animal you&rsquo;ve killed, and the amount of meat found can be increased by spending AP, you gain 1 bonus AP for that purpose (this AP is lost if not used)</p>",
-			"description": "<p>The Wasteland Survival Guide is another post-War series of instructional magazines, written and illustrated with crude pen drawings. It has been copied and distributed across the wastelands but can most commonly be found in settlements near to the Capital Wasteland.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.p8cH2qolrlrnLKIt]{Hunting in the Wastes}</p>"
-		},
-		"Advice from Married Men": {
-			"name": "Advice from Married Men",
-			"effect": "<p>+1 Physical damage resistance to all party members for one scene</p>",
-			"description": "<p>A pre-War magazine series dedicated to lifestyle and relationships, often covering cultural events, health advice, diet tips, relationship advice, and more.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from <strong>for a single scene</strong>. If you later learn the perk, you may use that benefit constantly. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.B5AHVLoXVF8buanM]{Advice from Married Men}</p>"
-		},
-		"I Married a Robot": {
-			"name": "I Married a Robot",
-			"effect": "<p>+2 to all damage resistances against Robots for one scene</p>",
-			"description": "<p>A pre-War magazine series dedicated to lifestyle and relationships, often covering cultural events, health advice, diet tips, relationship advice, and more.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from <strong>for a single scene</strong>. If you later learn the perk, you may use that benefit constantly. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.xfBuEJQHYAmds5XG]{I Married a Robot}</p>"
-		},
-		"Rise of the Mutants!": {
-			"name": "Rise of the Mutants!",
-			"effect": "<p>+1CD on attacks vs super mutants</p>",
-			"description": "<p>A magazine containing thrilling short stories of daring adventure!</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, granting bonus damage or bonus damage resistance against a single foe or<br>type of attack. This lasts only for a single attack (made or received, respectively), unless the perk is learned, in which case it applies to all attacks. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.Gn880XN7Auhdop6S]{Rise of the Mutants!}</p>"
-		},
-		"True Police Stories": {
-			"name": "True Police Stories",
-			"effect": "<p>Once, when you roll the damage of an attack, you may spend a Luck point to turn up to three @fos[DC] to any face, rather than rolling them.</p>",
-			"description": "<p>True Police Stories was a pre-War pulp magazine boasting &ldquo;20 pages&mdash;a single issue&rdquo; that was dedicated to editorialized stories on famous criminal investigations and busts of the time.</p>\n<ul>\n<li><strong>Perk:</strong> Once, when you roll the damage of an attack, you may spend a Luck point to turn up to three @fos[DC] to any face, rather than rolling them. If you learn this perk, you may do this once per scene.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.DC6xyEVANOUPyy1I]{True Police Stories}</p>"
-		},
-		"Programmer's Digest": {
-			"name": "Programmer's Digest",
-			"effect": "<p>Once, when you fail a Science test to hack into a computer terminal and would be locked out (prevented from trying again), you may choose not to be locked out, allowing you to make another attempt.</p>",
-			"description": "<p>A magazine aimed at computer afficionados, discussing programming languages, encryption and decryption techniques, and the latest software.</p>\n<ul>\n<li><strong>Perk:</strong> Once, when you fail a Science test to hack into a computer terminal and would be locked out (prevented from trying again), you may choose not to be locked out, allowing you to make another attempt. If you learn this Perk, you may do this whenever you are locked out of a computer.<span class=\"fontstyle0\">A magazine aimed at computer afficionados, discussing programming languages, encryption and decryption techniques, and the latest software.</span></li>\n</ul>\n<p><span class=\"fontstyle0\">@UUID[Compendium.fallout.perks.Item.xmOWzjBpDXRfPa9Y]{Programmer's Digest}</span></p>"
-		},
-		"Guide to Hunting Commies!": {
-			"name": "Guide to Hunting Commies!",
-			"effect": "<p>One attack against an enemy with a lower level than you inflicts +2CD damage</p>",
-			"description": "<p>A magazine series catering to weapons enthusiasts, with articles dedicated to hunting, weapons, gun law, and the portrayal of practical use of firearms.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.BoK3Po9WKYHAv4Y9]{Guide to Hunting Commies!}</p>"
-		},
-		"The Future of Hunting?": {
-			"name": "The Future of Hunting?",
-			"effect": "<p>One attack against Robots inflicts +2CD damage</p>",
-			"description": "<p>A magazine series catering to weapons enthusiasts, with articles dedicated to hunting, weapons, gun law, and the portrayal of practical use of firearms.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.kBFXBzcatoT884Je]{The Future of Hunting?}</p>"
-		},
-		"Future of Warfare?": {
-			"name": "Future of Warfare?",
-			"effect": "<p>On a single attack with a Big Gun, you inflict a Critical Hit if you inflict 3 or more damage after damage resistance (rather than the normal 5 or more damage)</p>",
-			"description": "<p>An informational magazine covering topics such as rocket science, robotics, laser technology, and other cutting-edge fields of science and technology.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.PBp0DOgO6fmob9LU]{Future of Warfare?}</p>"
-		},
-		"The Ohio River Hermit": {
-			"name": "The Ohio River Hermit",
-			"effect": "<p>Reduce the difficulty of repairing a damaged item by 1 (min. 0)</p>",
-			"description": "<p>Thrilling, true stories for rugged men! Backwoodsman is a magazine series containing articles and stories about outdoor survival, for people who like to talk about surviving in the wild.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.7vvLcpVth2gMnB7o]{The Ohio River Hermit}</p>"
-		},
-		"Coupon Spectacular": {
-			"name": "Coupon Spectacular",
-			"effect": "<p>When buying food or drink items, the price is shifted an additional 10% in your favor</p>",
-			"description": "<p>The Wasteland Survival Guide is another post-War series of instructional magazines, written and illustrated with crude pen drawings. It has been copied and distributed across the wastelands but can most commonly be found in settlements near to the Capital Wasteland.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.grJRadyKsz8Eu0cJ]{Coupon Spectacular}</p>"
-		},
-		"The Gunsmith of Harper’s Ferry": {
-			"name": "The Gunsmith of Harper’s Ferry",
-			"effect": "<p>When you find ammo, you find +2CD more shots</p>",
-			"description": "<p>Thrilling, true stories for rugged men! Backwoodsman is a magazine series containing articles and stories about outdoor survival, for people who like to talk about surviving in the wild.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.3caIOATNwBm6EPuh]{The Gunsmith of Harper&rsquo;s Ferry}</p>"
-		},
-		"The Appalachia Squirrel Massacre": {
-			"name": "The Appalachia Squirrel Massacre",
-			"effect": "<p>One item of cooked food you make and eat heals +3 HP</p>",
-			"description": "<p>Thrilling, true stories for rugged men! Backwoodsman is a magazine series containing articles and stories about outdoor survival, for people who like to talk about surviving in the wild.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.kQD85MOcz1B4KHsV]{The Appalachia Squirrel Massacre}</p>"
-		},
-		"Talk Yourself Sober": {
-			"name": "Talk Yourself Sober",
-			"effect": "<p>Gain 1 Luck point (lost at the end of the scene if not used) when you consume an Alcoholic drink</p>",
-			"description": "<p>A pre-War magazine series dedicated to lifestyle and relationships, often covering cultural events, health advice, diet tips, relationship advice, and more.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from <strong>for a single scene</strong>. If you later learn the perk, you may use that benefit constantly. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.Jip3JdMpV9HTHujn]{Talk Yourself Sober}</p>"
-		},
-		"Self Defense Secrets": {
-			"name": "Self Defense Secrets",
-			"effect": "<p>Gain +1 defense against a melee attack</p>",
-			"description": "<p>The Wasteland Survival Guide is another post-War series of instructional magazines, written and illustrated with crude pen drawings. It has been copied and distributed across the wastelands but can most commonly be found in settlements near to the Capital Wasteland.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.yXOy24286aAjL5ID]{Self Defense Secrets}</p>"
-		},
-		"The Starlet Sniper!": {
-			"name": "The Starlet Sniper!",
-			"effect": "<p>+1CD on attacks with Accurate weapons</p>",
-			"description": "<p>A magazine containing thrilling short stories of daring adventure!</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, granting bonus damage or bonus damage resistance against a single foe or<br>type of attack. This lasts only for a single attack (made or received, respectively), unless the perk is learned, in which case it applies to all attacks. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.x6hpmUJFDTD3Iw82]{The Starlet Sniper!}</p>"
-		},
-		"The Lair of the Virgin Eaters": {
-			"name": "The Lair of the Virgin Eaters",
-			"effect": "<p>Gain +10 Carry weight for one scene</p>",
-			"description": "<p>A series of comic books published by Hubris Comics before the Great War. The comics depict the actionpacked adventures of the title character in a prehistoric world.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from <strong>once</strong>. If you ater learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.KEpm4gH8RvMjhpoO]{The Lair of the Virgin Eaters}</p>"
-		},
-		"Trim the Fat!": {
-			"name": "Trim the Fat!",
-			"effect": "<p>Regain twice as many HP from fruit or vegetables eaten in one scene</p>",
-			"description": "<p>A pre-War magazine series dedicated to lifestyle and relationships, often covering cultural events, health advice, diet tips, relationship advice, and more.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from <strong>for a single scene</strong>. If you later learn the perk, you may use that benefit constantly. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.siFrRn6TjSmxGKas]{Trim the Fat!}</p>"
-		},
-		"Bobby Pins: More Effective Than Lockpicks?": {
-			"name": "Bobby Pins: More Effective Than Lockpicks?",
-			"effect": "<p>When using a Bobby Pin, reduce the difficulty of a Lockpicking test by a further 1 (minimum 0)</p>",
-			"description": "<p>Tumblers Today is a pre-War magazine containing information about the clandestine art of lockpicking and the latest in mechanical locks found in safes, footlockers, and doors. The cover art for the magazine depicts imagery from each issue, highlighting the topic and technique of the issue.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.Q6MhXT1qvcpX6fxU]{Bobby Pins: More Effective Than Lockpicks?}</p>"
-		},
-		"Meeting People": {
-			"name": "Meeting People",
-			"effect": "<p>Once, when you roll one or more complications on a Speech test, you may ignore those complications.</p>",
-			"description": "<p>A magazine aimed at those who lack social grace. Meeting People magazine advertises itself as a primer for social interaction, giving tips on how to find and make friends, dating advice, and guidance on building confidence and spotting social cues.</p>\n<ul>\n<li><strong>Perk:</strong> Once, when you roll one or more complications on a Speech test, you may ignore those complications. If you learn this perk, you may do this once per scene.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.tKQ4oQiQxWoM10p6]{Meeting People}</p>"
-		},
-		"Beware the Man Handler": {
-			"name": "Beware the Man Handler",
-			"effect": "<p>The group AP pool may contain 1 AP more than normal for one scene</p>",
-			"description": "<p>A pre-War magazine series dedicated to lifestyle and relationships, often covering cultural events, health advice, diet tips, relationship advice, and more.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from <strong>for a single scene</strong>. If you later learn the perk, you may use that benefit constantly. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.BvqY6Zk4bfPSpIj7]{Beware the Man Handler}</p>"
-		},
-		"Science Gone Mad!": {
-			"name": "Science Gone Mad!",
-			"effect": "<p>+2 to Energy damage resistance</p>",
-			"description": "<p>A magazine containing thrilling short stories of daring adventure!</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, granting bonus damage or bonus damage resistance against a single foe or<br>type of attack. This lasts only for a single attack (made or received, respectively), unless the perk is learned, in which case it applies to all attacks. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.fDu6KU5u17sqA1hf]{Science Gone Mad!}</p>"
-		},
-		"Art of the Tomahawk": {
-			"name": "Art of the Tomahawk",
-			"effect": "<p>Reduce difficulty of a test to resist catching a disease by 1 (min. of 0)</p>",
-			"description": "<p>Thrilling, true stories for rugged men! Backwoodsman is a magazine series containing articles and stories about outdoor survival, for people who like to talk about surviving in the wild.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.I7DFjAhnEzDZmdL7]{Art of the Tomahawk}</p>"
-		},
-		"Deadly Lasers!": {
-			"name": "Deadly Lasers!",
-			"effect": "<p>+1CD on attacks with Energy weapons</p>",
-			"description": "<p>A magazine containing thrilling short stories of daring adventure!</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, granting bonus damage or bonus damage resistance against a single foe or<br>type of attack. This lasts only for a single attack (made or received, respectively), unless the perk is learned, in which case it applies to all attacks. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.YeQmWe6K2QMAEaep]{Deadly Lasers!}</p>"
-		},
-		"Insect Repellent Special": {
-			"name": "Insect Repellent Special",
-			"effect": "<p>Increase all damage resistances by +2 vs an attack from an Insect</p>",
-			"description": "<p>The Wasteland Survival Guide is another post-War series of instructional magazines, written and illustrated with crude pen drawings. It has been copied and distributed across the wastelands but can most commonly be found in settlements near to the Capital Wasteland.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.qxfqtIIZynyM2qIj]{Insect Repellent Special}</p>"
-		},
-		"Boxing Times": {
-			"name": "Boxing Times",
-			"effect": "<p>Once, when you succeed at an Unarmed attack, if you spend any AP to increase the damage you dealt, you may add the Stun damage effect to your attack.</p>",
-			"description": "<p>A pre-War magazine aimed at fans of boxing, often containing features on noteworthy or up-and-coming boxers, discussions of technique and equipment, and in-depth reporting on the sport.</p>\n<ul>\n<li><strong>Perk:</strong> Once, when you succeed at an Unarmed attack, if you spend any AP to increase the damage you dealt, you may add the Stun damage effect to your attack. If you later learn this perk, you may use this on any successful Unarmed attack.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.9rp4u6tgFbJk9GRT]{Boxing Times}</p>"
-		},
-		"Tomorrow's Technology for Today's Super Soldiers": {
-			"name": "Tomorrow's Technology for Today's Super Soldiers",
-			"effect": "<p>After spending a fusion core charge, you may spend 1 Luck point: if you do so the charge is not spent</p>",
-			"description": "<p>An informational magazine covering topics such as rocket science, robotics, laser technology, and other cutting-edge fields of science and technology.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.eTkUS79PttpiHVm0]{Tomorrow's Technology for Today's Super Soldiers}</p>"
-		},
-		"Street Guns of Detroit": {
-			"name": "Street Guns of Detroit",
-			"effect": "<p>Gain an extra 2 AP after one successful attack. This AP must be spent immediately: it cannot be saved</p>",
-			"description": "<p>A magazine series catering to weapons enthusiasts, with articles dedicated to hunting, weapons, gun law, and the portrayal of practical use of firearms.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.iQofqWEFwGokog1G]{Street Guns of Detroit}</p>"
-		},
-		"Farming the Wastes": {
-			"name": "Farming the Wastes",
-			"effect": "<p>Consuming a fruit or vegetable food item heals twice as many HP</p>",
-			"description": "<p>The Wasteland Survival Guide is another post-War series of instructional magazines, written and illustrated with crude pen drawings. It has been copied and distributed across the wastelands but can most commonly be found in settlements near to the Capital Wasteland.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.TmIh9ecBP1YvDwdF]{Farming the Wastes}</p>"
-		},
-		"Trapped in the Dimension of the Pterror-dactyls": {
-			"name": "Trapped in the Dimension of the Pterror-dactyls",
-			"effect": "<p>Spend 1 Luck point to avoid all damage from a single melee attack</p>",
-			"description": "<p>Unstoppables is a comic book published by Hubris Comics prior to the Great War. The series follows an ensemble cast of characters from the Hubris Comics roster, including the Silver Shroud, Mistress of Mystery, The Inspector, Manta Man and Grognak the Barbarian. Together, they form the titular Unstoppables. The cover art for the magazine depicts imagery highlighting the heroes, villains, and the adventure of each issue.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, allowing you to spend Luck points to avoid a single instance of damage, which you may benefit from once. If you later learn the perk, you may use that benefit as often as you have Luck points to spend on it. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.VrMFCFltA2MKaCcH]{Trapped in the Dimension of the Pterror-dactyls}</p>"
-		},
-		"Down Home Cookin'": {
-			"name": "Down Home Cookin'",
-			"effect": "<p>Add +2CD damage to a Thrown weapon attack (other than an Explosive)</p>",
-			"description": "<p>Thrilling, true stories for rugged men! Backwoodsman is a magazine series containing articles and stories about outdoor survival, for people who like to talk about surviving in the wild.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.1aIYFwFQGic2zHjK]{Down Home Cookin'}</p>"
-		},
-		"Water Aerobics for Ghouls": {
-			"name": "Water Aerobics for Ghouls",
-			"effect": "<p>Reduce the difficulty of an Athletics test to swim by 1 (min. 0)</p>",
-			"description": "<p>The Wasteland Survival Guide is another post-War series of instructional magazines, written and illustrated with crude pen drawings. It has been copied and distributed across the wastelands but can most commonly be found in settlements near to the Capital Wasteland.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.xXZcXGsZY6g4QkTl]{Water Aerobics for Ghouls}</p>"
-		},
-		"Locksmith Certification Special — Pass with Flying Colors": {
-			"name": "Locksmith Certification Special — Pass with Flying Colors",
-			"effect": "<p>When you suffer one or more complications on a Lockpicking test, spend 1 Luck point to ignore those complications</p>",
-			"description": "<p>Tumblers Today is a pre-War magazine containing information about the clandestine art of lockpicking and the latest in mechanical locks found in safes, footlockers, and doors. The cover art for the magazine depicts imagery from each issue, highlighting the topic and technique of the issue.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.xRA5ktVoyWDHRy8N]{Locksmith Certification Special &mdash; Pass with Flying Colors}</p>"
-		},
-		"Confessions of a Housebreaker": {
-			"name": "Confessions of a Housebreaker",
-			"effect": "<p>When scavenging or looting, spend 1 Luck to find 2+2CD Bobby Pins</p>",
-			"description": "<p>Tumblers Today is a pre-War magazine containing information about the clandestine art of lockpicking and the latest in mechanical locks found in safes, footlockers, and doors. The cover art for the magazine depicts imagery from each issue, highlighting the topic and technique of the issue.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.PCA8zoHuaLjnsF7g]{Confessions of a Housebreaker}</p>"
-		},
-		"Bear-Proofing your Campsite": {
-			"name": "Bear-Proofing your Campsite",
-			"effect": "<p>One attack against Yao Guai inflicts +3CD damage</p>",
-			"description": "<p>A magazine series catering to weapons enthusiasts, with articles dedicated to hunting, weapons, gun law, and the portrayal of practical use of firearms.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.5tgqF87DaXrrz59x]{Bear-Proofing your Campsite}</p>"
-		},
-		"Lost in the Snows of Lust": {
-			"name": "Lost in the Snows of Lust",
-			"effect": "<p>Gain +2 Physical damage resistance against one attack</p>",
-			"description": "<p>A series of comic books published by Hubris Comics before the Great War. The comics depict the actionpacked adventures of the title character in a prehistoric world.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from <strong>once</strong>. If you ater learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.pIGqn3CdOhsyQyhx]{Lost in the Snows of Lust}</p>"
-		},
-		"The Bright Side of Radiation Poisoning": {
-			"name": "The Bright Side of Radiation Poisoning",
-			"effect": "<p>When you consume irradiated food or drink, heal additional HP equal to the roll on the @fos[DC]</p>",
-			"description": "<p>The Wasteland Survival Guide is another post-War series of instructional magazines, written and illustrated with crude pen drawings. It has been copied and distributed across the wastelands but can most commonly be found in settlements near to the Capital Wasteland.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.BSi2qWkBGOJKFFED]{The Bright Side of Radiation Poisoning}</p>"
-		},
-		"Mysteries of the Master Key Exposed!": {
-			"name": "Mysteries of the Master Key Exposed!",
-			"effect": "<p>You may re-roll 1d20 on a single Lockpicking test</p>",
-			"description": "<p>Tumblers Today is a pre-War magazine containing information about the clandestine art of lockpicking and the latest in mechanical locks found in safes, footlockers, and doors. The cover art for the magazine depicts imagery from each issue, highlighting the topic and technique of the issue.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.dx2dkCtFBWb5kukV]{Mysteries of the Master Key Exposed!}</p>"
-		},
-		"The Mad Russian's Revenge!": {
-			"name": "The Mad Russian's Revenge!",
-			"effect": "<p>+2 to Poison damage resistance</p>",
-			"description": "<p>A magazine containing thrilling short stories of daring adventure!</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, granting bonus damage or bonus damage resistance against a single foe or<br>type of attack. This lasts only for a single attack (made or received, respectively), unless the perk is learned, in which case it applies to all attacks. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.LSUSRTgMyqfN1EQx]{The Mad Russian's Revenge!}</p>"
-		},
-		"Get Off My Lawn": {
-			"name": "Get Off My Lawn",
-			"effect": "<p>Find twice as much meat from a butchered creature</p>",
-			"description": "<p>Thrilling, true stories for rugged men! Backwoodsman is a magazine series containing articles and stories about outdoor survival, for people who like to talk about surviving in the wild.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.6b46sO6gPyRRziMy]{Get Off My Lawn}</p>"
-		},
-		"Demon Slaves, Demon Sands": {
-			"name": "Demon Slaves, Demon Sands",
-			"effect": "<p>One attack against Ghouls inflicts +2CD damage</p>",
-			"description": "<p>A series of comic books published by Hubris Comics before the Great War. The comics depict the actionpacked adventures of the title character in a prehistoric world.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from <strong>once</strong>. If you ater learn the perk, you may use that benefit once per scene. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.FHMZ8ohO5uegkBHL]{Demon Slaves, Demon Sands}</p>"
-		},
-		"Nuke-the-Man!": {
-			"name": "Nuke-the-Man!",
-			"effect": "<p>+1CD damage to attacks from all party members for one scene</p>",
-			"description": "<p>A pre-War magazine series dedicated to lifestyle and relationships, often covering cultural events, health advice, diet tips, relationship advice, and more.</p>\n<ul>\n<li><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from <strong>for a single scene</strong>. If you later learn the perk, you may use that benefit constantly. Roll to determine the issue found:</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.H27K9ike953ZIyRl]{Nuke-the-Man!}</p>"
-		}
-	},
-	"mapping": {
-		"description":"system.description",
-		"effect":"system.effect"
-		
-	}
-
+    "entries": {
+        "10 Number 1 Hits!!! Rock-o-bot Takes the Nation by Storm!!": {
+            "name": "10 przebojów numer jeden!!! Szaleństwo Rock-o-bota opanowało kraj!!!",
+            "effect": "<p>Kiedy spowodujesz trafienie krytyczne, zwiększasz zadane obrażenia o +2</p>",
+            "description": "<p>Magazyn informacyjny poświęcony takim tematom jak inżynieria rakietowa, robotyka, technologia laserowa i innym najnowszym dziedzinom nauki oraz technologii.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.beJfGkUq386Kw4Sj]</p>"
+        },
+        "Advice from Married Men": {
+            "name": "Porady żonatych facetów",
+            "effect": "<p>+1 do Odporności fizycznej dla wszystkich członków drużyny</p>",
+            "description": "<p>Przedwojenna seria czasopism poświęconych związkom i stylowi życia. Często zawierały one artykuły o wydarzeniach kulturowych, porady na temat zdrowia i związku, wskazówki dietetyczne oraz wiele innych informacji.</p>\n<ul>\n<li><strong>Profit:</strong>możesz korzystać przez całą scenę. Jeśli wykupisz dany profit na stałe, działa on przez cały czas.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.B5AHVLoXVF8buanM]</p>"
+        },
+        "An Experience to Remember": {
+            "name": "Pamiętne przeżycie",
+            "effect": "<p>Wybierz jeden profit z czasopisma, którego kiedyś użyłeś, ale się go nie nauczyłeś. Możesz go teraz użyć.</p>",
+            "description": "<p>Przedwojenna seria czasopism poświęconych związkom i stylowi życia. Często zawierały one artykuły o wydarzeniach kulturowych, porady na temat zdrowia i związku, wskazówki dietetyczne oraz wiele innych informacji.</p>\n<ul>\n<li><strong>Profit:</strong>możesz korzystać przez całą scenę. Jeśli wykupisz dany profit na stałe, działa on przez cały czas.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.4iTCNKydcsh3PHwY]</p>"
+        },
+        "Art of the Tomahawk": {
+            "name": "Sztuka tomahawka",
+            "effect": "<p>–1 do trudności testu przeciwko zarażeniu się chorobą (minimum 0)</p>",
+            "description": "<p>Pasjonujące i prawdziwe opowieści dla twardzieli! „Mieszkaniec Dziczy” to seria czasopism z artykułami i opowieściami o surwiwalu. Przeznaczona dla ludzi, którzy lubią rozmawiać o sposobach przetrwania w dzikich ostępach.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.I7DFjAhnEzDZmdL7]</p>"
+        },
+        "Attack of the Fishmen!": {
+            "name": "Atak ryboludzi!",
+            "effect": "<p>Kiedy atakujesz błotniaka, otrzymujesz +1@fos[DC] do ataku</p>",
+            "description": "<p>Czasopismo z pasjonującymi opowiadaniami o porywających przygodach!</p>\n<ul>\n<li><strong>Profit:</strong>Możesz skorzystać z tego profitu tylko raz. Zapewniają one modyfikator do obrażeń lub Odporności przeciwko przeciwnikowi lub atakowi. Efekt ten stosuje się do jednego ataku (wykonywanego lub otrzymywanego). Jeśli wykupisz dany profit na stałe, możesz go używaćw każdym ataku.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.9uBD2OLMA2YtE3ST]</p>"
+        },
+        "Attack of the Metal Men!": {
+            "name": "Atak metalowych ludzi!",
+            "effect": "<p>+2 do Odporności na obrażenia fizyczne i energetyczne przeciwko robotom</p>",
+            "description": "<p>Czasopismo z pasjonującymi opowiadaniami o porywających przygodach!</p>\n<ul>\n<li><strong>Profit:</strong>Możesz skorzystać z tego profitu tylko raz. Zapewniają one modyfikator do obrażeń lub Odporności przeciwko przeciwnikowi lub atakowi. Efekt ten stosuje się do jednego ataku (wykonywanego lub otrzymywanego). Jeśli wykupisz dany profit na stałe, możesz go używaćw każdym ataku.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.NNhKS3XzGuAnXNmq]</p>"
+        },
+        "Avoid Those Pesky Gun Laws!": {
+            "name": "Jak uniknąć tych upierdliwych przepisów o broni!",
+            "effect": "<p>Jeśli podczas szabrowania znajdziesz broń, otrzymujesz 2 PA, które możesz wydać wyłącznie na szabrowanie dodatkowych jednostek materiałów</p>",
+            "description": "<p>Seria czasopism przeznaczonych dla miłośników broni palnej, z artykułami poświęconymi myślistwu, broni, przepisom o jej posiadaniu oraz opisom jej praktycznego zastosowania.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.Zl8Mt7ll7IqbgFq2]</p>"
+        },
+        "Bear-Proofing your Campsite": {
+            "name": "Zabezpiecz biwak przed niedźwiedziami",
+            "effect": "<p>Kiedy atakujesz yao guai, zwiększasz zadawane obrażenia o +3@fos[DC]</p>",
+            "description": "<p>Seria czasopism przeznaczonych dla miłośników broni palnej, z artykułami poświęconymi myślistwu, broni, przepisom o jej posiadaniu oraz opisom jej praktycznego zastosowania.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.5tgqF87DaXrrz59x]</p>"
+        },
+        "Beware the Man Handler": {
+            "name": "Strzeż się ekshibicjonisty!",
+            "effect": "<p>Pula grupowa może mieć o 1 PA więcej</p>",
+            "description": "<p>Przedwojenna seria czasopism poświęconych związkom i stylowi życia. Często zawierały one artykuły o wydarzeniach kulturowych, porady na temat zdrowia i związku, wskazówki dietetyczne oraz wiele innych informacji.</p>\n<ul>\n<li><strong>Profit:</strong>możesz korzystać przez całą scenę. Jeśli wykupisz dany profit na stałe, działa on przez cały czas.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.BvqY6Zk4bfPSpIj7]</p>"
+        },
+        "Blood on the Harp": {
+            "name": "Krew na harfie",
+            "effect": "<p>Kiedy trafisz wręcz, zwiększasz zadawane obrażenia o +2@fos[DC]</p>",
+            "description": "<p>Seria komiksów akcji – publikowanych przed Wielką Wojną przez wydawnictwo Hubris Comics – o przygodach tytułowego bohatera w prehistorycznym świecie.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.56snTc6VYoTJqCMi]</p>"
+        },
+        "Bobby Pins: More Effective Than Lockpicks?": {
+            "name": "SPINKI: skuteczniejsze od wytrychów?",
+            "effect": "<p>Kiedy używasz spinki, obniżasz o dodatkowe –1 trudność testu Otwierania zamków (minimum 0)</p>",
+            "description": "<p>Przedwojenne czasopismo z artykułami o sekretnej sztuce używania wytrychów oraz nowinkami z zakresu mechanicznych zamków montowanych w szafkach, drzwiach i sejfach. Na okładce zawsze widnieje ilustracja odnosząca się do tematyki danego numeru.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.Q6MhXT1qvcpX6fxU]</p>"
+        },
+        
+        "Boxing Times": {
+            "name": "Świat Boksu",
+            "effect": "<p>Jeśli po udanym teście ataku bez broni wydajesz PA, żeby zwiększyć obrażenia, możesz dodać do nich Efekt Ogłuszające.</p>",
+            "description": "<p>Przedwojenne pismo sportowe dla fanów boksu, często z artykułami prezentującymi sylwetki znanych lub zyskujących na popularności pięściarzy, dyskusjami o technice i ekwipunku oraz szczegółowymi relacjami ze stoczonych walk.</p>\n<ul>\n<li><strong>Profit:</strong> Jeśli wykupisz ten profit na stałe, możesz to zrobić w każdym ataku bez broni.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.9rp4u6tgFbJk9GRT]</p>"
+        },
+        "Carnivorous Rabbits of Appalachia": {
+            "name": "Mięsożerne króliki z Appalachii",
+            "effect": "<p>Kiedy atakujesz Ssaka lub Gada, zwiększasz zadawane obrażenia o +2@fos[DC]</p>",
+            "description": "<p>Pasjonujące i prawdziwe opowieści dla twardzieli! „Mieszkaniec Dziczy” to seria czasopism z artykułami i opowieściami o surwiwalu. Przeznaczona dla ludzi, którzy lubią rozmawiać o sposobach przetrwania w dzikich ostępach.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.wwIthL6FW1dIq1MU]</p>"
+        },
+        
+        "Cometh the Trickster": {
+            "name": "Nadchodzi błazen",
+            "effect": "<p>+1 do trudności testu innej postaci, kiedy próbuje cię wykryć</p>",
+            "description": "<p>Seria komiksów akcji – publikowanych przed Wielką Wojną przez wydawnictwo Hubris Comics – o przygodach tytułowego bohatera w prehistorycznym świecie.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.MKt5lgPvnlrnMV9S]</p>"
+        },
+        "Commie-Kazi vs. Manta Man": {
+            "name": "Komuch-Kazek kontra Człowiek-Płaszczka",
+            "effect": "<p>Wydaj 1 punkt Szczęścia, żeby uniknąć wszystkich obrażeń pochodzących z ataku bronią Wybuchową</p>",
+            "description": "<p>Komiks wydawany przed Wielką Wojną przez Hubris Comics, który opowiada o przygodach bohaterów znanych z innych serii Hubris, między innymi Srebrnego Całunu, Pani Tajemnicy, Inspektora, Człowieka-Płaszczki oraz Grognaka Barbarzyńcy. Razem tworzą oni tytułowych Niezwyciężonych. Okładki przedstawiały bohaterów, złoczyńców oraz sceny z przygód opisanych w danym numerze.</p>\n<ul>\n<li><strong>Profit:</strong>Możesz skorzystać tylko raz. Pozwalają one wydawać punkty Szczęścia, żeby uniknąć różnych rodzajów obrażeń. Jeśli wykupisz dany profit na stałe, możesz z niego korzystać, dopóki starczy ci punktów Szczęścia.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.qItV5QGk0sN0md6p]</p>"
+        },
+        "Confessions of a Housebreaker": {
+            "name": "Wyznania włamywacza",
+            "effect": "<p>Kiedy szabrujesz lub zbierasz, możesz wydać 1 punkt Szczęścia, żeby znaleźć 2 + 2@fos[DC] spinki</p>",
+            "description": "<p>Przedwojenne czasopismo z artykułami o sekretnej sztuce używania wytrychów oraz nowinkami z zakresu mechanicznych zamków montowanych w szafkach, drzwiach i sejfach. Na okładce zawsze widnieje ilustracja odnosząca się do tematyki danego numeru.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.PCA8zoHuaLjnsF7g]</p>"
+        },
+        "Coupon Spectacular": {
+            "name": "Rewia kuponów",
+            "effect": "<p>kiedy kupujesz posiłek lub napój, jego cena zostaje zmodyfikowana o 10% na twoją korzyść</p>",
+            "description": "<p>To kolejny przykład powojennego pisma informacyjnego, spisanego długopisem i ilustrowanego prymitywnymi rysunkami. Jest kopiowane i dystrybuowane na całych pustkowiach, lecz najczęściej można je znaleźć w osadach leżących w pobliżu Stołecznych Pustkowi.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.grJRadyKsz8Eu0cJ]</p>"
+        },
+        "Curse of the Burned!": {
+            "name": "Klątwa poparzeńców!",
+            "effect": "<p>Kiedy atakujesz Ghula, otrzymujesz +1@fos[DC] do ataku</p>",
+            "description": "<p>Czasopismo z pasjonującymi opowiadaniami o porywających przygodach!</p>\n<ul>\n<li><strong>Profit:</strong>Możesz skorzystać z tego profitu tylko raz. Zapewniają one modyfikator do obrażeń lub Odporności przeciwko przeciwnikowi lub atakowi. Efekt ten stosuje się do jednego ataku (wykonywanego lub otrzymywanego). Jeśli wykupisz dany profit na stałe, możesz go używaćw każdym ataku.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.Cx5ysG2Z0XPE6DZn]</p>"
+        },
+        "Deadly Lasers!": {
+            "name": "Śmiercionośne lasery!",
+            "effect": "<p>Kiedy atakujesz bronią energetyczną, otrzymujesz +1@fos[DC] do ataku</p>",
+            "description": "<p>Czasopismo z pasjonującymi opowiadaniami o porywających przygodach!</p>\n<ul>\n<li><strong>Profit:</strong>Możesz skorzystać z tego profitu tylko raz. Zapewniają one modyfikator do obrażeń lub Odporności przeciwko przeciwnikowi lub atakowi. Efekt ten stosuje się do jednego ataku (wykonywanego lub otrzymywanego). Jeśli wykupisz dany profit na stałe, możesz go używaćw każdym ataku.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.YeQmWe6K2QMAEaep]</p>"
+        },
+        "Demon Slaves, Demon Sands": {
+            "name": "Zniewolone demony na demonicznych piaskach",
+            "effect": "<p>Kiedy trafisz Ghula, zwiększasz zadawane obrażenia o +2@fos[DC]</p>",
+            "description": "<p>Seria komiksów akcji – publikowanych przed Wielką Wojną przez wydawnictwo Hubris Comics – o przygodach tytułowego bohatera w prehistorycznym świecie.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.FHMZ8ohO5uegkBHL]</p>"
+        },
+        "Down Home Cookin'": {
+            "name": "Wiejska kuchnia",
+            "effect": "<p>Kiedy atakujesz bronią Rzucaną (z wyjątkiem Wybuchowej), zwiększasz zadawane obrażenia o +2@fos[DC]</p>",
+            "description": "<p>Pasjonujące i prawdziwe opowieści dla twardzieli! „Mieszkaniec Dziczy” to seria czasopism z artykułami i opowieściami o surwiwalu. Przeznaczona dla ludzi, którzy lubią rozmawiać o sposobach przetrwania w dzikich ostępach.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.1aIYFwFQGic2zHjK]</p>"
+        },
+        "Dr. Brainwash and His Army of De-Capitalists!": {
+            "name": "Doktor Indoktrynator i jego armia antykapitalistów!!",
+            "effect": "<p>Wydaj 3 punkty Szczęścia, żeby uniknąć wszystkich obrażeń pochodzących z jednego ataku lub zagrożenia</p>",
+            "description": "<p>Komiks wydawany przed Wielką Wojną przez Hubris Comics, który opowiada o przygodach bohaterów znanych z innych serii Hubris, między innymi Srebrnego Całunu, Pani Tajemnicy, Inspektora, Człowieka-Płaszczki oraz Grognaka Barbarzyńcy. Razem tworzą oni tytułowych Niezwyciężonych. Okładki przedstawiały bohaterów, złoczyńców oraz sceny z przygód opisanych w danym numerze.</p>\n<ul>\n<li><strong>Profit:</strong>Możesz skorzystać tylko raz. Pozwalają one wydawać punkty Szczęścia, żeby uniknąć różnych rodzajów obrażeń. Jeśli wykupisz dany profit na stałe, możesz z niego korzystać, dopóki starczy ci punktów Szczęścia.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.35g6izwF0LhTPGMO]</p>"
+        },
+        "Duck and Cover!": {
+            "name": "Padnij! Kryj się!",
+            "effect": "<p>eśli jesteś celem ataku z użyciem broni Wybuchowej, możesz przyjąć pozycję leżącą (strona 25). Otrzymujesz wtedy +3 do wszystkich Odporności przeciwko obrażeniom spowodowanym przez tę eksplozję.</p>",
+            "description": "<p>Przedwojenna książka o konstruowaniu, używaniu i rozbrajaniu ładunków wybuchowych.</p>\n<ul>\n<li><strong>Profit:</strong>Jeśli wykupisz ten profit na stałe, możesz go używać (za 1 PA) za każdym razem, gdy znajdziesz się w obszarze działania broni Wybuchowej.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.gD1wycvvp1ivtXdY]</p>"
+        },
+        "Enter Maula: War Maiden of Mars": {
+            "name": "Maula, Wojownicza Dziewica z Marsa",
+            "effect": "<p>Kiedy atakujesz wręcz dwuręczną bronią białą, otrzymujesz Efekt obrażeń Przeszywające 1 (lub +1, jeśli już go posiadasz)</p>",
+            "description": "<p>Seria komiksów akcji – publikowanych przed Wielką Wojną przez wydawnictwo Hubris Comics – o przygodach tytułowego bohatera w prehistorycznym świecie.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.OIVq6l91X8x6r6zi]</p>"
+        },
+        "FH 5-01 Whistling in the Dark": {
+            "name": "FH 5-01 Gwizdanie w mroku",
+            "effect": "<p>Jeśli zostaniesz zauważony, kiedy się skradasz, otrzymujesz +2 do Odporności na obrażenia fizyczne przeciwko pierwszemu atakowi, który otrzymasz po wykryciu</p>",
+            "description": "<p>Podręcznik instruktażowy wydany przez Siły Lądowe USA, żeby szkolić personel w działaniach wywiadowczych. Nie był przeznaczony do publicznej dystrybucji i posiadał oznaczenie „Dokument zastrzeżony”. Oczywiście nie powstrzymało to tych, którzy znaleźli jego egzemplarze, przed ich przeczytaniem i rozpowszechnianiem na pustkowiach.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.cPjofC2nJegzoPXS] </p>"
+        },
+        "FH 5-02 Urban Camouflage": {
+            "name": "FH 5-02 Miejski kamuflaż",
+            "effect": "<p>+1 do trudności testów, żeby cię zauważyć (nie kumuluje się z modyfikatorami do trudności ze względu na słabe oświetlenie lub ciemność)</p>",
+            "description": "<p>Podręcznik instruktażowy wydany przez Siły Lądowe USA, żeby szkolić personel w działaniach wywiadowczych. Nie był przeznaczony do publicznej dystrybucji i posiadał oznaczenie „Dokument zastrzeżony”. Oczywiście nie powstrzymało to tych, którzy znaleźli jego egzemplarze, przed ich przeczytaniem i rozpowszechnianiem na pustkowiach.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.AVB1RZC2w05dkUbZ]</p>"
+        },
+        "FH 5-03 Facepaint Fundamentals": {
+            "name": "FH 5-03 Podstawy maskowania indywidualnego",
+            "effect": "<p>+1 do każdej Odporności przeciwko atakom wykonywanym przez BN-ów</p>",
+            "description": "<p>Podręcznik instruktażowy wydany przez Siły Lądowe USA, żeby szkolić personel w działaniach wywiadowczych. Nie był przeznaczony do publicznej dystrybucji i posiadał oznaczenie „Dokument zastrzeżony”. Oczywiście nie powstrzymało to tych, którzy znaleźli jego egzemplarze, przed ich przeczytaniem i rozpowszechnianiem na pustkowiach.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.vYiPt2jg7x1f0NTl]</p>"
+        },
+        "FH 5-04 Not the Soldiers You’re Looking For": {
+            "name": "FH 5-04 Nie jesteśmy żołnierzami, których szukacie",
+            "effect": "<p>Kiedy atakujesz BN-a, zwiększasz zadawane obrażenia o +1@fos[DC]</p>",
+            "description": "<p>Podręcznik instruktażowy wydany przez Siły Lądowe USA, żeby szkolić personel w działaniach wywiadowczych. Nie był przeznaczony do publicznej dystrybucji i posiadał oznaczenie „Dokument zastrzeżony”. Oczywiście nie powstrzymało to tych, którzy znaleźli jego egzemplarze, przed ich przeczytaniem i rozpowszechnianiem na pustkowiach.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.g6qVETrGj3ide6hr]</p>"
+        },
+        "FH 5-05 Who Goes There?": {
+            "name": "FH 5-05 Kto idzie?!",
+            "effect": "<p>Kiedy wydajesz punkt Szczęścia, żeby przerzucić k20 w teście PER, zamiast nią rzucać, ustawiasz na niej wynik 1</p>",
+            "description": "<p>Podręcznik instruktażowy wydany przez Siły Lądowe USA, żeby szkolić personel w działaniach wywiadowczych. Nie był przeznaczony do publicznej dystrybucji i posiadał oznaczenie „Dokument zastrzeżony”. Oczywiście nie powstrzymało to tych, którzy znaleźli jego egzemplarze, przed ich przeczytaniem i rozpowszechnianiem na pustkowiach.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.lZ0REnexDQeH2cmK]</p>"
+        },
+        "FH 5-06 Squeaky Floorboard, Sudden Death": {
+            "name": "FH 5-06 Skrzypiąca podłoga to nagła śmierć",
+            "effect": "<p>Kiedy w teście Skradania się wyrzucisz jedną lub więcej komplikacji, możesz je zignorować</p>",
+            "description": "<p>Podręcznik instruktażowy wydany przez Siły Lądowe USA, żeby szkolić personel w działaniach wywiadowczych. Nie był przeznaczony do publicznej dystrybucji i posiadał oznaczenie „Dokument zastrzeżony”. Oczywiście nie powstrzymało to tych, którzy znaleźli jego egzemplarze, przed ich przeczytaniem i rozpowszechnianiem na pustkowiach.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.DHdPahzQ9HMZ0FXb]</p>"
+        },
+        "FH 5-07 Getting the Drop on the Communists": {
+            "name": "FH 5-07 Zrzut na komunistów",
+            "effect": "<p>Kiedy wróg celuje, zanim wykona przeciwko tobie atak, możesz spowodować, że utraci korzyści z akcji celowania</p>",
+            "description": "<p>Podręcznik instruktażowy wydany przez Siły Lądowe USA, żeby szkolić personel w działaniach wywiadowczych. Nie był przeznaczony do publicznej dystrybucji i posiadał oznaczenie „Dokument zastrzeżony”. Oczywiście nie powstrzymało to tych, którzy znaleźli jego egzemplarze, przed ich przeczytaniem i rozpowszechnianiem na pustkowiach.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.5rxzpSKhciVgbmzP]</p>"
+        },
+        "FH 5-08 Bushes, Boxes, and Beehives: Camouflage Special": {
+            "name": "FH 5-08 Krzaki, skrzynki i ule - wydanie specjalne o kamuflażu",
+            "effect": "<p>Kiedy walczysz nożem lub bez broni, zwiększasz zadawane obrażenia o +2@fos[DC]</p>",
+            "description": "<p>Podręcznik instruktażowy wydany przez Siły Lądowe USA, żeby szkolić personel w działaniach wywiadowczych. Nie był przeznaczony do publicznej dystrybucji i posiadał oznaczenie „Dokument zastrzeżony”. Oczywiście nie powstrzymało to tych, którzy znaleźli jego egzemplarze, przed ich przeczytaniem i rozpowszechnianiem na pustkowiach.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.l9jhloiw4Sylv6Y3]</p>"
+        },
+        "FH 5-09 Look Better in Black": {
+            "name": "FH 5-09 Lepiej ubrać czarne",
+            "effect": "<p>Kiedy używasz Stealth Boya, możesz wydłużyć czas jego działania o dodatkową turę</p>",
+            "description": "<p>Podręcznik instruktażowy wydany przez Siły Lądowe USA, żeby szkolić personel w działaniach wywiadowczych. Nie był przeznaczony do publicznej dystrybucji i posiadał oznaczenie „Dokument zastrzeżony”. Oczywiście nie powstrzymało to tych, którzy znaleźli jego egzemplarze, przed ich przeczytaniem i rozpowszechnianiem na pustkowiach.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.nWVbU3dqMxeoxPoT]</p>"
+        },
+        "FH 5-10 Tiptoe Through the Tulips": {
+            "name": "FH 5-10 Na palcach przez tulipany",
+            "effect": "<p>Kiedy wydajesz punkt Szczęścia, żeby przerzucić k20 w teście ZW, zamiast nią rzucać, ustawiasz na niej wynik 1</p>",
+            "description": "<p>Podręcznik instruktażowy wydany przez Siły Lądowe USA, żeby szkolić personel w działaniach wywiadowczych. Nie był przeznaczony do publicznej dystrybucji i posiadał oznaczenie „Dokument zastrzeżony”. Oczywiście nie powstrzymało to tych, którzy znaleźli jego egzemplarze, przed ich przeczytaniem i rozpowszechnianiem na pustkowiach.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.xBewaCbKbQO5BQKp]</p>"
+        },
+        "Farming the Wastes": {
+            "name": "Uprawy na pustkowiach",
+            "effect": "<p>Spożycie owocu lub posiłku warzywnego leczy dwa razy więcej PZ</p>",
+            "description": "<p>To kolejny przykład powojennego pisma informacyjnego, spisanego długopisem i ilustrowanego prymitywnymi rysunkami. Jest kopiowane i dystrybuowane na całych pustkowiach, lecz najczęściej można je znaleźć w osadach leżących w pobliżu Stołecznych Pustkowi.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.TmIh9ecBP1YvDwdF]</p>"
+        },
+        "Fatherless Cur!": {
+            "name": "Bezpański psie!",
+            "effect": "<p>Kiedy atakujesz wręcz, ignorujesz jedną komplikację</p>",
+            "description": "<p>Seria komiksów akcji – publikowanych przed Wielką Wojną przez wydawnictwo Hubris Comics – o przygodach tytułowego bohatera w prehistorycznym świecie.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.sWkveVPjKk45QqwF]</p>"
+        },
+        "Fixin' Things": {
+            "name": "Napraw to sam",
+            "effect": "<p>Raz w trakcie naprawy przedmiotu zużywasz połowę niezbędnych materiałów (zaokrąglone w górę).</p>",
+            "description": "<p>Czasopismo dla miłośników majsterkowania. W każdym numerze można znaleźć mnóstwo informacji o tym, jak naprawiać różnego rodzaju przedmioty i tworzywa. Są też recenzje najlepszych narzędzi, a także nadesłane przez czytelników zdjęcia ich przykładowych napraw.</p>\n<ul>\n<li><strong>Profit:</strong>Jeśli wykupisz ten profit na stałe, możesz go używać w każdej próbie naprawy.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.7gsRBEPt328MaEyI]</p>"
+        },
+        "Future Weapons Today": {
+            "name": "Broń jutra dziś",
+            "effect": "<p>Podczas ataku bronią energetyczną możesz jeden raz ją przeładować, zwiększając zadane obrażenia o +2 @fos[DC] . W następnej turze nie możesz skorzystać z tej broni, ponieważ musi ostygnąć.</p>",
+            "description": "<p>Seria czasopism przeznaczonych dla miłośników broni palnej, z artykułami poświęconymi myślistwu, broni, przepisom o jej posiadaniu oraz opisom jej praktycznego zastosowania.</p>\n<ul>\n<li><strong>Profit:</strong>Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.LJXpGjoI1HYU6Heb]</p>"
+        },
+        "Future of Warfare?": {
+            "name": "Przyszłość wojen?",
+            "effect": "<p>Kiedy atakujesz bronią ciężką, powodujesz trafienie krytyczne, jeśli po odliczeniu Odporności celu zadasz mu 3 lub więcej obrażeń (zamiast normalnych 5 lub więcej)</p>",
+            "description": "<p>Magazyn informacyjny poświęcony takim tematom jak inżynieria rakietowa, robotyka, technologia laserowa i innym najnowszym dziedzinom nauki oraz technologii.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.PBp0DOgO6fmob9LU]</p>"
+        },
+        "Geckos and Gamma Radiation": {
+            "name": "Gekony i promieniowanie gamma",
+            "effect": "<p>Kiedy atakujesz Mutanta, zwiększasz zadawane obrażenia o +2 @fos[DC] </p>",
+            "description": "<p>Magazyn informacyjny poświęcony takim tematom jak inżynieria rakietowa, robotyka, technologia laserowa i innym najnowszym dziedzinom nauki oraz technologii.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.kYMZ1knDNl0hLeI8]</p>"
+        },
+        "Get Off My Lawn": {
+            "name": "Zjeżdżać z mojego terenu!",
+            "effect": "<p>Z oprawionej zwierzyny uzyskujesz dwa razy więcej mięsa</p>",
+            "description": "<p>Pasjonujące i prawdziwe opowieści dla twardzieli! „Mieszkaniec Dziczy” to seria czasopism z artykułami i opowieściami o surwiwalu. Przeznaczona dla ludzi, którzy lubią rozmawiać o sposobach przetrwania w dzikich ostępach.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.6b46sO6gPyRRziMy]</p>"
+        },
+        "Giant Insects Invade!": {
+            "name": "Najazd olbrzymich owadów!",
+            "effect": "<p>+2 do Odporności na obrażenia radiacyjne</p>",
+            "description": "<p>Czasopismo z pasjonującymi opowiadaniami o porywających przygodach!</p>\n<ul>\n<li><strong>Profit:</strong>Możesz skorzystać z tego profitu tylko raz. Zapewniają one modyfikator do obrażeń lub Odporności przeciwko przeciwnikowi lub atakowi. Efekt ten stosuje się do jednego ataku (wykonywanego lub otrzymywanego). Jeśli wykupisz dany profit na stałe, możesz go używaćw każdym ataku.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.fMq7BDUKGUIZDOEY]</p>"
+        },
+        "Giant Super Weapons!": {
+            "name": "Olbrzymie superbronie!",
+            "effect": "<p>Kiedy atakujesz bronią Gatlinga, możesz zużyć 8 razy więcej amunicji zamiast normalnych 10</p>",
+            "description": "<p>Magazyn informacyjny poświęcony takim tematom jak inżynieria rakietowa, robotyka, technologia laserowa i innym najnowszym dziedzinom nauki oraz technologii.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.JGsQpE2E1zseUEdM]</p>"
+        },
+        "Guide to Hunting Commies!": {
+            "name": "Przewodnik łowcy komuchów!",
+            "effect": "<p>Kiedy atakujesz wroga, który ma niższy poziom doświadczenia od ciebie, zwiększasz zadawane obrażenia o +2@fos[DC]</p>",
+            "description": "<p>Seria czasopism przeznaczonych dla miłośników broni palnej, z artykułami poświęconymi myślistwu, broni, przepisom o jej posiadaniu oraz opisom jej praktycznego zastosowania.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.BoK3Po9WKYHAv4Y9]</p>"
+        },
+        "Hardy as a Sasquatch": {
+            "name": "Odporny jak Sasquatch",
+            "effect": "<p>Kiedy szukasz roślin, znajdujesz ich dwa razy więcej</p>",
+            "description": "<p>Pasjonujące i prawdziwe opowieści dla twardzieli! „Mieszkaniec Dziczy” to seria czasopism z artykułami i opowieściami o surwiwalu. Przeznaczona dla ludzi, którzy lubią rozmawiać o sposobach przetrwania w dzikich ostępach.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.5FSxhtSwphd72BS1]</p>"
+        },
+        "Homesteading Horror": {
+            "name": "Groza samowystarczalności",
+            "effect": "<p>–1 do trudności testu wytwarzania broni (minimum 0)</p>",
+            "description": "<p>Pasjonujące i prawdziwe opowieści dla twardzieli! „Mieszkaniec Dziczy” to seria czasopism z artykułami i opowieściami o surwiwalu. Przeznaczona dla ludzi, którzy lubią rozmawiać o sposobach przetrwania w dzikich ostępach.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.6XStNgfUJG92au27]</p>"
+        },
+        "Hunting in the Wastes": {
+            "name": "Polowanie na pustkowiach",
+            "effect": "<p>Kiedy oprawiasz zwierzynę, którą zabiłeś, a ilość uzyskanego mięsa można zwiększyć poprzez wydanie PA, otrzymujesz 1 darmowy PA do wykorzystania w tym celu (jeśli tego nie zrobisz, przepada)</p>",
+            "description": "<p>To kolejny przykład powojennego pisma informacyjnego, spisanego długopisem i ilustrowanego prymitywnymi rysunkami. Jest kopiowane i dystrybuowane na całych pustkowiach, lecz najczęściej można je znaleźć w osadach leżących w pobliżu Stołecznych Pustkowi.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.p8cH2qolrlrnLKIt]</p>"
+        },
+        "I Married a Robot": {
+            "name": "Poślubiłam Robota",
+            "effect": "<p>+2 do wszystkich Odporności przeciwko robotom</p>",
+            "description": "<p>Przedwojenna seria czasopism poświęconych związkom i stylowi życia. Często zawierały one artykuły o wydarzeniach kulturowych, porady na temat zdrowia i związku, wskazówki dietetyczne oraz wiele innych informacji.</p>\n<ul>\n<li><strong>Profit:</strong>możesz korzystać przez całą scenę. Jeśli wykupisz dany profit na stałe, działa on przez cały czas.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.xfBuEJQHYAmds5XG]</p>"
+        },
+        "In the Bosom of the Corsair Queen": {
+            "name": "Na łonie Królowej Korsarzy",
+            "effect": "<p>Kiedy trafisz wręcz, automatycznie powodujesz trafienie krytyczne</p>",
+            "description": "<p>Seria komiksów akcji – publikowanych przed Wielką Wojną przez wydawnictwo Hubris Comics – o przygodach tytułowego bohatera w prehistorycznym świecie.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.bzXcVbZZtHhGCcOs]</p>"
+        },
+        "Insect Repellent Special": {
+            "name": "Środki owadobójcze - wydanie specjalne",
+            "effect": "<p>+2 do każdej Odporności przeciwko atakowi ze strony Owada</p>",
+            "description": "<p>To kolejny przykład powojennego pisma informacyjnego, spisanego długopisem i ilustrowanego prymitywnymi rysunkami. Jest kopiowane i dystrybuowane na całych pustkowiach, lecz najczęściej można je znaleźć w osadach leżących w pobliżu Stołecznych Pustkowi.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.qxfqtIIZynyM2qIj]</p>"
+        },
+        
+        "Jungle of the Bat-Babies": {
+            "name": "Dżungla nietoperzych dzieci",
+            "effect": "<p>Kiedy otrzymasz obrażenia toksyczne, zyskujesz +3 do Odporności na obrażenia toksyczne</p>",
+            "description": "<p>Seria komiksów akcji – publikowanych przed Wielką Wojną przez wydawnictwo Hubris Comics – o przygodach tytułowego bohatera w prehistorycznym świecie.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.FgiFIu2LmrckPy5Y]</p>"
+        },
+        "Lasers & Hunting: Acceptable Overkill": {
+            "name": "LASERY NA POLOWANIU: Akceptowalna przesada",
+            "effect": "<p>Kiedy atakujesz bronią laserową, zyskuje ona Efekt obrażeń Brutalne (jeśli go nie ma)</p>",
+            "description": "<p>Seria czasopism przeznaczonych dla miłośników broni palnej, z artykułami poświęconymi myślistwu, broni, przepisom o jej posiadaniu oraz opisom jej praktycznego zastosowania.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.nRkIZJRQqkTsqQV7]</p>"
+        },
+        "Life Long Best Friends!": {
+            "name": "Najlepsze przyjaciółki na całe życie!",
+            "effect": "<p>+1 do maksymalnych PZ dla wszystkich członków drużyny</p>",
+            "description": "<p>Przedwojenna seria czasopism poświęconych związkom i stylowi życia. Często zawierały one artykuły o wydarzeniach kulturowych, porady na temat zdrowia i związku, wskazówki dietetyczne oraz wiele innych informacji.</p>\n<ul>\n<li><strong>Profit:</strong>możesz korzystać przez całą scenę. Jeśli wykupisz dany profit na stałe, działa on przez cały czas.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.SKyP3uQ4CQCcdKZs]</p>"
+        },
+        "Little Guns for Little Ladies": {
+            "name": "Małe spluwy dla drobnych pań",
+            "effect": "<p>Kiedy atakujesz bronią palną, zyskuje ona Efekt obrażeń Brutalne (jeśli go nie ma)</p>",
+            "description": "<p>Seria czasopism przeznaczonych dla miłośników broni palnej, z artykułami poświęconymi myślistwu, broni, przepisom o jej posiadaniu oraz opisom jej praktycznego zastosowania.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.YUHxXpiMFWmEtbXB]</p>"
+        },
+        "Locksmith Certification Special — Pass with Flying Colors": {
+            "name": "WYDANIE SPECJALNE: Zdaj celująco certyfikat ślusarski",
+            "effect": "<p>Kiedy w teście Otwierania zamków przydarzy ci się jedna lub więcej komplikacji, możesz wydać 1 punkt Szczęścia, żeby je zignorować</p>",
+            "description": "<p>Przedwojenne czasopismo z artykułami o sekretnej sztuce używania wytrychów oraz nowinkami z zakresu mechanicznych zamków montowanych w szafkach, drzwiach i sejfach. Na okładce zawsze widnieje ilustracja odnosząca się do tematyki danego numeru.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.xRA5ktVoyWDHRy8N]</p>"
+        },
+        "Lost in the Snows of Lust": {
+            "name": "Zagubiony wśród śniegów żądzy",
+            "effect": "<p>+2 do Odporności na obrażenia fizyczne przeciwko jednemu atakowi</p>",
+            "description": "<p>Seria komiksów akcji – publikowanych przed Wielką Wojną przez wydawnictwo Hubris Comics – o przygodach tytułowego bohatera w prehistorycznym świecie.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.pIGqn3CdOhsyQyhx]</p>"
+        },
+        "Massachusetts Surgical Journal": {
+            "name": "Periodyk chirurgiczny Massachusetts",
+            "effect": "<p>Kiedy udzielasz innej postaci pomocy medycznej i wspierasz jej test WT + Przetrwania, żeby uleczyć ranę, możesz jeden raz potraktować k20 tak, jakby wypadło na niej 1.</p>",
+            "description": "<p>Czasopismo medyczne wydawane przed wojną w Massachusetts, czyli w regionie znanym obecnie jako Wspólnota. W wyczerpujący sposób opisywało dyskusje o najnowszych postępach w nauce i technologii medycznej, publikowało badania niezwykłych przypadków chorobowych oraz stanowiło bogate źródło wiedzy z innych dziedzin medycyny.</p>\n<p><strong>Profit:</strong>Jeśli wykupisz ten profit na stałe, możesz to robić raz na sesję.</p>\n<p>@UUID[Compendium.fallout.perks.Item.scI8HRzH0QjDb1bh]</p>"
+        },
+        "Meeting People": {
+            "name": "Spotkania z Ludźmi",
+            "effect": "<p>Kiedy w teście Retoryki wyrzucisz jedną lub więcej komplikacji, możesz je zignorować. Jeśli</p>",
+            "description": "<p>Czasopismo dla wszystkich osób pozbawionych wdzięku społecznego. Reklamuje się jako źródło podstawowej wiedzy o towarzyskich interakcjach. Zawiera wskazówki, jak zdobywać przyjaciół i nawiązywać więzi, porady randkowe oraz informacje o budowaniu pewności siebie i odczytywaniu sygnałów niewerbalnych.</p>\n<ul>\n<li><strong>Profit:</strong>Jeśli wykupisz ten profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.tKQ4oQiQxWoM10p6]</p>"
+        },
+        "Mysteries of the Master Key Exposed!": {
+            "name": "Zdradzamy sekrety mistrza ślusarskiego!",
+            "effect": "<p>Możesz przerzucić 1k20 w teście Otwierania zamków</p>",
+            "description": "<p>Przedwojenne czasopismo z artykułami o sekretnej sztuce używania wytrychów oraz nowinkami z zakresu mechanicznych zamków montowanych w szafkach, drzwiach i sejfach. Na okładce zawsze widnieje ilustracja odnosząca się do tematyki danego numeru.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.dx2dkCtFBWb5kukV]</p>"
+        },
+        "Nightmare in the Garden": {
+            "name": "Koszmar w ogrodzie",
+            "effect": "<p>Spożycie Alkoholu leczy dodatkowe 2 PZ</p>",
+            "description": "<p>Pasjonujące i prawdziwe opowieści dla twardzieli! „Mieszkaniec Dziczy” to seria czasopism z artykułami i opowieściami o surwiwalu. Przeznaczona dla ludzi, którzy lubią rozmawiać o sposobach przetrwania w dzikich ostępach.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.C2pRfk15zpFV3sgG]</p>"
+        },
+        "Nuke-the-Man!": {
+            "name": "Zrzuć mu na łeb bombę atomową!",
+            "effect": "<p>Kiedy członkowie drużyny atakują, zwiększają zadawane przez siebie obrażenia o +1@fos[DC]</p>",
+            "description": "<p>Przedwojenna seria czasopism poświęconych związkom i stylowi życia. Często zawierały one artykuły o wydarzeniach kulturowych, porady na temat zdrowia i związku, wskazówki dietetyczne oraz wiele innych informacji.</p>\n<ul>\n<li><strong>Profit:</strong>możesz korzystać przez całą scenę. Jeśli wykupisz dany profit na stałe, działa on przez cały czas.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.H27K9ike953ZIyRl]</p>"
+        },
+        "Open Any Lock in 5 Seconds Flat": {
+            "name": "Dowolny zamek w pięc sekund",
+            "effect": "<p>Kiedy otworzyłeś zamek, możesz skorzystać z opcji skrócenia czasu bez wydawania PA</p>",
+            "description": "<p>Przedwojenne czasopismo z artykułami o sekretnej sztuce używania wytrychów oraz nowinkami z zakresu mechanicznych zamków montowanych w szafkach, drzwiach i sejfach. Na okładce zawsze widnieje ilustracja odnosząca się do tematyki danego numeru.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.mrgLpKa5RkDmIWHq]</p>"
+        },
+        "Plasma: The Weapon of Tomorrow": {
+            "name": "PLAZMA: broń jutra",
+            "effect": "<p>Kiedy atakujesz bronią plazmową, zyskuje ona Efekt obrażeń Brutalne (jeśli go nie ma)</p>",
+            "description": "<p>Seria czasopism przeznaczonych dla miłośników broni palnej, z artykułami poświęconymi myślistwu, broni, przepisom o jej posiadaniu oraz opisom jej praktycznego zastosowania.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.SbayR4I8JCyymq0a]</p>"
+        },
+        "Programmer's Digest": {
+            "name": "Przegląd Programisty",
+            "effect": "<p>Po nieudanym teście Nauki w celu zhakowania komputera, kiedy grozi ci zablokowanie systemu (udaremniające kolejną próbę), możesz to jeden raz obejść i podjąć drugą próbę.</p>",
+            "description": "<p>Magazyn dla miłośników komputerów z artykułami o językach programowania, technikach szyfrowania i deszyfrowania oraz najnowszym oprogramowaniu.</p>\n<ul>\n<li><strong>Profit:</strong> Jeśli wykupisz ten profit na stałe, możesz to zrobić za każdymn razem, kiedy grozi ci zablokowanie systemu.<span class=\"fontstyle0\"></span></li>\n</ul>\n<p><span class=\"fontstyle0\">@UUID[Compendium.fallout.perks.Item.xmOWzjBpDXRfPa9Y]</span></p>"
+        },
+        "Rise of the Mutants!": {
+            "name": "Powstanie Mutantów!",
+            "effect": "<p>Kiedy atakujesz supermutanta, otrzymujesz +1@fos[DC] do ataku</p>",
+            "description": "<p>Czasopismo z pasjonującymi opowiadaniami o porywających przygodach!</p>\n<ul>\n<li><strong>Profit:</strong>Możesz skorzystać z tego profitu tylko raz. Zapewniają one modyfikator do obrażeń lub Odporności przeciwko przeciwnikowi lub atakowi. Efekt ten stosuje się do jednego ataku (wykonywanego lub otrzymywanego). Jeśli wykupisz dany profit na stałe, możesz go używaćw każdym ataku.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.Gn880XN7Auhdop6S]</p>"
+        },
+        "Rocket Science for Toddlers": {
+            "name": "Inżyniera rakietowa dla najmłodszych",
+            "effect": "<p>Kiedy atakujesz bronią Wybuchową, zwiększasz zadawane obrażenia o +2 @fos[DC] </p>",
+            "description": "<p>Magazyn informacyjny poświęcony takim tematom jak inżynieria rakietowa, robotyka, technologia laserowa i innym najnowszym dziedzinom nauki oraz technologii.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.3gc78PRC1se8qefU]</p>"
+        },
+        "Science Gone Mad!": {
+            "name": "Szalona nauka!",
+            "effect": "<p>+2 do Odporności na obrażenia energetyczne</p>",
+            "description": "<p>Czasopismo z pasjonującymi opowiadaniami o porywających przygodach!</p>\n<ul>\n<li><strong>Profit:</strong>Możesz skorzystać z tego profitu tylko raz. Zapewniają one modyfikator do obrażeń lub Odporności przeciwko przeciwnikowi lub atakowi. Efekt ten stosuje się do jednego ataku (wykonywanego lub otrzymywanego). Jeśli wykupisz dany profit na stałe, możesz go używaćw każdym ataku.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.fDu6KU5u17sqA1hf]</p>"
+        },
+        "Self Defense Secrets": {
+            "name": "Sekrety samoobrony",
+            "effect": "<p>+1 do Obrony przeciwko atakowi wręcz</p>",
+            "description": "<p>To kolejny przykład powojennego pisma informacyjnego, spisanego długopisem i ilustrowanego prymitywnymi rysunkami. Jest kopiowane i dystrybuowane na całych pustkowiach, lecz najczęściej można je znaleźć w osadach leżących w pobliżu Stołecznych Pustkowi.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.yXOy24286aAjL5ID]</p>"
+        },
+        "Street Guns of Detroit": {
+            "name": "Uliczna broń z Detroit",
+            "effect": "<p>Po udanym teście ataku otrzymujesz 2 dodatkowe PA; musisz je natychmiast wydać i nie możesz ich zachować na później</p>",
+            "description": "<p>Seria czasopism przeznaczonych dla miłośników broni palnej, z artykułami poświęconymi myślistwu, broni, przepisom o jej posiadaniu oraz opisom jej praktycznego zastosowania.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.iQofqWEFwGokog1G]</p>"
+        },
+        "Surrounded by the Dead!": {
+            "name": "Otoczeni przez umarłych!",
+            "effect": "<p>Kiedy atakujesz i zużywasz 1 lub więcej jednostek amunicji, żeby zadać dodatkowe obrażenia, otrzymujesz +1@fos[DC] do ataku</p>",
+            "description": "<p>Czasopismo z pasjonującymi opowiadaniami o porywających przygodach!</p>\n<ul>\n<li><strong>Profit:</strong>Możesz skorzystać z tego profitu tylko raz. Zapewniają one modyfikator do obrażeń lub Odporności przeciwko przeciwnikowi lub atakowi. Efekt ten stosuje się do jednego ataku (wykonywanego lub otrzymywanego). Jeśli wykupisz dany profit na stałe, możesz go używaćw każdym ataku.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.pk42jPbAVMosmA0k]</p>"
+        },
+        "Take Aim, Army Style": {
+            "name": "Celuj w wojskowym stylu",
+            "effect": "<p>Kiedy wykonujesz pomniejszą akcję celowania bronią, która nie posiada cechy Celna, a następnie nią atakujesz, zadawane obrażenia zostają zwiększone o +2@fos[DC]</p>",
+            "description": "<p>Seria czasopism przeznaczonych dla miłośników broni palnej, z artykułami poświęconymi myślistwu, broni, przepisom o jej posiadaniu oraz opisom jej praktycznego zastosowania.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.oRB1ZIvzhsUMElSc]</p>"
+        },
+        "Tales of a Junktown Jerky Vendor": {
+            "name": "Opowieści handlarza mięsem z Junktown",
+            "effect": "<p>Po nieudanym teście Handlu, żeby negocjować cenę, możesz raz wydać 1 punkt Szczęścia, żeby zmienić ją o 10% na swoją korzyść.</p>",
+            "description": "<p>Jeden z nielicznych powojennych magazynów. Zbiór krótkich, ręcznie wykonanych książek, których autorem jest anonimowy handlarz mięsem z osady Junktown. Ich egzemplarze są spotykane na całym terytorium pustkowi – od Kalifornii (gdzie znajduje się Junktown) aż po Wspólnotę.</p>\n<ul>\n<li><strong>Profit:</strong>Jeśli wykupisz ten profit na stałe, możesz to zrobić w każdym teście Handlu, kiedy się targujesz. Za każdym kolejnym razem, kiedy używasz tego profitu podczas tej samej sesji, wydajesz o 1 punkt Szczęścia więcej (1 za pierwszym razem, 2 za drugim, 3 za trzecim i tak dalej).</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.Qf4PBCvZdSvPAeX7]</p>"
+        },
+        "Talk Yourself Sober": {
+            "name": "Sama się przekonaj do trzeźwości",
+            "effect": "<p>Kiedy wypijesz Alkohol, otrzymujesz 1 punkt Szczęścia (jeśli do końca sceny go nie użyjesz, przepada)</p>",
+            "description": "<p>Przedwojenna seria czasopism poświęconych związkom i stylowi życia. Często zawierały one artykuły o wydarzeniach kulturowych, porady na temat zdrowia i związku, wskazówki dietetyczne oraz wiele innych informacji.</p>\n<ul>\n<li><strong>Profit:</strong>możesz korzystać przez całą scenę. Jeśli wykupisz dany profit na stałe, działa on przez cały czas.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.Jip3JdMpV9HTHujn]</p>"
+        },
+        "The Appalachia Squirrel Massacre": {
+            "name": "Rzeź wiewiórek z Appalachii",
+            "effect": "<p>Jeden posiłek, który ugotujesz i zjesz, leczy dodatkowe +3 PZ</p>",
+            "description": "<p>Pasjonujące i prawdziwe opowieści dla twardzieli! „Mieszkaniec Dziczy” to seria czasopism z artykułami i opowieściami o surwiwalu. Przeznaczona dla ludzi, którzy lubią rozmawiać o sposobach przetrwania w dzikich ostępach.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.kQD85MOcz1B4KHsV]</p>"
+        },
+        "The Bright Side of Radiation Poisoning": {
+            "name": "Zalety zatrucia radiacyjnego",
+            "effect": "<p>Spożycie skażonego posiłku lub napoju leczy tyle PZ, ile wypadło na @fos[DC]</p>",
+            "description": "<p>To kolejny przykład powojennego pisma informacyjnego, spisanego długopisem i ilustrowanego prymitywnymi rysunkami. Jest kopiowane i dystrybuowane na całych pustkowiach, lecz najczęściej można je znaleźć w osadach leżących w pobliżu Stołecznych Pustkowi.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.BSi2qWkBGOJKFFED]</p>"
+        },
+        "The Future of Hunting?": {
+            "name": "Przyszłość polowań?",
+            "effect": "<p>Kiedy atakujesz robota, zwiększasz zadawane obrażenia o +2@fos[DC]</p>",
+            "description": "<p>Seria czasopism przeznaczonych dla miłośników broni palnej, z artykułami poświęconymi myślistwu, broni, przepisom o jej posiadaniu oraz opisom jej praktycznego zastosowania.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.kBFXBzcatoT884Je]</p>"
+        },
+        "The Gunsmith of Harper’s Ferry": {
+            "name": "Rusznikarz z Harper’s Ferry",
+            "effect": "<p>Kiedy szukasz amunicji, znajdujesz dodatkowe +2@fos[DC] jednostki</p>",
+            "description": "<p>Pasjonujące i prawdziwe opowieści dla twardzieli! „Mieszkaniec Dziczy” to seria czasopism z artykułami i opowieściami o surwiwalu. Przeznaczona dla ludzi, którzy lubią rozmawiać o sposobach przetrwania w dzikich ostępach.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.3caIOATNwBm6EPuh]</p>"
+        },
+        "The Lair of the Virgin Eaters": {
+            "name": "Siedlisko Pożeraczy Dziewic",
+            "effect": "<p>Udźwig +10 do końca sceny</p>",
+            "description": "<p>Seria komiksów akcji – publikowanych przed Wielką Wojną przez wydawnictwo Hubris Comics – o przygodach tytułowego bohatera w prehistorycznym świecie.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.KEpm4gH8RvMjhpoO]</p>"
+        },
+        "The Mad Russian's Revenge!": {
+            "name": "Zemsta Szalonego Rosjanina!",
+            "effect": "<p>+2 do Odporności na obrażenia toksyczne</p>",
+            "description": "<p>Czasopismo z pasjonującymi opowiadaniami o porywających przygodach!</p>\n<ul>\n<li><strong>Profit:</strong>Możesz skorzystać z tego profitu tylko raz. Zapewniają one modyfikator do obrażeń lub Odporności przeciwko przeciwnikowi lub atakowi. Efekt ten stosuje się do jednego ataku (wykonywanego lub otrzymywanego). Jeśli wykupisz dany profit na stałe, możesz go używaćw każdym ataku.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.LSUSRTgMyqfN1EQx]</p>"
+        },
+        "The Moon: A Communist Doomsday Device?!": {
+            "name": "KSIĘŻYC: komunistyczna broń zagłady?!",
+            "effect": "<p>+2 do Odporności na obrażenia fizyczne lub energetyczne przeciwko atakowi wykonywanemu w nocy</p>",
+            "description": "<p>Seria czasopism przeznaczonych dla miłośników broni palnej, z artykułami poświęconymi myślistwu, broni, przepisom o jej posiadaniu oraz opisom jej praktycznego zastosowania.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.zZg9mSTuufYGzSib]</p>"
+        },
+        "The Ohio River Hermit": {
+            "name": "Pustelnik znad rzeki Ohio",
+            "effect": "<p>–1 do trudności testu naprawy uszkodzonego przedmiotu (minimum 0)</p>",
+            "description": "<p>Pasjonujące i prawdziwe opowieści dla twardzieli! „Mieszkaniec Dziczy” to seria czasopism z artykułami i opowieściami o surwiwalu. Przeznaczona dla ludzi, którzy lubią rozmawiać o sposobach przetrwania w dzikich ostępach.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.7vvLcpVth2gMnB7o]</p>"
+        },
+        "The Secretary Charmer": {
+            "name": "Czarująca sekretarka",
+            "effect": "<p>Na początku sceny dodajesz +1 PA do puli grupowej</p>",
+            "description": "<p>Przedwojenna seria czasopism poświęconych związkom i stylowi życia. Często zawierały one artykuły o wydarzeniach kulturowych, porady na temat zdrowia i związku, wskazówki dietetyczne oraz wiele innych informacji.</p>\n<ul>\n<li><strong>Profit:</strong>możesz korzystać przez całą scenę. Jeśli wykupisz dany profit na stałe, działa on przez cały czas.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.disfFslU7fhYTIlC]</p>"
+        },
+        "The Starlet Sniper!": {
+            "name": "Sexy snajperka!",
+            "effect": "<p>Kiedy atakujesz Celną bronią, otrzymujesz +1@fos[DC] do ataku</p>",
+            "description": "<p>Czasopismo z pasjonującymi opowiadaniami o porywających przygodach!</p>\n<ul>\n<li><strong>Profit:</strong>Możesz skorzystać z tego profitu tylko raz. Zapewniają one modyfikator do obrażeń lub Odporności przeciwko przeciwnikowi lub atakowi. Efekt ten stosuje się do jednego ataku (wykonywanego lub otrzymywanego). Jeśli wykupisz dany profit na stałe, możesz go używaćw każdym ataku.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.x6hpmUJFDTD3Iw82]</p>"
+        },
+        "Tomorrow's Technology for Today's Super Soldiers": {
+            "name": "Technologia jutra dla dzisiejszych superżołnierzy",
+            "effect": "<p>Po wydaniu 1 ładunku rdzenia fuzyjnego możesz wydać 1 punkt Szczęścia, żeby zanegować jego zużycie</p>",
+            "description": "<p>Magazyn informacyjny poświęcony takim tematom jak inżynieria rakietowa, robotyka, technologia laserowa i innym najnowszym dziedzinom nauki oraz technologii.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.eTkUS79PttpiHVm0]</p>"
+        },
+        "Trapped in the Dimension of the Pterror-dactyls": {
+            "name": "Uwięzieni w wymiarze Pterror-daktyli!",
+            "effect": "<p>Wydaj 1 punkt Szczęścia, żeby uniknąć wszystkich obrażeń pochodzących z ataku wręcz</p>",
+            "description": "<p>Komiks wydawany przed Wielką Wojną przez Hubris Comics, który opowiada o przygodach bohaterów znanych z innych serii Hubris, między innymi Srebrnego Całunu, Pani Tajemnicy, Inspektora, Człowieka-Płaszczki oraz Grognaka Barbarzyńcy. Razem tworzą oni tytułowych Niezwyciężonych. Okładki przedstawiały bohaterów, złoczyńców oraz sceny z przygód opisanych w danym numerze.</p>\n<ul>\n<li><strong>Profit:</strong>Możesz skorzystać tylko raz. Pozwalają one wydawać punkty Szczęścia, żeby uniknąć różnych rodzajów obrażeń. Jeśli wykupisz dany profit na stałe, możesz z niego korzystać, dopóki starczy ci punktów Szczęścia.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.VrMFCFltA2MKaCcH]</p>"
+        },
+        "Trim the Fat!": {
+            "name": "Spal tłuszcz!",
+            "effect": "<p>Spożycie owoców leczy dwa razy więcej PZ</p>",
+            "description": "<p>Przedwojenna seria czasopism poświęconych związkom i stylowi życia. Często zawierały one artykuły o wydarzeniach kulturowych, porady na temat zdrowia i związku, wskazówki dietetyczne oraz wiele innych informacji.</p>\n<ul>\n<li><strong>Profit:</strong>możesz korzystać przez całą scenę. Jeśli wykupisz dany profit na stałe, działa on przez cały czas.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.siFrRn6TjSmxGKas]</p>"
+        },
+        "True Police Stories": {
+            "name": "Prawdziwe Historie Policyjne",
+            "effect": "<p>Kiedy podczas ataku rzucasz na obrażenia, możesz wydać 1 punkt Szczęścia, żeby ustawić dowolny wynik na maksymalnie trzech kościach @fos[DC] (nie musisz nimi rzucać).</p>",
+            "description": "<p>Przedwojenny magazyn pulpowy z hasłem reklamowym „każdy numer tylko 20 stron”, który zawiera fabularyzowane historie słynnych śledztw policyjnych i głośnych zatrzymań przestępców.</p>\n<ul>\n<li><strong>Profit:</strong>Jeśli wykupisz ten profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.DC6xyEVANOUPyy1I]</p>"
+        },
+        "U.S. Army Goes to Space": {
+            "name": "Armia amerykańska wyrusza w kosmos",
+            "effect": "<p>Kiedy atakujesz bronią energetyczną, powodujesz trafienie krytyczne, jeśli po odliczeniu Odporności celu zadasz mu 3 lub więcej obrażeń (zamiast normalnych 5 lub więcej)</p>",
+            "description": "<p>Magazyn informacyjny poświęcony takim tematom jak inżynieria rakietowa, robotyka, technologia laserowa i innym najnowszym dziedzinom nauki oraz technologii.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.lkAJKVOfU1DfjLU9]</p>"
+        },
+        "Visit the Ux-Ron Galaxy!": {
+            "name": "Podróż do galaktyki ux-ronów!",
+            "effect": "<p>Wydaj 1 punkt Szczęścia, żeby uniknąć wszystkich obrażeń energetycznych pochodzących z pojedynczego ataku</p>",
+            "description": "<p>Komiks wydawany przed Wielką Wojną przez Hubris Comics, który opowiada o przygodach bohaterów znanych z innych serii Hubris, między innymi Srebrnego Całunu, Pani Tajemnicy, Inspektora, Człowieka-Płaszczki oraz Grognaka Barbarzyńcy. Razem tworzą oni tytułowych Niezwyciężonych. Okładki przedstawiały bohaterów, złoczyńców oraz sceny z przygód opisanych w danym numerze.</p>\n<ul>\n<li><strong>Profit:</strong>Możesz skorzystać tylko raz. Pozwalają one wydawać punkty Szczęścia, żeby uniknąć różnych rodzajów obrażeń. Jeśli wykupisz dany profit na stałe, możesz z niego korzystać, dopóki starczy ci punktów Szczęścia.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.Lf2VvWWVug9jj5Ly]</p>"
+        },
+        "Water Aerobics for Ghouls": {
+            "name": "Wodny aerobik dla ghuli",
+            "effect": "<p>–1 do trudności (minimum 0) testu Atletyki, kiedy pływasz (minimum 0)</p>",
+            "description": "<p>To kolejny przykład powojennego pisma informacyjnego, spisanego długopisem i ilustrowanego prymitywnymi rysunkami. Jest kopiowane i dystrybuowane na całych pustkowiach, lecz najczęściej można je znaleźć w osadach leżących w pobliżu Stołecznych Pustkowi.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.xXZcXGsZY6g4QkTl]</p>"
+        },
+        "What Is Plasma, Anyway?": {
+            "name": "Czym tak naprawdę jest plazma?",
+            "effect": "<p>+2 do Odporności na obrażenia fizyczne i energetyczne przeciwko broni plazmowej</p>",
+            "description": "<p>Magazyn informacyjny poświęcony takim tematom jak inżynieria rakietowa, robotyka, technologia laserowa i innym najnowszym dziedzinom nauki oraz technologii.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.MsNkQ2J8T75NE3uJ]</p>"
+        },
+        "What Sorcery is This?": {
+            "name": "Cóż to za czary?!",
+            "effect": "<p>+2 do Odporności na obrażenia energetyczne przeciwko jednemu atakowi</p>",
+            "description": "<p>Seria komiksów akcji – publikowanych przed Wielką Wojną przez wydawnictwo Hubris Comics – o przygodach tytułowego bohatera w prehistorycznym świecie.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.1KDDs6qPimKnwL9r]</p>"
+        },
+        "Who Can Stop the Unstoppable Grog-Na-Rok?!": {
+            "name": "Kto powstrzyma Niepowstrzymanego Grog-Na-Roka?!",
+            "effect": "<p>Wydaj 2 punkty Szczęścia, żeby uniknąć wszystkich obrażeń pochodzących z jednego ataku wykonanego przez humanoidalnego Mutanta (łącznie z ghulami i supermutantami)</p>",
+            "description": "<p>Komiks wydawany przed Wielką Wojną przez Hubris Comics, który opowiada o przygodach bohaterów znanych z innych serii Hubris, między innymi Srebrnego Całunu, Pani Tajemnicy, Inspektora, Człowieka-Płaszczki oraz Grognaka Barbarzyńcy. Razem tworzą oni tytułowych Niezwyciężonych. Okładki przedstawiały bohaterów, złoczyńców oraz sceny z przygód opisanych w danym numerze.</p>\n<ul>\n<li><strong>Profit:</strong>Możesz skorzystać tylko raz. Pozwalają one wydawać punkty Szczęścia, żeby uniknąć różnych rodzajów obrażeń. Jeśli wykupisz dany profit na stałe, możesz z niego korzystać, dopóki starczy ci punktów Szczęścia.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.7heg2KN3JXIllHT2]</p>"
+        },
+        "Will Robots Rule the World?": {
+            "name": "Czy Roboty będą rządzić światem",
+            "effect": "<p>+2 do Odporności na obrażenia fizyczne i energetyczne przeciwko robotom</p>",
+            "description": "<p>Magazyn informacyjny poświęcony takim tematom jak inżynieria rakietowa, robotyka, technologia laserowa i innym najnowszym dziedzinom nauki oraz technologii.</p>\n<ul>\n<li><strong>Profit:</strong> Możesz skorzystać z tego profitu tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.9LAlQMlnpZ2lYqKV]</p>"
+        },
+        "¡La Fantoma!": {
+            "name": "¡La Fantoma!",
+            "effect": "Po udanym teście Skradania się w celu uniknięcia zauważenia możesz wydać 1 PA, żeby w dowolnym miejscu na średnim dystansie wywołać jakieś zamieszanie. Postać, która przegrała w próbie sił, żeby cię zauważyć, daje się nabrać i zmierza w stronę przygotowanej przez ciebie dywersji. Jeśli wykupisz ten profit na stałe, możesz go wykorzystywać raz na scenę.",
+            "description": "<p>Egzemplarz przedwojennego komiksu o przygodach <strong>¡La Fantoma!</strong>, specjalisty od kamuflażu i infiltracji.</p>\n<ul>\n<li><strong>Profit:</strong> Po udanym teście Skradania się w celu uniknięcia zauważenia możesz wydać 1 PA, żeby w dowolnym miejscu na średnim dystansie wywołać jakieś zamieszanie. Postać, która przegrała w próbie sił, żeby cię zauważyć, daje się nabrać i zmierza w stronę przygotowanej przez ciebie dywersji. Jeśli wykupisz ten profit na stałe, możesz go wykorzystywać raz na scenę.</li>\n</ul>\n<p>@UUID[Compendium.fallout.perks.Item.wUoc5IDZQ0ye1TDw]</p>"
+        }
+    },
+    "mapping": {
+        "description": "system.description",
+        "effect": "system.effect"
+    }
 }
+

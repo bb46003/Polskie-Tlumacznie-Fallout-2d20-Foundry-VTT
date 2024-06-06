@@ -1,0 +1,19 @@
+{
+    "label":"Tabele Losowe",
+    "entries": [
+        {
+            "id": "VBozpx6mDrPoJLWD",
+            "name": "Lokalizacje Trafiniea",
+            "results": {
+                "1-2": "Głowa",
+                "3-8": "Korpus",
+                "9-11": "Lewa ręka",
+                "12-14":"Prawa ręka",
+                "15-17": "Lewa noga",
+                "18-20": "Prawa noga"
+
+            }
+        }
+    ]
+
+}

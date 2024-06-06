@@ -2,7 +2,7 @@
   "id": "fallout-pl",
   "title": "Polskie tłumacznie systemu Fallout 2d20",
   "description": "Dzięki uprzejmości AlisGames wszystkie tłumaczneia podzą z Polskiego wydania gry Fallout 2d20",
-  "version": "0.1.6",
+  "version": "0.2",
   "license": "LICENSE",
   "compatibility": {
     "minimum": "11",
@@ -27,7 +27,10 @@
       {
         "id": "babele",
         "type": "module",
-        "compatibility": {}
+        "compatibility": {
+          "minimum": "2.5.5",
+          "verified": "2.5.5"
+        }
       },
       {
         "id": "lib-wrapper",

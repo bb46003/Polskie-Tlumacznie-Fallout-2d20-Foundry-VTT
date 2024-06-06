@@ -1,0 +1,18 @@
+{
+    "label": "Dokumentacja Systemu",
+    "entries": {
+		"Active Effects": {
+			"name": "Aktywne Efekty",
+            "pages": {
+                "Active Effects": {
+                    "name": "Aktywne Efekty",
+                    "text": "<h1>Przydatne Klucze Aktywnych Efektów</h1>\n<p>Ten dokument zawiera listę różnych przydatnych kluczy danych, które można użyć do dostosowania wartości za pomocą Aktywnych Efektów w razie potrzeby.</p>\n<p>Nie jest to obszerna lista, obejmuje tylko niektóre z bardziej przydatnych kluczy.</p>\n<h2>Postacie i Roboty</h2>\n<table>\n    <thead>\n        <tr>\n            <th>Klucz</th>\n            <th>Opis</th>\n        </tr>\n    </thead>\n    <tbody>\n        <tr>\n            <td><code>system.defense.bonus</code></td>\n            <td>Można użyć do dostosowania Wyniku Obrony gracza</td>\n        </tr>\n        <tr>\n            <td><code>system.health.bonus</code></td>\n            <td>Można użyć do dostosowania Zdrowia gracza</td>\n        </tr>\n        <tr>\n            <td><code>system.initiative.bonus</code></td>\n            <td>Można użyć do dostosowania Inicjatywy gracza</td>\n        </tr>\n        <tr>\n            <td><code>system.meleeDamage.bonus</code></td>\n            <td>Można użyć do dostosowania Premii do Obrażeń w Walce Wręcz gracza</td>\n        </tr>\n    </tbody>\n</table>\n<h2>Osady</h2>\n<p>Poniższe klucze mogą być użyte do dostosowania różnych wartości Osady:</p>\n<table>\n    <thead>\n        <tr>\n            <th>Klucz</th>\n            <th>Opis</th>\n        </tr>\n    </thead>\n    <tbody>\n        <tr>\n            <td><code>system.assignments.build</code></td>\n            <td>Można użyć do dostosowania liczby osadników przypisanych do budowania</td>\n        </tr>\n        <tr>\n            <td><code>system.assignments.business</code></td>\n            <td>Można użyć do dostosowania liczby osadników prowadzących biznesy</td>\n        </tr>\n        <tr>\n            <td><code>system.assignments.guard</code></td>\n            <td>Można użyć do dostosowania liczby osadników przypisanych do straży</td>\n        </tr>\n        <tr>\n            <td><code>system.assignments.hunting_and_gathering</code></td>\n            <td>Można użyć do dostosowania liczby osadników przypisanych do polowania i zbieractwa</td>\n        </tr>\n        <tr>\n            <td><code>system.assignments.scavenging</code></td>\n            <td>Można użyć do dostosowania liczby osadników przypisanych do zbieractwa</td>\n        </tr>\n        <tr>\n            <td><code>system.assignments.tend_crops</code></td>\n            <td>Można użyć do dostosowania liczby osadników przypisanych do uprawy roślin</td>\n        </tr>\n        <tr>\n            <td><code>system.assignments.trade_caravan</code></td>\n            <td>Można użyć do dostosowania liczby osadników przypisanych do karawan handlowych</td>\n        </tr>\n        <tr>\n            <td><code>system.assignments.unnasigned</code></td>\n            <td>Można użyć do dostosowania liczby nieprzypisanych osadników</td>\n        </tr>\n        <tr>\n            <td><code>system.people.mod</code></td>\n            <td>Można użyć do dostosowania liczby osadników w osadzie</td>\n        </tr>\n    </tbody>\n</table>"
+                }    
+		    }
+        },
+		"Release Notes": {
+			"name": "Informacje o wersji systemu"
+		}
+        
+    }
+}

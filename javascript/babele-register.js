@@ -95,15 +95,16 @@ class falloutpl {
     
 }
 
-Hooks.once('init', () => {
+Hooks.once('init', async () => {
+    if(game.babele !== undefined){
     if (typeof Babele !== 'undefined') {
-        Babele.get().register({
+        game.babele.register({
             module: 'fallout-pl',
             lang: 'pl',
             dir: 'compendium'
         });
     }
-    
+}
 
 });
 

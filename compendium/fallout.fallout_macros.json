@@ -1,0 +1,21 @@
+{
+    "label":"Makra Fallout",
+    "entries": {
+        "D20 Roller": {
+            "name": "Makro rzutu D20"       
+        },
+        "D6 Roller": {
+			"name": "Mokro do rzutów Kośćmi Walki"
+		},
+		"New Session (GM)": {
+			"name": "Nowa Sesja (tylko dla MG)"
+		},
+		"Open Scavenging Help Website": {
+			"name": "Otwórz stronę www z pomocą w szabrowaniu"
+		},
+		"Party Sleep (GM)": {
+			"name": "Odpoczynek drużyny(tylko dla MG)"
+	}
+
+    }
+}

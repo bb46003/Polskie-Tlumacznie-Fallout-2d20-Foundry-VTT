@@ -2,99 +2,99 @@
 	"label": "Rozmaitości",
 	"entries": {
 		"Backpack, Large": {
-			"name": "Backpack, Large",
-			"effect": "<p>Wearer adds +10xSTR to maximum Carry weight</p>",
-			"description": "<p>Available in a few different sizes, backpacks are invaluable for carrying larger quantities of items around. Most characters are assumed to be carrying items in pockets, belt pouches, and assorted bags and sacks, but a proper backpack helps carry items more easily and more efficiently. At least, if you don&rsquo;t have a pack brahmin or something else to carry your burdens.</p>"
+			"name": "Plecak, duży",
+			"effect": "+10 * SI do maksymalnego Udźwigu",
+			"desctiption": "Dostępne w różnych rozmiarach plecaki są nieocenioną pomocą przy dźwiganiu większej liczby przedmiotów. Bohaterowie zazwyczaj noszą przedmioty w kieszeniach, zasobnikach przy pasie oraz rozmaitych torbach i workach, jednakże porządny plecak umożliwia wygodniejsze oraz skuteczniejsze przenoszenie rzeczy. Oczywiście o ile nie posiadasz bramina towarowego lub innego sposobu, żeby ulżyć swojemu brzemieniu."
 		},
 		"Backpack, Small": {
-			"name": "Backpack, Small",
-			"effect": "<p>Wearer adds +5xSTR to maximum Carry weight</p>",
-			"description": "<p>Available in a few different sizes, backpacks are invaluable for carrying larger quantities of items around. Most characters are assumed to be carrying items in pockets, belt pouches, and assorted bags and sacks, but a proper backpack helps carry items more easily and more efficiently. At least, if you don&rsquo;t have a pack brahmin or something else to carry your burdens.</p>"
+			"name": "Plecak, mały",
+			"effect": "+5 * SI do maksymalnego Udźwigu",
+			"desctiption": "Dostępne w różnych rozmiarach plecaki są nieocenioną pomocą przy dźwiganiu większej liczby przedmiotów. Bohaterowie zazwyczaj noszą przedmioty w kieszeniach, zasobnikach przy pasie oraz rozmaitych torbach i workach, jednakże porządny plecak umożliwia wygodniejsze oraz skuteczniejsze przenoszenie rzeczy. Oczywiście o ile nie posiadasz bramina towarowego lub innego sposobu, żeby ulżyć swojemu brzemieniu."
 		},
 		"Bobby Pin": {
-			"name": "Bobby Pin",
-			"effect": "<p>Reduces difficulty of Lockpick tests by 1 (minimum 1), One bobby pin breaks per complication rolled</p>",
-			"description": "<p>A flexible double-pronged hairpin, made of metal or plastic, they were used before the Great War to hold hair in place. They&rsquo;re also useful for picking locks if you know how.</p>"
+			"name": "Spinka",
+			"effect": "–1 do trudności testów Otwierania zamków (minimum 0); każda wyrzucona komplikacja oznacza złamanie jednej spinki",
+			"desctiption": "Giętka dwuzębna spinka do włosów, wykonana z metalu lub plastiku, używana przed Wielką Wojną do utrzymywania fryzury. Ma również zastosowanie jako wytrych, jeśli umiesz ją w tym celu wykorzystać."
 		},
 		"Deluxe Toolkit": {
-			"name": "Deluxe Toolkit",
-			"effect": "<p>Reduce the difficulty of Repair tests by 1 (minimum 0), May attempt Repair tests which normally require a workbench or similar at +1 difficulty</p>",
-			"description": "<p>A heavy, but still technically portable, handled metal box containing an assortment of tools of different shapes, sizes, and functions, for opening and repairing a variety of mechanical and electronic devices. Having the right tool at your disposal can make most routine repairs simpler and can even allow you to attempt more ambitious projects away from the comforts of home.</p>"
+			"name": "Luksusowy komplet narzędzi",
+			"effect": "–1 do trudności testów Naprawy (minimum 0); możesz wykonywać testy Naprawy, które normalnie wymagają pracowni lub czegoś podobnego (+1 do trudności)",
+			"desctiption": "Ciężka, choć nadal w teorii przenośna metalowa skrzynia z rozmaitymi narzędziami o wszelkich kształtach, rozmiarach i zastosowaniach, które służą do rozkręcania i naprawiania urządzeń mechanicznych i elektronicznych. Posiadanie właściwego narzędzia ułatwia przeprowadzenie prostych napraw i pozwala na podjęcie się bardziej ambitnych wyzwań z dala od komfortu własnego warsztatu."
 		},
 		"Doctor's Bag": {
-			"name": "Doctor's Bag",
-			"effect": "<p>Reduce the difficulty of Medicine tests by 1 (minimum 0), When providing long-term care, allows care of up to 2 additional patients</p>",
-			"description": "<p>A well-stocked bag of medical supplies and useful tools for the science of healing. A bit cumbersome to haul around, but the people whose lives you save will thank you for the effort.</p>\n<p>A doctor&rsquo;s bag may also contain one-use medical supplies like Stimpaks, purified water, and RadAway. These are tracked and used separately.</p>"
+			"name": "Torba lekarska",
+			"effect": "–1 do trudności testów Medycyny (minimum 0); kiedy udzielasz długotrwałej opieki medycznej, możesz leczyć do 2 dodatkowych pacjentów",
+			"desctiption":"Dobrze zaopatrzona torba z zapasami medycznymi oraz narzędziami niezbędnymi w pracy lekarza. Niezbyt poręczna, ale ludzie, którym uratujesz życie, będą ci wdzięczni za podjęty trud. W torbie lekarskiej mogą znajdować się jednorazowe zapasy, na przykład stimpaki, oczyszczona woda i AntyRad. Te przedmioty są używane i liczone osobno."
 		},
 		"Electronic Lockpicker": {
-			"name": "Electronic Lockpicker",
-			"effect": "<p>Reduces difficulty of Lockpick tests by 2 (minimum 0), Ignores first complication rolled, Breaks if two or more complications are rolled at once</p>",
-			"description": "<p>Difficult to find in the wasteland, the Wattz Electronics Micromanipulator electronic lockpick is a potent tool that can pick mechanical and electronic locks more efficiently than a person can alone. However, they&rsquo;re delicate, and can break down if misused.</p>"
+			"name": "Elektroniczny wytrych",
+			"effect": "–2 do trudności testów Otwierania zamków (minimum 0); ignorujesz pierwszą wyrzuconą komplikację; wytrych psuje się, kiedy na kościach wypadną dwie lub więcej komplikacji naraz",
+			"desctiption": "Rzadko spotykany na pustkowiach Mikromanipulator Wattz Electronics, nazywany potocznie elektronicznym wytrychem, to bardzo wydajne narzędzie, które skuteczniej niż człowiek potrafi otwierać mechaniczne oraz elektroniczne zamki. Jest to jednak urządzenie delikatne i przy niewłaściwym użytkowaniu łatwo je uszkodzić."
 		},
 		"First Aid Kit": {
-			"name": "First Aid Kit",
-			"effect": "<p>Heal +2 HP upon succeeding at the First Aid action</p>",
-			"description": "<p>A pack full of bandages, antiseptic spray, and other tools useful in helping clean and bind injuries in the field. First aid kits also often come with Stimpaks and RadAway, but these are used and tracked separately</p>"
+			"name": "Apteczka",
+			"effect": "Udana akcja pierwszej pomocy leczy +2 PZ",
+			"desctiption": "Zestaw pierwszej pomocy z bandażami, sprejem antyseptycznym i innymi akcesoriami medycznymi, które są przydatne do oczyszczania i opatrywania ran w warunkach polowych. Często zawiera również stimpaki oraz AntyRad, aczkolwiek są one używane i liczone osobno."
 		},
 		"Flashlight": {
-			"name": "Flashlight",
-			"effect": "<p>Generates bright light in a single zone within Medium range; the user may choose which zone is illuminated</p>",
-			"description": "<p>A sturdy, battery-operated light source that can easily be directed to points of interest. Long-lasting, high-capacity batteries keep the light working for a long time.</p>"
+			"name": "Latarka",
+			"effect": "Wytwarza jasne światło w jednej strefie do średniego dystansu; możesz wybrać, którą strefę oświetlasz",
+			"desctiption": "O mocnej konstrukcji i zasilana baterią. Emituje snop światła, który łatwo można skupić w konkretnym miejscu. Baterie o długiej żywotności i wysokiej wydajności umożliwiają jej używanie przez długi czas."
 		},
 		"Geiger Counter": {
-			"name": "Geiger Counter",
-			"effect": "<p>Allows a PER + Survival test, difficulty 1, to determine if there is radiation present in an area, and how much</p>",
-			"description": "<p>A Geiger counter is a relatively simple tool, used to detect ionizing radiation. This is displayed on a small gauge, and signaled by a characteristic ticking sound, a common feature of counters, generated by the electronics for easy detection and monitoring of radiation.</p>"
+			"name": "Licznik geigera",
+			"effect": "Umożliwia wykonanie testu PER + Przetrwania o trudności 1, żeby wykryć okoliczne promieniowanie i ocenić jego moc",
+			"desctiption": "To stosunkowo prosty miernik, używany do wykrywania promieniowania jonizującego. Wynik jest pokazywany na małym ekranie i towarzyszy mu charakterystyczne tykanie – jest to powszechnie stosowane rozwiązanie w licznikach elektronicznych, pozwalające w łatwy sposób wykryć promieniowanie i monitorować jego poziom."
 		},
 		"Holotags": {
-			"name": "Holotags",
-			"effect": "<p>Identifies the fallen</p>",
-			"description": "<p>A small, durable, identifying item used by the Brotherhood of Steel. Holotags contain information to identify their wearer in case of death. They also act as a &ldquo;black box&rdquo; data recorder for a suit of Power Armor, providing the Brotherhood record of the deeds of their fallen warriors. Though not especially valuable by themselves, the Brotherhood often pays a reward to any who bring in holotags they find.</p>"
+			"name": "Holonieśmiertelnik",
+			"effect": "Pozwala zidentyfikować zabitego",
+			"desctiption": "Mały i wytrzymały identyfikator osobisty używany przez Bractwo Stali. Zawiera informacje, które w razie śmierci użytkownika pozwalają go zidentyfikować. Dodatkowo pełni rolę „czarnej skrzynki” dla pancerza wspomaganego, co umożliwia Bractwu zarejestrowanie dokonań poległego wojownika. Sam w sobie nie jest szczególnie cenny, jednak Bractwo często wypłaca nagrodę za każdy zwrócony mu holonieśmiertelnik."
 		},
 		"Holotape Player": {
-			"name": "Holotape Player",
-			"effect": "<p>Allows playback of audio holotapes</p>",
-			"description": "<p>A small device for playing back audio recorded to holotape, producing the sound out of a small speaker or into a connected set of headphones (not included). Video and data holotapes cannot be played back on this device, as it lacks a screen to display them&mdash;such tapes need to be played from a desk terminal or similar computer.</p>"
+			"name": "Holoczytnik",
+			"effect": "Pozwala odtwarzać holotaśmy audio",
+			"desctiption": "Niewielki odtwarzacz holotaśm audio. Dźwięk jest puszczany z małego głośniczka lub przez słuchawki (nie ma ich w zestawie). Nie odtwarza holodysków i holotaśm wideo, ponieważ nie posiada ekranu do wyświetlania danych lub obrazu – do tego niezbędny jest terminal lub inny rodzaj komputera wyposażonego w monitor."
 		},
 		"Lantern": {
-			"name": "Lantern",
-			"effect": "<p>Generates bright light within Close range, and dim light within Medium range</p>",
-			"description": "<p>A simple oil or gas lamp, normally containing a flame fueled by an oil or gas reservoir. The flame is shielded by glass, and has a sturdy base allowing it to be placed down without risk of tipping over and breaking. It illuminates the entire surrounding area, and became common again after the War, due to a lack of reliable electrical power. It needs to be refueled periodically, though.</p>"
+			"name": "Latarnia",
+			"effect": "Wytwarza jasne światło na bliskim dystansie i przyćmione na średnim",
+			"desctiption": "Prosta lampa naftowa lub gazowa, w której płomień jest podtrzymywany dzięki zbiornikowi z naftą lub gazem i osłaniany szybką. Oświetla najbliższą okolicę. Ma solidną podstawkę, co umożliwia jej postawienie bez ryzyka, że się przewróci i rozbije. Wadą jest konieczność uzupełniania paliwa. Po wojnie, ze względu na brak stabilnej sieci elektrycznej, latarnie wróciły do łask."
 		},
 		"Lock Pick Set": {
-			"name": "Lock Pick Set",
-			"effect": "<p>Reduces difficulty of Lockpick tests by 1 (minimum 0), After 3 complications, the set is broken</p>",
-			"description": "<p>A rolled-up leather case containing an assortment of picks and tension wrenches for opening mechanical locks, as an alternative to the cruder &ldquo;screwdriver and bobby pins&rdquo; method. Sturdier than the improvised method, but a set can become useless if too many of the picks or wrenches break.</p>"
+			"name": "Zestaw wytrychów",
+			"effect": "–1 do trudności testów Otwierania zamków (minimum 0); po wystąpieniu trzech komplikacji zestaw przestaje być użyteczny",
+			"desctiption":"W zwijanym, skórzanym pokrowcu znajduje się zestaw wytrychów i kluczy dynamometrycznych, które są stosowane do otwierania mechanicznych zamków. Dobra alternatywa dla prymitywnej metody „na spinkę i śrubokręt”. Narzędzia są wytrzymalsze niż improwizowane rozwiązania, ale jeśli zbyt wiele z nich się połamie, cały zestaw stanie się bezużyteczny."
 		},
 		"Multi-Tool": {
-			"name": "Multi-Tool",
-			"effect": "<p>Reduce the difficulty of Repair tests by 1 (minimum 0)</p>",
-			"description": "<p>A handy little device, containing a set of pliers, some wire cutters, a variety of small wrenches and screw drivers, and other small tools, all built into a single tool. Different parts fold out of the handles as needed. Ideal for someone who needs basic tools but is still travelling light.</p>"
+			"name": "Multinarzędzie",
+			"effect": "–1 do trudności testów Naprawy (minimum 0)",
+			"desctiption": "Przydatne niewielkie narzędzie, które zawiera kombinerki, szczypce do drutu oraz kilka małych kluczy i wkrętaków – wszystko wbudowane w pojedynczy uchwyt. Niezbędny do danej czynności element narzędziowy można łatwo i szybko otworzyć. Idealne rozwiązanie dla kogoś, kto chce mieć zestaw podstawowych narzędzi, a jednocześnie nie lubi zbyt dużo dźwigać."
 		},
 		"Pack Brahmin": {
-			"name": "Pack Brahmin",
-			"effect": "<p>A mutant cow that carries heavy loads and produces milk and fertilizer</p>",
-			"description": "<p>A large, two-headed mutant female cow used as a pack animal. The brahmin&rsquo;s profile is on p.341, and they can carry up to 500 lbs. of weight.</p>\n<p>The brahmin can also be milked once a day, requiring an AGI + Survival test with a difficulty of 1. Success means the brahmin produces one brahmin milk (p.161), plus one extra for each AP spent (maximum 5 brahmin milk). A brahmin also produces 2CD units of fertilizer (uncommon material) each day.</p>"
+			"name": "Bramin towarowy",
+			"effect": "Zmutowana krowa używana do transportu ciężkich ładunków, a także jako źródło mleka i nawozu",
+			"desctiption": "Duża dwugłowa samica zmutowanej krowy, wykorzystywana jako zwierzę juczne. Jej profil znajduje się na stronie 345. Może dźwigać do 500 funtów. Bramina można raz dziennie doić, co wymaga testu ZW + Przetrwania o trudności 1. Udany test pozwala uzyskać jedno braminie mleko (strona 160) plus jedno dodatkowe za każdy wydany PA (maksymalnie 5 porcji mleka). Dodatkowo bramin wytwarza codziennie 2 DC jednostki nawozu."
 		},
 		"Pip-Boy": {
-			"name": "Pip-Boy",
-			"effect": "<p>See description</p>",
-			"description": "<p>A Personal Information Processor manufactured by RobCo Industries. Under partnership with Vault-Tec, they were issued to many vault residents, though due to production constraints and ongoing development, different vaults received shipments of different versions of the Pip-Boy. The versions most encountered are variants of the Pip-Boy 2000 and Pip-Boy 3000, which are designed to be secured upon the wearer&rsquo;s wrist. Many models were designed with biometric locks, preventing them from being removed while the wearer still lives.</p>\n<p>A Pip-Boy is powered by an internal fission battery, providing a working lifespan for the device far greater than the expected life of its wearer (and, indeed, many Pip-Boys have been handed down within communities or families as heirlooms), and the device itself is sturdy enough to withstand basically anything.</p>\n<p>Not all Pip-Boys contain the same functions, but the common functions are:</p>\n<ul>\n<li>A personal status indicator allows the wearer to see a report on their current health and wellbeing and any medical problems currently afflicting them.</li>\n<li>The device maintains an ongoing log of the wearer&rsquo;s activities, journey, and condition, and place for personal recordings to be made in either text or audio forms.</li>\n<li>An inbuilt holotape reader allows the device to accept compact holotapes, able to read and playback audio, video, data, and even games.</li>\n<li>It also functions as a compass, a radio, and a Geiger counter, and can generate light from its screen equivalent to a flashlight.</li>\n</ul>\n<p>In addition, all Pip-Boy units aid their wearer during combat thanks to the Vault-Tec Assisted Targeting System, or V.A.T.S. A character equipped with a Pip-Boy may use V.A.T.S. when they make an attack, ignoring the normal difficulty increase for targeting a specific location on the enemy.</p>"
+			"name": "Pip-boy",
+			"effect": "Patrz opis",
+			"description": "<p>Osobisty Procesor Informacyjny produkowany przez korporację RobCo Industries. W ramach współpracy z Vault-Tekiem był wydawany mieszkańcom krypt, aczkolwiek ze względu na ograniczenia produkcyjne i wciąż trwające badania poszczególne schrony dostawały różne wersje Pip-Boya. Najczęściej spotyka się warianty 2000 i 3000, które są montowane na nadgarstku użytkownika. Wiele modeli wyposażano w blokady biometryczne, uniemożliwiające ich zdjęcie, dopóki użytkownik żyje.</p>\n<p>Pip-Boy jest zasilany wbudowaną baterią fuzyjną, zapewniającą mu znacznie dłuższe funkcjonowanie niż przewidywana długość życia użytkownika (w rzeczy samej wiele Pip-Boyów było przekazywanych jako dziedzictwo w rodzinach lub społecznościach), a sam urządzenie ma dostatecznie mocną konstrukcję, żeby przetrwać niemalże wszystko.</p>\n<p>Nie wszystkie modele mają te same funkcje, ale do najpowszechniejszych należą:</p>\n<ul>\n<li>wskaźnik stanu osobistego, który monitoruje zdrowie użytkownika, wyświetlając podstawowe informacje o stanie jego organizmu i ewentualnych trapiących go schorzeniach;</li>\n<li>zapis aktywności i stanu użytkownika oraz odbytych przez niego podróży, a zarazem osobisty notatnik w formie tekstowej lub audio;</li>\n<li>wbudowany czytnik z portem na kompaktowe holotaśmy, umożliwiający odczytywanie i odtwarzanie holodysków z danymi, holotaśm audio i wideo, a nawet gier;</li>\n<li>wbudowany kompas, radiostacja i licznik Geigera; światło padające z ekranu ma moc podobną do latarki.</li>\n</ul>\n<p>Dodatkowo wszystkie modele Pip-Boya wspomagają użytkownika w walce dzięki zastosowaniu systemu V.A.T.S. – czyli Systemu Wspomagania Celowniczego Vault-Tecu. Postać wyposażona w Pip-Boya może skorzystać podczas ataku z V.A.T.S., ignorując modyfikatory do trudności testu związane z celowaniem w konkretną lokalizację trafienia.</p>"
 		},
 		"Radio": {
 			"name": "Radio",
-			"effect": "<p>Picks up and plays radio transmissions</p>",
-			"description": "<p>A device which receives radio signals and translates them back into intelligible sounds. Used both before and after the War for entertainment purposes and emergency messaging alike, a radio is still only as good as the signal it receives. Most regions of the wastelands have a few radio stations active, playing old music for anyone with a working receiver, and a variety of groups make use of the remaining radio towers to broadcast signals to their members over long distances, but the range of these signals is still fairly limited.</p>"
+			"effect": "Umożliwia odbieranie transmisji radiowych",
+			"desctiption": "Urządzenie odbierające przesyłane fale radiowe i przekształcające je w zrozumiałe dźwięki. Używane zarówno przed, jak i po wojnie do celów rozrywkowych oraz przekazywania wiadomości alarmowych. Jest przydatne tylko wtedy, gdy sygnał jest dostatecznie mocny. Na większości obszarów pustkowi działa kilka rozgłośni radiowych, które puszczają muzykę z dawnych lat – może jej posłuchać każdy ze sprawnym odbiornikiem. Niektóre grupy wykorzystują ocalałe maszty radiowe do przekazywania sygnałów swoim członkom na większe odległości, aczkolwiek ich zasięg jest nadal dość ograniczony."
 		},
 		"Signal Flare": {
-			"name": "Signal Flare",
-			"effect": "<p>Generates bright light within close range until the end of the current scene, One use only</p>",
-			"description": "<p>A small pyrotechnic device which burns brightly, generating a bright light for a short while. They&rsquo;re also extremely hot and can be used to ignite flammable substances and materials if placed close enough.</p>\n<p>These are larger and bulkier than the flares fired from a flare gun.</p>"
+			"name": "Flara sygnałowa",
+			"effect": "Do końca obecnej sceny wytwarza jasne światło na bliskim dystansie; przedmiot jednorazowy",
+			"desctiption": "Niewielki ładunek pirotechniczny spalający się jaskrawym płomieniem i zapewniający przez krótki czas jasne oświetlenie. Wytwarza również wysoką temperaturę, więc można jej użyć do podpalenia materiałów i substancji łatwopalnych, jeśli znajdzie się blisko nich. Większa i cięższa od flary wystrzeliwanej z rakietnicy."
 		},
 		"Torch": {
-			"name": "Torch",
-			"effect": "<p>Generates bright light within close range until the end of the current scene, Requires an INT + Survival test to light, difficulty 1, +1 for each previous use</p>",
-			"description": "<p>A long branch or length of scrap metal, with a head wrapped in cloth soaked in a flammable liquid such as alcohol or gasoline. A decent enough improvised light source, and reusable to an extent.</p>"
+			"name": "Pochodnia",
+			"effect": "Do końca obecnej sceny wytwarza jasne światło na bliskim dystansie; jej zapalenie wymaga testu INT + Przetrwania o trudności 1 (+1 za każde poprzednie użycie pochodni)",
+			"desctiption": "Długa gałąź lub kawałek złomu z jednym końcem owiniętym szmatą nasączoną łatwopalną cieczą, na przykład benzyną lub alkoholem. Improwizowane, choć przyzwoite źródło światła – czasami nawet wielokrotnego użytku (do pewnego stopnia)."
 		}
 	},
 	"mapping": {
