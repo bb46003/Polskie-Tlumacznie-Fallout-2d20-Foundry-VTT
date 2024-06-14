@@ -694,7 +694,7 @@
 			"description":"<h2>Podręcznik przetrwania na pustkowiach</h2> <p><strong>Profit</strong>W zależności od znalezionego numeru otrzymujesz różne profity, z których możesz skorzystać tylko raz. Jeśli wykupisz dany profit na stałe, możesz go użyć raz na scenę.</p><ul> <li>+1 do Obrony przeciwko atakowi wręcz</li> </ul>"
 		},
 		"Shotgun Surgeon": {
-			"name": "chirurgiczna Precyzja",
+			"name": "Chirurgiczna Precyzja",
 			"description":"Twoje ataki dystansowe z użyciem strzelby zyskują Efekt obrażeń Przeszywające 1 lub wzrasta on o +1, jeśli broń już go posiada.",
 			"requirements":"SI 5, ZW 7"
 		},
