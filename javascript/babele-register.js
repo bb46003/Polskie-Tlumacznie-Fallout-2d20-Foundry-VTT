@@ -48,7 +48,7 @@ class falloutpl {
         let flag = aitems.flags.core;
             if (flag !== undefined) {
                 
-                let fullitemID = flag.sourceID;
+                let fullitemID = flag.sourceId;
                 const parts = fullitemID.split(".");
                 const compendiumKey = parts[1] + "." + parts[2];
                 const itemID = parts[parts.length - 1];

@@ -11,734 +11,734 @@
 	},
 	"entries": {
 		"Addictol": {
-			"name": "Addictol",
-			"effect": "<p>Removes all addictions</p>",
-			"description": "<p>A powerful and effective pre-War medicine which cleanses the body of the effects of addiction and the withdrawal symptoms that accompany it. It doesn&rsquo;t, however, prevent subsequent addictions, especially in the cases of long-term or habitual drug abuse. It can take some time to work, especially in severe cases, and tends to have a few side-effects, such as nausea and dizziness, while it is taking effect.</p>"
+			"name": "Nałogan",
+			"effect": "<p>Usuwa wszystkie uzależnienia</p>",
+			"description": "Silny przedwojenny lek, który oczyszcza organizm z uzależnienia i towarzyszących mu symptomów odstawienia. Nie zapobiega jednak ponownemu popadnięciu w nałóg, zwłaszcza w przypadku długotrwałego lub notorycznego zażywania danej substancji. Czas reakcji organizmu na lek może być wydłużony, zwłaszcza w ciężkich przypadkach, a sam nałogan wywołuje efekty uboczne, takie jak mdłości i oszołomienie, które utrzymują się podczas jego działania."
 		},
 		"Antibiotics": {
-			"name": "Antibiotics",
-			"effect": "<p>Cures all illnesses</p>",
-			"description": "<p>A dose of potent, broad-spectrum antibiotics that&rsquo;ll help clear out pretty much any infection or disease. Taking too many can be damaging to health overall, but these are rare enough that taking too many is rarely a problem.</p>"
+			"name": "Antybiotyk",
+			"effect": "<p>Zmniejsza czas trwania wszystkich chorób o –1</p>",
+			"description": "Dawka silnego antybiotyku o szerokim spektrum działania, który oczyszcza organizm z właściwie każdej choroby lub infekcji. Zbyt częste przyjmowanie dużych ilości może być szkodliwe dla zdrowia. Zachowało się ich jednak tak niewiele, że nie jest to zbyt częsty problem."
 		},
 		"Asbestos": {
-			"name": "Asbestos",
+			"name": "Abraxo",
 			"effect": "",
 			"description": ""
 		},
 		"Baked Bloatfly": {
-			"name": "Baked Bloatfly",
-			"effect": "<p>+2 Radiation damage resistance</p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A piece of Bloatfly meat, cooked with dry heat. The resultant food is unappetizing but filling and helps absorb radioactive contamination in the body for a while after eating.</span> </p>"
+			"name": "Pieczona mucha mięsna",
+			"effect": "<p>Do końca następnej sceny otrzymujesz +2 do Odporności na obrażenia radiacyjne</p>\n<p>&nbsp;</p>",
+			"description": "Peklowany na sucho kawałek muchy mięsnej. Niezbyt apetyczny, ale sycący i przez jakiś czas po spożyciu pomaga organizmowi absorbować skażenie radioaktywne."
 		},
 		"Beer": {
-			"name": "Beer",
-			"effect": "",
-			"description": "<p><span class=\"fontstyle0\">One of the oldest beverages created by humans, beer is a carbonated alcoholic drink made from fermented cereal grains, popular pre-War to relax after a hard day&rsquo;s work or during a sunny afternoon. Ale, beer, lager, stout, and a variety of similar beverages all have distinct combinations of ingredients, and each have their own proponents, but the effects are largely the same.</span></p>\n<p><span class=\"fontstyle0\">You receive 1 cap upon opening and drinking a bottle of beer.</span></p>"
+			"name": "Piwo",
+			"effect": "Alkohol",
+			"description": "Jeden z najstarszych napojów ludzkości. Gazowane i alkoholowe, produkowane ze sfermentowanego ziarna. Przed wojną było popularnym napojem spożywanym dla relaksu po ciężkim dniu pracy lub w ciepłe, słoneczne popołudnie. Występuje w różnych odmianach – ale, lager, stout – różniących się doborem składników i posiadających własnych zagorzałych zwolenników. Każda z nich wywołuje jednak bardzo podobne efekty."
 		},
 		"Berry Mentats": {
-			"name": "Berry Mentats",
-			"effect": "<p>Reduce the difficulty of INT tests by 2(minimum 0)</p>",
-			"description": "<p>A portion of Mentats reformulated to promote brain activity and memory.</p>\n<ul>\n<li><strong>Mentat Addiction:</strong> A failed addiction roll renders you addicted to Mentats. You increase the difficulty of all CHA tests by +1 whenever you are not under the effects of a type of Mentat (ordinary Mentats, or the Berry, Grape, or Orange versions).</li>\n</ul>"
+			"name": "Jagodowe mentaty",
+			"effect": "<p>–2 do trudności testów INT (minimum 0)</p>",
+			"description": "<p>Odmiana mentatów, która poprawia pamięć i aktywność mózgu.</p>\n<ul>\n<li><strong>uzależnienie:</strong>Nieudany test uzależnienia oznacza, że jagodowe mentaty stają się twoim nałogiem. Kiedy nie znajdujesz się pod ich wpływem, zwiększasz o +1 trudność testów CHA.</li>\n</ul>"
 		},
 		"BlamCo Brand Mac and Cheese": {
-			"name": "BlamCo Brand Mac and Cheese",
+			"name": "Makaron z serem Blamco",
 			"effect": "<p>&nbsp;</p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A pre-War fast-food product found in the wasteland many years later. the normally found in brightly colored boxes with an image of the food&mdash;ready-made macaroni and cheese&mdash;on the front.</span></p>\n<p><span class=\"fontstyle0\">Sometimes,&nbsp;</span><span class=\"fontstyle2\"><strong>preserved</strong> </span><span class=\"fontstyle0\">boxes of BlamCo Brand Mac and Cheese can be found. These are identical to the listed version, but are not irradiated, and increase their rarity by +1.</span> </p>"
+			"description": "Przedwojenny produkt fastfoodowy do dzisiaj znajdowany na pustkowiach, zazwyczaj w kartonowym pudełku o jaskrawych barwach i ze zdjęciem potrawy – zapiekanego makaronu z serem – na wierzchu. Czasami można natrafić na dobrze zachowane pudełka makaronu z serem BlamCo. Nie są one skażone, a ich rzadkość wzrasta o +1."
 		},
 		"BlamCo Brand Mac and Cheese (Preserved)": {
-			"name": "BlamCo Brand Mac and Cheese (Preserved)",
+			"name": "Makaron z serem Blamco(dobrze zachowane)",
 			"effect": "<p>&nbsp;</p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A pre-War fast-food product found in the wasteland many years later. the normally found in brightly colored boxes with an image of the food&mdash;ready-made macaroni and cheese&mdash;on the front.</span></p>\n<p><span class=\"fontstyle0\">Sometimes,&nbsp;</span><span class=\"fontstyle2\"><strong>preserved</strong> </span><span class=\"fontstyle0\">boxes of BlamCo Brand Mac and Cheese can be found. These are identical to the listed version, but are not irradiated, and increase their rarity by +1.</span> </p>"
+			"description": "Przedwojenny produkt fastfoodowy do dzisiaj znajdowany na pustkowiach, zazwyczaj w kartonowym pudełku o jaskrawych barwach i ze zdjęciem potrawy – zapiekanego makaronu z serem – na wierzchu. Czasami można natrafić na dobrze zachowane pudełka makaronu z serem BlamCo. Nie są one skażone, a ich rzadkość wzrasta o +1."
 		},
 		"Bloatfly Gland": {
-			"name": "Bloatfly Gland",
+			"name": "Gruczoł muchy mięsnej",
 			"effect": "",
 			"description": ""
 		},
 		"Bloatfly Meat": {
-			"name": "Bloatfly Meat",
+			"name": "Mięso muchy mięsnej",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A rough chunk of meat cut from the body of a dead Bloatfly. Filling and nutritious, but unappetizing even when cooked.</span></p>\n<p><span class=\"fontstyle0\">Bloatfly meat can be cooked to produce Baked Bloatfly.</span> </p>"
+			"description": "Spory kawałek mięsa, pożywny i sycący, choć nawet po upieczeniu wygląda mało apetycznie. Główny składnik pieczonej muchy mięsnej."
 		},
 		"Blood Pack": {
-			"name": "Blood Pack",
+			"name": "Pojemnik z krwią",
 			"effect": "",
-			"description": "<p><span class=\"fontstyle0\">A sealed, sterile plastic bag of preserved blood used pre-War for blood transfusions. Not the most conventional of beverages, but useful if you&rsquo;re desperate. Some people come to like the taste.</span> </p>"
+			"description": "Hermetycznie zamknięty i wyjałowiony plastikowy pojemnik używany przed wojną do przetaczania krwi. Napój może niezbyt konwencjonalny, jednakże przydatny jako ostatnia deska ratunku. Niektórym nawet smakuje."
 		},
 		"Blood Sac": {
-			"name": "Blood Sac",
+			"name": "Pęcherz z krwią",
 			"effect": "",
 			"description": ""
 		},
 		"Bloodbug Meat": {
-			"name": "Bloodbug Meat",
+			"name": "Mięso pluskwy",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A chunk of bloody meat from a Bloodbug, a large and aggressive mutant mosquito that normally preys on livestock and other large animals.</span></p>\n<p><span class=\"fontstyle0\">Bloodbug meat can be cooked to produce Bloodbug steak.</span> </p>"
+			"description": "Skrwawiony ochłap dużego i bardzo agresywnego zmutowanego komara, który zwykle żywi się krwią zwierząt hodowlanych i innych dużych stworzeń. Można z niego przyrządzić stek z pluskwy."
 		},
 		"Bloodbug Steak": {
-			"name": "Bloodbug Steak",
-			"effect": "<p>Max HP +3 until end of following scene</p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A piece of Bloodbug meat cooked over an open flame. If you can stand to eat it, and can ignore the aftertaste, it&rsquo;s reasonably nutritious and even leaves a feeling of renewed vigor and health for a while after eating.</span> </p>"
+			"name": "Stek z pluskwy",
+			"effect": "<p>Do końca obecnej sceny otrzymujesz +3 do maksymalnego poziomu PZ</p>\n<p>&nbsp;</p>",
+			"description": "Kawałek mięsa pieczony na wolnym ogniu. Jeśli nie brzydzi cię jego pochodzenie i zignorujesz przykry posmak w ustach, można się nim najeść i przez jakiś czas poczuć przypływ sił oraz energii."
 		},
 		"Bloodleaf": {
-			"name": "Bloodleaf",
+			"name": "Krwawy liść",
 			"effect": "",
 			"description": ""
 		},
 		"Bourbon": {
-			"name": "Bourbon",
-			"effect": "<p>Reroll 1d20 on END tests</p>",
-			"description": "<p><span class=\"fontstyle0\">A distinctly American type of whiskey, bourbon is a barrel-aged, distilled spirit made mainly of corn. PreWar, those who favored it tended to get a reputation as being tough or rugged.</span> </p>"
+			"name": "Burbon",
+			"effect": "<p>Alkohol, możesz przerzucić 1k20 w testach WT</p>",
+			"description": "Typowo amerykańska whiskey z kukurydzy, destylowana i leżakowana w beczkach. Przed wojną burbon był postrzegany jako ulubiony trunek ludzi twardych i szorstkich w obyciu."
 		},
 		"Brahmin Meat": {
-			"name": "Brahmin Meat",
+			"name": "Mięso bramina",
 			"effect": "<p>&nbsp;</p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A slab of meat from the two-headed mutant cattle that roam the wastelands. Not massively dissimilar to beef from before the War, though somewhat radioactive due to coming from a mutant animal.</span></p>\n<p><span class=\"fontstyle0\">Can be cooked to produce ribeye steak.</span> </p>"
+			"description": "Płat mięsa ze zmutowanego dwugłowego bydła, jakie wędruje po pustkowiach. W smaku nie różni się od przedwojennej wołowiny, aczkolwiek jest lekko napromieniowane, ponieważ pochodzi od zmutowanego zwierzęcia. Można z niego przyrządzić stek z antrykotu."
 		},
 		"Brahmin Milk": {
-			"name": "Brahmin Milk",
-			"effect": "<p>Heals 2 Radiation damage</p>",
-			"description": "<p><span class=\"fontstyle0\">Milk from a brahmin. This drink is a true lifesaver, as it has properties that cleanse radiation poisoning from the body&hellip; at least, if it hasn&rsquo;t spoiled yet.</span> </p>"
+			"name": "Braminie mleko",
+			"effect": "<p>Leczy 2 obrażenia radiacyjne</p>",
+			"description": "Mleko z wydojonej samicy bramina to naprawdę życiodajny napój, ponieważ oczyszcza organizm z efektów zatrucia radiacyjnego… o ile nie skisło."
 		},
 		"Brain Fungus": {
-			"name": "Brain Fungus",
+			"name": "Mózgogrzyb",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">An off-white mushroom which resembles a brain, and which tends to be found in clusters growing in dark, dank corners. Slightly irradiated due simply to growing in the wastelands, but otherwise harmless, despite its slightly alarming name and appearance.</span></p>\n<p><span class=\"fontstyle0\">Brain fungus is an ingredient in Mentats.</span> </p>"
+			"description": "Brudnobiały grzyb, z wyglądu przypominający mózg, rośnie w kępach w ciemnych i wilgotnych zakamarkach. Jest lekko skażony z powodu egzystowania na pustkowiach, ale poza tym nieszkodliwy – pomimo niepokojącej nazwy i wyglądu. Główny składnik mentatów."
 		},
 		"Buffjet": {
-			"name": "Buffjet",
-			"effect": "<p>Reduce the difficulty of all STR and END tests by 1 (minimum 0). +4 Max HP, Gain 3 AP immediately (lost if not spent)| Extra actions cost 1 less AP</p>",
-			"description": "<p>A potent, if highly addictive mixture of Buffout and Jet, providing a boost to physical prowess, heightened reflexes, and a burst of adrenaline.</p>\n<ul>\n<li><strong>Buffout Addiction:</strong> A failed addiction roll renders you addicted to Buffout. You increase the difficulty of all STR and END tests by +1 whenever you are not under the effects of a type of Buffout (Buffout, Buffjet, or Bufftats).</li>\n</ul>"
+			"name": "Wygrzmot",
+			"effect": "<p>–1 do trudności testów SI i WT (minimum 0). +4 maksymalne PZ, +3 natychmiastowe PA (jeśli ich nie wydasz, przepadną). Dodatkowe akcje kosztują o 1 PA mniej</p>",
+			"description": "<p>Mocna, ale i silnie uzależniająca mieszanka wygrzewu i odlotu, która zwiększa sprawność fizyczną, poprawia refleks i wywołuje zwiększone wydzielanie adrenaliny.</p>\n<ul>\n<li><strong>Uzależnienie:</strong> Nieudany test uzależnienia oznacza, że wygrzmot staje się twoim nałogiem. Kiedy nie znajdujesz się pod jego wpływem, zwiększasz o +1 trudność testów SI i WT.</li>\n</ul>"
 		},
 		"Buffout": {
-			"name": "Buffout",
-			"effect": "<p>Re-roll 1d20 on all STR and END tests, +3 Max HP</p>",
-			"description": "<p>A powerful and quick-acting steroid which gained popularity with athletes prior to the Great War. For a few minutes, it makes one stronger and tougher.</p>\n<ul>\n<li><strong>Buffout Addiction:</strong> A failed addiction roll renders you addicted to Buffout. You increase the difficulty of all STR and END tests by +1 whenever you are not under the effects of a type of Buffout (Buffout, Buffjet, or Bufftats).</li>\n</ul>"
+			"name": "Wygrzew",
+			"effect": "<p>Możesz przerzucić 1k20 w testach SI i WT, +3 maksymalne PZ</p>",
+			"description": "<p>Silny i szybko działający steryd, który zyskał popularność wśród sportowców w czasach przed Wielką Wojną. Na parę minut czyni cię silniejszym i bardziej odpornym.</p>\n<ul>\n<li><strong>Uzależnienie:</strong> Nieudany test uzależnienia oznacza, że wygrzew staje się twoim nałogiem. Kiedy nie znajdujesz się pod jego wpływem, zwiększasz o +1 trudność testów SI i WT.</li>\n</ul>"
 		},
 		"Bufftats": {
-			"name": "Bufftats",
-			"effect": "<p>Reduce the difficulty of all STR, PER| and END tests by 1 (minimum 0)| +4 Max HP</p>",
-			"description": "<p>An addictive cocktail of Buffout steroids and Mentats, heightening both physical prowess and awareness.</p>\n<ul>\n<li><strong>Buffout Addiction:</strong> A failed addiction roll renders you addicted to Buffout. You increase the difficulty of all STR and END tests by +1 whenever you are not under the effects of a type of Buffout (Buffout, Buffjet, or Bufftats).</li>\n</ul>"
+			"name": "Mentawygrzew",
+			"effect": "<p>–1 do trudności testów SI, PER i WT (minimum 0), +4 maksymalne PZ</p>",
+			"description": "Mocno uzależniający koktajl sterydowego wygrzewu i mentatów, który zwiększa zarówno sprawność fizyczną, jak i umysłową."
 		},
 		"Calmex": {
-			"name": "Calmex",
-			"effect": "<p>Re-roll 1d20 on all PER and AGI tests, +2 @fos[DC] to sneak attack damage</p>",
-			"description": "<p>A light tranquilizer used to calm the nerves. It isn&rsquo;t potent enough to function as a painkiller, but a dose can quiet anxieties and fears, keeping panic from disturbing delicate activities.</p>\n<ul>\n<li><strong>Calmex Addiction:</strong> A failed addiction roll renders you addicted to Calmex. You suffer complications on AGI tests on all rolls of 18 or higher whenever you are not under the effects of Calmex.</li>\n</ul>"
+			"name": "Błogopiryna",
+			"effect": "<p>Możesz przerzucić 1k20 w testach PER i ZW, +2 DC do obrażeń przy ataku z zaskoczenia</p>",
+			"description": "Lekki środek uspokajający używany do złagodzenia efektów stresu. Za słaby, żeby zadziałać jako lek przeciwbólowy, jednak jego dawka może ukoić skołatane nerwy i zapobiec wpadnięciu w panikę – zwłaszcza w sytuacjach wymagających precyzyjnego działania."
 		},
 		"Canned Dog Food": {
-			"name": "Canned Dog Food",
+			"name": "Psia karma w puszce",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A metal can of processed meat intended to be fed to dogs. Despite being made for dogs, it&rsquo;s entirely edible by humans, and the sealed can keeps the food within preserved and relatively safe to eat for long periods.</span> </p>"
+			"description": "Metalowa puszka ze zmielonym mięsem przeznaczonym dla psów. Choć descriptionana jako karma dla zwierząt, jest jadalna również dla ludzi, a hermetyczne zamknięcie zapewnia jej przez długi czas świeżość."
 		},
 		"Carrot": {
-			"name": "Carrot",
+			"name": "Marchew",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A slightly mutated form of the common, orange root vegetable. Easy enough to grow in decent quantities, and useful for a variety of recipes, small wasteland farms often include a few carrot patches.</span></p>\n<p><span class=\"fontstyle0\">Carrot is a component of several different recipes for food items. Carrots grown in non-irradiated conditions (such as within vaults or similar locations) are not irradiated but increase their rarity by +1.</span> </p>"
+			"description": "Lekko zmutowana odmiana pospolitego warzywa o pomarańczowej barwie. Łatwa w uprawie, zapewnia przyzwoite plony i jest stosowana w wielu przepisach. Z tego powodu na wielu farmach pustkowi można natrafić na kilka grządek marchwi. Marchew jest składnikiem wielu różnych potraw. Uprawiana w kontrolowanych warunkach (na przykład w kryptach lub podobnych miejscach) nie jest skażona, ale jej rzadkość wzrasta o +1."
 		},
 		"Cooked Softshell Meat": {
-			"name": "Cooked Softshell Meat",
-			"effect": "<p>Gain +1 AP at start of next scene</p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">The softer meat from mirelurks, cooked into a rough steak. A high-energy meal, those who eat cooked softshell meat are often invigorated and eager for action for a while afterwards.</span></p>"
+			"name": "Gotowane mięso spod miękkiej muszli",
+			"effect": "<p>Na początku następnej sceny otrzymujesz +1 PA</p>\n<p>&nbsp;</p>",
+			"description": "Delikatniejsza część błotniaka ugotowana na dość twardy stek. Ten wysokokaloryczny posiłek odnawia siły i po chwili daje energię do działania."
 		},
 		"Corn": {
-			"name": "Corn",
+			"name": "Kukurydza",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A highly versatile crop cultivated across the Americas for centuries. Corn remains largely unchanged by the War, and it remains a staple of wasteland agriculture.</span></p>\n<p><span class=\"fontstyle0\">Corn grown in non-irradiated conditions (such as within vaults or similar locations) is not irradiated but increases its rarity by +1. In addition to its use as food, corn is a main ingredient in vegetable starch, which can be used to make adhesives for crafting.</span> </p>"
+			"description": "Zboże o wielu zastosowaniach, od wieków uprawiane w obu Amerykach. Wojna i czasy po niej w niewielkim stopniu zmieniły kukurydzę, która pozostaje na pustkowiach podstawą rolnictwa. Uprawiana w kontrolowanych warunkach (na przykład w kryptach lub podobnych miejscach) nie jest skażona, ale jej rzadkość wzrasta o +1. Kukurydza, oprócz bycia źródłem pożywienia, jest także głównym składnikiem skrobi warzywnej, której używa się do wytwarzania kleju."
 		},
 		"Cram": {
-			"name": "Cram",
+			"name": "Mielonka",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A tin of processed meat produced in vast quantities pre-War to address food shortages and serve as a meat ration for soldiers. The tin, with an easy-open pull tab, helps keep the contents preserved for long periods, making Cram more useful for survivalists and those scavenging for food.</span> </p>"
+			"description": "Puszka mielonego mięsa. Jedna z tysięcy produkowanych przed wojną na potrzeby chwilowych braków w zaopatrzeniu oraz jako prowiant dla żołnierzy. Hermetycznie zamknięta, z łatwym do otwarcia wieczkiem, utrzymuje zawartość przydatną do spożycia, dzięki czemu jest cenioną zdobyczą dla miłośników surwiwalu oraz wszystkich poszukiwaczy żywności."
 		},
 		"Crispy Squirrel Bits": {
-			"name": "Crispy Squirrel Bits",
+			"name": "Chrupiące kawałki wiewiórki",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">Chunks of squirrel meat, which have been fried until crispy, often found held together on a skewer. An easy way to get a little nutrition, and not so heavy a meal that it weighs you down while you digest it.</span> </p>"
+			"description": "Kąski wiewiórczego mięsa spieczone na chrupko, często nabijane na patyk jak szaszłyk. Pożywna i niezbyt ciężkostrawna przekąska."
 		},
 		"Daddy-O": {
-			"name": "Daddy-O",
-			"effect": "<p>Reduce the difficulty of all PER and INT tests by 1 (minimum 0), +1 difficulty to CHA tests</p>",
-			"description": "<p>Popular with beatniks and intellectuals before the Great War, Daddy-O heightens the user&rsquo;s cognitive faculties, making them more alert and more able to process information, but users tend to hyper-focus on the tasks in front of them, making it awkward to interact with them.</p>\n<ul>\n<li><strong>Daddy-O Addiction:</strong> A failed addiction roll renders you addicted to Daddy-O. You increase the difficulty of all PER and INT tests by +1 whenever you are not under the effects of Daddy-O.</li>\n</ul>"
+			"name": "Tatusiek",
+			"effect": "<p>–1 do trudności testów INT i PER (minimum 0), +1 do trudności testów CHA</p>",
+			"description": "Popularny przed Wielką Wojną wśród bitników i intelektualistów. Zwiększa możliwości umysłowe zażywającego, jego uważność oraz zdolność do przetwarzania informacji. Skupia się jednak wyłącznie na problemie, co utrudnia mu interakcję z otoczeniem."
 		},
 		"Dandy Boy Apples": {
-			"name": "Dandy Boy Apples",
+			"name": "Jabłka Dandy Boy",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">Candied apples produced by the Dandy Boy company. An extremely sweet fruit-based snack packaged in a cardboard box. Normally well-preserved due to the high sugar content, boxes of these can still be found in the ruins of convenience stores and groceries across the wasteland, and in the possession of people who&rsquo;ve recently raided said ruined convenience stores and groceries.</span></p>"
+			"description": "Kandyzowane jabłka to bardzo słodka owocowa przekąska, pakowana w kartonowe pudełka z logo firmy Dandy Boy. Zazwyczaj są dobrze zakonserwowane ze względu na dużą zawartość cukru. Pudełka tych smakołyków można znaleźć w ruinach sklepów spożywczych i supermarketów, a także w ekwipunku ludzi, którzy niedawno ograbili wspomniane przybytki."
 		},
 		"Day Tripper": {
-			"name": "Day Tripper",
-			"effect": "<p>Reduce the difficulty of CHA and LCK tests by 1 (minimum 0), +1 difficulty to STR tests</p>",
-			"description": "<p>A mild pre-War relaxant and hallucinogen, Day Tripper was favored by Americans seeking a brief escape from reality. The resulting high made users more laid-back and relaxed, while also making them less inclined to exert themselves physically. It was popular amongst many social groups during the stresses of the Great War, food riots, and general societal problems in the years before the bombs fell.</p>\n<ul>\n<li><strong>Day Tripper Addiction:</strong> A failed addiction roll renders you addicted to Day Tripper. You increase the difficulty of all CHA and LCK tests by +1 whenever you are not under the effects of Day Tripper.</li>\n</ul>"
+			"name": "Podróżniczek",
+			"effect": "<p>–1 do trudności testów CHA i SZ (minimum 0), +1 do trudności testów SI</p>",
+			"description": "Przedwojenny, średnio łagodny środek uspokajający i halucynogenny, który zyskał popularność wśród Amerykanów szukających krótkiego wytchnienia od rzeczywistości. W fazie haju użytkownik jest wyluzowany i beztroski, ale również mniej skłonny do wysiłku fizycznego. Narkotyk stał się popularny wśród wielu różnych grup społecznych w stresujących czasach Wielkiej Wojny, zamieszek na tle braku żywności i ogólnoświatowych problemów społecznych. A potem spadły bomby…"
 		},
 		"Deathclaw Egg": {
-			"name": "Deathclaw Egg",
+			"name": "Jajo szpona śmierci",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A large egg laid by a deathclaw. Dangerous to obtain, as deathclaws lay them and hatch from them, but potentially valuable as they can be used in a few recipes which produce highly nutritious food.</span></p>\n<p><span class=\"fontstyle0\">A deathclaw egg is a key ingredient in deathclaw omelettes.</span> </p>"
+			"description": "Ryzykowne do pozyskania, ponieważ wykluwa się z niego młody szpon śmierci, a duży je składa. Jest dużo warte, gdyż używa się go w kilku przepisach na wysokokaloryczne posiłki. Główny składnik omletu z jaja szpona śmierci."
 		},
 		"Deathclaw Meat": {
-			"name": "Deathclaw Meat",
+			"name": "Mięso szpona śmierci",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A cut of meat from a deathclaw. Dangerous to obtain, as it can only be taken from a dead deathclaw or someone who killed a deathclaw, but valuable as they can be extremely nutritious, especially when properly prepared.</span></p>\n<p><span class=\"fontstyle0\">Deathclaw meat can be cooked to produce deathclaw steak.</span> </p>"
+			"description": "Trudny do pozyskania płat mięsa, ponieważ wymaga zabicia szpona śmierci lub obrabowania kogoś, kto tego dokonał. To cenny łup, ponieważ jest wyjątkowo pożywne, zwłaszcza gdy zostanie właściwie przygotowane. Można z niego przyrządzić stek ze szpona śmierci."
 		},
 		"Deathclaw Omelette": {
-			"name": "Deathclaw Omelette",
-			"effect": "<p>If next scene is combat, regain 1HP at the start of each turn</p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">An omelette made from a deathclaw egg. In addition to being highly nutritious, it stimulates the natural healing processes of the body, allowing a person to recover more quickly from harm for a while after eating.</span> </p>"
+			"name": "Omlet z jaja szpona śmierci",
+			"effect": "<p>Jeśli następna scena będzie sceną walki, odzyskujesz 1 PZ na początku każdej tury</p>\n<p>&nbsp;</p>",
+			"description": "Jest nie tylko pożywny, ale także pobudza organizm do szybszej regeneracji. Dzięki temu przez krótki czas po spożyciu przyspiesza naturalne procesy zdrowienia ciała."
 		},
 		"Deathclaw Steak": {
-			"name": "Deathclaw Steak",
-			"effect": "<p>May re-roll 1d20 on all STR tests until end of next scene</p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A slab of cooked deathclaw meat. Sufficiently filling and nutritious that it could easily be your only meal for the day, while also leaving you feeling fitter and stronger for a while after eating.</span> </p>"
+			"name": "Stek ze szpona śmierci",
+			"effect": "<p>Do końca następnej sceny możesz przerzucić 1k20 w każdym teście SI</p>\n<p>&nbsp;</p>",
+			"description": "Płat smażonego mięsa, odpowiednio sycący i pożywny. Może być twoim jedynym posiłkiem danego dnia, a mimo to jeszcze przez jakiś czas będziesz czuł się o wiele zdrowszy i silniejszy."
 		},
 		"Dirty Wastelander": {
-			"name": "Dirty Wastelander",
-			"effect": "<p>Reduce difficulty of all STR tests by 1 and increase difficulty of all INT tests by 2 (in total)</p>",
-			"description": "<p><span class=\"fontstyle0\">An extremely potent alcoholic beverage, made from a blend of whiskey, Nuka-Cola, and Mutfruit, which has much the same effect as most alcoholic drinks&hellip; just moreso.</span> </p>"
+			"name": "Parszywy włóczęga",
+			"effect": "<p>Alkohol, –1 do trudności wszystkich testów SI, +2 do trudności wszystkich testów INT (wliczono Alkohol)</p>",
+			"description": "Niezwykle mocny napój alkoholowy, będący mieszanką whiskey, Nuka-Coli i soku mutowocowego. Działa tak samo, jak większość alkoholi… tyle że jeszcze parszywiej poniewiera."
 		},
 		"Dirty Water": {
-			"name": "Dirty Water",
+			"name": "Brudna woda",
 			"effect": "",
-			"description": "<p><span class=\"fontstyle0\">Water, collected from rivers, lakes, swimming pools, and any other unfiltered water source. It&rsquo;s not recommended to drink dirty water without filtering or boiling it, as it contains a fair amount of radiation&hellip; but water is scarce in some places and the choice of clean water isn&rsquo;t always available.</span> </p>"
+			"description": "Zaczerpnięta z rzeki, jeziora, basenu lub innego zbiornika pozbawionego skutecznego filtrowania. Lepiej nie pić jej bez uprzedniego przegotowania lub oczyszczenia, ponieważ może być w poważnym stopniu skażona. W niektórych miejscach zasoby wody są jednak bardzo cenne."
 		},
 		"Fancy Lads Snack Cakes": {
-			"name": "Fancy Lads Snack Cakes",
+			"name": "Ciasteczka Fancy Lads",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">Small, frosted cakes, so laden with sugar and other sweeteners than they&rsquo;re essentially preserved forever. Proclaimed in advertising to be &ldquo;America&rsquo;s Favorite Snackfood&rdquo;, these cakes can be found across the wastelands, in many teeth-achingly sweet varieties.</span></p>\n<p><span class=\"fontstyle0\">Sometimes, <strong>preserved</strong> boxes of Fancy Lads Snack Cakes can be found. These are identical to the listed version, but are not irradiated, and increase their rarity by +1. <br></span></p>"
+			"description": "Małe, lukrowane ciasteczka z taką zawartością cukru i innych substancji słodzących, że są zakonserwowane praktycznie na całą wieczność. Reklamowane jako „Najchętniej wybierana przekąska w Ameryce”. Można je znaleźć na całych pustkowiach w wielu odmianach – tak słodkich, że aż bolą zęby. Czasami można natrafić na dobrze zachowane pudełka ciasteczek Fancy Lads. Nie są one skażone, a ich rzadkość wzrasta o +1."
 		},
 		"Fancy Lads Snack Cakes (Preserved)": {
-			"name": "Fancy Lads Snack Cakes (Preserved)",
+			"name": "Ciasteczka Fancy Lads (dobrze zachowane)",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">Small, frosted cakes, so laden with sugar and other sweeteners than they&rsquo;re essentially preserved forever. Proclaimed in advertising to be &ldquo;America&rsquo;s Favorite Snackfood&rdquo;, these cakes can be found across the wastelands, in many teeth-achingly sweet varieties.</span></p>\n<p><span class=\"fontstyle0\">Sometimes, <strong>preserved</strong> boxes of Fancy Lads Snack Cakes can be found. These are identical to the listed version, but are not irradiated, and increase their rarity by +1. <br></span></p>"
+			"description": "Małe, lukrowane ciasteczka z taką zawartością cukru i innych substancji słodzących, że są zakonserwowane praktycznie na całą wieczność. Reklamowane jako „Najchętniej wybierana przekąska w Ameryce”. Można je znaleźć na całych pustkowiach w wielu odmianach – tak słodkich, że aż bolą zęby. Czasami można natrafić na dobrze zachowane pudełka ciasteczek Fancy Lads. Nie są one skażone, a ich rzadkość wzrasta o +1."
 		},
 		"Food Paste": {
-			"name": "Food Paste",
-			"effect": "<p>May re-roll 1d20 on all END tests until end of next scene</p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">In the years before the Great War, several charter schools across America entered an experimental program: The Nutritional Alternative Paste Program (NAPP). Developed by Vault-Tec in conjunction with the Federal Government, this supplied participating schools with a supply of food paste, fortified with vitamins, minerals and all the nutrients a growing body needs, and which would remain unspoiled for over a century.</span></p>\n<p><span class=\"fontstyle0\">The paste is a flavorless mush, garish pink in color, and may have unknown long-term effects on psychology or physiology. It does, however, make the body healthier after consumption.</span> </p>"
+			"name": "Pasta anaboliczna",
+			"effect": "<p>Do końca następnej sceny możesz przerzucić 1k20 w każdym teście WT</p>\n<p>&nbsp;</p>",
+			"description": "W latach poprzedzających Wielką Wojnę pewna liczba szkół społecznych wzięła udział w eksperymentalnym Programie Alternatywnego Karmienia Pastą (PAKaP), opracowanym przez Vault-Tec w kooperacji z rządem federalnym. Otrzymały one zapas pasty żywnościowej z witaminami, minerałami i wszystkimi środkami odżywczymi, jakich potrzebują młode, rosnące ciała. Pasta była odpowiednio zakonserwowana, żeby jej przydatność do spożycia wyniosła ponad sto lat. Jaskraworóżowa, nie ma żadnego smaku i nie wiadomo, czy i jakie długofalowe zmiany wywołuje w psychice lub fizjologii. Niewątpliwie czyni jednak organizm zdrowszym."
 		},
 		"Fury": {
-			"name": "Fury",
-			"effect": "<p>+3 Physical damage resistance. +3 @fos[DC] to melee damage, +2 difficulty to all PER tests</p>",
-			"description": "<p>An extremely powerful combat stimulant, Fury grants users a sense of invincibility, rendering them nearly immune to pain and recklessly dangerous in melee combat, while also rendering them largely oblivious to everything else as well.</p>\n<ul>\n<li><strong>Fury Addiction:</strong> A failed addiction roll renders you addicted to Fury. You increase the difficulty of all STR and PER tests by +1 whenever you are not under the effects of Fury</li>\n</ul>"
+			"name": "Furia",
+			"effect": "<p>+3 do Odporności na obrażenia fizyczne, +3 DC do obrażeń w walce wręcz, +2 do trudności testów PER</p>",
+			"description": "Ten bardzo silny stymulant bojowy wzbudza w użytkowniku poczucie bycia niezwyciężonym i wywołuje skłonność do brawury w walce wręcz. Sprawia, że przestaje on zwracać uwagę na ból – niestety na inne rzeczy też."
 		},
 		"Glowing Blood Pack": {
-			"name": "Glowing Blood Pack",
-			"effect": "<p>+5 to Radiation damage resistance</p>",
-			"description": "<p><span class=\"fontstyle0\">A blood bag filled with a luminescent green fluid. If you can stomach the acrid, metallic taste, they have potent restorative properties and help protect the body against radiation poisoning for a short while.</span></p>"
+			"name": "Pojemnik ze świecącą krwią",
+			"effect": "<p>+5 do Odporności na obrażenia radiacyjne</p>",
+			"description": "Przezroczysty pojemnik wypełniony fluorescencyjną, zielonkawą cieczą. Jeśli jesteś w stanie zignorować jej kwaśny, metaliczny posmak, ma ona właściwości regenerujące i przez jakiś czas wzmacnia organizm przed zatruciem radiacyjnym."
 		},
 		"Glowing Fungus": {
-			"name": "Glowing Fungus",
+			"name": "Świecące grzyby",
 			"effect": "",
 			"description": ""
 		},
 		"Gourd": {
-			"name": "Gourd",
+			"name": "Tykwa",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A large edible fruit, which is fleshy with a hard skin, like a pumpkin. The pulp inside can be scooped out and eaten or used in cooking, while the outer skin is often carved and used as decoration.</span></p>"
+			"description": "Duży jadalny owoc o mięsistym miąższu i twardej, zdrewniałej skórce, który przypomina nieco dynię. Środek tykwy można wydłubać i zjeść na surowo albo ugotować, natomiast zewnętrzna skóra bywa często rzeźbiona i używana jako ozdoba."
 		},
 		"Grape Mentats": {
-			"name": "Grape Mentats",
-			"effect": "<p>Reduce the difficulty of CHA tests by 2, to a minimum of 0| Re-roll 1d20 on Barter tests.</p>",
-			"description": "<p>A tin of Mentats, their formula altered to reduce social anxiety, boost confidence, and make users more aware of body language and other social cues.</p>\n<ul>\n<li><strong>Mentat Addiction:</strong> A failed addiction roll renders you addicted to Mentats. You increase the difficulty of all CHA tests by +1 whenever you are not under the effects of a type of Mentat (ordinary Mentats, or the Berry, Grape, or Orange versions).</li>\n</ul>"
+			"name": "Winogronowe Mentaty",
+			"effect": "<p>–2 do trudności testów CHA (minimum 0), możesz przerzucić 1k20 w testach Handlu</p>",
+			"description": "<p>Puszka z mentatami o zmienionej formule. Łagodzą nerwowość w sytuacjach towarzyskich i zwiększają pewność siebie. Wyczulają także użytkownika na mowę ciała i pozostałe sygnały niewerbalne.</p>\n<ul>\n<li><strong>Uzależnienie:</strong><p>Nieudany test uzależnienia oznacza, że winogronowe mentaty stają się twoim nałogiem. Kiedy nie znajdujesz się pod ich wpływem, zwiększasz o +1 trudność testów CHA.</p>"
 		},
 		"Grilled Radroach": {
-			"name": "Grilled Radroach",
+			"name": "Grillowany radrakan",
 			"effect": "",
-			"description": "<p><span class=\"fontstyle0\">A grilled chunk of meat taken from a radroach. Not especially appetizing, especially if you know where it came from, but sufficiently nutritious and filling for those with few other choices.</span></p>"
+			"description": "Usmażony kawałek mięsa wyciętego z radrakana. Niezbyt apetyczny – zwłaszcza gdy wiesz, skąd pochodzi – niemniej jednak pożywny i wystarczający dla tych, którzy nie mogą sobie pozwolić na nic lepszego."
 		},
 		"Grilled Radstag": {
-			"name": "Grilled Radstag",
-			"effect": "<p>Carry weight increases by +25 until end of next scene</p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A grilled rack of ribs from a radstag. Easy enough to make when you&rsquo;ve got the main ingredient&mdash;radstag meat&mdash;but tasty and satisfying enough that your burdens feel a little lighter once you&rsquo;ve finished eating.</span> </p>"
+			"name": "Grillowany mutarogacz",
+			"effect": "<p>Do końca następnej sceny otrzymujesz +25 do Udźwigu</p>\n<p>&nbsp;</p>",
+			"description": "Usmażone żeberka z mutarogacza. Łatwe do przyrządzenia, jeśli dysponujesz głównym składnikiem – czyli mięsem mutarogacza – a zarazem smaczne i na tyle pożywne, że po ich spożyciu dźwigane klamoty wydają się jakby lżejsze."
 		},
 		"Gum Drops": {
-			"name": "Gum Drops",
+			"name": "Żelki",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A pre-War confection, gum drops are small drops of congealed gelatin sweetened and flavored with a variety of overpowering flavors. The most common variety to survive the War, ironically, were labelled as radioactive for their powerful sour flavor. Long years sat in cupboards and on shelves has made this more literal, however.</span> </p>"
+			"description": "Ten produkowany przed wojną rodzaj słodyczy ma formę niewielkich, żelatynowych kulek z dodatkiem cukru oraz bardzo mocnych i różnorodnych aromatów smakowych. Ze wszystkich rodzajów, które przetrwały wojnę, najbardziej powszechnym są żelki nazywane – jak na ironię – radioaktywnymi z powodu swojego bardzo kwaśnego smaku. Po wielu latach leżenia na półkach i w szafkach ma to bardziej dosłowne znaczenie."
 		},
 		"Healing Salve": {
-			"name": "Healing Salve",
-			"effect": "<p>Heals 2 HP (see description)</p>",
-			"description": "<p>A salve or ointment which can be applied to reduce pain and speed recovery from injury, typically made from several natural herbal ingredients.</p>\n<ul>\n<li><strong>Use:</strong> Healing salve can be used in one of two ways: it can be applied using the Take Chem minor action, healing 2 HP immediately, or it can be applied as part of a First Aid action, adding +2 to the number of HP healed overall.</li>\n</ul>"
+			"name": "Maść lecznicza",
+			"effect": "<p>Leczy 2 PZ (patrz opis)</p>",
+			"description": "Maść lub balsam, stosowane miejscowo, żeby złagodzić ból i przyspieszyć gojenie ran. Zazwyczaj wyrabia się je z wielu ziołowych składników."
 		},
 		"Hubflower": {
-			"name": "Hubflower",
+			"name": "Centrokwiaty",
 			"effect": "",
 			"description": ""
 		},
 		"Iguana Bits": {
-			"name": "Iguana Bits",
+			"name": "Kawałki iguany",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">Chunks of raw iguana meat, in a small can or another sealed container. At least, you </span><span class=\"fontstyle2\">hope </span><span class=\"fontstyle0\">that&rsquo;s iguana meat. You don&rsquo;t see many iguanas around.</span></p>\n<p><span class=\"fontstyle0\">Iguana bits are an ingredient in Iguana on a Stick and Iguana Soup.</span> </p>"
+			"description": "Surowe, w niewielkiej puszce lub zamykanym pojemniku. Cóż, przynajmniej możesz mieć nadzieję, że to z iguany. Te stworzenia to obecnie nieczęsty widok. Główny składnik iguany na patyku i zupy z iguany."
 		},
 		"Iguana on a Stick": {
-			"name": "Iguana on a Stick",
+			"name": "Iguana na patyku",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">Chunks of iguana meat on a wooden skewer, which have then been cooked. Not the best meal, but it&rsquo;ll do the trick if you&rsquo;re desperate or need to secure the loyalty of a canine companion.</span> </p>"
+			"description": "Kawałki ugotowanego mięsa iguany nabite na drewniany szpikulec. Niezbyt wyrafinowane, lecz wystarczające, kiedy dręczy cię głód lub chcesz zaskarbić sobie przyjaźń psiego towarzysza."
 		},
 		"Iguana Soup": {
-			"name": "Iguana Soup",
+			"name": "Zupa z iguany",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A soup made with carrot and iguana bits. A more satisfying meal than any of the ingredients would have been alone.</span> </p>"
+			"description": "Zupa gotowana na kawałkach iguany z dodatkiem marchwi. Bardziej sycąca niż którykolwiek ze składników osobno."
 		},
 		"InstaMash": {
-			"name": "InstaMash",
+			"name": "Purée błyskawiczne",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A packet of freeze-dried powdered mashed potato still sealed inside its cardboard box. Just add water!</span></p>\n<p><span class=\"fontstyle0\">Sometimes, preserved boxes of InstaMash can be found. These are identical to the listed version, but are not irradiated, and increase their rarity by +1.</span> </p>"
+			"description": "Porcja mrożonego na sucho purée ziemniaczanego, zafoliowana i szczelnie zamknięta w kartonowym pudełku. Wystarczy dolać wody!"
 		},
 		"InstaMash (Preserved)": {
-			"name": "InstaMash (Preserved)",
+			"name": "Purée błyskawiczne (dobrze zachowane)",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A packet of freeze-dried powdered mashed potato still sealed inside its cardboard box. Just add water!</span></p>\n<p><span class=\"fontstyle0\">Sometimes, preserved boxes of InstaMash can be found. These are identical to the listed version, but are not irradiated, and increase their rarity by +1.</span> </p>"
+			"description": "Porcja mrożonego na sucho purée ziemniaczanego, zafoliowana i szczelnie zamknięta w kartonowym pudełku. Wystarczy dolać wody!"
 		},
 		"Institute Food Packet": {
-			"name": "Institute Food Packet",
+			"name": "Zestaw żywnościowy Instytutu",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A small white box of food marked with the symbol of the Institute. Each box contains enriched ration bars filled with essential nutrients. Each ration bar contains your daily requirements of forty different vitamins, minerals, and nutrients, which are listed on the back of the box.</span> </p>"
+			"description": "W niewielkim, białym pudełku z symbolem Instytutu znajdują się wysokokaloryczne batony proteinowe. Każdy zawiera dzienną dawkę niezbędnych dla zdrowia minerałów, witamin i środków odżywczych – ich lista znajduje się na spodzie pudełka."
 		},
 		"Irradiated Blood": {
-			"name": "Irradiated Blood",
-			"effect": "<p>Roll 2 @fos[DC] rather than 1 for determining Radiation damage when consumed</p>",
-			"description": "<p><span class=\"fontstyle0\">A blood bag filled with discolored&mdash;often green&mdash; blood-like fluid. About as useful a beverage as a normal blood pack, but highly irradiated.</span></p>\n<ul>\n<li><span class=\"fontstyle3\"><strong>Special:</strong>&nbsp;</span><span class=\"fontstyle0\">Roll 2 @fos[DC]</span><span class=\"fontstyle4\">&nbsp;</span><span class=\"fontstyle0\">when determining if the drink </span><span class=\"fontstyle0\">inflicts Radiation damage, rather than 1 @fos[DC]</span><span class=\"fontstyle0\">. You </span><span class=\"fontstyle0\">suffer 1 Radiation damage, ignoring damage resistance, for each Effect rolled.</span> </li>\n</ul>"
+			"name": "Napromieniowana krew",
+			"effect": "<p>Rzuć 2 kośćmi @fos[DC] zamiast 1, aby określić obrażenia od promieniowania po spożyciu./p>",
+			"description": "Pojemnik wypełniony odbarwioną – często zieloną – cieczą przypominającą krew. Jako napój równie użyteczna co normalna krew, tyle że silnie skażona."
 		},
 		"Jet": {
-			"name": "Jet",
-			"effect": "<p>Extra actions cost 1 less AP</p>",
-			"description": "<p>Jet is an inhaled stimulant which creates an altered state of consciousness where time appears to slow, heightening reflexes and allowing the user to act more quickly during a moment of crisis.</p>\n<ul>\n<li><strong>Jet Addiction:</strong> A failed addiction roll renders you addicted to Jet. You increase the difficulty of all AGI tests by +1 whenever you are not under the effects of a type of Jet (Jet, or Jet Fuel; Ultra Jet has a different addiction effect)</li>\n</ul>"
+			"name": "Odlot",
+			"effect": "<p>Dodatkowe akcje kosztują o 1 PA mniej</p>",
+			"description": "Stymulant w aerozolu, który wywołuje odmienny stan świadomości. Dla użytkownika czas zwalnia, co poprawia jego refleks i pozwala na szybsze działanie w kryzysowych sytuacjach."
 		},
 		"Jet Fuel": {
-			"name": "Jet Fuel",
-			"effect": "<p>Gain 1 free AP at the start of each turn</p>",
-			"description": "<p>A volatile variant of Jet, Jet Fuel provides a massive burst of energy in the user, allowing them to act more swiftly and decisively.</p>\n<ul>\n<li><strong>Jet Addiction:</strong> A failed addiction roll renders you addicted to Jet. You increase the difficulty of all AGI tests by +1 whenever you are not under the effects of a type of Jet (Jet, or Jet Fuel; Ultra jet has a different addiction effect).</li>\n</ul>"
+			"name": "Odrzutowy Odlot",
+			"effect": "<p>+1 darmowy PA na początku każdej tury</p>",
+			"description": "Bardziej niestabilna wersja odlotu, która daje użytkownikowi potężny zastrzyk energii, pozwalając na jeszcze szybsze i bardziej zdecydowane działania."
 		},
 		"Med-X": {
 			"name": "Med-X",
-			"effect": "<p>+3 Physical damage resistance</p>",
-			"description": "<p>Med-X is a potent opiate analgesic which significantly reduces both the perception of pain and the natural emotional response to pain. In short, it&rsquo;s a powerful painkiller.</p>\n<ul>\n<li><strong>Med-X Addiction:</strong> A failed addiction roll renders you addicted to Med-X. You increase the difficulty of all AGI tests by +1, and suffer +1 @fos[DC] additional damage from all physical attacks whenever you are not under the effects of Med-X.</li>\n</ul>"
+			"effect": "<p>+3 do Odporności na obrażenia fizyczne</p>",
+			"description": "Bardzo silny opiat znieczulający, który w znaczący sposób osłabia zarówno odczuwanie bólu, jak też związaną z nim naturalną reakcję emocjonalną. Krótko mówiąc, to niezwykle silnie działający środek przeciwbólowy."
 		},
 		"Melon": {
 			"name": "Melon",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A large, green, juicy fruit with a hard outer rind. Melons are grown in wasteland farms, or found growing wild in the wasteland. Either way, once cut open they&rsquo;re often very satisfying, sating hunger and quenching thirst all in one go.</span></p>\n<p><span class=\"fontstyle0\">Melons grown in non-irradiated conditions (such as within vaults or similar locations) are not irradiated but increase their rarity by +1.</span> </p>"
+			"description": "Duży, zielony i soczysty owoc o twardej skórce. Uprawiany na farmach, choć rośnie też dziko na pustkowiach. Jego miąższ jest bardzo sycący i zaspokaja zarówno głód, jak i pragnienie. Uprawiany w kontrolowanych warunkach (na przykład w kryptach lub podobnych miejscach) nie jest skażony, ale jego rzadkość wzrasta o +1."
 		},
 		"Melon Juice": {
-			"name": "Melon Juice",
-			"effect": "<p>Heal 1 HP at the start of each turn</p>",
-			"description": "<p><span class=\"fontstyle0\">Juice made from pressing the pulp of a melon. A refreshing and healthy drink, which promotes the body&rsquo;s natural healing.</span> </p>"
+			"name": "Sok z melona",
+			"effect": "<p>Na początku każdej tury leczysz 1 PZ</p>",
+			"description": "Sok ze sprasowanej pulpy melona. Odświeżający i prozdrowotny, wspomaga naturalne procesy lecznicze organizmu."
 		},
 		"Mentats": {
-			"name": "Mentats",
-			"effect": "<p>Re-roll 1d20 on PER and INT tests</p>",
-			"description": "<p>Mentats were a popular recreational and performance-enhancing drug before the Great War, which enhance memory and speed mental processes. It was popular amongst students studying for exams, and amongst armchair philosophers and those in jobs requiring intensive thought. The effect lasts only a short time, leaving the user feeling tired and unfocused afterwards, and they are addictive by design, with withdrawal causing migraines and irritability.</p>\n<ul>\n<li><strong>Mentat Addiction:</strong> A failed addiction roll renders you addicted to Mentats. You increase the difficulty of all CHA tests by +1 whenever you are not under the effects of a type of Mentat (ordinary Mentats, or the Berry, Grape, or Orange versions).</li>\n</ul>"
+			"name": "Mentaty",
+			"effect": "<p>Możesz przerzucić 1k20 w testach INT i PER</p>",
+			"description": "Przed Wielką Wojną mentaty były popularnym narkotykiem rekreacyjnym i stymulantem przyspieszającym procesy umysłowe oraz poprawiającym pamięć. Chętnie zażywali je wkuwający do egzaminów studenci, różnego rodzaju myśliciele oraz przedstawiciele zawodów wymagających kreatywności. Efekt ich działania jest dość krótki, a użytkownik staje się później zmęczony i trudno mu się skupić. Narkotyk jest też z samego założenia jego twórców uzależniający, a w fazie głodu pojawiają się migrenowe bóle głowy oraz ogólna drażliwość."
 		},
 		"Mirelurk Cake": {
-			"name": "Mirelurk Cake",
-			"effect": "<p>Can breathe underwater until end of next scene</p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">Flakes and fragments of mirelurk meat, mixed with mirelurk egg to bind it together into a patty and then cooked. In addition to some modest nutritional value, eating mirelurk cake allows you to survive underwater for longer.</span></p>"
+			"name": "Ciastka błotniakowe",
+			"effect": "<p>Do końca następnej sceny możesz oddychać pod wodą</p>\n<p>&nbsp;</p>",
+			"description": "Skrawki mięsa błotniaka zmieszane na masę z wbitym jajkiem błotniaka, a następnie zapieczone. Ciastka są całkiem pożywne, a dodatkowo pozwalają dłużej przebywać pod wodą."
 		},
 		"Mirelurk Egg": {
-			"name": "Mirelurk Egg",
+			"name": "Jajo błotniaka",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">Eggs found in mirelurk nests. Normally found in clutches of 2-3, these eggs hatch into mirelurk hatchlings if left undisturbed.</span></p>\n<p><span class=\"fontstyle0\">Mirelurk eggs are a key ingredient of both Mirelurk Egg Omelette and Mirelurk Cake.</span> </p>"
+			"description": "Można je znaleźć w gniazdach błotniaków, zwykle w liczbie dwóch lub trzech. Jeśli nikt ich nie rozbije, wyklują się z nich młode błotniaki. Główny składnik ciastka błotniakowego i omletu z jaja błotniaka."
 		},
 		"Mirelurk Egg Omelette": {
-			"name": "Mirelurk Egg Omelette",
-			"effect": "<p>Immediately add 2 AP to the group pool</p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">An omelette made from a mirelurk egg. In addition to their nutritional value, when properly prepared, these omelettes can leave you feeling energized and ready for action.</span> </p>"
+			"name": "Omlet z jaja błotniaka",
+			"effect": "<p>Natychmiast dodaj +2 PA do puli grupowej</p>\n<p>&nbsp;</p>",
+			"description": "Właściwie przygotowany jest nie tylko sycący, lecz także odnawia siły i przywraca wigor."
 		},
 		"Mirelurk Meat": {
-			"name": "Mirelurk Meat",
+			"name": "Mięso błotniaka",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">The meat from dead mirelurks. This tends to be tougher and of poorer quality than the meat which comes from the weaker softshell mirelurk, but it is still entirely edible.</span></p>\n<p><span class=\"fontstyle0\">Mirelurk meat is a key ingredient in Mirelurk Cake and can be cooked to produce roasted mirelurk meat.</span> </p>"
+			"description": "Bywa twardsze i mniej smaczne niż mięso spod miękkiej muszli, ale wciąż jest jadalne. Główny składnik ciastka błotniakowego i pieczonego mięsa błotniaka."
 		},
 		"Mirelurk Queen Steak": {
-			"name": "Mirelurk Queen Steak",
-			"effect": "<p>Reduce the difficulty of all END tests by 1 until the end of the next scene</p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">The rare, nutrient-rich meat of a mirelurk Queen, when properly prepared, can fortify the body and provide a surge of health and vitality, making you feel healthier and more resilient for a while after eating.</span> </p>"
+			"name": "Stek z królowej błotniaków",
+			"effect": "<p>Do końca następnej sceny otrzymujesz –1 do trudności wszystkich testów WT</p>\n<p>&nbsp;</p>",
+		    "description": "Trudno dostępne, ale bogate w składniki odżywcze mięso. Odpowiednio przyrządzone wzmacnia organizm i dodaje wigoru oraz energii. Po takim posiłku czujesz się zdrowszy i przez jakiś czas masz zwiększoną naturalną odporność."
 		},
 		"Mole Rat Chunks": {
-			"name": "Mole Rat Chunks",
-			"effect": "<p>+1 Maximum AP in group pool until the end of the current scene</p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">Pieces of mole rat meat which&rsquo;ve been cooked over a fire. The meat is somewhat tough and chewy, but leaves a feeling of vigor, as if your reserves of stamina have increased.</span> </p>"
+			"name": "Kawałki kretoszczura",
+			"effect": "<p>Do końca obecnej sceny otrzymujecie +1 do maksymalnej liczby PA w puli grupowej</p>\n<p>&nbsp;</p>",
+			"description": "Opiekane nad ogniem. Twarde i gumiaste, ale dają poczucie ożywienia, jakby nagle wróciły ci zapasy energii."
 		},
 		"Mole Rat Meat": {
-			"name": "Mole Rat Meat",
+			"name": "Mięso kretoszczura",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A chunk of meat taken from a dead mole rat.</span></p>\n<p><span class=\"fontstyle0\">Mole rat meat can be cooked to make Mole Rat Chunks.</span></p>"
+			"description": "Kawał mięsa wycięty z martwego kretoszczura. Można z niego przyrządzić kawałki kretoszczura."
 		},
 		"Mongrel Dog Meat": {
-			"name": "Mongrel Dog Meat",
+			"name": "Mięso kundla",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A chunk of meat taken from a mongrel dog.</span></p>\n<p><span class=\"fontstyle0\">Mongrel Dog Meat can be cooked to make Mutt Chops.</span> </p>"
+			"description": "Kawałek mięsa z bezpańskiego psa. Można z niego przyrządzić kotlet z kundla."
 		},
 		"Moonshine": {
-			"name": "Moonshine",
-			"effect": "<p>+2 Max HP</p>",
-			"description": "<p><span class=\"fontstyle0\">Largely a slang term for high-proof distilled spirits produced in illicit or makeshift manner. Due to their unorthodox and improvised origins, moonshine can be dangerous to consume, often contaminated with dangerous chemicals. The stuff that doesn&rsquo;t kill you&hellip; will probably render you insensible and impervious to pain if it doesn&rsquo;t knock you out entirely.</span> </p>"
+			"name": "Bimber",
+			"effect": "<p>Alkohol, +2 maksymalne PZ</p>",
+			"description": "Potoczne określenie wysokoprocentowego destylowanego alkoholu, produkowanego nielegalnie lub chałupniczymi sposobami. Ze względu na niekonwencjonalne oraz improwizowane sposoby jego wytwarzania może być zanieczyszczony niebezpiecznymi związkami chemicznymi, a przez to szkodliwy dla zdrowia. Ale co cię nie zabije… to z pewnością uodporni na ból. No, chyba że zupełnie zwali cię z nóg."
 		},
 		"Mutant Hound Chops": {
-			"name": "Mutant Hound Chops",
-			"effect": "<p>Heals 2 Radiation damage</p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A piece of mutant hound meat cooked to make it safer to eat. For reasons unknown, once cooked, the meat helps absorb radiation already in the body, lessening the effects of radiation poisoning. This effect doesn&rsquo;t compare to proper anti-radiation meds like RadAway, but it can be useful to have a few on hand to soak up the radiation you picked up during an excursion.</span> </p>"
+			"name": "Kotlet z mutogara",
+			"effect": "<p>Leczy 2 obrażenia radiacyjne</p>\n<p>&nbsp;</p>",
+			"description": "Poddany obróbce termicznej, żeby można było go bezpiecznie zjeść. Z nieznanych przyczyn mięso po ugotowaniu absorbuje promieniotwórcze toksyny, znajdujące się w ciele jedzącego, osłabiając efekty zatrucia radiacyjnego. Nie jest tak samo skuteczny, jak leki do leczenia choroby popromiennej, na przykład AntyRad, jednak warto mieć taki kotlet pod ręką, żeby ochronić się przed skutkami napromieniowania, którego nabawisz się podczas wyprawy."
 		},
 		"Mutant Hound Meat": {
-			"name": "Mutant Hound Meat",
+			"name": "Mięso mutogara",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A cut of meat taken from a dead mutant hound. This meat&rsquo;s off-green color and lumpy texture suggests that it would be quite unpleasant to eat. Eaten raw, it contains a fair amount of radiation and is unpalatable. Cooked, they&rsquo;re still not the tastiest food, but they&rsquo;re not hazardous.</span></p>\n<p><span class=\"fontstyle0\">Mutant Hound Meat can be cooked to make Mutant Hound Chops.</span> </p>"
+			"description": "Grudkowate w dotyku, o niezdrowo zielonej barwie; nie wygląda, jakby jego spożycie mogło zapewnić jakąkolwiek przyjemność. Na surowo jest mocno skażone i obrzydliwe w smaku. Po ugotowaniu nadal nie jest najsmaczniejsze, ale przynajmniej mniej ryzykowne dla zdrowia. Można z niego przyrządzić kotlety z mutogara."
 		},
 		"Mutfruit": {
-			"name": "Mutfruit",
+			"name": "Mutowoc",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">Pronounced &ldquo;mute-fruit&rdquo;, and short for mutated fruit, mutfruit is a mutated form of apple, which comes in several different varieties depending on where you are. These different varieties are cultivated for their sweet flavor, their use in cooking, and even medicinal properties in some rare cases.</span></p>\n<p><span class=\"fontstyle0\">Mutfruit is part of a few different recipes, including being turned into Mutfruit Juice.</span></p>\n<p><span class=\"fontstyle0\">Mutfruits grown in non-irradiated conditions (such as within vaults or similar locations) are not irradiated but increase their rarity by +1.</span> </p>"
+			"description": "Powszechnie używany skrót od „zmutowanego owocu”. Zmutowany gatunek jabłka o różnych lokalnych odmianach. Uprawiany ze względu na słodki smak, wartości odżywcze, a nawet – w rzadkich przypadkach – właściwości lecznicze. Mutowoce są składnikiem różnych przepisów, między innymi można z nich wyrabiać sok mutowocowy. Uprawiane w kontrolowanych warunkach (na przykład w kryptach lub podobnych miejscach) nie są skażone, ale ich rzadkość wzrasta o +1."
 		},
 		"Mutfruit Juice": {
-			"name": "Mutfruit Juice",
-			"effect": "<p>Reroll 1d20 on all AGI tests</p>",
-			"description": "<p><span class=\"fontstyle0\">Juice made from pressing the pulp of a mutfruit. A sharp and invigorating drink, which wakes up the mind and helps get the body moving.</span> </p>"
+			"name": "Sok mutowocowy",
+			"effect": "<p>Możesz przerzucić 1k20 w testach ZW</p>",
+			"description": "Sok uzyskiwany ze sprasowanej pulpy mutowocowej. Ostry w smaku i orzeźwiający, przywraca sprawność umysłu i dodaje ciału wigoru."
 		},
 		"Mutt Chops": {
-			"name": "Mutt Chops",
+			"name": "Kotlet z kundla",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">Cuts of mongrel dog meat cooked to make them more nutritious and edible.</span> </p>"
+			"description": "Kawałki psiego mięsa. Ugotowane, żeby były bardziej zjadliwe i pożywne."
 		},
 		"Noodle Cup": {
-			"name": "Noodle Cup",
+			"name": "Rosołek",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A simple cup of noodle soup.Moderately filling and thirst-quenching, and simple enough to make if you can find the ingredients.</span></p>"
+			"description": "Miska zwykłej zupy z makaronem. Zaspokaja pragnienie oraz apetyt i jest prosta do przyrządzenia, jeśli masz pod ręką odpowiednie składniki."
 		},
 		"Nuka-Cherry": {
 			"name": "Nuka-Cherry",
-			"effect": "<p>Immediately gain +2 AP</p>",
-			"description": "<p><span class=\"fontstyle0\">Produced by the Nuka-Cola Corporation after it bought the patent for a rival beverage, Merle&rsquo;s Very Cherry Soda, Nuka-Cherry is a blend of the typical beloved Nuka-Cola recipe with a distinctive cherry flavoring and a bright red color. The refreshing taste and high sugar and caffeine contents of the drink make it an ideal pick-me-up for those needing a burst of energy.</span></p>\n<p><span class=\"fontstyle0\">You receive 1 cap upon opening and drinking a bottle of Nuka-Cherry.</span> </p>"
+			"effect": "<p>Natychmiast zyskujesz +2 PA</p>",
+			"description": "Produkowana przez korporację Nuka-Cola po wykupieniu przez nią patentu na konkurencyjną Bardzo Wiśniową Gazowankę koncernu Merle; Nuka-Cherry to powszechnie lubiana Nuka-Cola z wyraźnym aromatem wiśni i pasującym do tego jaskrawoczerwonym kolorem. Orzeźwiający smak, wysoka zawartość cukru oraz dodatek kofeiny czynią z niej idealny wybór dla każdego, kto potrzebuje zastrzyku energii."
 		},
 		"Nuka-Cola": {
 			"name": "Nuka-Cola",
-			"effect": "<p>Immediately gain +1 AP</p>",
-			"description": "<p><span class=\"fontstyle0\">First entering the market in 2044, Nuka-Cola rapidly became the number one soft drink in the United States and was the most popular beverage in the world soon after. A combination of seventeen fruit essences, precisely balanced to enhance the classic cola flavor. Each bottle contains 120% of the recommended daily amount of sugar, and excessive amounts of caffeine, but is also fortified with vitamins, minerals and &ldquo;health tonics&rdquo;. Due to its popularity, it can still be found in vast quantities in the wasteland, and it is still popular even if the bottles are now warm and the carbonated fizz went flat long ago.</span></p>\n<p><span class=\"fontstyle0\">You receive 1 cap upon opening and drinking a bottle of Nuka-Cola.</span> </p>"
+			"effect": "<p>Natychmiast zyskujesz +1 PA</p>",
+			"description": "Po wejściu na rynek w 2044 roku Nuka-Cola w szybkim tempie stała się najbardziej popularnym napojem bezalkoholowym w Stanach Zjednoczonych, a wkrótce także i na całym świecie. Aromaty smakowe siedemnastu owoców, w precyzyjnie dobranej proporcji, wzbogaciły klasyczny smak coli. Każda butelka zawiera 120% zalecanej dziennej dawki cukru i dużą ilość kofeiny, a także minerały, witaminy oraz toniki zdrowotne. Ze względu na jej ogromną popularność przed wojną nadal jest dostępna w dużych ilościach i równie chętnie popijana co kiedyś – również ciepła i bez gazu."
 		},
 		"Nuka-Cola Quantum": {
 			"name": "Nuka-Cola Quantum",
-			"effect": "<p>Immediately gain +5 AP</p>",
-			"description": "<p><span class=\"fontstyle0\">Introduced the same day the bombs fell, and thus difficult to find, Nuka-Cola Quantum was the newest flavor of Nuka-Cola to be released to the public, with twice the calories, twice the carbohydrates, twice, the caffeine, and twice the taste. The drink&rsquo;s distinctive blue glow comes from the (safe for human consumption) isotope additive developed by beverageers working with the United States military. Most bottles found were from special pre-release batches sent to chosen retailers or found in trucks in the process of shipping the product. The drink&rsquo;s effects are extremely potent.</span></p>\n<p><span class=\"fontstyle0\">You receive 1 cap upon opening and drinking a bottle of Nuka-Cola Quantum.</span> </p>"
+			"effect": "<p>Natychmiast zyskujesz +5 PA</p>",
+			"description": "Wprowadzona na rynek w dniu, w którym spadły bomby – a przez to obecnie trudna do znalezienia – Nuka-Cola Quantum była najnowszą odmianą Nuka-Coli. Dwa razy więcej kalorii, dwa razy więcej węglowodanów, dwa razy więcej kofeiny i dwa razy intensywniejszy smak. Charakterystyczna niebieska poświata, jaką emanował napój, pochodziła z bezpiecznej dla ludzi domieszki izotopowej, opracowanej przez chemików spożywczych współpracujących z amerykańskimi siłami zbrojnymi. Większość obecnie znajdowanych butelek pochodzi ze specjalnych promocyjnych partii, które były wysyłane wybranym detalistom, lub z ciężarówek mających je rozwozić do sklepów. Efekty spożycia napoju są bardzo silne."
 		},
 		"Orange Mentats": {
-			"name": "Orange Mentats",
-			"effect": "<p>Reduce the difficulty of PER tests by 2 (min. 0), Aim minor action lets you re-roll one additional d20.</p>",
-			"description": "<p>A variant of Mentats which heighten awareness and sensory acuity.</p>\n<ul>\n<li><strong>Mentat Addiction:</strong> A failed addiction roll renders you addicted to Mentats. You increase the difficulty of all CHA tests by +1 whenever you are not under the effects of a type of Mentat (ordinary Mentats, or the Berry, Grape, or Orange versions).</li>\n</ul>"
+			"name": "Pomarańczowe Mentaty",
+			"effect": "<p>–2 do trudności testów PER (minimum 0),pomniejsza akcja celowania pozwala przerzucić dodatkową 1k20</p>",
+			"description": "Odmiana mentatów, która zwiększa uważność i wyostrza zmysły."
 		},
 		"Overdrive": {
-			"name": "Overdrive",
-			"effect": "<p>+3 @fos[DC] damage to all attacks, May re-roll up to 3 @fos[DC] per damage roll</p>",
-			"description": "<p>An enhanced form of Psycho which massively stimulates aggression, making the user more dangerous in combat.</p>\n<ul>\n<li><strong>Overdrive Addiction:</strong> A failed addiction roll renders you addicted to Overdrive. You increase the difficulty of all STR and AGI tests by +1 whenever you are not under the effects of Overdrive.</li>\n</ul>"
+			"name": "Przester",
+			"effect": "<p>+3 DC obrażeń przy każdym ataku, możesz przerzucić do 3 DC w każdym rzucie na obrażenia</p>",
+			"description": "Wzbogacona odmiana psycho, która znacznie zwiększa agresję, czyniąc użytkownika jeszcze bardziej niebezpiecznym w walce."
 		},
 		"Perfectly Preserved Pie": {
-			"name": "Perfectly Preserved Pie",
+			"name": "Doskonale zachowany placek",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">Contained within the storage of a Port-A-Diner, this slice of fruit pie has been shielded from the radioactive environment since before the Great War, meaning that isn&rsquo;t irradiated at all. Copious quantities of preservatives were used in making the pie, so it&rsquo;s still as edible as it was the day it was made.</span> </p>"
+			"description": "Ten kawałek owocowego keksu, ukryty we wnętrzu Port-a-Diner, był od czasu Wielkiej Wojny chroniony przed promieniowaniem, co oznacza, że w ogóle nie został skażony. Dzięki dużej ilości konserwantów jest nadal tak samo jadalny, jak w dniu jego wyprodukowania."
 		},
 		"Pork 'n' Beans": {
-			"name": "Pork 'n' Beans",
+			"name": "Wieprzowina z fasolą",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A can containing a complete meal: beans stewed in a tomato sauce with chunks of cured pork belly. The tin may be slightly rusted, and the label has partly fallen off due to age and water damage, but the contents are still as edible as ever, though moreso if warmed up first.</span> </p>"
+			"description": "Puszka z gotowym posiłkiem – fasolą w sosie pomidorowym z kawałkami peklowanego boczku. Konserwa może być nieco pordzewiała, a etykietka częściowo się zatarła wskutek wilgoci i upływu czasu, ale zawartość nadaje się do spożycia, choć lepiej ją najpierw podgrzać."
 		},
 		"Potato Crisps": {
-			"name": "Potato Crisps",
+			"name": "Czipsy ziemniaczane",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A can of salted or flavored potato chips, sealed in an inert environment for freshness. A common snack pre-War, you can still find the odd pack of these in most places where people lived or worked.</span> </p>"
+			"description": "Puszka czipsów ziemniaczanych, solonych lub smakowych, pakowanych próżniowo, żeby dłużej zachowały świeżość. Przed Wojną były popularną przekąską i nadal można natknąć się na jakąś zapomnianą puszkę w miejscach, gdzie ludzie niegdyś mieszkali lub pracowali."
 		},
 		"Potted Meat": {
-			"name": "Potted Meat",
-			"effect": "<p>Roll 2 @fos[DC] rather than 1 for determining Radiation damage when consumed</p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A small metal tin of mixed processed meat, typically containing mixtures of meat from brahmin, radstags, mole rats, mongrel dogs, and anything else the maker can get their hands on (some of which may not be fit for human consumption).</span></p>\n<p><span class=\"fontstyle2\"><strong>Special:</strong>&nbsp;</span><span class=\"fontstyle0\">Roll 2 @fos[DC]</span><span class=\"fontstyle3\">&nbsp;</span><span class=\"fontstyle0\">when determining if the food inflicts Radiation damage, rather than 1 @fos[DC]</span><span class=\"fontstyle0\">. You suffer 1 Radiation damage, ignoring damage resistance, for each Effect rolled.</span></p>"
+			"name": "Konserwa mięsna",
+			"effect": "<p>Rzuć 2 kośćmi @fos[DC] zamiast 1, aby określić obrażenia od promieniowania po spożyciu.</p>\n<p>&nbsp;</p>",
+			"description": "Niewielka, metalowa puszka przetworzonego mięsa – zwykle mieszanka braminów, mutarogaczy, kretoszczurów, kundli i wszystkiego innego, co zdołał złapać wytwórca tego smakołyku (czasem te składniki mogą nie nadawać się do spożycia przez ludzi)."
 		},
 		"Psycho": {
 			"name": "Psycho",
-			"effect": "<p>+2 @fos[DC] damage to all attacks, +3 Physical damage resistance</p>",
-			"description": "<p>A potent combat stimulant created by the U.S. Army to enhance the effectiveness of their soldiers. It&rsquo;s still common in the wasteland, as the post-War plant Hubflower has proven to replicate several of the ingredients of the pre-War version. Psycho stimulates aggression and dulls pain receptors, allowing the user to fight harder with less care for their own safety.</p>\n<ul>\n<li><strong>Psycho Addiction:</strong> A failed addiction roll renders you addicted to Psycho. You increase the difficulty of all STR tests by +1 and suffer +1 @fos[DC] damage from all physical attacks whenever you are not under the effects of a type of Psycho (ordinary Psycho, Psycho Jet, Psychobuff, or Psychotats).</li>\n</ul>"
+			"effect": "<p>+2 DC obrażeń przy każdym ataku, +3 do Odporności na obrażenia fizyczne</p>",
+			"description": "Silny stymulant bojowy stworzony przez armię amerykańską, żeby zwiększyć skuteczność żołnierzy. Powszechny na pustkowiach, ponieważ w powojennej fabryce Hubflower udało się odtworzyć część składników oryginalnej wersji narkotyku. Psycho wzmaga agresję i blokuje receptory bólu, umożliwiając użytkownikowi bardziej zaciekłą walkę bez lęku o własne bezpieczeństwo."
 		},
 		"Psycho Jet": {
-			"name": "Psycho Jet",
-			"effect": "<p>+2 @fos[DC] damage to all attacks, +4 Physical damage resistance. Gain 4 AP immediately (lost if not spent)</p>",
-			"description": "<p>A powerful, addictive cocktail of Psycho and Jet, which enhances aggression, dulls pain, and augment&rsquo;s a target&rsquo;s reflexes and energy levels. The effect lasts only for a short while&mdash;under a minute&mdash;but the effects are always an explosive burst of extreme violence.</p>\n<ul>\n<li><strong>Psycho Addiction:</strong> A failed addiction roll renders you addicted to Psycho. You increase the difficulty of all STR tests by +1 and suffer +1 @fos[DC] damage from all physical attacks whenever you are not under the effects of a type of Psycho (ordinary Psycho, Psycho Jet, Psychobuff, or Psychotats).</li>\n</ul>"
+			"name": "Psychodlot",
+			"effect": "<p>+2 DC obrażeń przy każdym ataku, +4 do Odporności na obrażenia fizyczne, +4 natychmiastowe PA (jeśli ich nie wydasz, przepadną)</p>",
+			"description": "Bardzo silna i uzależniająca mieszanka psycho i odlotu, która zwiększa agresję, uśmierza ból, poprawia refleks i podwyższa poziom energii. Jej efekt trwa bardzo krótko – mniej niż minutę – ale zawsze jest to nagła eksplozja ekstremalnej przemocy."
 		},
 		"Psychobuff": {
-			"name": "Psychobuff",
-			"effect": "<p>+2 @fos[DC] damage to all attacks, +4 Max HP.Reduce difficulty of all STR and END tests by 1 (minimum 0).</p>",
-			"description": "<p>A highly addictive cocktail of Psycho and Buffout steroids, combining the effects of the two drugs to produce a period of extreme strength, durability, and aggression.</p>\n<ul>\n<li><strong>Psycho Addiction:</strong> A failed addiction roll renders you addicted to Psycho. You increase the difficulty of all STR tests by +1 and suffer +1 @fos[DC] damage from all physical attacks whenever you are not under the effects of a type of Psycho (ordinary Psycho, Psycho Jet, Psychobuff, or Psychotats).</li>\n</ul>"
+			"name": "Psychowygrzew",
+			"effect": "<p>+2 DC obrażeń przy każdym ataku, +4 maksymalne PZ, –1 do trudności testów SI i WT (minimum 0)</p>",
+			"description": "Silnie uzależniająca mieszanka psycho i wygrzewu, która łączy ze sobą efekty obu narkotyków, wywołując w krótkim czasie przypływ ekstremalnej wytrzymałości, agresji oraz siły."
 		},
 		"Psychotats": {
-			"name": "Psychotats",
-			"effect": "<p>+2 @fos[DC] damage to all attacks,+2 Physical damage resistance|Reduce difficulty of PER tests by 1 (min. 0)</p>",
-			"description": "<p>A cocktail of Psycho and Mentats. The heightened awareness granted by the Mentats and the aggression and pain insensitivity somewhat cancel one another out, but the resultant effects are a short period of high aggression, enhanced sensory acuity, and boosted pain tolerance.</p>\n<ul>\n<li><strong>Psycho Addiction:</strong> A failed addiction roll renders you addicted to Psycho. You increase the difficulty of all STR tests by +1 and suffer +1 @fos[DC] damage from all physical attacks whenever you are not under the effects of a type of Psycho (ordinary Psycho, Psycho Jet, Psychobuff, or Psychotats).</li>\n</ul>"
+			"name": "Psychomentaty",
+			"effect": "<p>+2 DC obrażeń przy każdym ataku, +2 do Odporności na obrażenia fizyczne, –1 do trudności testów PER (minimum 0)</p>",
+			"description": "Koktajl mentatów i psycho. Choć podwyższona uważność zapewniana przez pierwszy ze składników oraz agresja i niewrażliwość na ból wywoływane przez drugi nieco się wzajemnie znoszą, narkotyk wywołuje w krótkim czasie wysoką agresję, wyczulenie zmysłów oraz zwiększoną odporność na ból."
 		},
 		"Purified Water": {
-			"name": "Purified Water",
+			"name": "Oczyszczona woda",
 			"effect": "",
-			"description": "<p><span class=\"fontstyle0\">Water which has been cleansed of any contaminants or radiation. Sometimes found in sealed cans or bottles in the wasteland, but often produced by taking water from other sources and boiling or filtering it. Locations with water pumps tend to tap into uncontaminated aquifers deep underground, giving them a consistent supply of clean water highly sought-after by survivors in the wasteland. In places where water is scarce, access to purified water is a precious commodity.</span> </p>"
+			"description": "Pozbawiona zanieczyszczeń i cząsteczek radioaktywnych. Czasami znajdowana w szczelnie zamkniętych puszkach lub butelkach, ale najczęściej uzyskiwana z wody pobranej z innego źródła, a następnie przefiltrowanej lub przegotowanej. Miejsca, w których znajdują się pompy głębinowe, mają zwykle łatwy dostęp do zasobów czystej wody, wysoko cenionej przez wielu mieszkańców pustkowi. Oczywiście na terenach suchych oczyszczona woda jest towarem o jeszcze większej wartości."
 		},
 		"Queen Mirelurk Meat": {
-			"name": "Queen Mirelurk Meat",
-			"effect": "<p>May re-roll 1d20 on all END tests until end of next scene</p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">The meat from a dead mirelurk Queen. This meat can make for a great feast, as it is nutrient rich and incredibly filling, leaving a sense of health and wellbeing in any who eat it, even raw. When cooked, these effects are even more pronounced.</span></p>\n<p><span class=\"fontstyle0\">Queen mirelurk meat can be cooked to produce Mirelurk Queen Steak.</span></p>"
+			"name": "Mięso królowej błotniaków",
+			"effect": "<p>Do końca następnej sceny możesz przerzucić 1k20 w każdym teście WT</p>\n<p>&nbsp;</p>",
+			"description": "Można z niego wyprawić wspaniałą ucztę, ponieważ jest niesamowicie sycące i bogate w składniki odżywcze. Nawet surowe sprawia, że czujesz się zdrowy i pełen wigoru. Po ugotowaniu te odczucia stają się jeszcze intensywniejsze. Można z niego przyrządzić stek z królowej błotniaków."
 		},
 		"Rad-X": {
 			"name": "Rad-X",
-			"effect": "<p>+6 Radiation damage resistance</p>",
-			"description": "<p>A preventative medicine for those intending to enter areas with heightened risk of radiation exposure. A dose can help you resist the effects of radiation, especially when combined with other protective measures. Due to scarcity, it is often found diluted, reducing the effectiveness of a dose but allowing limited supplies to last longer. Diluted Rad-X is about half as effective, but easier to find.</p>"
+			"effect": "<p>+6 do Odporności na obrażenia radiacyjne</p>",
+			"description": "Lek prewencyjny, stosowany przed wejściem na teren z podwyższonym ryzykiem napromieniowania. Dawka Rad-X wzmacnia odporność organizmu na radiację – zwłaszcza w połączeniu z innymi środkami ochronnymi. Ze względu na niewielką dostępność często jest spotykany w wersji rozcieńczonej. Rozcieńczony Rad-X działa o połowę słabiej, jest jednak bardziej dostępny."
 		},
 		"Rad-X (Diluted)": {
-			"name": "Rad-X (Diluted)",
-			"effect": "<p>+3 Radiation damage resistance</p>",
-			"description": "<p>A preventative medicine for those intending to enter areas with heightened risk of radiation exposure. A dose can help you resist the effects of radiation, especially when combined with other protective measures. Due to scarcity, it is often found diluted, reducing the effectiveness of a dose but allowing limited supplies to last longer. Diluted Rad-X is about half as effective, but easier to find.</p>"
+			"name": "Rad-X (rozcieńczony)",
+			"effect": "<p>+3 do Odporności na obrażenia radiacyjne</p>",
+			"description": "Lek prewencyjny, stosowany przed wejściem na teren z podwyższonym ryzykiem napromieniowania. Dawka Rad-X wzmacnia odporność organizmu na radiację – zwłaszcza w połączeniu z innymi środkami ochronnymi. Ze względu na niewielką dostępność często jest spotykany w wersji rozcieńczonej. Rozcieńczony Rad-X działa o połowę słabiej, jest jednak bardziej dostępny."
 		},
 		"RadAway": {
-			"name": "RadAway",
-			"effect": "<p>Heals 4 Radiation damage (see description)</p>",
-			"description": "<p>An intravenous drug which purges radiation from the user&rsquo;s body, absorbing radiation as it circulates through the user&rsquo;s bloodstream. It&rsquo;s also a potent diuretic, expelling the radiation with the user&rsquo;s urine, so it&rsquo;s advisable to drink a lot of (clean) water shortly after taking a dose. Sometimes encountered in a diluted form, reducing its effectiveness as the user is only taking a partial dose. Diluted RadAway is only about half as effective, but it&rsquo;s easier to find.</p>\n<ul>\n<li><strong>Use:</strong> RadAway can be used in one of two ways: it can be applied using the Take Chem minor action, healing 4 Radiation damage immediately, or it can be applied as part of a First Aid action, healing 4 Radiation damage in addition to any other healing done (remove Radiation damage before applying other healing effects). Diluted RadAway works in the same way, but only heals 2 Radiation damage.</li>\n</ul>"
+			"name": "AntyRad",
+			"effect": "<p>Leczy 4 obrażenia radiacyjne (patrz opis)</p>",
+			"description": "Dożylnie podawany lek, który absorbuje obecne we krwi cząstki promieniotwórcze, tym samym oczyszczając organizm z efektów zatrucia radiacyjnego. Usuwa je razem z moczem, dlatego tuż po zażyciu dawki należy wypić sporo wody, najlepiej czystej. Czasami spotykany w postaci rozcieńczonej, o skuteczności obniżonej o połowę, ponieważ użytkownik zażywa tak naprawdę tylko pół dawki. Ta druga postać leku jest jednak o wiele bardziej dostępna."
 		},
 		"RadAway (Diluted)": {
-			"name": "RadAway (Diluted)",
-			"effect": "<p>Heals 2 Radiation damage (see description)</p>",
-			"description": "<p>An intravenous drug which purges radiation from the user&rsquo;s body, absorbing radiation as it circulates through the user&rsquo;s bloodstream. It&rsquo;s also a potent diuretic, expelling the radiation with the user&rsquo;s urine, so it&rsquo;s advisable to drink a lot of (clean) water shortly after taking a dose. Sometimes encountered in a diluted form, reducing its effectiveness as the user is only taking a partial dose. Diluted RadAway is only about half as effective, but it&rsquo;s easier to find.</p>\n<ul>\n<li><strong>Use:</strong> RadAway can be used in one of two ways: it can be applied using the Take Chem minor action, healing 4 Radiation damage immediately, or it can be applied as part of a First Aid action, healing 4 Radiation damage in addition to any other healing done (remove Radiation damage before applying other healing effects). Diluted RadAway works in the same way, but only heals 2 Radiation damage.</li>\n</ul>"
+			"name": "AntyRad (rozcieńczony)",
+			"effect": "<p>Leczy 2 obrażenia radiacyjne (patrz opis)</p>",
+			"description": "Dożylnie podawany lek, który absorbuje obecne we krwi cząstki promieniotwórcze, tym samym oczyszczając organizm z efektów zatrucia radiacyjnego. Usuwa je razem z moczem, dlatego tuż po zażyciu dawki należy wypić sporo wody, najlepiej czystej. Czasami spotykany w postaci rozcieńczonej, o skuteczności obniżonej o połowę, ponieważ użytkownik zażywa tak naprawdę tylko pół dawki. Ta druga postać leku jest jednak o wiele bardziej dostępna."
 		},
 		"Radroach Meat": {
-			"name": "Radroach Meat",
+			"name": "Mięso radrakana",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">Meat from the mutated, irradiated cockroaches known commonly as radroaches. The meat is mildly radioactive and offers little in the way of nourishment or satisfaction, and it isn&rsquo;t especially appetizing either. Cooking it provides only a marginal improvement.</span></p>\n<p><span class=\"fontstyle0\">Radroach meat can be cooked to make Grilled Radroach.</span> </p>"
+			"description": "Mięso ze zmutowanych i napromieniowanych karaluchów. Jest lekko skażone, mało pożywne i niezbyt smaczne. Jego wygląd też nie pobudza apetytu, a ugotowanie go tylko nieznacznie poprawia wrażenia estetyczne. Można z niego przyrządzić grillowanego radrakana."
 		},
 		"Radscorpion Egg": {
-			"name": "Radscorpion Egg",
+			"name": "Jajo radskorpiona",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">The egg of a radscorpion. Not easy to get hold of, as they tend to be found in places where there are radscorpions.</span></p>\n<p><span class=\"fontstyle0\">Radscorpion Eggs can be used to make Radscorpion Egg Omelette.</span> </p>"
+			"description": "Trudne do pozyskania, ponieważ zazwyczaj można je znaleźć wyłącznie w miejscu, w którym przebywają radskorpiony. Główny składnik omletu z jaja radskorpiona."
 		},
 		"Radscorpion Egg Omelette": {
-			"name": "Radscorpion Egg Omelette",
-			"effect": "<p>Cure all addictions</p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">Made from a radscorpion egg, these omelettes are highly prized by those who make considerable use of combat drugs, as something about the food cleanses the body to remove chemical dependencies and addictions.</span> </p>"
+			"name": "Omlet z jaja radscorpiona",
+			"effect": "<p>Leczy wszystkie uzależnienia</p>\n<p>&nbsp;</p>",
+			"description": "Wysoko ceniony przez każdego, kto często korzysta z narkotyków bojowych, ponieważ jakiś tajemniczy składnik tego posiłku oczyszcza organizm i usuwa uzależnienia od substancji chemicznych."
 		},
 		"Radscorpion Meat": {
-			"name": "Radscorpion Meat",
+			"name": "Mięso radskorpiona",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">Meat taken from inside the carapace of a radscorpion, normally form the tail or one of the legs where it&rsquo;s easier to get to. Difficult to obtain, as it requires killing a radscorpion or taking it from something that killed a radscorpion.</span></p>\n<p><span class=\"fontstyle0\">Radscorpion meat can be cooked to make Radscorpion Steak.</span> </p>"
+			"description": "Mięso spod pancerza, zwykle z odwłoka lub jednego z odnóży, gdzie łatwiej je wygrzebać. Trudne do pozyskania, ponieważ wymaga zabicia radskorpiona lub obrabowania kogoś, kto tego dokonał. Można z niego przyrządzić stek z radskorpiona."
 		},
 		"Radscorpion Steak": {
-			"name": "Radscorpion Steak",
-			"effect": "<p>+2 Energy damage resistance until end of next scene</p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A cooked slab of radscorpion meat. The process of cooking the meat has reduced the radiation within below dangerous levels and enhanced the nutritional value. Further, eating Radscorpion Steak heightens your resistance to extreme heat for a while.</span> </p>"
+			"name": "Stek z radskorpiona",
+			"effect": "<p>Do końca następnej sceny otrzymujesz +2 do Odporności na obrażenia energetyczne</p>\n<p>&nbsp;</p>",
+			"description": "Obróbka termiczna obniżyła poziom skażenia tego mięsa poniżej groźnego poziomu i zwiększyła jego wartości odżywcze. Co więcej, przez jakiś czas po spożyciu steku masz zwiększoną wytrzymałość na wysoką temperaturę."
 		},
 		"Radscorpion Stinger": {
-			"name": "Radscorpion Stinger",
+			"name": "Kolec jadowy radskorpiona",
 			"effect": "",
 			"description": ""
 		},
 		"Radstag Hide": {
-			"name": "Radstag Hide",
+			"name": "Skóra mutarogacza",
 			"effect": "",
 			"description": ""
 		},
 		"Radstag Meat": {
-			"name": "Radstag Meat",
+			"name": "Mięso mutarogacza",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A piece of meat cut from the body of a dead radstag. It&rsquo;s bulky but can produce nutritious and satisfying meals.</span></p>\n<p><span class=\"fontstyle0\">Radstag meat can be cooked to make Grilled Radstag or used as an ingredient to make Radstag Stew.</span> </p>"
+			"description": "Spory połeć mięsa, z którego można przyrządzić pożywny i sycący posiłek. Można z niego przyrządzić grillowanego mutarogacza i gulasz z mutarogacza."
 		},
 		"Radstag Stew": {
-			"name": "Radstag Stew",
-			"effect": "<p>+3 Energy damage resistance until end of next scene</p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">Strips of radstag meat, with vegetables and some alcohol, cooked to make a thick, hearty stew. Filling and satisfying, the stew also help fortify the body, making you more resistant to extreme heat for a while.</span> </p>"
+			"name": "Potrawka z mutarogacza",
+			"effect": "<p>Do końca następnej sceny otrzymujesz +3 do Odporności na obrażenia radiacyjne</p>\n<p>&nbsp;</p>",
+			"description": "Paski mięsa z warzywami i odrobiną alkoholu, ugotowane na gęsty, pożywny gulasz. Zaspokaja on głód i apetyt oraz wzmacnia ciało, zwiększając jego odporność na wysoką temperaturę."
 		},
 		"Razorgrain": {
-			"name": "Razorgrain",
+			"name": "Brzytwozboże",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A tall, fast-growing grass similar to wheat, which can be ground down to make flour for making bread and other staple foods.</span></p>\n<p><span class=\"fontstyle0\">Razorgrain is an ingredient in a few recipes.</span> </p>"
+			"description": "Podobne do pszenicy wysokie i szybko rosnące zboże, którego kłosy można zmielić na mąkę do wyrobu chleba oraz innych podstawowych produktów. Brzytwozboże jest składnikiem kilku przepisów."
 		},
 		"Refreshing Beverage": {
-			"name": "Refreshing Beverage",
-			"effect": "<p>Heals 10 Radiation damage, Cures all addictions</p>",
-			"description": "<p><span class=\"fontstyle0\">A mysterious panacea made from medical supplies, this chemical concoction restores health and cleanses the body of radiation and chemical dependencies. The recipe has spread across the wasteland by word of mouth, but it requires numerous ingredients to produce, so it remains rare.</span> </p>"
+			"name": "Napój orzeźwiający",
+			"effect": "<p>Leczy 10 obrażeń radiacyjnych, usuwa wszystkie uzależnienia</p>",
+			"description": "To tajemnicze panaceum jest w istocie koktajlem różnych medykamentów. Przywraca zdrowie i oczyszcza organizm z efektów napromieniowania oraz uzależnienia od substancji chemicznych. Receptura, choć przekazywana w sekrecie, jest szeroko znana na pustkowiach, jednak sam napój spotykany jest dość rzadko."
 		},
 		"Ribeye Steak": {
-			"name": "Ribeye Steak",
+			"name": "Stek z antrykotu",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A grilled piece of meat from a brahmin. The closest thing to a pre-War steak you&rsquo;re likely to find, a good piece of grilled brahmin makes for a satisfying meal.</span> </p>"
+			"description": "Grillowany kawał mięsa bramina to najbliższy odpowiednik przedwojennego steku. Krzepiący posiłek."
 		},
 		"Roasted Mirelurk Meat": {
-			"name": "Roasted Mirelurk Meat",
-			"effect": "<p>Gain +1 AP at start of next scene</p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A cooked portion of meat from a mirelurk. Though not to the same extent as the softshell meat, roasted mirelurk meat invigorates the body and mind and leaves you ready for action.</span> </p>"
+			"name": "Pieczone mięso błotniaka",
+			"effect": "<p>Na początku następnej sceny otrzymujesz +1 PA</p>\n<p>&nbsp;</p>",
+			"description": "Odnawia siły życiowe, odświeża umysł i daje energię do działania – choć nie w tym samym stopniu, co mięso spod miękkiej muszli."
 		},
 		"Robot Repair Kit": {
-			"name": "Robot Repair Kit",
-			"effect": "<p>Heal 4 HP to a Robot or Power Armor (see description)</p>",
-			"description": "<p>A device which can help to repair and reactivate damaged robots or Power Armor. Most robots have internal self-diagnostic and repair protocols, which are activated when the robot performs repairs or is repaired by someone else. A robot repair kit helps jump-start and accelerate these protocols.</p>\n<ul>\n<li><strong>Use:</strong> A robot repair kit can be used in one of two ways: it can be applied using the Take Chem minor action, healing 4 HP or treating an Injury immediately, or it can be applied as part of a First Aid action, healing 4 HP or treating an Injury in addition to any other healing done. As with any repairs to a robot or Power Armor, this is done using the Repair skill rather than the Medicine skill, but the actions used are otherwise the same.</li>\n</ul>"
+			"name": "Zestaw Naprawczy",
+			"effect": "<p>Leczy 4 PZ robotom lub pancerzowi wspomaganemu (patrz opis)</p>",
+			"description": "Urządzenie do naprawy i ponownego rozruchu robotów lub pancerzy wspomaganych. Większość robotów ma własne procedury autodiagnostyczne i naprawcze, które są uruchamiane podczas napraw prowadzonych zarówno przez robota, jak i kogoś innego. Zestaw naprawczy przyspiesza oraz usprawnia ich działanie. <ul><li><strong>Użycie:</strong> Zestawu naprawczego można użyć na dwa sposoby – w ramach pomniejszej akcji zażycia środka chemicznego, co natychmiast leczy 4 PZ lub ranę, albo w ramach głównej akcji pierwszej pomocy, co również leczy 4 PZ lub ranę, niezależnie od pozostałych korzyści wynikających z tej akcji. Jak w przypadku dowolnych prac naprawczych przy robocie lub pancerzu wspomaganym, używa się w tej sytuacji umiejętności Naprawa, a nie Medycyna.</li></ul>"
 		},
 		"Rum": {
 			"name": "Rum",
-			"effect": "<p>Reroll 1d20 on AGI tests</p>",
-			"description": "<p><span class=\"fontstyle0\">A liquor made from fermenting then distilling sugarcane molasses. Rum has strong historic ties to naval and maritime traditions, though there are few boats left that ply the irradiated seas, so it turns up often in coastal regions, particularly near to old harbors and ports.</span> </p>"
+			"effect": "<p>Alkohol, możesz przerzucić 1k20 w testach ZW</p>",
+			"description": "Trunek wytwarzany ze sfermentowanej i destylowanej melasy, uzyskiwanej z trzciny cukrowej. Od wieków jest tradycyjnie związany z morzem i marynarką, a ponieważ kilka ocalałych statków wciąż pływa po napromieniowanych morzach, pojawia się czasem na terenach przybrzeżnych – zwłaszcza w pobliżu dawnych portów i przystani."
 		},
 		"Salisbury Steak": {
-			"name": "Salisbury Steak",
+			"name": "Stek Salisbury",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A ready-to-eat meal of ground beef mixed with breadcrumbs, onion, and egg, served with gravy. The meal is pre-packaged, preserved, and sealed for freshness, and requires only heat to be made properly edible again.</span></p>\n<p><span class=\"fontstyle0\">Sometimes,&nbsp;</span><strong><span class=\"fontstyle2\">preserved </span></strong><span class=\"fontstyle0\">boxes of Salisbury Steak can be found. These are identical to the listed version, but are not irradiated, and increase their rarity by +1.</span> </p>"
+			"description": "Gotowy do spożycia kotlet z mielonej wołowiny w panierce z bułki tartej, cebuli i jajka, polany gęstym sosem. Posiłek jest zafoliowany, zakonserwowany i hermetycznie zapakowany. Wystarczy podgrzać, żeby cieszyć się pełnią smaku."
 		},
 		"Salisbury Steak (Preserved)": {
-			"name": "Salisbury Steak (Preserved)",
+			"name": "Stek Salisbury (dobrze zachowany)",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A ready-to-eat meal of ground beef mixed with breadcrumbs, onion, and egg, served with gravy. The meal is pre-packaged, preserved, and sealed for freshness, and requires only heat to be made properly edible again.</span></p>\n<p><span class=\"fontstyle0\">Sometimes,&nbsp;</span><strong><span class=\"fontstyle2\">preserved </span></strong><span class=\"fontstyle0\">boxes of Salisbury Steak can be found. These are identical to the listed version, but are not irradiated, and increase their rarity by +1.</span> </p>"
+			"description": "Gotowy do spożycia kotlet z mielonej wołowiny w panierce z bułki tartej, cebuli i jajka, polany gęstym sosem. Posiłek jest zafoliowany, zakonserwowany i hermetycznie zapakowany. Wystarczy podgrzać, żeby cieszyć się pełnią smaku."
 		},
 		"Silt Bean": {
-			"name": "Silt Bean",
+			"name": "Szlamsola",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">Growing from the vine of a silt bean plant, silt beans are red-brown pods of legumes growing in the wilderness. They&rsquo;re not easily cultivated for farming, though many have tried. The beans are an ingredient in a few recipes, such as radstag stew.</span> </p>"
+			"description": "Rosnące na pustkowiach pnącze szlamsoli rodzi owoce pod postacią czerwonobrązowych strąków, które wypełniają nasiona. Choć wielu próbowało ją hodować, nie jest to roślina łatwa w uprawie. Jej nasiona są składnikiem różnych potraw, między innymi gulaszu z mutarogacza."
 		},
 		"Skeeto Spit": {
-			"name": "Skeeto Spit",
-			"effect": "<p>+2 Max HP</p>",
-			"description": "<p>Derived from the secretions of a Bloodbug, and the curative properties of some wasteland plants, Skeeto Spit is a wasteland remedy which dulls the user&rsquo;s ability to feel pain. It&rsquo;s effective, lasts a reasonable amount of time, and is non-addictive, but it normally has to be homemade as it isn&rsquo;t generally produced in large quantities.</p>"
+			"name": "Komaślina",
+			"effect": "<p>+2 maksymalne PZ</p>",
+			"description": "Wytwarzana z wydzieliny pluskiew oraz soku niektórych roślin leczniczych; jest prymitywnym medykamentem, który blokuje receptory bólu u użytkownika. Jest skuteczna, ma stosunkowo długi czas działania i nie uzależnia. Jest jednak wyrabiana chałupniczymi metodami i rzadko kiedy w dużych ilościach."
 		},
 		"Softshell Mirelurk Meat": {
-			"name": "Softshell Mirelurk Meat",
+			"name": "Mięso spod miękkiej muszli błotniaka",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">Meat from a softshell mirelurk. Compared to normal mirelurk meat, this is especially tender and flaky, and makes for a much more satisfying food.</span></p>\n<p><span class=\"fontstyle0\">Softshell Mirelurk meat can be cooked to produce Cooked Softshell Meat.</span> </p>"
+			"description": "W porównaniu do mięsa z innych części ciała błotniaka jest niezwykle delikatne i kruche, a także bardziej sycące. Można je ugotować i przyrządzić z niego gotowane mięso spod miękkiej muszli."
 		},
 		"Squirrel Bits": {
-			"name": "Squirrel Bits",
+			"name": "Kawałki wiewiórki",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A few scraps and chunks of squirrel meat. Squirrels, not being especially large creatures, do not have much meat on them.</span></p>\n<p><span class=\"fontstyle0\">Squirrel bits can be cooked to make Crispy Squirrel Bits, Squirrel on a Stick, or Squirrel Stew.</span> </p>"
+			"description": "Drobne, ponieważ wiewiórki nie są zbyt pokaźnych rozmiarów, więc niewiele da się z nich wykroić. Główny składnik potrawki z wiewiórki, chrupiących kawałków wiewiórki i wiewiórki na patyku."
 		},
 		"Squirrel on a Stick": {
-			"name": "Squirrel on a Stick",
+			"name": "Wiewiórka na patyku",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">Chunks of squirrel meat skewered on a thin piece of wood for cooking, and then roasted over an open flame. Not enough meat for a decent meal, but certainly enough for a snack.</span> </p>"
+			"description": "Kawałki mięsa nadziane na drewienko, a następnie opiekane na wolnym ogniu. Za mało na porządny posiłek, ale jako przekąska wystarczy."
 		},
 		"Squirrel Stew": {
-			"name": "Squirrel Stew",
+			"name": "Potrawka z wiewiórki",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">Chunks of squirrel meat, along with carrot, tato, and some bloodleaf, cooked together to create a thick stew. More filling and appetizing than the ingredients individually.</span> </p>"
+			"description": "Kawałki mięsa, marchewki, ory i liście krwawnika ugotowane do postaci gęstej potrawki. Bardziej sycące i apetyczne niż poszczególne składniki z osobna."
 		},
 		"Stealth Boy": {
 			"name": "Stealth Boy",
-			"effect": "<p>Invisibility (see description)</p>",
-			"description": "<p>One of the most interesting technologies developed before the War, the Stealth Boy 3001 is a compact device which generates a modulating refraction field which transmits light from one side of the field to the other. The result is near-perfect active camouflage, ranging from a sort of distorted transparency when moving to almost total invisibility when stationary.</p>\n<p>The Stealth Boy was reverse engineered from captured Chinese Stealth Armor during the War, and while the technology was never perfected&mdash;even the most advanced Stealth Boy consumes its battery in around 30 seconds&mdash;it was still seen to be reliable enough for service.</p>\n<p>Long-term use of Stealth Boy technology has been observed to cause permanent neurological changes, resulting in paranoid delusions, hallucinations, and other mental changes.</p>\n<ul>\n<li><strong>Use:</strong> A Stealth Boy is activated using the Interact minor action. Once active, the device functions for three full turns: your current turn, your next turn, and your turn after that, after which, it ceases to function and is junk. When activated, a Stealth Boy renders you and the equipment you are carrying nearly invisible. Enemies add +2 to the difficulty of all tests to spot you; they may still hear you or notice your presence in other ways if they&rsquo;re looking hard enough. In addition, even if you have been detected, the invisibility increases your Defense by +2.</li>\n</ul>"
+			"effect": "Niewidzialność (zobacz opis)",
+			"description": "Stealth Boy 3001 to jedna z najciekawszych technologii opracowanych tuż przed atomową zagładą. To niewielkie urządzenie generuje zmienne pole refrakcyjne, przenoszące światło z jednej strony pola na drugą. W efekcie tworzy niemalże doskonały aktywny kamuflaż w zakresie od zniekształconej przezroczystości w ruchu do prawie całkowitej niewidzialności w bezruchu. Stealth Boy to wytwór odwróconej inżynierii, przeprowadzonej na podstawie przejętego podczas wojny chińskiego pancerza maskującego. I choć technologia ta nie została nigdy dopracowana – nawet najbardziej zaawansowany model rozładowuje się po około pół minuty – uznano, że jest dostatecznie skuteczna, żeby wyposażyć w nią żołnierzy. Długotrwałe korzystanie z technologii Stealth Boy wywoływało przypadki trwałych zmian neurologicznych, objawiających się paranoicznymi urojeniami, halucynacjami oraz innymi zmianami psychicznymi. <ul><li><strong>Użycie:</strong> Stealth Boya aktywuje się pomniejszą akcją interakcji. Po włączeniu działa przez twoje trzy tury, wliczając w nie tę, w której go aktywujesz. Następnie się rozładowuje i staje zwykłym śmieciem. Kiedy jest aktywny, czyni cię niewidzialnym wraz z ekwipunkiem. Wróg otrzymuje +2 do trudności testów, żeby cię zauważyć, aczkolwiek nadal może cię usłyszeć lub dostrzec twoją obecność w inny sposób, jeśli będzie wystarczająco uważny. Nawet jeśli zostaniesz wykryty, niewidzialność zwiększa o +2 wartość twojej Obrony.</li></ul>"
 		},
 		"Stimpak": {
 			"name": "Stimpak",
-			"effect": "<p>Heals 4 HP (see description)</p>",
-			"description": "<p>A stimulation delivery package, or Stimpak, is a form of fast-acting medication used to bolster the body&rsquo;s own healing and recuperative ability, and countless millions were produced for household and workplace first aid kits, hospitals, clinics, and other places. A wonder of pre-War science, a Stimpak is a single-use syringe filled with a variety of potent healing agents, stimulants, and painkillers, and can be applied in an intravenous or intramuscular fashion: literally stick it anywhere and it&rsquo;ll work. Even so, it a Stimpak is most effective when applied by an Auto-Doc or someone with medical training alongside other treatment.</p>\n<p>Sometimes encountered in a diluted form, reducing its effectiveness as the user is only taking a partial dose. Diluted Stimpaks are only about half as effective, but they&rsquo;re easier to find.</p>\n<ul>\n<li><strong>Use:</strong> A Stimpak can be used in one of two ways: it can be applied using the Take Chem minor action, healing 4 HP or treating an Injury immediately, or it can be applied as part of a First Aid action, healing 4 HP or treating an Injury in addition to any other healing done. Diluted Stimpaks work in the same way, but only heal 2 HP, though they can still treat Injuries as normal.</li>\n</ul>"
+			"effect": "<p>Leczy 4 PZ (patrz opis)</p>",
+			"description": "<p>Stymulacyjny pakiet – w skrócie stimpak – to szybko działający lek, przyspieszający naturalne procesy zdrowienia organizmu. Ten cud przedwojennej nauki dostarczany był w milionach sztuk do szpitali i klinik, a także umieszczany w apteczkach do użytku domowego i w miejscach pracy. To jednorazowa strzykawka, wypełniona różnego rodzaju substancjami leczniczymi, stymulantami i środkami przeciwbólowymi. Można je podawać dożylnie lub domięśniowo – wystarczy wbić go dosłownie gdziekolwiek i zadziała. Jest wszakże najskuteczniejszy, kiedy zostanie podany przez auto-doka lub kogoś z przeszkoleniem medycznym i zastosowany razem z innymi rodzajami leczenia.</p>\n<p>Czasami można natrafić na jego rozcieńczoną wersję o obniżonej skuteczności działania ze względu na zmniejszoną dawkę. Rozcieńczony stimpak działa o połowę słabiej, jest jednak bardziej dostępny.</p><ul>\n<li><strong>Użycie:</strong> Stimpaka można użyć na dwa sposoby – w ramach pomniejszej akcji zażycia środka chemicznego, co natychmiast leczy 4 PZ, albo w ramach głównej akcji pierwszej pomocy, co również leczy 4 PZ lub ranę, niezależnie od pozostałych korzyści wynikających z tej akcji. Rozcieńczony stimpak działa tak samo w kwestii ran, ale leczy tylko 2 PZ.</li>\n</ul>"
 		},
 		"Stimpak (Diluted)": {
-			"name": "Stimpak (Diluted)",
-			"effect": "<p>Heals 2 HP (see description)</p>",
-			"description": ""
+			"name": "Stimpak (rozcieńczony)",
+			"effect": "<p>Leczy 2 PZ (patrz opis)</p>",
+			"description": "<p>Stymulacyjny pakiet – w skrócie stimpak – to szybko działający lek, przyspieszający naturalne procesy zdrowienia organizmu. Ten cud przedwojennej nauki dostarczany był w milionach sztuk do szpitali i klinik, a także umieszczany w apteczkach do użytku domowego i w miejscach pracy. To jednorazowa strzykawka, wypełniona różnego rodzaju substancjami leczniczymi, stymulantami i środkami przeciwbólowymi. Można je podawać dożylnie lub domięśniowo – wystarczy wbić go dosłownie gdziekolwiek i zadziała. Jest wszakże najskuteczniejszy, kiedy zostanie podany przez auto-doka lub kogoś z przeszkoleniem medycznym i zastosowany razem z innymi rodzajami leczenia.</p>\n<p>Czasami można natrafić na jego rozcieńczoną wersję o obniżonej skuteczności działania ze względu na zmniejszoną dawkę. Rozcieńczony stimpak działa o połowę słabiej, jest jednak bardziej dostępny.</p><ul>\n<li><strong>Użycie:</strong> Stimpaka można użyć na dwa sposoby – w ramach pomniejszej akcji zażycia środka chemicznego, co natychmiast leczy 4 PZ, albo w ramach głównej akcji pierwszej pomocy, co również leczy 4 PZ lub ranę, niezależnie od pozostałych korzyści wynikających z tej akcji. Rozcieńczony stimpak działa tak samo w kwestii ran, ale leczy tylko 2 PZ.</li>\n</ul>"
 		},
 		"Stimpak Diffuser": {
-			"name": "Stimpak Diffuser",
-			"effect": "<p>Heals 4 HP to all within Close range</p>",
-			"description": "<p>This delivery mechanism allows the contents of a super Stimpak to be dispersed into an aerosol cloud, providing a burst of medicinal vapor over a small area.</p>\n<ul>\n<li><strong>Use:</strong> When deployed, using the Interact minor action, it produces a cloud which immediately heals 4 HP on everyone (other than robots) within Close range. One super Stimpak is consumed every time the Stimpak diffuser is used.</li>\n</ul>"
+			"name": "Stimpakowy Dyfuzor",
+			"effect": "<p>Leczy 4 PZ wszystkim istotom, które znajdują się na bliskim dystansie</p>",
+			"description": "To urządzenie rozpyla zawartość superstimpaka pod postacią chmury aerozolu, zapewniając terapeutyczne korzyści wszystkim istotom, które znajdują się na niewielkim obszarze. <ul><li><strong>Użycie:</strong> Po uruchomieniu, co wymaga wykonania pomniejszej akcji interakcji, dyfuzor rozpyla mgiełkę, która natychmiast leczy 4 PZ wszystkim istotom (poza robotami) znajdującym się na bliskim dystansie. Każde użycie dyfuzora wymaga zużycia jednego superstimpaka.</li></ul>"
 		},
 		"Stingwing Barb": {
-			"name": "Stingwing Barb",
+			"name": "Żądło dźgacza",
 			"effect": "",
 			"description": ""
 		},
 		"Stingwing Filet": {
-			"name": "Stingwing Filet",
-			"effect": "<p>May re-roll 1d20 on all PER tests until end of next scene</p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A cooked piece of stingwing meat. Not the most appetizing of foods, but surprisingly useful for those surviving in the wastelands, as it can sharpen the senses and make you feel more aware of your surroundings.</span> </p>"
+			"name": "Filet z dźgacza",
+			"effect": "<p>Do końca następnej sceny możesz przerzucić 1k20 w każdym teście PER</p>\n<p>&nbsp;</p>",
+			"description": "Ugotowany kawałek wojsiłki. Niezbyt apetyczny, ale zaskakująco przydatny dla wędrujących przez pustkowia, ponieważ wyostrza zmysły i wyczula na bodźce pochodzące z otoczenia."
 		},
 		"Stingwing Meat": {
-			"name": "Stingwing Meat",
+			"name": "Mięso dźgacza",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">Meat taken from the body of a stingwing, a mutated scorpionfly with a nasty sting. Doesn&rsquo;t look especially tasty, but it cooks reasonably well once you&rsquo;ve pried the exoskeleton off.</span></p>\n<p><span class=\"fontstyle0\">Stingwing meat can be cooked to create Stingwing Filet.</span> </p>"
+			"description": "Kawałek zmutowanej wojsiłki z paskudnym żądłem. Nie wygląda zbyt apetycznie, ale po zdjęciu pancerzyka gotuje się całkiem przyzwoicie. Można z niego przyrządzić filet z dźgacza."
 		},
 		"Sugar Bombs": {
-			"name": "Sugar Bombs",
-			"effect": "<p>Gain +1 AP at start of next scene</p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A pre-War breakfast cereal with &ldquo;explosive great taste&rdquo;, the box contains little cereal shapes resembling stylized atomic bombs coated in copious amounts of sugar. Some boxes claim to contain a prize inside.</span></p>\n<p><span class=\"fontstyle0\">Sometimes,&nbsp;</span><span class=\"fontstyle2\"><em>preserved</em> </span><span class=\"fontstyle0\">boxes of Sugar Bombs can be found. These are identical to the listed version, but are not irradiated, and increase their rarity by +1.</span> </p>"
+			"name": "Bomby cukrowe",
+			"effect": "<p>Na początku następnej sceny otrzymujesz +1 PA/p>\n<p>&nbsp;</p>",
+			"description": "Przedwojenne płatki śniadaniowe, których smak „eksploduje w ustach”. Kształtem przypominają pokryte grubą warstwą cukru bombki atomowe. Podobno w niektórych pudełkach da się nawet znaleźć zabawki. Czasami można natrafić na dobrze zachowane pudełka bomb cukrowych. Nie są one skażone, a ich rzadkość wzrasta o +1."
 		},
 		"Sugar Bombs (Preserved)": {
-			"name": "Sugar Bombs (Preserved)",
-			"effect": "<p>Gain +1 AP at start of next scene</p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A pre-War breakfast cereal with &ldquo;explosive great taste&rdquo;, the box contains little cereal shapes resembling stylized atomic bombs coated in copious amounts of sugar. Some boxes claim to contain a prize inside.</span></p>\n<p><span class=\"fontstyle0\">Sometimes,&nbsp;</span><span class=\"fontstyle2\"><em>preserved</em> </span><span class=\"fontstyle0\">boxes of Sugar Bombs can be found. These are identical to the listed version, but are not irradiated, and increase their rarity by +1.</span></p>"
+			"name": "Bomby cukrowe (dobrze zachowana)",
+			"effect": "<p>Na początku następnej sceny otrzymujesz +1 PA/p>\n<p>&nbsp;</p>",
+			"description": "Przedwojenne płatki śniadaniowe, których smak „eksploduje w ustach”. Kształtem przypominają pokryte grubą warstwą cukru bombki atomowe. Podobno w niektórych pudełkach da się nawet znaleźć zabawki. Czasami można natrafić na dobrze zachowane pudełka bomb cukrowych. Nie są one skażone, a ich rzadkość wzrasta o +1."
 		},
 		"Super Stimpak": {
-			"name": "Super Stimpak",
-			"effect": "<p>Heals 8 HP (see description)</p>",
-			"description": "<p>A super Stimpak is an enhanced version of the standard Stimpak, with an additional vial of medicine and a leather strap to secure the needle to the patient&rsquo;s arm during treatment. A more potent cocktail of medication is used in a super Stimpak, allowing it to heal much more effectively.</p>\n<ul>\n<li><strong>Use:</strong> A super Stimpak can be used in one of two ways: it can be applied using the Take Chem minor action, healing 8 HP or treating up to two Injuries immediately, or it can be applied as part of a First Aid action, healing 8 HP or treating up to two Injuries in addition to any other healing done.</li>\n</ul>"
+			"name": "Superstimpak",
+			"effect": "<p>Leczy 8 PZ (patrz opis)</p>",
+			"description": "<p>Stimpak we wzbogaconej wersji z dodatkową fiolką leku oraz skórzanym paskiem, żeby w czasie leczenia przymocować igłę do ręki pacjenta. Zawiera silniejszą kombinację leków, co pozwala na znacznie skuteczniejszą terapię.</p><ul>\n<li><strong>Użycie:</strong> Superstimpaka można użyć na dwa sposoby – w ramach pomniejszej akcji zażycia środka chemicznego, co natychmiast leczy 8 PZ, albo w ramach głównej akcji pierwszej pomocy, co również leczy 8 PZ lub do dwóch ran, niezależnie od pozostałych korzyści wynikających z tej akcji.</li>\n</ul>"		
 		},
 		"Sweet Roll": {
-			"name": "Sweet Roll",
+			"name": "Słodka bułka",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A small, sweetened pastry or baked confection normally made as a treat for children or people who need a bit of cheering up.</span> </p>"
+			"description": "Niewielkie ciasto lub słodkie pieczywo, zwykle wyrabiane jako przekąska dla dzieci lub osób, które potrzebują odrobiny pocieszenia."
 		},
 		"Tarberry": {
-			"name": "Tarberry",
+			"name": "Smołówka",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">Small purple berries of the Tarberry plant, a watergrown crop similar to pre-War cranberries. A useful ingredient in several recipes, but difficult to cultivate in any location without a decent supply of reasonably clean water. Communities able to grow tarberries often need to protect their crop from raiders.</span></p>"
+			"description": "Małe, fioletowe jagody wodnej rośliny zwanej smołówką, które przypominają nieco owoce przedwojennej żurawiny. Wykorzystywane jako składnik w dużej liczbie przepisów, niemniej jednak trudne do wyhodowania bez dostępu do dużego zbiornika w miarę czystej wody. Społeczności uprawiające smołówkę często muszą chronić swoje poletka przed bandytami."
 		},
 		"Tarberry Juice": {
-			"name": "Tarberry Juice",
-			"effect": "<p>Immediately gain +6 AP</p>",
-			"description": "<p><span class=\"fontstyle0\">Juice made from pressing tarberries. Drinking Tarberry juice has a potent stimulant effect, making the drinker energetic and ready for action.</span> </p>"
+			"name": "Sok smołówkowy",
+			"effect": "<p>Natychmiast zyskujesz +6 PA</p>",
+			"description": "Sok z wyciskanych jagód smołówki. Zapewnia silny efekt pobudzenia, napełniając pijącego wigorem i energią do działania."
 		},
 		"Tato": {
-			"name": "Tato",
+			"name": "Owoc Ora",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A mutated hybrid of the pre-War tomato and potato plants, with the stem and reddish skin of the former and the brownish flesh of the latter. Tatos provide decent nutrition, but taste disgusting. However, they&rsquo;re relatively easy to grow and thus are a staple of wasteland agriculture and is an ingredient in a variety of recipes.</span> </p>"
+			"description": "Zmutowana hybryda przedwojennych pomidorów i ziemniaków, z łodygą i czerwoną skórką tych pierwszych oraz jasnobrązowym miąższem drugich. Ory są dość sycące, ale smakują obrzydliwie. Ich zaletą jest łatwość uprawy i dlatego stanowią podstawę rolnictwa na pustkowiach oraz składnik wielu przepisów."
 		},
 		"Tato Juice": {
-			"name": "Tato Juice",
-			"effect": "<p>Group AP pool can hold 1 AP more than normal</p>",
-			"description": "<p><span class=\"fontstyle0\">Juice made from pressing Tatos. Despite the unpleasant taste, Tato juice is a fine way to prepare for vigorous action, as it allows the drinker to dig more deeply into reserves of stamina and push themselves further.</span> </p>"
+			"name": "Sok orowy",
+			"effect": "<p>+1 do maksymalnej liczby PA w puli grupowej</p>",
+			"description": "Sok z wyciskanych orów. Choć niezbyt smaczny, jest dobrym sposobem, żeby zyskać energię do działania, ponieważ pozwala czerpać z głębokich rezerw wytrzymałości i zmuszać się do większego wysiłku."
 		},
 		"Ultra Jet": {
-			"name": "Ultra Jet",
-			"effect": "<p>Gain 6 AP immediately (lost if not spent), Extra actions cost 1 less AP</p>",
-			"description": "<p>An extremely concentrated form of Jet, it is significantly more potent, and affects Ghouls as easily as it does humans due to its potency.</p>\n<p><strong>Ultra Jet Addiction:</strong> A failed addiction roll renders you addicted to Ultra Jet. You increase the difficulty of all AGI tests by +1, and you generate one fewer AP whenever you succeed at a skill test (minimum 0) whenever you are not under the effects of Ultra Jet. This addiction is permanent and cannot be cured by any known means.</p>"
+			"name": "Ultraodlot",
+			"effect": "<p>+6 natychmiastowych PA (jeśli ich nie wydasz, przepadną), dodatkowe akcje kosztują o 1 PA mniej</p>",
+			"description": "Ekstremalnie skoncentrowana odmiana odlotu jest o wiele silniejsza i nawet na ghule działa tak samo, jak na ludzi."
 		},
 		"Vegetable Soup": {
-			"name": "Vegetable Soup",
-			"effect": "<p>+2 Radiation damage resistance until end of next scene</p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A simple soup made with carrot and tato. A reasonably filling meal, sating both hunger and thirst, while also helping to fortify the body against radiation poisoning for a while.</span> </p>"
+			"name": "Zupa jarzynowa",
+			"effect": "<p>Do końca następnej sceny otrzymujesz +2 do Odporności na obrażenia radiacyjne</p>\n<p>&nbsp;</p>",
+			"description": "Prosta zupa z marchwi i orów. Jest całkiem pożywna, zaspokaja głód i pragnienie, a także na jakiś czas zwiększa odporność organizmu na zatrucie substancjami promieniotwórczymi."
 		},
 		"Vodka": {
-			"name": "Vodka",
-			"effect": "",
-			"description": "<p><span class=\"fontstyle0\">A clear distilled alcoholic beverage, made from fermented rye, wheat, potatoes, or sugar beet molasses, typically imported from the Soviet Union Pre-War.</span> </p>"
+			"name": "Wódka",
+			"effect": "Alkohol",
+			"description": "Bezbarwny, destylowany napój alkoholowy wytwarzany ze sfermentowanego żyta, pszenicy, ziemniaków lub melasy z buraków cukrowych. Zazwyczaj był importowany z przedwojennego Związku Radzieckiego."
 		},
 		"Whiskey": {
 			"name": "Whiskey",
-			"effect": "<p>Reroll up to two d20 on STR tests (in total)</p>",
-			"description": "<p><span class=\"fontstyle0\">A triple-distilled alcoholic beverage made using grain mash. Pre-War versions were created across the United States and beyond. Some wasteland distilleries exist producing post-War versions using corn and razorgrain.</span> </p>"
+			"effect": "<p>Alkohol, możesz przerzucić do dwóch k20 w testach SI (wliczono Alkohol)</p>",
+			"description": "Potrójnie destylowany napój alkoholowy wyrabiany z zacieru zbożowego. Przed wojną różne gatunki whiskey produkowano w Stanach Zjednoczonych oraz wielu innych krajach. Na powojennych pustkowiach niektóre destylarnie wytwarzają whiskey z kukurydzy i brzytwozboża."
 		},
 		"Wine": {
-			"name": "Wine",
-			"effect": "<p>Immediately gain +1 AP</p>",
-			"description": "<p><span class=\"fontstyle0\">An alcoholic beverage made from the fermentation of grape juice. There are numerous pre-War vintages to be found across the wasteland, often collected by the wealthy before the bombs fell, and a survivor who stumbles across an intact wine cellar can enjoy a drunken stupor for weeks or months.</span> </p>"
+			"name": "Wino",
+			"effect": "<p>Alkohol, natychmiast zyskujesz +1 AP</p>",
+			"description": "Napój alkoholowy powstały wskutek fermentacji soku z winogron. Na pustkowiach można znaleźć sporą liczbę butelek z przedwojennych roczników, często w kolekcjach co bogatszych koneserów. Wędrowiec, który odnajdzie nietkniętą piwniczkę z winem, może nie trzeźwieć przez długie tygodnie, jak nie miesiące."
 		},
 		"X-Cell": {
-			"name": "X-Cell",
-			"effect": "<p>First d20 bought on all tests is free</p>",
-			"description": "<p>X-cell was a general-purpose performance enhancer still being developed before the Great War. Development was never finished, but prototype versions were distributed through the black market and by scavengers after the War. It enhances all aspects of a user&rsquo;s abilities for a few minutes, but it is extremely addictive, and the withdrawal symptoms are as far-reaching as the effects.</p>\n<p><strong>X-Cell Addiction:</strong> A failed addiction roll renders you addicted to X-Cell. You increase the difficulty of all tests by +1 whenever you are not under the effects of X-Cell.</p>"
+			"name": "Wypas",
+			"effect": "<p>W każdym teście pierwsza kupowana k20 jest darmowa</p>",
+			"description": "Wypas to ogólnego zastosowania środek wzmacniający wydolność, który przed Wielką Wojną był nadal w fazie eksperymentalnej. Na kilka minut rozszerza zdolności użytkownika w każdym zakresie, ale jest silnie uzależniający, a symptomy odstawienia są równie silne jak wywoływane przez niego efekty."
 		},
 		"Yao Guai Meat": {
-			"name": "Yao Guai Meat",
+			"name": "Mięso Yao Guai",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">Another dangerous meat to obtain, Yao Guai meat comes from the bodies of slain Yao Guai, a ferocious mutated form of bear that roams the wastelands. The meat is highly prized and nutritious, though still irradiated if consumed raw.</span></p>\n<p><span class=\"fontstyle0\">Yao Guai meat can be cooked to make Yao Guai Ribs or Yao Guai Roast.</span> </p>"
+			"description": "Kolejny rodzaj trudnego do pozyskania mięsa. Yao guai to agresywny, zmutowany gatunek niedźwiedzia, który grasuje na pustkowiach. Mięso z ubitego osobnika jest wysoce cenione ze względu na wartości odżywcze, aczkolwiek na surowo jest bardzo skażone. Można z niego przyrządzić żeberka lub pieczeń."
 		},
 		"Yao Guai Ribs": {
-			"name": "Yao Guai Ribs",
-			"effect": "<p>+2 Physical damage resistance until end of next scene</p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A rack of ribs made with Yao Guai meat. Yao Guai ribs are both a satisfying meal and inspire a sense of invincibility, while also boosting your tolerance for pain for a short while.</span> </p>"
+			"name": "Żeberka z yao guai",
+			"effect": "<p>Do końca następnej sceny otrzymujesz +2 do Odporności na obrażenia fizyczne</p>\n<p>&nbsp;</p>",
+			"description": "Płat żeberek z mięsa yao guai to sycący posiłek, który nie tylko wywołuje wrażenie, że jesteś niezwyciężony, ale także na jakiś czas zwiększa twoją wytrzymałość na ból."
 		},
 		"Yao Guai Roast": {
-			"name": "Yao Guai Roast",
-			"effect": "<p>+2 @fos[DC] to melee attacks until end of next scene</p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">A roasted piece of Yao Guai meat cooked with carrot and tato. An extremely filling and satisfying meal, and many have claimed that it heightens their killer instinct and ability to inflict harm for a while after eating.</span></p>"
+			"name": "Pieczeń z Yao Guai",
+			"effect": "<p>Do końca następnej sceny otrzymujesz +2 DC do ataków wręcz</p>\n<p>&nbsp;</p>",
+			"description": "Kawałek mięsa yao guai upieczony z marchewkami i orami to niezwykle sycący i pożywny posiłek. Wiele osób twierdzi, że jego spożycie na pewien czas pobudza instynkt zabijania i zwiększa zdolności bojowe."
 		},
 		"Yum-Yum Deviled Eggs": {
-			"name": "Yum-Yum Deviled Eggs",
+			"name": "Jajka po szatańsku",
 			"effect": "<p></p>\n<p>&nbsp;</p>",
-			"description": "<p><span class=\"fontstyle0\">Hard-boiled eggs stuffed with a spicy filling, which were preserved and sealed for freshness before the Great War.</span> </p>"
+			"description": "Jajka ugotowane na twardo z pikantnym farszem. Zakonserwowane przed Wielką Wojną i zapakowane próżniowo, żeby dłużej zachowały świeżość."
 		}
 	},
 	"mapping": {

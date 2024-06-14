@@ -338,27 +338,33 @@
 		},
 		"Hydraulic Frame (Arm 1)": {
 			"name": "Rama hydrauliczna (Ramie 1)",
-			"description": "<p>A specially made set of armor plates which conceal powerful hydraulics which enhance the robot&rsquo;s movements.</p>\nZasady specjalneelee attacks made from arms fitted with a hydraulic frame inflict +1 @fos[DC] damage and gain the Stun damage effect.</p>"
+			"description": "<p>Specjalnie wykonany zestaw pancernych płyt z zamontowanymi wewnątrz siłownikami hydraulicznymi, które wspomagają ruchy robota. </p>\n<strong>Zasady specjalne:</strong>&nbsp;</span><span class=\"fontstyle0\"><p>Ataki wręcz wykonane ramieniem z ramą hydrauliczną zadają obrażenia zwiększone o +1@fos[DC] i zyskują Efekt Ogłuszające.</p>",
+			"perks": "Zbrojmistrz 3"
 		},
 		"Hydraulic Frame (Arm 2)": {
 			"name": "Rama hydrauliczna (Ramie 2)",
-			"description": "<p>A specially made set of armor plates which conceal powerful hydraulics which enhance the robot&rsquo;s movements.</p>\nZasady specjalneelee attacks made from arms fitted with a hydraulic frame inflict +1 @fos[DC] damage and gain the Stun damage effect.</p>"
+			"description": "<p>Specjalnie wykonany zestaw pancernych płyt z zamontowanymi wewnątrz siłownikami hydraulicznymi, które wspomagają ruchy robota. </p>\n<strong>Zasady specjalne:</strong>&nbsp;</span><span class=\"fontstyle0\"><p>Ataki wręcz wykonane ramieniem z ramą hydrauliczną zadają obrażenia zwiększone o +1@fos[DC] i zyskują Efekt Ogłuszające.</p>",
+			"perks": "Zbrojmistrz 3"
 		},
 		"Hydraulic Frame (Arm 3)": {
 			"name": "Rama hydrauliczna (Ramie 3)",
-			"description": "<p>A specially made set of armor plates which conceal powerful hydraulics which enhance the robot&rsquo;s movements.</p>\nZasady specjalneelee attacks made from arms fitted with a hydraulic frame inflict +1 @fos[DC] damage and gain the Stun damage effect.</p>"
+			"description": "<p>Specjalnie wykonany zestaw pancernych płyt z zamontowanymi wewnątrz siłownikami hydraulicznymi, które wspomagają ruchy robota. </p>\n<strong>Zasady specjalne:</strong>&nbsp;</span><span class=\"fontstyle0\"><p>Ataki wręcz wykonane ramieniem z ramą hydrauliczną zadają obrażenia zwiększone o +1@fos[DC] i zyskują Efekt Ogłuszające.</p>",
+			"perks": "Zbrojmistrz 3"
 		},
 		"Hydraulic Frame (Main Body)": {
 			"name": "Rama hydrauliczna (Korpus)",
-			"description": "<p>A specially made set of armor plates which conceal powerful hydraulics which enhance the robot&rsquo;s movements.</p>\nZasady specjalneelee attacks made from arms fitted with a hydraulic frame inflict +1 @fos[DC] damage and gain the Stun damage effect.</p>"
+			"description": "<p>Specjalnie wykonany zestaw pancernych płyt z zamontowanymi wewnątrz siłownikami hydraulicznymi, które wspomagają ruchy robota. </p>\n<strong>Zasady specjalne:</strong>&nbsp;</span><span class=\"fontstyle0\"><p>Ataki wręcz wykonane ramieniem z ramą hydrauliczną zadają obrażenia zwiększone o +1@fos[DC] i zyskują Efekt Ogłuszające.</p>",
+			"perks": "Zbrojmistrz 3"
 		},
 		"Hydraulic Frame (Optics)": {
 			"name": "Rama hydrauliczna (Sensory)",
-			"description": "<p>A specially made set of armor plates which conceal powerful hydraulics which enhance the robot&rsquo;s movements.</p>\nZasady specjalneelee attacks made from arms fitted with a hydraulic frame inflict +1 @fos[DC] damage and gain the Stun damage effect.</p>"
+			"description": "<p>Specjalnie wykonany zestaw pancernych płyt z zamontowanymi wewnątrz siłownikami hydraulicznymi, które wspomagają ruchy robota. </p>\n<strong>Zasady specjalne:</strong>&nbsp;</span><span class=\"fontstyle0\"><p>Ataki wręcz wykonane ramieniem z ramą hydrauliczną zadają obrażenia zwiększone o +1@fos[DC] i zyskują Efekt Ogłuszające.</p>",
+			"perks": "Zbrojmistrz 3"
 		},
 		"Hydraulic Frame (Thruster)": {
 			"name": "Rama hydrauliczna (Silnik)",
-			"description": "<p>A specially made set of armor plates which conceal powerful hydraulics which enhance the robot&rsquo;s movements.</p>\nZasady specjalneelee attacks made from arms fitted with a hydraulic frame inflict +1 @fos[DC] damage and gain the Stun damage effect.</p>"
+			"description": "<p>Specjalnie wykonany zestaw pancernych płyt z zamontowanymi wewnątrz siłownikami hydraulicznymi, które wspomagają ruchy robota. </p>\n<strong>Zasady specjalne:</strong>&nbsp;</span><span class=\"fontstyle0\"><p>Ataki wręcz wykonane ramieniem z ramą hydrauliczną zadają obrażenia zwiększone o +1@fos[DC] i zyskują Efekt Ogłuszające.</p>",
+			"perks": "Zbrojmistrz 3"
 		},
 		"Lab Coat": {
 			"name": "Kitel",
@@ -786,27 +792,33 @@
 		},
 		"Toxic Plate (Arm 1)": {
 			"name": "Toksyczna płyta (Ramie 1)",
-			"description": "<p>Prowizorycznie wyklepana płyta z napromieniowanego metalu, która jest niebezpieczna dla wszystkich żywych stworzeń znajdujących się w pobliżu robota.</p>\n<p><strong>Zasady specjalne:</strong> Kiedy w teście ataku wręcz przeciwko lokalizacji osłoniętej toksyczną płytą wypadnie komplikacja, atakujący otrzymuje @fos[2 DC] obrażeń radiacyjnych. Ataki wręcz wykonane ramieniem osłoniętym toksyczną płytą zyskują Efekt obrażeń Radioaktywne.</p>"
+			"description": "<p>Prowizorycznie wyklepana płyta z napromieniowanego metalu, która jest niebezpieczna dla wszystkich żywych stworzeń znajdujących się w pobliżu robota.</p>\n<p><strong>Zasady specjalne:</strong> Kiedy w teście ataku wręcz przeciwko lokalizacji osłoniętej toksyczną płytą wypadnie komplikacja, atakujący otrzymuje @fos[2 DC] obrażeń radiacyjnych. Ataki wręcz wykonane ramieniem osłoniętym toksyczną płytą zyskują Efekt obrażeń Radioaktywne.</p>",
+			"perks": "Zbrojmistrz 3"
 		},
 		"Toxic Plate (Arm 2)": {
 			"name": "Toksyczna płyta (Ramie 2)",
-			"description": "<p>Prowizorycznie wyklepana płyta z napromieniowanego metalu, która jest niebezpieczna dla wszystkich żywych stworzeń znajdujących się w pobliżu robota.</p>\n<p><strong>Zasady specjalne:</strong> Kiedy w teście ataku wręcz przeciwko lokalizacji osłoniętej toksyczną płytą wypadnie komplikacja, atakujący otrzymuje @fos[2 DC] obrażeń radiacyjnych. Ataki wręcz wykonane ramieniem osłoniętym toksyczną płytą zyskują Efekt obrażeń Radioaktywne.</p>"
+			"description": "<p>Prowizorycznie wyklepana płyta z napromieniowanego metalu, która jest niebezpieczna dla wszystkich żywych stworzeń znajdujących się w pobliżu robota.</p>\n<p><strong>Zasady specjalne:</strong> Kiedy w teście ataku wręcz przeciwko lokalizacji osłoniętej toksyczną płytą wypadnie komplikacja, atakujący otrzymuje @fos[2 DC] obrażeń radiacyjnych. Ataki wręcz wykonane ramieniem osłoniętym toksyczną płytą zyskują Efekt obrażeń Radioaktywne.</p>",
+			"perks": "Zbrojmistrz 3"
 		},
 		"Toxic Plate (Arm 3)": {
 			"name": "Toksyczna płyta (Ramie 3)",
-			"description": "<p>Prowizorycznie wyklepana płyta z napromieniowanego metalu, która jest niebezpieczna dla wszystkich żywych stworzeń znajdujących się w pobliżu robota.</p>\n<p><strong>Zasady specjalne:</strong> Kiedy w teście ataku wręcz przeciwko lokalizacji osłoniętej toksyczną płytą wypadnie komplikacja, atakujący otrzymuje @fos[2 DC] obrażeń radiacyjnych. Ataki wręcz wykonane ramieniem osłoniętym toksyczną płytą zyskują Efekt obrażeń Radioaktywne.</p>"
+			"description": "<p>Prowizorycznie wyklepana płyta z napromieniowanego metalu, która jest niebezpieczna dla wszystkich żywych stworzeń znajdujących się w pobliżu robota.</p>\n<p><strong>Zasady specjalne:</strong> Kiedy w teście ataku wręcz przeciwko lokalizacji osłoniętej toksyczną płytą wypadnie komplikacja, atakujący otrzymuje @fos[2 DC] obrażeń radiacyjnych. Ataki wręcz wykonane ramieniem osłoniętym toksyczną płytą zyskują Efekt obrażeń Radioaktywne.</p>",
+			"perks": "Zbrojmistrz 3"
 		},
 		"Toxic Plate (Main Body)": {
 			"name": "Toksyczna płyta (Korpus)",
-			"description": "<p>Prowizorycznie wyklepana płyta z napromieniowanego metalu, która jest niebezpieczna dla wszystkich żywych stworzeń znajdujących się w pobliżu robota.</p>\n<p><strong>Zasady specjalne:</strong> Kiedy w teście ataku wręcz przeciwko lokalizacji osłoniętej toksyczną płytą wypadnie komplikacja, atakujący otrzymuje @fos[2 DC] obrażeń radiacyjnych. Ataki wręcz wykonane ramieniem osłoniętym toksyczną płytą zyskują Efekt obrażeń Radioaktywne.</p>"
+			"description": "<p>Prowizorycznie wyklepana płyta z napromieniowanego metalu, która jest niebezpieczna dla wszystkich żywych stworzeń znajdujących się w pobliżu robota.</p>\n<p><strong>Zasady specjalne:</strong> Kiedy w teście ataku wręcz przeciwko lokalizacji osłoniętej toksyczną płytą wypadnie komplikacja, atakujący otrzymuje @fos[2 DC] obrażeń radiacyjnych. Ataki wręcz wykonane ramieniem osłoniętym toksyczną płytą zyskują Efekt obrażeń Radioaktywne.</p>",
+			"perks": "Zbrojmistrz 3"
 		},
 		"Toxic Plate (Optics)": {
 			"name": "Toksyczna płyta (Sensory)",
-			"description": "<p>Prowizorycznie wyklepana płyta z napromieniowanego metalu, która jest niebezpieczna dla wszystkich żywych stworzeń znajdujących się w pobliżu robota.</p>\n<p><strong>Zasady specjalne:</strong> Kiedy w teście ataku wręcz przeciwko lokalizacji osłoniętej toksyczną płytą wypadnie komplikacja, atakujący otrzymuje @fos[2 DC] obrażeń radiacyjnych. Ataki wręcz wykonane ramieniem osłoniętym toksyczną płytą zyskują Efekt obrażeń Radioaktywne.</p>"
+			"description": "<p>Prowizorycznie wyklepana płyta z napromieniowanego metalu, która jest niebezpieczna dla wszystkich żywych stworzeń znajdujących się w pobliżu robota.</p>\n<p><strong>Zasady specjalne:</strong> Kiedy w teście ataku wręcz przeciwko lokalizacji osłoniętej toksyczną płytą wypadnie komplikacja, atakujący otrzymuje @fos[2 DC] obrażeń radiacyjnych. Ataki wręcz wykonane ramieniem osłoniętym toksyczną płytą zyskują Efekt obrażeń Radioaktywne.</p>",
+			"perks": "Zbrojmistrz 3"
 		},
 		"Toxic Plate (Thruster)": {
 			"name": "Toksyczna płyta (Silnik)",
-			"description": "<p>Prowizorycznie wyklepana płyta z napromieniowanego metalu, która jest niebezpieczna dla wszystkich żywych stworzeń znajdujących się w pobliżu robota.</p>\n<p><strong>Zasady specjalne:</strong> Kiedy w teście ataku wręcz przeciwko lokalizacji osłoniętej toksyczną płytą wypadnie komplikacja, atakujący otrzymuje @fos[2 DC] obrażeń radiacyjnych. Ataki wręcz wykonane ramieniem osłoniętym toksyczną płytą zyskują Efekt obrażeń Radioaktywne.</p>"
+			"description": "<p>Prowizorycznie wyklepana płyta z napromieniowanego metalu, która jest niebezpieczna dla wszystkich żywych stworzeń znajdujących się w pobliżu robota.</p>\n<p><strong>Zasady specjalne:</strong> Kiedy w teście ataku wręcz przeciwko lokalizacji osłoniętej toksyczną płytą wypadnie komplikacja, atakujący otrzymuje @fos[2 DC] obrażeń radiacyjnych. Ataki wręcz wykonane ramieniem osłoniętym toksyczną płytą zyskują Efekt obrażeń Radioaktywne.</p>",
+			"perks": "Zbrojmistrz 3"
 		},
 		"Utility Coveralls": {
 			"name": "Kombinezon roboczy",
@@ -830,27 +842,33 @@
 		},
 		"Voltaic Frame (Arm 1)": {
 			"name": "Rama woltaiczna (Ramie 1)",
-			"description": "<p>Specjalnie wykonany zestaw pancernych płyt z zamontowanymi dodatkowymi przewodnikami i kondensatorami, które zwiększają skuteczność broni energetycznych.</p>\n<p><strong>Zasady specjalne:</strong>Jeśli robot jest wyposażony w przynajmniej jeden element ramy woltaicznej i zadaje atakiem obrażenia energetyczne, to zostają one zwiększone o +1@fos[DC]. Ten modyfikator wzrasta o kolejne +1@fos[DC] za każde dwie dodatkowe lokalizacje wyposażone w ramę woltaiczną (+2@fos[DC] przy 3 elementach, +3@fos[DC] przy 5 lub 6 elementach).</p>"
+			"description": "<p>Specjalnie wykonany zestaw pancernych płyt z zamontowanymi dodatkowymi przewodnikami i kondensatorami, które zwiększają skuteczność broni energetycznych.</p>\n<p><strong>Zasady specjalne:</strong>Jeśli robot jest wyposażony w przynajmniej jeden element ramy woltaicznej i zadaje atakiem obrażenia energetyczne, to zostają one zwiększone o +1@fos[DC]. Ten modyfikator wzrasta o kolejne +1@fos[DC] za każde dwie dodatkowe lokalizacje wyposażone w ramę woltaiczną (+2@fos[DC] przy 3 elementach, +3@fos[DC] przy 5 lub 6 elementach).</p>",
+			"perks": "Zbrojmistrz 2"
 		},
 		"Voltaic Frame (Arm 2)": {
 			"name": "Rama woltaiczna (Ramie 2)",
-			"description": "<p>Specjalnie wykonany zestaw pancernych płyt z zamontowanymi dodatkowymi przewodnikami i kondensatorami, które zwiększają skuteczność broni energetycznych.</p>\n<p><strong>Zasady specjalne:</strong>Jeśli robot jest wyposażony w przynajmniej jeden element ramy woltaicznej i zadaje atakiem obrażenia energetyczne, to zostają one zwiększone o +1@fos[DC]. Ten modyfikator wzrasta o kolejne +1@fos[DC] za każde dwie dodatkowe lokalizacje wyposażone w ramę woltaiczną (+2@fos[DC] przy 3 elementach, +3@fos[DC] przy 5 lub 6 elementach).</p>"
+			"description": "<p>Specjalnie wykonany zestaw pancernych płyt z zamontowanymi dodatkowymi przewodnikami i kondensatorami, które zwiększają skuteczność broni energetycznych.</p>\n<p><strong>Zasady specjalne:</strong>Jeśli robot jest wyposażony w przynajmniej jeden element ramy woltaicznej i zadaje atakiem obrażenia energetyczne, to zostają one zwiększone o +1@fos[DC]. Ten modyfikator wzrasta o kolejne +1@fos[DC] za każde dwie dodatkowe lokalizacje wyposażone w ramę woltaiczną (+2@fos[DC] przy 3 elementach, +3@fos[DC] przy 5 lub 6 elementach).</p>",
+			"perks": "Zbrojmistrz 2"
 		},
 		"Voltaic Frame (Arm 3)": {
 			"name": "Rama woltaiczna (Ramie 3)",
-			"description": "<p>Specjalnie wykonany zestaw pancernych płyt z zamontowanymi dodatkowymi przewodnikami i kondensatorami, które zwiększają skuteczność broni energetycznych.</p>\n<p><strong>Zasady specjalne:</strong>Jeśli robot jest wyposażony w przynajmniej jeden element ramy woltaicznej i zadaje atakiem obrażenia energetyczne, to zostają one zwiększone o +1 DC . Ten modyfikator wzrasta o kolejne +1@fos[DC] za każde dwie dodatkowe lokalizacje wyposażone w ramę woltaiczną (+2@fos[DC] przy 3 elementach, +3@fos[DC] przy 5 lub 6 elementach).</p>"
+			"description": "<p>Specjalnie wykonany zestaw pancernych płyt z zamontowanymi dodatkowymi przewodnikami i kondensatorami, które zwiększają skuteczność broni energetycznych.</p>\n<p><strong>Zasady specjalne:</strong>Jeśli robot jest wyposażony w przynajmniej jeden element ramy woltaicznej i zadaje atakiem obrażenia energetyczne, to zostają one zwiększone o +1 DC . Ten modyfikator wzrasta o kolejne +1@fos[DC] za każde dwie dodatkowe lokalizacje wyposażone w ramę woltaiczną (+2@fos[DC] przy 3 elementach, +3@fos[DC] przy 5 lub 6 elementach).</p>",
+			"perks": "Zbrojmistrz 2"
 		},
 		"Voltaic Frame (Main Body)": {
 			"name": "Rama woltaiczna (Korpus)",
-			"description": "<p>Specjalnie wykonany zestaw pancernych płyt z zamontowanymi dodatkowymi przewodnikami i kondensatorami, które zwiększają skuteczność broni energetycznych.</p>\n<p><strong>Zasady specjalne:</strong>Jeśli robot jest wyposażony w przynajmniej jeden element ramy woltaicznej i zadaje atakiem obrażenia energetyczne, to zostają one zwiększone o +1@fos[DC]. Ten modyfikator wzrasta o kolejne +1@fos[DC] za każde dwie dodatkowe lokalizacje wyposażone w ramę woltaiczną (+2@fos[DC] przy 3 elementach, +3@fos[DC] przy 5 lub 6 elementach).</p>"
+			"description": "<p>Specjalnie wykonany zestaw pancernych płyt z zamontowanymi dodatkowymi przewodnikami i kondensatorami, które zwiększają skuteczność broni energetycznych.</p>\n<p><strong>Zasady specjalne:</strong>Jeśli robot jest wyposażony w przynajmniej jeden element ramy woltaicznej i zadaje atakiem obrażenia energetyczne, to zostają one zwiększone o +1@fos[DC]. Ten modyfikator wzrasta o kolejne +1@fos[DC] za każde dwie dodatkowe lokalizacje wyposażone w ramę woltaiczną (+2@fos[DC] przy 3 elementach, +3@fos[DC] przy 5 lub 6 elementach).</p>",
+			"perks": "Zbrojmistrz 2"
 		},
 		"Voltaic Frame (Optics)": {
 			"name": "Rama woltaiczna (Sensory)",
-			"description": "<p>Specjalnie wykonany zestaw pancernych płyt z zamontowanymi dodatkowymi przewodnikami i kondensatorami, które zwiększają skuteczność broni energetycznych.</p>\n<p><strong>Zasady specjalne:</strong>Jeśli robot jest wyposażony w przynajmniej jeden element ramy woltaicznej i zadaje atakiem obrażenia energetyczne, to zostają one zwiększone o +1@fos[DC]. Ten modyfikator wzrasta o kolejne +1@fos[DC] za każde dwie dodatkowe lokalizacje wyposażone w ramę woltaiczną (+2@fos[DC] przy 3 elementach, +3@fos[DC] przy 5 lub 6 elementach).</p>"
+			"description": "<p>Specjalnie wykonany zestaw pancernych płyt z zamontowanymi dodatkowymi przewodnikami i kondensatorami, które zwiększają skuteczność broni energetycznych.</p>\n<p><strong>Zasady specjalne:</strong>Jeśli robot jest wyposażony w przynajmniej jeden element ramy woltaicznej i zadaje atakiem obrażenia energetyczne, to zostają one zwiększone o +1@fos[DC]. Ten modyfikator wzrasta o kolejne +1@fos[DC] za każde dwie dodatkowe lokalizacje wyposażone w ramę woltaiczną (+2@fos[DC] przy 3 elementach, +3@fos[DC] przy 5 lub 6 elementach).</p>",
+			"perks": "Zbrojmistrz 2"
 		},
 		"Voltaic Frame (Thruster)": {
 			"name": "Rama woltaiczna (Silnik)",
-			"description": "<p>Specjalnie wykonany zestaw pancernych płyt z zamontowanymi dodatkowymi przewodnikami i kondensatorami, które zwiększają skuteczność broni energetycznych.</p>\n<p><strong>Zasady specjalne:</strong>Jeśli robot jest wyposażony w przynajmniej jeden element ramy woltaicznej i zadaje atakiem obrażenia energetyczne, to zostają one zwiększone o +1@fos[DC]. Ten modyfikator wzrasta o kolejne +1@fos[DC] za każde dwie dodatkowe lokalizacje wyposażone w ramę woltaiczną (+2@fos[DC] przy 3 elementach, +3@fos[DC] przy 5 lub 6 elementach).</p>"
+			"description": "<p>Specjalnie wykonany zestaw pancernych płyt z zamontowanymi dodatkowymi przewodnikami i kondensatorami, które zwiększają skuteczność broni energetycznych.</p>\n<p><strong>Zasady specjalne:</strong>Jeśli robot jest wyposażony w przynajmniej jeden element ramy woltaicznej i zadaje atakiem obrażenia energetyczne, to zostają one zwiększone o +1@fos[DC]. Ten modyfikator wzrasta o kolejne +1@fos[DC] za każde dwie dodatkowe lokalizacje wyposażone w ramę woltaiczną (+2@fos[DC] przy 3 elementach, +3@fos[DC] przy 5 lub 6 elementach).</p>",
+			"perks": "Zbrojmistrz 2"
 		},
 		"Welder's Visor": {
 			"name": "Maska spawalnicza",
