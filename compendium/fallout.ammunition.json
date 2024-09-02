@@ -23,7 +23,7 @@
 		},
 		".50 Round": {
 			"name": "Naboje .50",
-			"description": "<p>Duży, silny energetycznie nabój o wysokiej skuteczności, używany w największych karabinach. Z racji tego, że przed Wielką Wojną była to Naboje stosowana w ciężkiej broni maszynowej oraz wielkokalibrowych karabinach wyborowych, obecnie jest trudno dostępna – chyba że akurat w pobliżu znajduje się jakaś dawna baza wojskowa. Jedno trafienie wystarczy, żeby zrobić miazgę z czegokolwiek, ale nie możesz sobie pozwolić na zmarnowanie choćby jednego pocisku.</p>\n<p><strong>Ilość znaleziona:</strong> [[/r 4+2dc # Naboje .50]]</p>"
+			"description": "<p>Duży, silny energetycznie nabój o wysokiej skuteczności, używany w największych karabinach. Z racji tego, że przed Wielką Wojną była to amunicja stosowana w ciężkiej broni maszynowej oraz wielkokalibrowych karabinach wyborowych, obecnie jest trudno dostępna – chyba że akurat w pobliżu znajduje się jakaś dawna baza wojskowa. Jedno trafienie wystarczy, żeby zrobić miazgę z czegokolwiek, ale nie możesz sobie pozwolić na zmarnowanie choćby jednego pocisku.</p>\n<p><strong>Ilość znaleziona:</strong> [[/r 4+2dc # Naboje .50]]</p>"
 		},
 		"2mm Electromagnetic Cartridge": {
 			"name": "2mm KE",
