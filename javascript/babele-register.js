@@ -45,39 +45,20 @@ class falloutpl {
     }
     static async refreshItem(document) {        
         const aitems=document.object;
-        let flag = aitems.flags.core;
+        let flag = aitems._stats.compendiumSource
             if (flag !== undefined) {
                 
-                let fullitemID = flag.sourceId;
-                const parts = fullitemID.split(".");
-                const compendiumKey = parts[1] + "." + parts[2];
-                const itemID = parts[parts.length - 1];
-                const pack = game.packs.find(p => p.collection === compendiumKey);
-                let  compendiumitem =await pack.getDocument(itemID);
-                
-                    const currentname = aitems.name;
-                    const compendiumname = compendiumitem.name;
-                    if (currentname !== compendiumname){
-                        aitems.update({"name": compendiumname})
-                    }
-                    const currentdescription = aitems.system.description;
-                    const compendiumdescription = compendiumitem.system.description;
-                    if (currentdescription !== compendiumdescription){
-                        aitems.update({"system.description":compendiumdescription})
-                    }
-                    if(aitems.type === "perk"){
-                        const currentrequierment = aitems.system.requirements;
-                        const compendiumrequierment = compendiumitem.system.requirements;
-                        if (currentrequierment !== compendiumrequierment){
-                            aitems.update({"system.requirements":compendiumrequierment})
-                        }
-                    }
+
+                const compendiumitem =await fromUuid(flag)
+                await aitems.update({["system"]: compendiumitem.system})
+                    
 
                 }  
     }
     static async localizeAmmo(){
-        if(game.babele.packs !== undefined){ 
-        const  ammo = game.babele.packs.get("fallout.ammunition");
+        const session = await game.babele.sessionFor();
+        if(session !== undefined){ 
+        const  ammo =session.mappedCompendiums?.packs?.get("fallout.ammunition");
         const ammunitionArray = Object.entries(ammo.translations).map(([name, data]) => ({ name, ...data }));    
      
         CONFIG.FALLOUT.AMMO_BY_UUID = {};
@@ -86,33 +67,54 @@ class falloutpl {
             ammoTypes.push(ammoType.name);
             CONFIG.FALLOUT.AMMO_BY_UUID[ammoType.uuid] = ammoType.name;
         }
-        ammoTypes = [...new Set(ammoTypes)]; // de-dupe
+        ammoTypes = [...new Set(ammoTypes)];
     
         CONFIG.FALLOUT.AMMO_TYPES = ammoTypes.sort((a, b) => a.localeCompare(b));
     }
-}
+  }
+static async localizeWeaponSkill() {
+    const session = await game.babele.sessionFor();
+    const skill = session.mappedCompendiums?.packs?.get("fallout.skills");
 
+    if (!skill) {
+        console.warn("Babele translation for fallout.skills not found.");
+        return;
+    }
+
+    const translations = skill.translation.entries;
+
+    CONFIG.FALLOUT.WEAPON_SKILLS = {
+        bigGuns: translations?.["Big Guns"]?.name ?? "Big Guns",
+        bows: translations?.["Athletics"]?.name ?? "Athletics",
+        energyWeapons: translations?.["Energy Weapons"]?.name ?? "Energy Weapons",
+        explosives: translations?.["Explosives"]?.name ?? "Explosives",
+        meleeWeapons: translations?.["Melee Weapons"]?.name ?? "Melee Weapons",
+        smallGuns: translations?.["Small Guns"]?.name ?? "Small Guns",
+        throwing: translations?.["Throwing"]?.name ?? "Throwing",
+        unarmed: translations?.["Unarmed"]?.name ?? "Unarmed",
+    };
+}
     
 }
 
 Hooks.once('init', async () => {
     if(game.babele !== undefined){
-    if (typeof Babele !== 'undefined') {
-        game.babele.register({
-            module: 'fallout-pl',
-            lang: 'pl',
-            dir: 'compendium'
-        });
+        if (typeof Babele !== 'undefined') {
+            game.babele.register({
+                module: 'fallout-pl',
+                lang: 'pl',
+                dir: 'compendium'
+            });
+        }
     }
-}
-
 });
 
 
 
 Hooks.once('ready', async () => {
-    await game.babele.loadTranslations();
-    falloutpl.localizeAmmo();
+   // await game.babele.loadTranslations();
+   falloutpl.localizeAmmo();
+   falloutpl.localizeWeaponSkill()
 
 });
 

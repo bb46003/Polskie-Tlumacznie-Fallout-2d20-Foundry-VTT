@@ -103,7 +103,7 @@
 		"Flamer": {
 			"name": "Miotacz ognia",
 			"description": "<p><span class=\"fontstyle0\">Rozpyla podpaloną mieszankę paliwową, tworząc dosłownie strumień ognia, który może podpalać cele i wzniecać pożary na odległość. Idealny do wypalania traw, pozbywania się natrętnych szkodników oraz czyszczenia umocnionych bunkrów!</span></p>\n<p><span class=\"fontstyle0\">Miotacz może być wyposażony w jedną modyfikację z każdej z poniższych grup. Do ich instalacji wykorzystuje się umiejętność Naprawa.</span></p>\n<p><span class=\"fontstyle0\">Unikatowe modyfikacje miotacza ognia:</span></p>\n<ul>\n<li><strong>Modyfikacja Paliwa:</strong> Napalm,</li>\n<li><strong>Modyfikacja Lufy:</strong> Długa,</li>\n<li><strong>Modyfikacje Zbiornika z Paliwem:</strong> Duży, Olbrzymi,</li>\n<li><strong>Modyfikacje Wylotu:</strong> Końcówka Atomizująca, Końcówka Kompresyjna.</li>\n</ul>",
-			"ammo":"Paliwo do miotacza ognia "
+			"ammo":"Paliwo do miotacza"
 			},
 		"Flare Gun": {
 			"name": "Pistolet sygnałowy",
@@ -153,7 +153,7 @@
 		"Heavy Incinerator": {
 			"name": "Ciężki Podpalacz",
 			"description": "<p><span class=\"fontstyle0\">Podobnie jak miotacz ognia, ciężki podpalacz również wykorzystuje jako amunicję podpaloną mieszankę paliwową. Różni się jednak tym, że zamiast długiego strumienia wystrzeliwuje kilka ognistych kul, posyłając je w powietrze niczym z granatnika. Po uderzeniu w cel eksplodują, a płonąca substancja rozlewa się po jego powierzchni, rozprzestrzeniając ogień.</span></p>",
-			"ammo":"Paliwo do miotacza ognia "
+			"ammo":"Paliwo do miotacza"
 			},
 		"Hunting Rifle": {
 			"name": "Karabin Myśliwski",

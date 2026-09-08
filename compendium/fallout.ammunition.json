@@ -45,7 +45,7 @@
 			"name": "Miny kapslowe",
 			"description": "<p><span class=\"fontstyle0\">Mina kapslowa to ładunek wybuchowy o prostej konstrukcji, lecz dość dużej sile rażenia. Składa się ze zwykłego pojemnika – może to być nawet pudełko śniadaniowe – wypełnionego kapslami oraz prymitywną mieszanką wybuchową, z dołączonym czujnikiem oraz detonatorem. Siła eksplozji wyrzuca kapsle na wszystkie strony z taką prędkością, że zamieniają się w odłamki.</span></p>\n<p><span class=\"fontstyle0\">Zasady specjalne:</span> Kiedy konstruujesz minę kapslową, możesz zwiększyć ich liczbę – każde 10 dodatkowych kapsli zwiększa obrażenia o +1 DC. Po wybuchu miny rzuć na obrażenia drugi raz. Wynik rzutu określa łączną liczbę nienaruszonych kapsli, które można odnaleźć w strefie rażenia miny.</p>"
 		},
-		"Fuel for Flamers": {
+		"Flamer Fuel": {
 			"name": "Paliwo do miotacza",
 			"description": "<p>Wysoce łatwopalna chemiczna mieszanka, która stosowana jest w miotaczach ognia. Jej jakość bywa różna, lecz żeby była skutecznym środkiem ofensywnym, musi być lepka i przez dłuższy czas spalać się w wysokiej temperaturze.</p>\n<p>Paliwo do miotaczy znajduje się zwykle w zbiorniku, który zawiera tyle jednostek, ile zostało wylosowanych.</p>\n<p><strong>Ilość znaleziona:</strong> [[/r 6+3dc # Paliwo do miotacza]]</p>"
 		},

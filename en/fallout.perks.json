@@ -1,0 +1,801 @@
+{
+	"label": "Profity",
+	"folders": {
+		"Astoundingly Awesome Tales": "Astoundingly Awesome Tales",
+		"Live & Love": "Live & Love",
+		"~ Single Issue Titles ~": "~ Single Issue Titles ~",
+		"Wasteland Survival Guide": "Wasteland Survival Guide",
+		"Guns and Bullets": "Guns and Bullets",
+		"Backwoodsman": "Backwoodsman",
+		"Tumblers Today": "Tumblers Today",
+		"Grognak the Barbarian": "Grognak the Barbarian",
+		"Unstoppables": "Unstoppables",
+		"U.S. Covert Operations Manual": "U.S. Covert Operations Manual",
+		"Book & Magazine": "Book & Magazine",
+		"Tesla Science Magazine": "Tesla Science Magazine"
+	},
+	"entries": {
+		"What Sorcery is This?": {
+			"name": "Cóż to za czary?!",
+			"description": "<p>Gain +2 Energy damage resistance against one attack</p>"
+		},
+		"Down Home Cookin'": {
+			"name": "Wiejska kuchnia",
+			"description": "<h2>Backwoodsman</h2>\n<p><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene.</p>\n<ul>\n<li>\n<p>Add +2CD damage to a Thrown weapon attack (other than an Explosive)</p>\n</li>\n</ul>"
+		},
+		"Quick Hands": {
+			"name": "Zwinne Rączki",
+			"description": "<p>You can reload firearms faster. When you make a ranged attack, you may spend 2 AP to increase the Fire Rate of your gun by +2 for that attack.</p>\n<p><strong>Requirements</strong>: AGI 8</p>"
+		},
+		"Dr. Brainwash and His Army of De-Capitalists!": {
+			"name": "Doktor Indoktrynator i jego armia antykapitalistów!!",
+			"description": "<p>Spend 3 Luck points to avoid all damage from a single attack or hazard</p>"
+		},
+		"Black Widow / Lady Killer": {
+			"name": "Czarna Wdowa/Kobieciarz",
+			"description": "<p>The Black Widow perk affects men and masculine characters, while the Lady Killer perk affects women and feminine characters&mdash;they are otherwise identical. When you attempt a CHA based skill test to influence a character of the chosen gender, you may re-roll 1d20. In addition, your attacks inflict +1DCD additional damage against characters of the chosen gender.</p>\n<p><strong>Requirements</strong>: CHA 6</p>"
+		},
+		"The Gunsmith of Harper’s Ferry": {
+			"name": "Rusznikarz z Harper’s Ferry",
+			"description": "<h2>Backwoodsman</h2>\n<p><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene.</p>\n<ul>\n<li>\n<p>When you find ammo, you find +2CD more shots</p>\n</li>\n</ul>"
+		},
+		"Rocket Science for Toddlers": {
+			"name": "Inżyniera rakietowa dla najmłodszych",
+			"description": "<p>+2CD damage inflicted by one attack with a Blast weapon</p>"
+		},
+		"Blacksmith": {
+			"name": "Kowal",
+			"description": "<p>You can modify melee weapons with weapon mods. Each rank in this perk unlocks an additional rank of melee weapon mods: rank 1 unlocks rank 1 mods, rank 2 unlocks rank 2 mods, and rank 3 unlocks rank 3 mods. Each time you take this perk, the level requirement increases by 4.</p>\n<p><strong>Requirements</strong>: STR 6, Level 2+</p>"
+		},
+		"Chem Resistant": {
+			"name": "Chemioodporność",
+			"description": "<p>At rank 1, roll one fewer CD when determining if you become addicted to chems,<br>to a minimum of 0.</p>\n<p>At rank 2, you cannot become addicted to chems. Each time you take this perk, the level requirement increases by 4.</p>\n<p><strong>Requirements</strong>: END 7, Level 1+</p>"
+		},
+		"Tag!": {
+			"name": "Specjalizacja",
+			"description": "<p>You may select one additional Tag skill. Increase the skill&rsquo;s rank by 2, to a maximum of 6, and mark it as a Tag skill, allowing you to roll a critical success with a d20 result equal or under the skill&rsquo;s rank.</p>\n<p><strong>Requirements</strong>: Level 5+</p>"
+		},
+		"An Experience to Remember": {
+			"name": "Pamiętne przeżycie",
+			"description": "<p>Choose one other Magazine perk you have previously used but not learned; that now takes effect</p>"
+		},
+		"Junktown Jerky Vendor": {
+			"name": "Handlarz Mięsem z Junktown",
+			"description": "<p>The difficulty of any CHA + Barter test you attempt to buy or sell goods is reduced by 1, to a minimum of 0.</p>\n<p><strong>Requirements</strong>: CHA 8</p>"
+		},
+		"Comprehension": {
+			"name": "Eureka!",
+			"description": "<p>After you use the bonus gained from reading a magazine, roll 1 CD. If you roll an Effect, you may use that bonus one additional time.</p>\n<p><strong>Requirements</strong>: INT 6</p>"
+		},
+		"Blood on the Harp": {
+			"name": "Krew na harfie",
+			"description": "<p>One successful melee attack you make inflicts +2CD damage</p>"
+		},
+		"Hardy as a Sasquatch": {
+			"name": "Odporny jak Sasquatch",
+			"description": "<h2>Backwoodsman</h2>\n<p><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene.</p>\n<ul>\n<li>When scavenging from plants, gain twice as much</li>\n</ul>"
+		},
+		"Dodger": {
+			"name": "Mistrz Uników",
+			"description": "<p>At rank 1, when you take the Defend major action, you reduce the difficulty of the skill test by 1. At rank 2, the AP cost to further increase your Defense is reduced to 1 AP. Each time you take this perk, the level requirement increases by 6.</p>\n<p><strong>Requirements</strong>: AGI 6, Level 4</p>"
+		},
+		"FH 5-07 Getting the Drop on the Communists": {
+			"name": "FH 5-07 Zrzut na komunistów",
+			"description": "<p>Once, when an enemy aims before making an attack against you, you may cause them to lose the benefits of aiming</p>"
+		},
+		"Bear-Proofing your Campsite": {
+			"name": "Zabezpiecz biwak przed niedźwiedziami",
+			"description": "<p>One attack against Yao Guai inflicts +3CD damage</p>"
+		},
+		"Slayer": {
+			"name": "Urodzony Morderca",
+			"description": "<p>When you inflict any damage with an unarmed attack or melee weapon, you may spend 1 Luck point to immediately inflict a critical hit&mdash;and therefore an injury&mdash;on the location hit.</p>\n<p><strong>Requirements</strong>: STR 8</p>"
+		},
+		"Strong Back": {
+			"name": "Mocny Grzbiet",
+			"description": "<p>Your maximum carry weight is increased by +25 lbs., per rank. Each time you take this perk, the level requirement increases by 2.</p>\n<p><strong>Requirements</strong>: STR 5, Level 1+</p>"
+		},
+		"Dogmeat": {
+			"name": "Ochłap",
+			"description": "<p>You aren&rsquo;t alone in the wilderness. You have a pet dog that serves as a friend and ally in dangerous times. The dog has the profile shown to the side and is treated as an allied NPC creature under your command (see p.338). If you need to forage for food and water, your dog looks after themselves. If your dog is slain, then you either find a new dog before the next adventure, or you may trade this perk for a different one after this adventure.</p>\n<p><strong>Requirements</strong>: CHA 5</p>"
+		},
+		"Homesteading Horror": {
+			"name": "Groza samowystarczalności",
+			"description": "<h2>Backwoodsman</h2>\n<p><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene.</p>\n<ul>\n<li>Reduce the difficulty of crafting a weapon by 1 (min. of 0)</li>\n</ul>"
+		},
+		"Get Off My Lawn": {
+			"name": "Zjeżdżać z mojego terenu!",
+			"description": "<h2>Backwoodsman</h2>\n<p><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene.</p>\n<ul>\n<li>Find twice as much meat from a butchered creature</li>\n</ul>"
+		},
+		"Fixin' Things": {
+			"name": "Napraw to sam",
+			"description": "<p>Once, when you attempt to repair an item, halve the amounts of the materials needed to complete the repair (round up). If you later learn this perk, you may use this whenever you attempt repairs.</p>"
+		},
+		"Who Can Stop the Unstoppable Grog-Na-Rok?!": {
+			"name": "Kto powstrzyma Niepowstrzymanego Grog-Na-Roka?!",
+			"description": "<p>Spend 2 Luck points to avoid all damage from an attack from a Mutated Human (including Ghouls and super mutants)</p>"
+		},
+		"The Ohio River Hermit": {
+			"name": "Pustelnik znad rzeki Ohio",
+			"description": "<h2>Backwoodsman</h2>\n<p><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene.</p>\n<ul>\n<li>\n<p>Reduce the difficulty of repairing a damaged item by 1 (min. 0)</p>\n</li>\n</ul>"
+		},
+		"Ninja": {
+			"name": "Ninja",
+			"description": "Kiedy wykonujesz z zaskoczenia atak wręcz, zadajesz obrażenia zwiększone o +2@fos[DC] . Nie odnosisz tej korzyści, gdy używasz pancerza wspomaganego.",
+			"requirements": "ZW 8"
+		},
+		"Adrenalin Rush": {
+			"name": "Kop Adrenaliny",
+			"description": "<p>When your health is below its maximum value, you count your STR score as 10 for all purposes when attempting a STR-based skill test or melee attack.</p>\n<p><strong>Requirements</strong>: STR 7</p>"
+		},
+		"Will Robots Rule the World?": {
+			"name": "Czy Roboty będą rządzić światem",
+			"description": "<p>+2 to Physical and Energy damage resistances vs Robots</p>"
+		},
+		"Boxing Times": {
+			"name": "Świat Boksu",
+			"description": "<p>Once, when you succeed at an Unarmed attack, if you spend any AP to increase the damage you dealt, you may add the Stun damage effect to your attack. If you later learn this perk, you may use this on any successful Unarmed attack.</p>"
+		},
+		"Attack of the Fishmen!": {
+			"name": "Atak ryboludzi!",
+			"description": "<h2>Astoundingly Awesome Tales</h2>\n<p><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, granting bonus damage or bonus damage resistance against a single foe or<br>type of attack.</p>\n<ul>\n<li>+1 @fos[DC] on attacks vs mirelurk</li>\n</ul>"
+		},
+		"Basher": {
+			"name": "Tłuczek",
+			"description": "<p>When you make a melee attack by bashing with your gun (see p.111), your attack gains the Vicious damage effect.</p>\n<p><strong>Requirements</strong>: STR 6</p>"
+		},
+		"FH 5-02 Urban Camouflage": {
+			"name": "FH 5-02 Miejski kamuflaż",
+			"description": "<p>Enemies suffer +1 difficulty on tests to detect you; this does not stack with any difficulty increases for poor light or darkness</p>"
+		},
+		"Advice from Married Men": {
+			"name": "Porady żonatych facetów",
+			"description": "<p>+1 Physical damage resistance to all party members for one scene</p>"
+		},
+		"Cap Collector": {
+			"name": "Zbieracz Kapsli",
+			"description": "<p>When you buy or sell items, you may increase or decrease the price of the goods being traded by 10%.</p>\n<p><strong>Requirements</strong>: CHA 5</p>"
+		},
+		"The Bright Side of Radiation Poisoning": {
+			"name": "Zalety zatrucia radiacyjnego",
+			"description": "<p>When you consume irradiated food or drink, heal additional HP equal to the roll on the @fos[DC]</p>"
+		},
+		"Gun Nut": {
+			"name": "Znawca Spluw",
+			"description": "<p>You can modify small guns and heavy weapons with weapon mods. Each rank in this perk unlocks an additional rank of weapon mods: rank 1 unlocks rank 1 mods, rank 2 unlocks rank 2 mods, etc. Each time you take this perk, the level requirement increases by 4.</p>\n<p><strong>Requirements</strong>: INT 6, Level 2+</p>"
+		},
+		"Guide to Hunting Commies!": {
+			"name": "Przewodnik łowcy komuchów!",
+			"description": "<p>One attack against an enemy with a lower level than you inflicts +2CD damage</p>"
+		},
+		"Beware the Man Handler": {
+			"name": "Strzeż się ekshibicjonisty!",
+			"description": "<p>The group AP pool may contain 1 AP more than normal for one scene</p>"
+		},
+		"Nightmare in the Garden": {
+			"name": "Koszmar w ogrodzie",
+			"description": "<h2>Backwoodsman</h2>\n<p><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene.</p>\n<ul>\n<li>\n<p>Heal +2HP when you consume an Alcoholic drink</p>\n</li>\n</ul>"
+		},
+		"Terrifying Presence": {
+			"name": "Porażająca Poza",
+			"description": "<p>When you make a Speech test to threaten or scare someone, you may re-roll 1d20.</p>\n<p>At rank 2, you may use a major action in combat to threaten an enemy within Medium range, using a STR + Speech test with a difficulty of 2. If you succeed, that enemy must move away from you during their next turn (though they can take any other actions they wish). Each time you take this perk, the level requirement increases by 5.</p>\n<p><strong>Requirements</strong>: STR 6, CHA 8, Level 3+</p>"
+		},
+		"Curse of the Burned!": {
+			"name": "Klątwa poparzeńców!",
+			"description": "<h2>Astoundingly Awesome Tales</h2>\n<p><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, granting bonus damage or bonus damage resistance against a single foe or<br>type of attack.</p>\n<ul>\n<li>+1 @fos[DC] on attacks vs Ghouls</li>\n</ul>\n<p>&nbsp;</p>"
+		},
+		"True Police Stories": {
+			"name": "Prawdziwe Historie Policyjne",
+			"description": "<p>Once, when you roll the damage of an attack, you may spend a Luck point to turn up to three @fos[DC] to any face, rather than rolling them.</p>"
+		},
+		"FH 5-06 Squeaky Floorboard, Sudden Death": {
+			"name": "FH 5-06 Skrzypiąca podłoga to nagła śmierć",
+			"description": "<p>Once, when you suffer one or more Complications on a Sneak test, ignore the complications</p>"
+		},
+		"Finesse": {
+			"name": "Finezja",
+			"description": "<p>Once per combat encounter, you may re-roll all the DCD on a single damage roll without spending any Luck points.</p>\n<p><strong>Requirements</strong>: AGI 9</p>"
+		},
+		"Pharma Farma": {
+			"name": "Farma Farmy",
+			"description": "<p>When you are scavenging a location that contains medicine or chems, you find one additional item, randomly determined, without spending AP.</p>\n<p><strong>Requirements</strong>: LCK 6</p>"
+		},
+		"Ricochet": {
+			"name": "Rykoszet",
+			"description": "<p>If an enemy makes a ranged attack against you and rolls a complication, you may spend one Luck point to have their ricochet hit them. Resolve the damage roll against the attacking enemy instead.</p>\n<p><strong>Requirements</strong>: LCK 10, Level 5+</p>"
+		},
+		"Armorer": {
+			"name": "Zbrojmistrz",
+			"description": "<p>You can modify armor with armor mods. Each rank in this perk unlocks an additional rank of mods: rank 1 unlocks rank 1 mods, rank 2 unlocks rank 2 mods, etc.</p>\n<p>Each time you take this perk, the level requirement increases by 4.</p>\n<p><strong>Requirements</strong>: STR 5, INT 6</p>"
+		},
+		"Mysterious Stranger": {
+			"name": "Tajemniczy Nieznajomy",
+			"description": "<p>From time to time, a Mysterious Stranger comes to your aid, with lethal results. At the start of a combat encounter, you may spend 1 Luck point. If you do so, then at any point during the scene, the GM may have the Mysterious Stranger appear, make a single ranged attack against an enemy you attacked, or who just attacked you, and then vanish. If you spend a Luck point and the Mysterious Stranger does not appear, the GM must refund the Luck point you spent.</p>\n<p>The stranger has an AGI of 10, a Small Guns skill of 6, and counts Small Guns as a Tag skill. They always roll 3d20 for attacks, rather than 2d20, and their attack&mdash;using a custom .44 Magnum revolver&mdash;inflicts 8CD Piercing 1, Vicious physical damage. They always appear within their weapon&rsquo;s ideal range. Any attempt to find where the Stranger went after their attack fails.</p>\n<p><strong>Requirements</strong>: LCK 7</p>"
+		},
+		"Paralyzing Palm": {
+			"name": "Paraliżująca Dłoń",
+			"description": "<p>When you make an unarmed attack, and choose to strike a specific location, your attack gains the Stun damage effect.</p>\n<p><strong>Requirements</strong>: STR 8</p>"
+		},
+		"Demon Slaves, Demon Sands": {
+			"name": "Zniewolone demony na demonicznych piaskach",
+			"description": "<p>One attack against Ghouls inflicts +2CD damage</p>"
+		},
+		"Heave Ho!": {
+			"name": "Lotem Bliżej!",
+			"description": "<p>When you make a thrown weapon attack, you may spend 1 AP to increase the Range of the weapon by one step&mdash;from Close to Medium, or from Medium to Long.</p>\n<p><strong>Requirements</strong>: STR 8</p>"
+		},
+		"Solar Powered": {
+			"name": "Zasilanie Słoneczne",
+			"description": "<p>For every hour you spend in direct sunlight, you heal 1 radiation damage.</p>\n<p><strong>Requirements</strong>: END 7</p>"
+		},
+		"Jungle of the Bat-Babies": {
+			"name": "Dżungla nietoperzych dzieci",
+			"description": "<p>When you suffer Poison damage, gain +3 Poison damage resistance</p>"
+		},
+		"Robotics Expert": {
+			"name": "Ekspert Robotyki",
+			"description": "<p>At rank 1, you can modify robot armor, weapon mounts, and modules with rank 1 mods. At rank 2 you gain access to rank 2 mods, and the difficulty of tests to repair robots is permanently reduced by 1. At rank 3 you gain access to rank 3 mods, and you can reprogram robots to fulfil a different function or alter their behavior at the discretion of the GM.</p>\n<p>Each time you take this perk, the level requirement increases by 4.</p>\n<p><strong>Requirements</strong>: INT 8, Level 2+</p>"
+		},
+		"Rise of the Mutants!": {
+			"name": "Powstanie Mutantów!",
+			"description": "<h2>Astoundingly Awesome Tales</h2>\n<p><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, granting bonus damage or bonus damage resistance against a single foe or<br>type of attack.</p>\n<ul>\n<li>+1 @fos[DC] on attacks vs super mutants</li>\n</ul>\n<p>&nbsp;</p>"
+		},
+		"Nuke-the-Man!": {
+			"name": "Zrzuć mu na łeb bombę atomową!",
+			"description": "<p>+1CD damage to attacks from all party members for one scene</p>"
+		},
+		"Commando": {
+			"name": "Komandos",
+			"description": "<p>When you make a ranged attack with any weapon with a Fire Rate of 3 or higher (except heavy weapons), you add +1DCD per rank to the weapon&rsquo;s damage. Each time you take this perk, the level requirement increases by 3.</p>\n<p><strong>Requirements</strong>: AGI 8, Level 2+</p>"
+		},
+		"Piercing Strike": {
+			"name": "Przeszywający Cios",
+			"description": "<p>Your attacks using unarmed attacks and bladed melee weapons gain the Piercing 1 damage effect, or add +1 to the rating of any Piercing X damage effect they already had.</p>\n<p><strong>Requirements</strong>: STR 7</p>"
+		},
+		"Chemist": {
+			"name": "Chemik",
+			"description": "<p>Chems you create last twice as long as normal (see p.164). In addition, you unlock chems recipes that have this perk as a requirement.</p>\n<p><strong>Requirements</strong>: INT 7</p>"
+		},
+		"Art of the Tomahawk": {
+			"name": "Sztuka tomahawka",
+			"description": "<h2>Backwoodsman</h2>\n<p><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene.</p>\n<ul>\n<li>\n<p>Reduce difficulty of a test to resist catching a disease by 1 (min. of 0)</p>\n</li>\n</ul>"
+		},
+		"Animal Friend": {
+			"name": "Przyjaciel Zwierząt",
+			"description": "<p>At rank 1, whenever a creature NPC with the Mammal, Lizard, or Insect keyword would attack you, roll 1DCD: on any result other than an Effect, the creature chooses not to attack you, although it may still attack another character it can target.</p>\n<p>At rank 2, you can attempt a CHA + Survival test with a difficulty of 2 as a major action. If you succeed, the animal treats you as friendly and will attack anyone who attacks you. Mighty and Legendary animals are unaffected by this perk. Each time you take this perk, the level requirement increases by 5.</p>\n<p><strong>Requirements</strong>: CHA 6, Level 1+</p>"
+		},
+		"Giant Super Weapons!": {
+			"name": "Olbrzymie superbronie!",
+			"description": "<p>Once, when you fire a Gatling weapon, you consume ammunition at 8x the rate, rather than 10x the rate</p>"
+		},
+		"Awareness": {
+			"name": "Spostrzegawczość",
+			"description": "<p>When you take the Aim minor action at a target within Close range, you spot their weaknesses and can attack more efficiently. The next attack you make against that target gains the Piercing 1 damage effect, or improves the rating of any existing Piercing X damage effect by 1.</p>\n<p><strong>Requirements</strong>: PER 7</p>"
+		},
+		"Talk Yourself Sober": {
+			"name": "Sama się przekonaj do trzeźwości",
+			"description": "<p>Gain 1 Luck point (lost at the end of the scene if not used) when you consume an Alcoholic drink</p>"
+		},
+		"The Lair of the Virgin Eaters": {
+			"name": "Siedlisko Pożeraczy Dziewic",
+			"description": "<p>Gain +10 Carry weight for one scene</p>"
+		},
+		"Future Weapons Today": {
+			"name": "Broń jutra dziś",
+			"description": "<p>Once, when you make an attack with an Energy Weapon, you may overcharge it. Increase the damage by +2CD for that attack. The weapon cannot be used to make an attack in the turn after an overcharged attack as it cools down. If you later learn this perk, you may overcharge an Energy Weapon once per scene.</p>"
+		},
+		"The Mad Russian's Revenge!": {
+			"name": "Zemsta Szalonego Rosjanina!",
+			"description": "<h2>Astoundingly Awesome Tales</h2>\n<p><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, granting bonus damage or bonus damage resistance against a single foe or<br>type of attack.</p>\n<ul>\n<li>+2 to Poison damage resistance</li>\n</ul>\n<p>&nbsp;</p>",
+			"effects": {
+				"+2 to Poison damage resistance": {
+					"name": "+2 to Poison damage resistance",
+					"changes": {
+						"system.resistance.poison": 2
+					}
+				}
+			}
+		},
+		"Visit the Ux-Ron Galaxy!": {
+			"name": "Podróż do galaktyki ux-ronów!",
+			"description": "<p>Spend 1 Luck point to avoid all Energy damage from a single attack</p>"
+		},
+		"Healer": {
+			"name": "Uzdrowiciel",
+			"description": "<p>When you heal a patient&rsquo;s HP using the First Aid action, increase the amount of HP healed by +1 per rank in this perk. Each time you take this perk, the level requirement increases by 5.</p>\n<p><strong>Requirements</strong>: INT 7, Level 1+</p>"
+		},
+		"Cometh the Trickster": {
+			"name": "Nadchodzi błazen",
+			"description": "<p>Add +1 to the difficulty of another character&rsquo;s skill test to detect you</p>"
+		},
+		"What Is Plasma, Anyway?": {
+			"name": "Czym tak naprawdę jest plazma?",
+			"description": "<p>+2 to Physical and Energy damage resistances vs Plasma weapons</p>"
+		},
+		"Hacker": {
+			"name": "Haker",
+			"description": "<p>The difficulty of skill tests to hack computers is decreased by 1, to a minimum of 0.</p>\n<p><strong>Requirements</strong>: INT 8</p>"
+		},
+		"Attack of the Metal Men!": {
+			"name": "Atak metalowych ludzi!",
+			"description": "<h2>Astoundingly Awesome Tales</h2>\n<p><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, granting bonus damage or bonus damage resistance against a single foe or<br>type of attack.</p>\n<ul>\n<li>+2 to Physical and Energy damage resistances vs Robots</li>\n</ul>\n<p>&nbsp;</p>"
+		},
+		"Center Mass": {
+			"name": "Prosto w Klatę",
+			"description": "<p>When you make a ranged attack, you may choose to strike your target&rsquo;s Torso location (or equivalent, for creatures that use a different location table) without increasing the difficulty of the attack. In addition, you may re-roll 1d20 when making the test for your attack.</p>\n<p><strong>Requirements</strong>: AGI 7</p>"
+		},
+		"Gun Fu": {
+			"name": "Gnat-Fu",
+			"description": "<p>When you succeed at a ranged attack, you may spend 1 AP and 1 ammo to hit a second target within Close range of your initial target. The second target takes the same damage as the initial target. At rank 2, you may spend 2 AP and 2 ammo to hit two additional targets. At rank 3, you may spend 3 AP and 3 ammo to hit three additional targets. Each time you take this perk, the level requirement increases by 5.</p>\n<p><strong>Requirements</strong>: AGI 10, Level 1+</p>"
+		},
+		"Enter Maula: War Maiden of Mars": {
+			"name": "Maula, Wojownicza Dziewica z Marsa",
+			"description": "<p>When you make a melee attack with a Two-Handed melee weapon, gain the Piercing 1 damage effect (or +1 to any existing Piercing effect)</p>"
+		},
+		"Toughness": {
+			"name": "Twardziel",
+			"description": "<p>Your physical Damage Resistance to all hit locations increases by +1 per rank in this perk. Each time you take this perk, the level requirement increases by 4.</p>\n<p><strong>Requirements</strong>: END 6, LCK 6, Level 1+</p>"
+		},
+		"Intense Training": {
+			"name": "Intensywny Trening",
+			"description": "<p>Increase any one S.P.E.C.I.A.L attribute by 1 rank. As usual, your S.P.E.C.I.A.L attributes cannot be increased beyond 10 using this method. Each time you take this perk, the level requirement increases by 2.</p>\n<p><strong>Requirements</strong>: Level 2+</p>"
+		},
+		"Big Leagues": {
+			"name": "Pierwsza Liga",
+			"description": "<p>When you make a melee attack with a two-handed melee weapon, the weapon gains the Vicious damage effect.</p>\n<p><strong>Requirements</strong>: STR 8</p>"
+		},
+		"Future of Warfare?": {
+			"name": "Przyszłość wojen?",
+			"description": "<p>On a single attack with a Big Gun, you inflict a Critical Hit if you inflict 3 or more damage after damage resistance (rather than the normal 5 or more damage)</p>"
+		},
+		"Confessions of a Housebreaker": {
+			"name": "Wyznania włamywacza",
+			"description": "<p>When scavenging or looting, spend 1 Luck to find 2+2CD Bobby Pins</p>"
+		},
+		"Skilled": {
+			"name": "Szkolenie",
+			"description": "<p>Add +1 rank to two skills or add +2 ranks to one skill. No skill may have more than 6 ranks. Each time you take this perk, the level requirement increases by 3.</p>\n<p><strong>Requirements</strong>: Level 3+</p>"
+		},
+		"Bobby Pins: More Effective Than Lockpicks?": {
+			"name": "SPINKI: skuteczniejsze od wytrychów?",
+			"description": "<p>When using a Bobby Pin, reduce the difficulty of a Lockpicking test by a further 1 (minimum 0)</p>"
+		},
+		"Tales of a Junktown Jerky Vendor": {
+			"name": "Opowieści handlarza mięsem z Junktown",
+			"description": "<p>Once, when you succeed or fail at a Barter test to haggle on the price of a trade, you may spend 1 Luck point to shift the price 10% in your favor.</p>"
+		},
+		"Pathfinder": {
+			"name": "Pionier",
+			"description": "<p>When travelling over long distances through the wilderness, a successful PER + Survival test (with a difficulty determined by the GM, based on the terrain) reduces the travel time by half.</p>\n<p><strong>Requirements</strong>: PER 6, END 6</p>"
+		},
+		"Rifleman": {
+			"name": "Karabinier",
+			"description": "<p>When you make a ranged attack with any two-handed weapon with a Fire Rate of 2 or lower (except heavy weapons), you add +1 CD to the weapon&rsquo;s damage per rank.</p>\n<p>At rank 2, you also add the Piercing 1 damage effect, or add +1 to the rating of any Piercing X damage effect the weapon already had. Each time you take this perk, the level requirement increases by 4.</p>\n<p><strong>Requirements</strong>: AGI 7, Level 2+</p>"
+		},
+		"Meltdown": {
+			"name": "Stopienie",
+			"description": "<p>When you kill an enemy with an energy weapon, they explode. Roll a number of DDCD equal to half the weapon&rsquo;s damage rating (round down). For each Effect rolled, one creature within Close range of the exploding enemy (starting with the closest) suffers energy damage equal to the total rolled on the DDCD.</p>\n<p><strong>Requirements</strong>: PER 10</p>"
+		},
+		"Life Long Best Friends!": {
+			"name": "Najlepsze przyjaciółki na całe życie!",
+			"description": "<p>+1 Maximum Health Points to all party members for one scene</p>"
+		},
+		"Plasma: The Weapon of Tomorrow": {
+			"name": "PLAZMA: broń jutra",
+			"description": "<p>One attack with a Plasma weapon gains the Vicious damage effect if it didn&rsquo;t already have it</p>"
+		},
+		"Shotgun Surgeon": {
+			"name": "Chirurgiczna Precyzja",
+			"description": "<p>Your ranged attacks using shotguns gain the Piercing 1 damage effect, or add +1 to any Piercing X damage effect the weapon already had.</p>\n<p><strong>Requirements</strong>: STR 5, AGI 7</p>"
+		},
+		"Infiltrator": {
+			"name": "Infiltrator",
+			"description": "Kiedy wykonujesz test Otwierania zamków, żeby otworzyć drzwi lub pojemnik, możesz przerzucić 1k20.",
+			"requirements": "PER 8"
+		},
+		"Fast Metabolism": {
+			"name": "Szybki Metabolizm",
+			"description": "<p>When you regain one or more HP from any source other than rest, increase the total HP regained by +1 per rank in this perk. Each time you take this perk, the level requirement increases by 3.</p>\n<p><strong>Requirements</strong>: END 6, Level 1+, not a robot</p>"
+		},
+		"Rad Resistance": {
+			"name": "Ołowiany Fartuch",
+			"description": "<p>Your radiation Damage Resistance, to all hit locations, increases by +1 per rank in this perk. Each time you take this perk, the level requirement increases by 4.</p>\n<p><strong>Requirements</strong>: END 8, Level 1+</p>"
+		},
+		"Faster Healing": {
+			"name": "Szybkie Zdrowienie",
+			"description": "<p>When you make an END + Survival test to heal your own injuries, the first additional d20 you buy is free. The normal maximum of 5d20 still applies.</p>\n<p><strong>Requirements</strong>: END 6, not a robot</p>"
+		},
+		"Farming the Wastes": {
+			"name": "Uprawy na pustkowiach",
+			"description": "<p>Consuming a fruit or vegetable food item heals twice as many HP</p>"
+		},
+		"Pain Train": {
+			"name": "Pociąg Bólu",
+			"description": "<p>You may Charge as a major action if you are wearing Power Armor or are a super mutant. This is a movement action, and you may not Move or Sprint in the same turn. When you take this action, you move into reach of an enemy within Medium range (1 zone) and make a STR + Athletics test with a difficulty of 2. If you succeed, the enemy suffers damage equal to your normal unarmed damage, and is knocked prone.</p>\n<p>At rank 2, you add +1DCD and the Stun damage effect to the damage inflicted. At the GM&rsquo;s discretion, especially large or sturdy creatures cannot be knocked prone by this action. Each time you take this perk, the level requirement increases by 5.</p>\n<p><strong>Requirements</strong>: STR 9, END 7, Level 1+</p>"
+		},
+		"Blitz": {
+			"name": "Natarcie",
+			"description": "<p>When you move into reach of an opponent and make a melee attack against them in one turn, you may re-roll one d20 on your attack.</p>\n<p>At rank 2, you also inflict +1CD damage with that attack. Each time you take this perk, the level requirement increases by 3.</p>\n<p><strong>Requirements</strong>: AGI 9, Level 1+</p>"
+		},
+		"Moving Target": {
+			"name": "Ruchomy Cel",
+			"description": "<p>When you take the Sprint action, your Defense increases by +1 until the start of your next turn.</p>\n<p><strong>Requirements</strong>: AGI 6</p>"
+		},
+		"Science!": {
+			"name": "Nauka!",
+			"description": "<p>You can modify energy weapons with weapon mods, and you can also craft certain advanced armor mods. Each rank in this perk unlocks an additional rank of mods: rank 1 unlocks rank 1 mods, rank 2 unlocks rank 2 mods, etc.</p>\n<p>Each time you take this perk, the level requirement increases by 4.</p>\n<p><strong>Requirements</strong>: INT 6, Level 2+</p>"
+		},
+		"Daring Nature": {
+			"name": "Wrodzona Brawura",
+			"description": "<p>Whenever you attempt a skill test, and you buy one or more d20s by giving the gamemaster Action Points, you may re-roll 1d20 on that test. You may not purchase this perk if you have Cautious Nature.</p>\n<p><strong>Requirements</strong>: LCK 7</p>"
+		},
+		"Entomologist": {
+			"name": "Entomolog",
+			"description": "<p>When you make an attack against an NPC with the Insect keyword, your attack gains the Piercing 1 damage effect, or improves the rating of any Piercing X effect the weapon has by +1.</p>\n<p><strong>Requirements</strong>: INT 7</p>"
+		},
+		"Trapped in the Dimension of the Pterror-dactyls": {
+			"name": "Uwięzieni w wymiarze Pterror-daktyli!",
+			"description": "<p>Spend 1 Luck point to avoid all damage from a single melee attack</p>"
+		},
+		"Laser Commander": {
+			"name": "Porucznik Laser",
+			"description": "<p>When you make an attack with a ranged energy weapon, the damage is increased by +1DDCD per rank in this perk. Each time you take this perk, the level requirement increases by 4.</p>\n<p><strong>Requirements</strong>: PER 8, Level 2+</p>"
+		},
+		"Better Criticals": {
+			"name": "Człowiek Demolka",
+			"description": "<p>When you inflict one or more points of damage to an enemy, you may spend 1 Luck Point to automatically inflict a critical hit, causing an injury.</p>\n<p><strong>Requirements</strong>: LCK 9</p>"
+		},
+		"Quick Draw": {
+			"name": "Szybkie Dobycie",
+			"description": "<p>Each turn, you may draw a single weapon or item carried on your person without using a minor action.</p>\n<p><strong>Requirements</strong>: AGI 6</p>"
+		},
+		"Snakeater": {
+			"name": "Wężożerca",
+			"description": "<p>Your poison Damage Resistance increases by +2.</p>\n<p><strong>Requirements</strong>: END 7</p>"
+		},
+		"Grim Reaper's Sprint": {
+			"name": "Pośpiech Kostuchy",
+			"description": "<p>When you make an attack which kills one or more enemies, roll 1DCD. If you roll an Effect, add 2 AP to the group&rsquo;s pool.</p>\n<p><strong>Requirements</strong>: LCK 8</p>"
+		},
+		"Concentrated Fire": {
+			"name": "Skoncentrowany Ostrzał",
+			"description": "<p>When you make a ranged attack and spend ammunition to increase the damage, you may re-roll up to 3 CD for your damage roll.</p>\n<p><strong>Requirements</strong>: PER 8, AGI 6</p>"
+		},
+		"Little Guns for Little Ladies": {
+			"name": "Małe spluwy dla drobnych pań",
+			"description": "<p>One attack with a Small Guns weapon gains the Vicious damage effect if it didn&rsquo;t have it already</p>"
+		},
+		"Deadly Lasers!": {
+			"name": "Śmiercionośne lasery!",
+			"description": "<h2>Astoundingly Awesome Tales</h2>\n<p><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, granting bonus damage or bonus damage resistance against a single foe or<br>type of attack.</p>\n<ul>\n<li>\n<p>+1CD on attacks with Energy weapons</p>\n</li>\n</ul>\n<p>&nbsp;</p>"
+		},
+		"Inspirational": {
+			"name": "Ku Pokrzepieniu Serc",
+			"description": "<p>Because you lead by example, the maximum number of AP the group may save is increased by 1.</p>\n<p><strong>Requirements</strong>: CHA 8</p>"
+		},
+		"Avoid Those Pesky Gun Laws!": {
+			"name": "Jak uniknąć tych upierdliwych przepisów o broni!",
+			"description": "<p>When you salvage a weapon, gain 2 AP which may only be spent to salvage additional units of materials</p>"
+		},
+		"Pyromaniac": {
+			"name": "Piroman",
+			"description": "<p>The damage you deal using firebased weapons increases by +1CD per rank. Each time you take this perk, the level requirement increases by 4.</p>\n<p><strong>Requirements</strong>: END 6, Level 2+</p>"
+		},
+		"10 Number 1 Hits!!! Rock-o-bot Takes the Nation by Storm!!": {
+			"name": "10 przebojów numer jeden!!! Szaleństwo Rock-o-bota opanowało kraj!!!",
+			"description": "<p>Once, when you inflict a Critical Hit, increase the total damage inflicted by +2</p>"
+		},
+		"In the Bosom of the Corsair Queen": {
+			"name": "Na łonie Królowej Korsarzy",
+			"description": "<p>One successful melee attack you make automatically inflicts a Critical Hit</p>"
+		},
+		"Action Boy / Girl": {
+			"name": "Człowiek Czynu",
+			"description": "<p>When you spend AP to take an additional major action, you do not suffer the increased skill test difficulty during your second action.</p>"
+		},
+		"Sniper": {
+			"name": "Snajper",
+			"description": "<p>When you take the Aim minor action, and then make a ranged attack with a two-handed weapon with the Accurate quality, you can specify a hit location to target without increasing the difficulty of the attack.</p>\n<p><strong>Requirements</strong>: PER 8, AGI 6</p>"
+		},
+		"FH 5-01 Whistling in the Dark": {
+			"name": "FH 5-01 Gwizdanie w mroku",
+			"description": "<p>If you are detected while sneaking, you add +2 to Physical damage resistance against the first attack you receive after being detected</p>"
+		},
+		"Scrapper": {
+			"name": "Złomiarz",
+			"description": "<p>When you scrap an item, you can salvage uncommon component materials as well as common ones (see p.208). At rank 2, you can also salvage rare materials. Each time you take this perk, the level requirement increases by 5.</p>\n<p><strong>Requirements</strong>: Level 3+</p>"
+		},
+		"The Secretary Charmer": {
+			"name": "Czarująca sekretarka",
+			"description": "<p>At the start of one scene, add +1 AP to the group pool</p>"
+		},
+		"Mysteries of the Master Key Exposed!": {
+			"name": "Zdradzamy sekrety mistrza ślusarskiego!",
+			"description": "<p>You may re-roll 1d20 on a single Lockpicking test</p>"
+		},
+		"Pickpocket": {
+			"name": "Kieszonkowiec",
+			"description": "<p>At rank 1, you can ignore the first complication you roll when you make an AGI + Sneak test to steal an object from someone else&rsquo;s person or to plant something on them.</p>\n<p>At rank 2, you can re-roll 1d20 in your dice pool when attempting to pick someone&rsquo;s pocket.</p>\n<p>At rank 3, you reduce the difficulty of attempts to pick someone&rsquo;s pocket by 1.</p>\n<p>Each time you take this perk, the level requirement increases by 3.</p>\n<p><strong>Requirements</strong>: PER 8, AGI 8, Level 1+</p>"
+		},
+		"Tomorrow's Technology for Today's Super Soldiers": {
+			"name": "Technologia jutra dla dzisiejszych superżołnierzy",
+			"description": "<p>After spending a fusion core charge, you may spend 1 Luck point: if you do so the charge is not spent</p>"
+		},
+		"Science Gone Mad!": {
+			"name": "Szalona nauka!",
+			"description": "<h2>Astoundingly Awesome Tales</h2>\n<p><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, granting bonus damage or bonus damage resistance against a single foe or<br>type of attack.</p>\n<ul>\n<li>+2 to Energy damage resistance</li>\n</ul>\n<p>&nbsp;</p>",
+			"effects": {
+				"+2 to Energy damage resistance": {
+					"name": "+2 to Energy damage resistance",
+					"changes": {
+						"system.resistance.energy": 2
+					}
+				}
+			}
+		},
+		"Size Matters": {
+			"name": "Rozmiar się Liczy",
+			"description": "<p>When you make a ranged attack with any heavy weapon, you add +1 CD to the weapon&rsquo;s damage, per rank. Each time you take this perk, the level requirement increases by 4.</p>\n<p><strong>Requirements</strong>: END 7, AGI 6</p>"
+		},
+		"Medic": {
+			"name": "Sanitariusz",
+			"description": "<p>When you use the First Aid action to try to treat an injury, you can re-roll 1d20.</p>\n<p><strong>Requirements</strong>: INT 8</p>"
+		},
+		"Giant Insects Invade!": {
+			"name": "Najazd olbrzymich owadów!",
+			"description": "<h2>Astoundingly Awesome Tales</h2>\n<p><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, granting bonus damage or bonus damage resistance against a single foe or<br>type of attack.</p>\n<ul>\n<li>+2 to Radiation damage resistance</li>\n</ul>\n<p>&nbsp;</p>",
+			"effects": {
+				"+2 to Radiation damage resistance": {
+					"name": "+2 to Radiation damage resistance",
+					"changes": {
+						"system.resistance.radiation": 2
+					}
+				}
+			}
+		},
+		"Smooth Talker": {
+			"name": "Gładka Gadka",
+			"description": "<p>When you make a Barter or Speech test as part of an opposed test, you may re-roll 1d20.</p>\n<p><strong>Requirements</strong>: CHA 6</p>"
+		},
+		"FH 5-04 Not the Soldiers You’re Looking For": {
+			"name": "FH 5-04 Nie jesteśmy żołnierzami, których szukacie",
+			"description": "<p>+1CD damage inflicted by attacks against Character NPCs</p>"
+		},
+		"Duck and Cover!": {
+			"name": "Padnij! Kryj się!",
+			"description": "<p>Once, when you are affected by a Blast weapon, you may choose to fall prone (p.25). If you do so, you add +3 to all damage resistances against the damage caused by that Blast. If you later learn this perk, you may use whenever you are affected by a Blast weapon by spending 1 AP.</p>"
+		},
+		"Nerd Rage!": {
+			"name": "Szał Kujona!",
+			"description": "<p>While your health is reduced to less than &frac14; of your maximum, you add +1 to your physical DR, +1 to your energy DR, and +1 CD to the damage of all your attacks.</p>\n<p>At rank 2, this increases to +2 DR, and +2 CD damage. At rank 3, this increases to +3 DR and +3 CD damage.</p>\n<p>Each time you take this perk, the level requirement increases by 5.</p>\n<p><strong>Requirements</strong>: INT 8, Level 2+</p>"
+		},
+		"Coupon Spectacular": {
+			"name": "Rewia kuponów",
+			"description": "<p>When buying food or drink items, the price is shifted an additional 10% in your favor</p>"
+		},
+		"Party Boy / Party Girl": {
+			"name": "Imprezowicz/Imprezowiczka",
+			"description": "<p>You cannot become addicted to alcoholic drinks, and whenever you drink an alcoholic drink, you heal +2 HP.</p>\n<p><strong>Requirements</strong>: END 6, CHA 7</p>"
+		},
+		"Light Step": {
+			"name": "Na Paluszkach",
+			"description": "<p>When you roll to generate any complications on an Agility-based skill test, you may ignore one complication for every 1 AP spent. In addition, you may re-roll 1d20 on any AGI + Athletics test to avoid traps triggered by pressure plates or similar mechanisms.</p>\n<p><strong>Requirements</strong>: None</p>"
+		},
+		"Street Guns of Detroit": {
+			"name": "Uliczna broń z Detroit",
+			"description": "<p>Gain an extra 2 AP after one successful attack. This AP must be spent immediately: it cannot be saved</p>"
+		},
+		"Scoundrel": {
+			"name": "Łajdak",
+			"description": "<p>When you make a CHA + Speech test to convince someone of a lie, you may ignore the first complication you roll.</p>\n<p><strong>Requirements</strong>: CHA 7</p>"
+		},
+		"Barbarian": {
+			"name": "Barbarzyńca",
+			"description": "<p>Your physical Damage Resistance increases on all hit locations based on your STR. You do not gain this benefit while wearing Power Armor.</p>\n<ul>\n<li><strong>STR 7&ndash;8:</strong> +1 physical DR</li>\n<li><strong>STR 9&ndash;10:</strong> +2 physical DR</li>\n<li><strong>STR 11+:</strong> +3 physical DR</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Requirements</strong>: STR 7, Level 4+, not a robot</p>"
+		},
+		"Bloody Mess": {
+			"name": "Krwawa Jatka",
+			"description": "<p>When you inflict a critical hit, roll 1DCD; if you roll an Effect, you inflict one additional injury to a random location.</p>\n<p><strong>Requirements</strong>: LCK 6</p>"
+		},
+		"Night Person": {
+			"name": "Dziecko Nocy",
+			"description": "<p>You reduce any difficulty increases due to darkness by 1.</p>\n<p><strong>Requirements</strong>: PER 7</p>"
+		},
+		"The Future of Hunting?": {
+			"name": "Przyszłość polowań?",
+			"description": "<p>One attack against Robots inflicts +2CD damage</p>"
+		},
+		"The Appalachia Squirrel Massacre": {
+			"name": "Rzeź wiewiórek z Appalachii",
+			"description": "<h2>Backwoodsman</h2>\n<p><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene.</p>\n<ul>\n<li>\n<p>One item of cooked food you make and eat heals +3 HP</p>\n</li>\n</ul>"
+		},
+		"Geckos and Gamma Radiation": {
+			"name": "Gekony i promieniowanie gamma",
+			"description": "<p>+2CD damage inflicted on one attack against a Mutated creature</p>"
+		},
+		"FH 5-08 Bushes, Boxes, and Beehives: Camouflage Special": {
+			"name": "FH 5-08 Krzaki, skrzynki i ule - wydanie specjalne o kamuflażu",
+			"description": "<p>+2CD damage inflicted by an unarmed attack or an attack made with a knife</p>"
+		},
+		"FH 5-05 Who Goes There?": {
+			"name": "FH 5-05 Kto idzie?!",
+			"description": "<p>When you spend a Luck point to re-roll a d20 on a PER test, instead count that die as if it had rolled a 1</p>"
+		},
+		"U.S. Army Goes to Space": {
+			"name": "Armia amerykańska wyrusza w kosmos",
+			"description": "<p>On a single attack with an Energy weapon, you inflict a Critical Hit if you inflict 3 or more damage after damage resistance (rather than the normal 5 or more damage)</p>"
+		},
+		"Iron Fist": {
+			"name": "Żelazna Pięść",
+			"description": "<p>At rank 1, your unarmed attacks inflict +1DCD damage. At rank 2, your unarmed attacks also gain the Vicious damage effect. Each time you take this perk, the level requirement increases by 5.</p>\n<p><strong>Requirements</strong>: STR 6, Level 1+</p>"
+		},
+		"Open Any Lock in 5 Seconds Flat": {
+			"name": "Dowolny zamek w pięc sekund",
+			"description": "<p>When you successfully pick a lock, you may use the Reduce Time AP option without spending AP</p>"
+		},
+		"Refractor": {
+			"name": "Rozpraszacz",
+			"description": "<p>Your energy Damage Resistance to all hit locations increases by +1 per rank in this perk. Each time you take this perk, the level requirement increases by 4.</p>\n<p><strong>Requirements</strong>: PER 6, LCK 7, Level 1+</p>"
+		},
+		"Master Thief": {
+			"name": "Książę Złodziei",
+			"description": "<p>When you are attempting to pick a lock or pickpocket somebody, the difficulty of the opponent&rsquo;s skill test to detect you increases by +1.</p>\n<p><strong>Requirements</strong>: PER 8, AGI 9</p>"
+		},
+		"Lasers & Hunting: Acceptable Overkill": {
+			"name": "LASERY NA POLOWANIU: Akceptowalna przesada",
+			"description": "<p>One attack with a Laser weapon gains the Vicious damage effect if it didn&rsquo;t already have it</p>"
+		},
+		"FH 5-09 Look Better in Black": {
+			"name": "FH 5-09 Lepiej ubrać czarne",
+			"description": "<p>Once, when using a Stealth Boy, it lasts for one additional turn</p>"
+		},
+		"Take Aim, Army Style": {
+			"name": "Celuj w wojskowym stylu",
+			"description": "<p>One aimed attack made with a weapon which lacks the Accurate quality inflicts +2CD damage</p>"
+		},
+		"Hunting in the Wastes": {
+			"name": "Polowanie na pustkowiach",
+			"description": "<p>When you butcher an animal you&rsquo;ve killed, and the amount of meat found can be increased by spending AP, you gain 1 bonus AP for that purpose (this AP is lost if not used)</p>"
+		},
+		"Lost in the Snows of Lust": {
+			"name": "Zagubiony wśród śniegów żądzy",
+			"description": "<p>Gain +2 Physical damage resistance against one attack</p>"
+		},
+		"Surrounded by the Dead!": {
+			"name": "Otoczeni przez umarłych!",
+			"description": "<h2>Astoundingly Awesome Tales</h2>\n<p><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, granting bonus damage or bonus damage resistance against a single foe or<br>type of attack.</p>\n<ul>\n<li>+1CD on attacks where you spend one or more Ammunition for bonus damage</li>\n</ul>"
+		},
+		"Commie-Kazi vs. Manta Man": {
+			"name": "Komuch-Kazek kontra Człowiek-Płaszczka",
+			"description": "<p>Spend 1 Luck point to avoid all damage from a Blast weapon</p>"
+		},
+		"Steady Aim": {
+			"name": "Pewna Ręka",
+			"description": "<p>When you take the Aim minor action, you may either re-roll 2d20 on the first attack you make this turn, or re-roll 1d20 on all attacks you make this turn.</p>\n<p><strong>Requirements</strong>: STR 8, AGI 7</p>"
+		},
+		"Insect Repellent Special": {
+			"name": "Środki owadobójcze - wydanie specjalne",
+			"description": "<p>Increase all damage resistances by +2 vs an attack from an Insect</p>"
+		},
+		"Fatherless Cur!": {
+			"name": "Bezpański psie!",
+			"description": "<p>Ignore one complication on a melee attack</p>"
+		},
+		"Massachusetts Surgical Journal": {
+			"name": "Periodyk chirurgiczny Massachusetts",
+			"description": "<p>Once, when you provide medical attention to another character and assist their <strong>END + Survival </strong>test to heal Injuries, you may treat your assistance die as if it had rolled a 1.&nbsp;</p>"
+		},
+		"Trim the Fat!": {
+			"name": "Spal tłuszcz!",
+			"description": "<p>Regain twice as many HP from fruit or vegetables eaten in one scene</p>"
+		},
+		"Meeting People": {
+			"name": "Spotkania z Ludźmi",
+			"description": "<p>Once, when you roll one or more complications on a Speech test, you may ignore those complications.</p>"
+		},
+		"Adamantium Skeleton": {
+			"name": "Szkielet z Admantytu",
+			"description": "<p>When you suffer damage, the amount of damage needed to inflict a critical hit on you increases by your rank in this perk. For example, if you have one rank in this perk, you suffer a critical hit from 6 or more damage, rather than 5 or more. Each time you take this perk, the level requirement increases by 3.</p>\n<p><strong>Requirements</strong>: END 7, Level 1+</p>"
+		},
+		"Jury Rigging": {
+			"name": "Prowizorka",
+			"description": "<p>You can repair an item without needing to expend any components. However, the repair is temporary, and the item will break again on the next complication you suffer while using it. The complication range of all skill tests to use the item increases by 1, to the roll of a 19&ndash;20.</p>\n<p><strong>Requirements</strong>: None</p>"
+		},
+		"Gunslinger": {
+			"name": "Rewolwerowiec",
+			"description": "<p>When you make an attack with a onehanded ranged weapon with a Fire Rate of 2 or lower, you increase the weapon&rsquo;s damage by +1CD per rank. In addition, you may re-roll the hit location die. Each time you take this perk, the level requirement increases by 4.</p>\n<p><strong>Requirements</strong>: AGI 7, Level 2+</p>"
+		},
+		"Demolition Expert": {
+			"name": "Bombowo",
+			"description": "<p>When you make an attack using a weapon with the Blast quality, the attack gains the Vicious damage effect. In addition, you unlock explosives recipes which have this perk as a requirement.</p>\n<p><strong>Requirements</strong>: PER 6, LCK 6</p>"
+		},
+		"FH 5-03 Facepaint Fundamentals": {
+			"name": "FH 5-03 Podstawy maskowania indywidualnego",
+			"description": "<p>+1 to all damage resistances against attacks from Character NPCs</p>"
+		},
+		"Life Giver": {
+			"name": "Życiodajna Moc",
+			"description": "<p>Increase your maximum health points by your Endurance rank. Each time you take this perk, the level requirement increases by 5.</p>\n<p><strong>Requirements</strong>: Level 5+</p>"
+		},
+		"Ghost": {
+			"name": "Duch",
+			"description": "<p>Whenever you attempt an AGI + Sneak test in shadows or darkness, the first additional d20 you buy is free. The normal maximum of 5d20 still applies.</p>\n<p><strong>Requirements</strong>: PER, AGI 6</p>"
+		},
+		"Lead Belly": {
+			"name": "Brzuch z Ołowiu",
+			"description": "<p>At rank 1, you may re-roll the CD to determine if you suffer radiation damage from irradiated food or drink. At rank 2, you are immune to radiation damage from consuming irradiated food or drink. Each time you take this perk, the level requirement increases by 4.</p>\n<p><strong>Requirements</strong>: END 6, Level 1+</p>"
+		},
+		"¡La Fantoma!": {
+			"name": "¡La Fantoma!",
+			"description": "Po udanym teście Skradania się w celu uniknięcia zauważenia możesz wydać 1 PA, żeby w dowolnym miejscu na średnim dystansie wywołać jakieś zamieszanie. Postać, która przegrała w próbie sił, żeby cię zauważyć, daje się nabrać i zmierza w stronę przygotowanej przez ciebie dywersji. Jeśli wykupisz ten profit na stałe, możesz go wykorzystywać raz na scenę"
+		},
+		"Carnivorous Rabbits of Appalachia": {
+			"name": "Mięsożerne króliki z Appalachii",
+			"description": "<h2>Backwoodsman</h2>\n<p><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, which you may benefit from once. If you later learn the perk, you may use that benefit once per scene.</p>\n<ul>\n<li>\n<p>Add +2CD damage to an attack against a Mammal or Lizard</p>\n</li>\n</ul>"
+		},
+		"The Starlet Sniper!": {
+			"name": "Sexy snajperka!",
+			"description": "<h2>Astoundingly Awesome Tales</h2>\n<p><strong>Perk:</strong> Depending on the individual issue found, you receive a different perk, granting bonus damage or bonus damage resistance against a single foe or<br>type of attack.</p>\n<ul>\n<li>+1 @fos[DC] on attacks with Accurate weapons</li>\n</ul>\n<p>&nbsp;</p>"
+		},
+		"FH 5-10 Tiptoe Through the Tulips": {
+			"name": "FH 5-10 Na palcach przez tulipany",
+			"description": "<p>When you spend a Luck point to re-roll a d20 on an AGI test, instead count that die as if it had rolled a 1</p>"
+		},
+		"Locksmith Certification Special — Pass with Flying Colors": {
+			"name": "WYDANIE SPECJALNE: Zdaj celująco certyfikat ślusarski",
+			"description": "<p>When you suffer one or more complications on a Lockpicking test, spend 1 Luck point to ignore those complications</p>"
+		},
+		"Can Do!": {
+			"name": "Pycha Pucha!",
+			"description": "<p>When you are scavenging a location that contains food, you gain 1 additional random food item, without spending AP.</p>\n<p><strong>Requirements</strong>: LCK 5</p>"
+		},
+		"Water Aerobics for Ghouls": {
+			"name": "Wodny aerobik dla ghuli",
+			"description": "<p>Reduce the difficulty of an Athletics test to swim by 1 (min. 0)</p>"
+		},
+		"I Married a Robot": {
+			"name": "Poślubiłam Robota",
+			"description": "<p>+2 to all damage resistances against Robots for one scene</p>"
+		},
+		"Programmer's Digest": {
+			"name": "Przegląd Programisty",
+			"description": "<p>Once, when you fail a Science test to hack into a computer terminal and would be locked out (prevented from trying again), you may choose not to be locked out, allowing you to make another attempt.</p>"
+		},
+		"Cautious Nature": {
+			"name": "Wrodzona Ostrożnośc",
+			"description": "<p>Whenever you attempt a skill test, and you buy one or more d20s by spending Action Points, you may re-roll 1d20 on that test. You may not purchase this perk if you have Daring Nature.</p>\n<p><strong>Requirements</strong>: PER 7</p>"
+		},
+		"Self Defense Secrets": {
+			"name": "Sekrety samoobrony",
+			"description": "<p>Gain +1 defense against a melee attack</p>"
+		},
+		"Mister Sandman": {
+			"name": "Piaskowy Dziadek",
+			"description": "<p>When you make a sneak attack with a silenced or suppressed weapon, the damage is increased by +2CD. You cannot gain this benefit while in Power Armor.</p>\n<p><strong>Requirements</strong>: AGI 9</p>"
+		},
+		"Aquaboy / Aquagirl": {
+			"name": "Wodnik/Rusałka",
+			"description": "<p>Water is your ally. At rank 1, you no longer take radiation damage from swimming in irradiated water, and you can hold your breath for twice as long as normal.</p>\n<p>At rank 2, enemies add +2 to the difficulty to tests to detect you while you are submerged underwater. Each time you take this perk, the level requirement increases by 3.</p>\n<p><strong>Requirements</strong>: END 5, Level 1+</p>"
+		},
+		"Hunter": {
+			"name": "Łowca",
+			"description": "<p>When you make an attack against an NPC with one of the Mammal, Lizard, or Insect keywords and the Mutated keyword, your attack gains the Vicious damage effect, if it did not already have that effect.</p>\n<p><strong>Requirements</strong>: END 6</p>"
+		},
+		"Fortune Finder": {
+			"name": "Poszukiwacz Skarbów",
+			"description": "<p>Whenever you roll to determine how much money you find, you find more. At rank 1, you find +3DCD additional caps. At rank 2, you find +6DCD additional caps. At rank 3, you find +10CD additional caps. Each time you take this perk, the level requirement increases by 4.</p>\n<p><strong>Requirements</strong>: LCK 5, Level 2+</p>"
+		},
+		"Scrounger": {
+			"name": "Towar z Odzysku",
+			"description": "<p>Whenever you roll to determine how much ammunition you find, you find more.</p>\n<p>At rank 1, you find +3CD additional shots. At rank 2, you find +6CCD additional shots. At rank 3, you find +10 CD additional shots. The additional ammo you find is the same as initially found, for example, if you find 10mm ammunition, this perk increases how much 10mm ammo you find. If you find multiple types of ammunition, Scrounger applies to the ammunition with the lowest rarity (GM&rsquo;s choice if there is a tie).</p>\n<p>Each time you take this perk, the level requirement increases by 5.</p>\n<p><strong>Requirements</strong>: LCK 6, Level 1+</p>"
+		},
+		"The Moon: A Communist Doomsday Device?!": {
+			"name": "KSIĘŻYC: komunistyczna broń zagłady?!",
+			"description": "<p>Gain +2 to Physical or Energy damage resistance against one attack at night</p>"
+		},
+		"Nuclear Physicist": {
+			"name": "Fizyk Jądrowy",
+			"description": "<p>Whenever you use a weapon that inflicts radiation damage, or has the Radioactive damage effect, each Effect you roll inflicts one additional point of radiation damage.</p>\n<p>In addition, fusion cores you use have 3 additional charges.</p>\n<p><strong>Requirements</strong>: INT 9</p>"
+		}
+	}
+}

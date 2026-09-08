@@ -2,7 +2,7 @@
 	"label": "Modyfikacje Broni",
 	"folders": {
 		"Big Guns":"Broń Ciężka",
-		"energetyczne Weapons":"Broń Energetyczna",
+		"Energy Weapons":"Broń Energetyczna",
 		"Melee Weapons": "Broń Biała",
 		"Small Guns": "Broń Palna",
 		"Receiver Mods": "Modyfikacje komory zamkowej",
@@ -1018,7 +1018,7 @@
 	},
 
 	"mapping": {
-		"effect":"system.effect",
+		"effect":"system.modEffects.effect",
 		"modtype":"system.modType",
 		"prefix":"system.namePrefix",
 		"perks":"system.perks"
